@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python *)",
+      "Bash(pip install *)",
+      "PowerShell(python --version; python -m pip --version)",
+      "PowerShell(python -m pip install --quiet --upgrade --disable-pip-version-check transformers torch sentence-transformers numpy scipy 2>&1 | Select-Object -Last 30)",
+      "PowerShell(python -c \"import transformers, torch, sentence_transformers, numpy, scipy; print\\('transformers', transformers.__version__\\); print\\('torch', torch.__version__\\); print\\('sentence_transformers', sentence_transformers.__version__\\); print\\('numpy', numpy.__version__\\); print\\('scipy', scipy.__version__\\)\")",
+      "PowerShell(python -c \"from nlp.question_scorer import QuestionScorer; s = QuestionScorer\\(\\); print\\('soft:', round\\(s.score\\('Great quarter, congrats on the strong results!'\\), 4\\)\\); print\\('hard:', round\\(s.score\\('Why did gross margin compress 200 bps despite the favourable mix, and how do you reconcile that with the prior guidance on operating leverage?'\\), 4\\)\\)\")",
+      "PowerShell(python -m nlp.baseline --ticker AAPL)",
+      "PowerShell(python -m nlp.baseline --ticker AAPL 2>&1 | Select-Object -Last 20)",
+      "PowerShell(python -c \"import json; from nlp.baseline import _extract_known_speakers, _iter_qa_pairs; t = json.loads\\(open\\('data/transcripts/AAPL_20260129.json', encoding='utf-8'\\).read\\(\\)\\); print\\('known:', _extract_known_speakers\\(t['prepared_remarks']\\)\\); pairs = list\\(_iter_qa_pairs\\(t\\)\\); print\\('pairs:', len\\(pairs\\)\\)\")",
+      "PowerShell(python main.py --ticker AAPL --source hf --max-transcripts 2 2>&1)",
+      "PowerShell($env:PYTHONIOENCODING = \"utf-8\"; python -m nlp.baseline --all 2>&1)",
+      "PowerShell(Invoke-RestMethod -Uri \"http://localhost:8000/tickers\" | ConvertTo-Json -Depth 3)",
+      "PowerShell(Invoke-RestMethod -Uri \"http://localhost:8000/flags\" | ConvertTo-Json -Depth 3)",
+      "PowerShell(Invoke-RestMethod -Uri \"http://localhost:8000/ceo/AAPL\" | ConvertTo-Json -Depth 4; Invoke-RestMethod -Uri \"http://localhost:8000/calls/AAPL\" | ConvertTo-Json -Depth 3; Invoke-RestMethod -Uri \"http://localhost:8000/calls/AAPL/latest\" | ConvertTo-Json -Depth 3)",
+      "PowerShell(Stop-Process *)",
+      "PowerShell($key = \"b2IIBxCKmzojASWJlHnGPRCtL1wdUNEx\"; $r = Invoke-RestMethod \"https://financialmodelingprep.com/api/v3/earning_call_transcript/AAPL?apikey=$key&limit=1\"; $r | ConvertTo-Json -Depth 4)",
+      "PowerShell($key = \"b2IIBxCKmzojASWJlHnGPRCtL1wdUNEx\"; $r = Invoke-RestMethod \"https://financialmodelingprep.com/stable/earning-call-transcript?symbol=AAPL&apikey=$key\" -ErrorAction Stop 2>&1; $r | Select-Object -First 1 | ConvertTo-Json -Depth 4)",
+      "PowerShell($key = \"b2IIBxCKmzojASWJlHnGPRCtL1wdUNEx\"; python -c \"import httpx,asyncio; r=asyncio.run\\(httpx.AsyncClient\\(\\).get\\('https://financialmodelingprep.com/stable/profile?symbol=AAPL&apikey=$key'\\)\\); print\\(r.status_code, r.text[:300]\\)\")"
+    ]
+  }
+}
