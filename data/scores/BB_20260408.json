@@ -1,0 +1,28 @@
+{
+  "ticker": "BB",
+  "call_date": "2026-04-08",
+  "quarter": 4,
+  "year": 2025,
+  "pressure_score": 0.030534372189941084,
+  "cosine_distance": 0.044783883131575775,
+  "sentiment_shift": 0.06413260610618939,
+  "question_difficulty_mean": 0.16269656118359682,
+  "baseline_mean": 0.03712953469836419,
+  "baseline_std": 0.009326968265466522,
+  "z_score": -0.7071067811865474,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5813482805917984,
+    "call_mean_answer_length": 136.25,
+    "call_hedge_density": 0.029807793521554,
+    "call_pos_sentiment_mean": 0.27221948420628905,
+    "call_neu_sentiment_mean": 0.5758336931467056,
+    "call_neg_sentiment_mean": 0.15194682055152953,
+    "call_qa_similarity_mean": 0.4258142809396707,
+    "baseline_neg_sentiment_mean": 0.08781421444534014
+  },
+  "generated_at": "2026-05-20T04:45:08+00:00"
+}

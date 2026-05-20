@@ -1,0 +1,28 @@
+{
+  "ticker": "LYFT",
+  "call_date": "2026-05-07",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.017591247696161782,
+  "cosine_distance": 0.04489645483032345,
+  "sentiment_shift": 0.007760565385668196,
+  "question_difficulty_mean": 0.17110643070864476,
+  "baseline_mean": 0.02407966885159889,
+  "baseline_std": 0.00862070428629324,
+  "z_score": -0.7526555766161215,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5855532153543224,
+    "call_mean_answer_length": 164.93333333333334,
+    "call_hedge_density": 0.03162608883348288,
+    "call_pos_sentiment_mean": 0.22884025077025097,
+    "call_neu_sentiment_mean": 0.7546387106180191,
+    "call_neg_sentiment_mean": 0.016521054009596508,
+    "call_qa_similarity_mean": 0.4383864755030106,
+    "baseline_neg_sentiment_mean": 0.024281619395264704
+  },
+  "generated_at": "2026-05-20T06:04:20+00:00"
+}

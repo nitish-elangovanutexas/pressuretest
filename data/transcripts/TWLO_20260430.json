@@ -1,0 +1,394 @@
+{
+  "ticker": "TWLO",
+  "company_name": "Twilio",
+  "call_date": "2026-04-30",
+  "quarter": 1,
+  "year": 2026,
+  "prepared_remarks": "Earnings Call Transcript\nTwilio (TWLO) Q1 2026 Earnings Transcript\nBy\n\nMotley Fool Transcribing\n\n–\n\nUpdated Apr 30, 2026 at 8:56PM EST\n\n\n\n\nImage source: The Motley Fool.\n\n\nDate\nThursday, April 30, 2026, at 5 p.m. ET\nCall participants\nChief Executive Officer — Khozema Shipchandler\nChief Financial Officer — Aidan Viggiano\nPresident, Communications — Thomas Wyatt\nNeed a quote from a Motley Fool analyst? Email\n[email protected]\nTakeaways\nRevenue\n-- $1.4 billion, up 20% year over year reported and 16% organic, the fastest organic growth rate since 2022.\nNon-GAAP Gross Profit\n-- $697 million, up 16% year over year and the highest growth rate since 2022.\nNon-GAAP Operating Income\n-- $279 million, a record and up 31% year over year; GAAP operating income was $108 million.\nNon-GAAP Gross Margin\n-- 49.6%, down 180 basis points year over year and 40 basis points sequentially; incremental carrier pass-through fees of $46 million reduced margin, which would have been 50 basis points higher sequentially without them.\nNon-GAAP Operating Margin\n-- 19.8%, up by 160 basis points year over year and 110 basis points quarter over quarter, despite a roughly 70 basis point headwind from carrier fees.\nFree Cash Flow\n-- $132 million, including a $141 million payment for the 2025 cash bonus program.\nMessaging Revenue Growth\n-- 25%, with about seven percentage points from incremental carrier fees; operational growth near 18% year over year.\nVoice Revenue Growth\n-- 20% year over year, the highest in 19 quarters, and marks six consecutive quarters of acceleration.\nSoftware Add-Ons Revenue Growth\n-- Above 20% year over year, with branded calling and conversational intelligence both exceeding 100% year-over-year growth.\nSelf-Serve and ISV Channels\n-- Revenue grew more than 25% year over year in both channels.\nDollar-Based Net Expansion Rate (DBNE)\n-- 114%, with incremental carrier fees contributing about four points; reflects improved trends over several quarters.\nStock-Based Compensation (SBC)\n-- 9.7% of revenue, down 220 basis points year over year and 160 basis points quarter over quarter; first time since IPO SBC fell below 10% of revenue, achieved sooner than the 2027 target.\nQ2 2026 Revenue Guidance\n-- $1.42 billion to $1.43 billion, representing 15.5%-16.5% reported growth and 10%-11% organic growth; includes $71 million in incremental U.S. carrier fees.\nFull-Year 2026 Revenue Guidance\n-- Raised to $1.08 billion to $1.1 billion non-GAAP income from operations and free cash flow; total full-year reported revenue growth target increased to 14%-15%, and organic growth target increased to 9.5%-10.5%.\nU.S. Carrier Fees Impact\n-- Full-year revenue guidance assumes $235 million in incremental pass-through revenue from U.S. carrier fees, up from prior $190 million outlook; expected to reduce non-GAAP gross margin by about 200 basis points year over year, with no dollar impact on gross profit, operating income, or free cash flow.\nMultiproduct Customer Growth\n-- Count increased 29% year over year, with accelerating revenue from this cohort; customers are expanding across channels and adopting more software capabilities.\nRCS Volume\n-- More than doubled sequentially; notable new deals signed in the Netherlands and with TeleVox for regulated industries.\nShare Repurchase\n-- $253 million completed in Q1 2026; $900 million remains on authorization.\nMajor Customer Wins\n-- New partnerships include Sierra, Bland.ai, PGA of America, Scorpion, KPN Netherlands, TeleVox, Aloware, Grupo ProTG, Posh, Sella AI, and Solace; a historic professional sports league signed a seven-figure Verify deal.\nSummary\nTwilio\n\n(\nTWLO\n\n2.91%\n)\nreported accelerated revenue and gross profit growth, highlighting growing demand for its AI-enhanced voice and messaging platforms and intensifying adoption of software add-ons. The company attributed strong financial performance to sustained execution in self-serve and ISV channels, operational cost controls that delivered record non-GAAP margins, and robust customer engagement from both enterprise and AI-native businesses. Management raised 2026 guidance for reported and organic revenue growth, non-GAAP operating income, and free cash flow, citing product innovation and broad-based momentum as justification. The company emphasized the impact of incremental U.S. carrier fees on reported metrics but clarified that these fees do not affect profitability or cash flow dollars. Ongoing platform innovation will be unveiled at the upcoming SIGNAL conference.\nStock-based compensation as a percentage of revenue was 9.7%, down 220 basis points year over year and 160 basis points quarter over quarter, marking the first time since IPO that this metric fell below 10% and achieving the target ahead of the 2027 goal.\nManagement noted the early but rapid expansion of Voice AI among AI-native clients, with the largest contributions in nonregulated industries while enterprise and regulated verticals ramp at a slower pace.\nTwilio was positioned as a \"leader in the inaugural IDC Worldwide Communications Engagement Platforms 2026 MarketScape,\" scoring highest in both strategy and capabilities.\nThe company completed a significant back-end rearchitecture for Segment to enhance context and memory across all communication channels, repositioning data as central to the platform strategy rather than as a stand-alone focus.\nIndustry glossary\nRCS (Rich Communication Services)\n: An advanced messaging protocol enabling enhanced features such as persistent group chats, higher media quality, and read receipts within messaging channels, typically used as an upgrade to traditional SMS/MMS.\nISV (Independent Software Vendor)\n: A business that builds and sells software solutions—often leveraging Twilio’s communications APIs—to end customers or other businesses, acting as a growth channel for platform usage.\nDBNE (Dollar-Based Net Expansion Rate)\n: A metric showing the year-over-year growth in recurring revenue from existing customers, inclusive of upsell, cross-sell, and churn effects.\nCDP (Customer Data Platform)\n: A centralized database that compiles and normalizes customer data from multiple sources, used to increase the effectiveness and personalization of customer interactions across channels.\nVerify\n: Twilio’s authentication product, offering customers a high-trust layer for user validation and security.\nFull Conference Call Transcript\nKhozema and Aidan, who will discuss our Q1 results, and we will then open up the call for Q&A.\nKhozema Shipchandler:\nThank you, Rodney. Good afternoon, everyone, and thank you for joining us today. Twilio Inc. had a terrific Q1, accelerating revenue and gross profit to their highest growth rates in more than three years. We delivered over $1.4 billion in revenue, up 20% year-over-year on a reported basis, and drove 16% growth in both organic revenue and non-GAAP gross profit. We also generated $279 million of non-GAAP income from operations and $132 million of free cash flow. Today's results are the outcome of a multiyear companywide evolution that has fundamentally transformed Twilio Inc.'s innovation velocity, go-to-market efficiency, and financial rigor.\nIn Q1, we continued to see unprecedented demand for voice reimagined through the lens of AI, which is increasingly an entry point to the Twilio Inc. platform for AI natives and enterprises alike. Customers no longer view Twilio Inc. as just a provider of communications channels. Instead, they are relying on us to be a foundational infrastructure layer for the era of AI. I cannot wait to unveil the next evolution of Twilio Inc.'s platform at SIGNAL next week. Our voice channel revenue grew 20% year-over-year, marking its sixth consecutive quarter of accelerated growth, with AI being a catalyst. We expect voice AI use cases will continue to evolve to be more conversational and cross-channel over time.\nWe have already begun to see evidence of this as our customers expand their footprint on Twilio Inc.'s platform. For example, software add-ons such as branded calling and conversational intelligence both grew revenue more than 100% year-over-year. Our platform strategy is delivering immediate measurable ROI for our customers. As an example, Scorpion, a leading digital marketing and technology partner for local businesses, developed an AI agent by integrating voice, messaging, and Conversation Relay. In just three months, the agent boosted its booking rates by 39%, capturing 6,500 appointments that otherwise would have been lost, and generated $8.4 million in revenue. That same performance is why AI-native leaders like Sierra and Bland.ai are also deepening their relationships with Twilio Inc.\nSierra, a leading customer experience AI company, signed a significant cross-sell deal to fuel their global expansion, while Bland.ai committed to a multiyear partnership to use messaging, voice, and software add-ons such as recordings and branded calling to power their AI agent platform. Finally, Twilio Inc.'s reputation for reliability is what won over a historic professional sports league, which signed a seven-figure deal to use Verify as the high-trust authentication layer for millions of fans. Messaging revenue growth also accelerated in the quarter, aided by strong growth in WhatsApp and RCS.\nRCS volume more than doubled quarter-over-quarter, and we saw significant traction in our international markets, inking notable RCS deals with KPN Netherlands to power RCS across all major mobile operators in the Netherlands and with TeleVox to enable RCS for organizations in regulated industries. We are encouraged by the continued strength in messaging even as carriers have raised fees on our customers, particularly small businesses. This is exactly why our platform strategy is so important. Our priority is to ensure our customers understand the choice of channels available to them, including over-the-top channels, so they can deliver on their use cases and cost-effectively reach their customers while maintaining high ROI.\nOur go-to-market initiatives continue to perform, with our self-serve and ISV cohorts driving exceptional revenue growth again this quarter at 25%+ year-over-year. On the self-serve front, we have made significant investments to simplify our onboarding and upgrade process, which has driven higher conversion rates. I am excited to share more on how we have reimagined the Twilio Inc. Console experience next week at SIGNAL. In Q1, the team also signed customers including Aloware, Grupo ProTG, Posh, Sella AI, and Solace, and landed a key multiyear partnership with the PGA of America. The PGA of America will be expanding their usage of the Twilio Inc. platform to power personalized engagement for 30,000 PGA of America golf professionals and millions of golfers.\nWithout giving too much away today, next week at SIGNAL, we will launch some of the most consequential innovations in our company's history, introducing new capabilities that orchestrate context-rich conversations with persistent memory across every channel for humans and AI agents. We will also unveil new partners and, most importantly, we will show how Twilio Inc. is becoming the foundation for how businesses engage their customers in the age of AI. This moment in time demands a new kind of infrastructure, and Twilio Inc. has been building just that.\nIt has been amazing watching our marquee customers experience Twilio Inc.'s new platform and products during our private beta, and many of them will be speaking about their early experiences at the conference. We cannot wait to share more on the SIGNAL stage in San [inaudible] in May. Twilio Inc.'s innovations continue to get analyst recognition, as Twilio Inc. was positioned as a leader in the inaugural IDC Worldwide Communications Engagement Platforms 2026 MarketScape, scoring highest in both strategies and capabilities. Twilio Inc. was also named a leader for the fourth time by Omdia in its CEP Universe report.\nThis validation, coupled with our strong execution this quarter, illustrates why we believe that Twilio Inc. is truly positioned to be a critical infrastructure leader in the age of AI. Before closing, I also wanted to officially welcome Doug Robinson to Twilio Inc.'s Board of Directors. Doug is known for growing teams and businesses, helping to scale Workday to the multibillion-dollar business that it is today. His expertise will be invaluable at Twilio Inc. as we drive operational excellence and continue to transform our go-to-market organization. Welcome, Doug. I will now turn the call over to Aidan.\nAidan Viggiano:\nThank you, Khozema, and good afternoon, everyone. Twilio Inc. had an outstanding Q1, delivering revenue of $1.4 billion, up 20% year-over-year on a reported basis and 16% year-over-year on an organic basis, along with non-GAAP gross profit growth of 16%. We also generated record non-GAAP income from operations of $279 million. Free cash flow was $132 million. Top-line performance was driven by strong volumes and solid execution, resulting in our fastest organic revenue growth rate since 2022. Our self-serve and ISV channels delivered revenue growth of 25%+ in the quarter, and we are seeing strength across the product portfolio. Voice growth accelerated once again, with revenue up 20% year-over-year.\nWe continue to see strong growth from voice AI use cases as well as accelerating growth in voice software add-ons. Messaging revenue growth accelerated to 25%, driven by solid growth in SMS and aided by strength in WhatsApp and RCS. Incremental carrier fees contributed roughly seven points to messaging's growth. Finally, software add-on revenue growth exceeded 20% year-over-year, driven by Verify and newer products such as branded calling and conversational intelligence. Our Q1 dollar-based net expansion rate was 114%, reflecting the improving growth trends we have seen in our business over the last several quarters. Incremental carrier fees contributed roughly four points to DBNE.\nWe delivered record non-GAAP gross profit of $697 million for the quarter, with growth accelerating to 16% year-over-year, up from 10% in Q4 2025, our best non-GAAP gross profit growth rate since 2022. This was driven by continued momentum in our higher-margin products in addition to meaningful cost efficiencies. Non-GAAP gross margin was 49.6%, down 180 basis points year-over-year and 40 basis points quarter-over-quarter. We incurred incremental carrier pass-through fees of $46 million associated with increased U.S. A2P fees, which drove the year-over-year and quarter-over-quarter declines. Without these incremental fees, non-GAAP gross margin would have been 50 basis points higher sequentially.\nQ1 non-GAAP income from operations came in ahead of expectations at a record $279 million, up 31% year-over-year, driven by strong gross profit growth and continued cost leverage. Non-GAAP operating margin was a record 19.8%, up 160 basis points year-over-year and 110 basis points quarter-over-quarter, despite a roughly 70 basis point headwind from incremental U.S. carrier fees. In addition, we generated $108 million in GAAP income from operations. Q1 stock-based compensation as a percentage of revenue was 9.7%, down 220 basis points year-over-year and 160 basis points quarter-over-quarter. This marks the first time since our IPO that stock-based compensation has fallen below 10% of revenue, and we reached this level well ahead of our prior target of 2027.\nWe generated free cash flow of $132 million in the quarter, which includes a $141 million payment tied to our 2025 cash bonus program that we noted during our Q4 earnings call. Additionally, we completed $253 million in share repurchase in Q1 and have roughly $900 million remaining on our current authorization. Turning to guidance. For Q2, we are initiating a revenue target of $1.42 billion to $1.43 billion, representing 15.5% to 16.5% reported growth and 10% to 11% organic growth. In addition to previously announced U.S. carrier fee increases, Verizon has implemented an additional fee increase that will take effect on May 1. As a result, our Q2 reported revenue guidance assumes $71 million in incremental U.S. carrier fees.\nAs a reminder, our organic revenue excludes the contribution from incremental increases to U.S. carrier fees. Moving to the full year. We are encouraged by the broad-based trends we saw in the first quarter. For the full year, we are raising our organic growth range to 9.5% to 10.5%, up from 8% to 9% previously. We are raising our reported revenue growth range to 14% to 15%, up from 11.5% to 12.5% previously. In addition, we continue to expect full-year non-GAAP gross profit dollar growth to be similar to our organic revenue growth rate. Our full-year revenue guidance assumes approximately $235 million in incremental pass-through revenue from U.S. carrier fees, up from $190 million previously.\nThis reflects the U.S. carrier fee increases announced in the prior earnings cycle plus Verizon's most recent fee increase that takes effect on May 1. As a reminder, while the pass-through fees have no impact on our gross profit, income from operations, or free cash flow dollars, they do impact our margin rates. For modeling purposes, we would expect the incremental fees to reduce our full-year 2026 non-GAAP gross margin by roughly 200 basis points when compared to full-year 2025 non-GAAP gross margins, all else equal. Turning to our profit outlook.\nFor Q2, we expect non-GAAP income from operations of $250 million to $260 million, reflecting incremental costs associated with our annual merit increases as well as expenses for our SIGNAL conference next week. Based on our Q1 performance and Q2 guidance, we are raising our full-year 2026 non-GAAP income from operations range to $1.08 billion to $1.1 billion, up from $1.04 billion to $1.06 billion previously. Similarly, we are raising our full-year free cash flow guidance to $1.08 billion to $1.1 billion. I am very pleased with the accelerated revenue and gross profit growth we delivered in the first quarter, as well as our ongoing cost leverage that is driving strong profitability and free cash flow.\nWe remain focused on our key go-to-market initiatives and delivering the essential infrastructure that will help our customers win in the AI era. And finally, we are looking forward to seeing many of you at SIGNAL in San [inaudible] next week. We will now open the call for questions.\nOperator:\nThank you. At this time, we will conduct a",
+  "qa_turns": [
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Alex Zukin",
+      "text": "Hey, guys. I cannot express my congratulations enough on a truly exceptional quarter in a truly difficult environment for software. So maybe first, I am going to make it really easy. I am going to ask about messaging, and I am going to ask about voice. Messaging, extremely strong growth again, almost surprising, I think, for Q1. So just maybe if you could unpack some of the meaningful drivers also between geographies, U.S. and international, how we think about that trajectory. And then on voice, it is continuing to accelerate, as you mentioned, Khozema.\nMaybe just stepping back, any unique experiences either on the consumer-facing side or B2B that you are seeing with some of these deals that you are announcing driving that growth rate?",
+      "turn_index": 0
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Aidan Viggiano",
+      "text": "Hey, Alex. I will start, and then I will hand it over to Thomas and Khozema to chime in. So, yes, really strong quarter for both messaging and voice; both grew 20%+. On the messaging side, just to be clear, it grew about 25%, but about seven points of that was driven by the fees, so high teens on an apples-to-apples basis, but really strong growth, and we have seen that in the messaging business over the last several quarters. This is not a new dynamic. I would say it was pretty broad-based when you look at it geographically. The U.S. was strong. International was strong. It is pretty exciting to see RCS volumes ramping.\nIt is still early there, but we are seeing some adopters on that product, which is great. I would say, increasingly, volume from AI natives on the messaging channel. Voice continues to accelerate, 20% growth in that product. That is the highest growth rate in that product in 19 quarters, so really excited about that, and it is a continuation of the acceleration we have seen on the back of the AI use cases as well as the adoption of software add-on products like conversational intelligence, branded calling, etc. So really strong performance in both products. I will hand it over to Thomas to give you more of the go-to-market perspective.",
+      "turn_index": 1
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Thomas Wyatt",
+      "text": "Thanks, Alex. To dig in a little more on voice specifically, we saw real acceleration in voice in our self-serve business; it was up 45%. If you look at the voice add-on software, that was also really strong, in the mid-30s. More broadly, it was not just connectivity; it was the software layer on top of that. What is important is most of our customers are not going at it single channel; they are expanding. If they started in voice, they are adding messaging capability. We talked about some of that already with Sierra, Bland, and a handful of others. Think of use cases like customer support and services.\nWe are seeing a lot more self-service agents that ISVs are rolling out to help small businesses when they cannot be attentive 24x7 with humans. AI assistants are helping with that. We are seeing a lot of AI Copilot being built for live agents and contact centers. We are seeing a lot of sales use cases as well where AI assistants engage inbound leads, help qualify, answer questions, and ultimately hand off to a sales representative once needed. It is a wide variety of use cases across a wide variety of verticals, and it is pretty broad-based strength.",
+      "turn_index": 2
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "One moment for our next question. Our next question comes from the line of Taylor McGinnis of UBS. Your line is now open.",
+      "turn_index": 3
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Taylor McGinnis",
+      "text": "Congrats on a great quarter. One question for me on messaging. If we look at the strong growth in Q1, I think you made two comments: one, you are seeing good adoption of RCS; and two, you mentioned that AI natives are starting to test more messaging volumes. Is there any way to quantify how much of that led to the acceleration in Q1? And then as we think about the durability of messaging channel growth from here, I know as you get into Q2 you are coming up against a tougher compare. With these emerging trends, how early are we in that and could messaging growth maintain similar levels through the year?",
+      "turn_index": 4
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Aidan Viggiano",
+      "text": "I do not think RCS and AI natives are contributing super meaningfully. Remember, messaging is almost 60% of our business. It has a huge revenue base. RCS is very small. It is growing very quickly, but it is not contributing meaningfully. On the AI native side, maybe a little bit more, but nothing outsized. Operationally, it is up about 18% year-over-year, which is not too far off how we have been trending in messaging—a little bit higher—but that business has been growing mid- to high-teens for several quarters now. So strong operational growth in our biggest product, and we continue to perform well there.",
+      "turn_index": 5
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Khozema Shipchandler",
+      "text": "",
+      "turn_index": 6
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "I would just add on durability",
+      "text": "we feel pretty good about how the business is performing. We obviously took up our guidance for the balance of the year, and that reflects it. The bigger opportunity going forward with messaging and AI is, as Thomas alluded to, voice customers are now going more cross-channel and doing much more conversational AI as we go forward. While everything has sort of started in voice, the opportunity is in other channels over time. We think that provides ongoing durability into the future.",
+      "turn_index": 7
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Great. Thank you so much. Our next question comes from the line of Oppenheimer. Your line is now open.",
+      "turn_index": 8
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Analyst",
+      "text": "This is George Iwanek on for Ittai. Congrats on the strong results. Given how strongly the business is performing, can you give us perspective on whether macro is having any impact at all either on a regional basis or a vertical basis? And building on that, with the success you are seeing with the sales motion, can you give us some color on multiproduct adoption and how broadly across the customer base that is unfolding?",
+      "turn_index": 9
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Khozema Shipchandler",
+      "text": "I do not think macro is really having any effect one way or the other. It is a super dynamic macro environment—consumer pressure, the Middle East, inflation—but it is not really playing into our results. Broadly, the business is performing very nicely. We are in a bit of an AI tailwind right now; it is certainly a catalyst, but not meaningfully contributing to the overall results. On balance, the business is having all-around good results.",
+      "turn_index": 10
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Thomas Wyatt",
+      "text": "We are seeing acceleration of our multiproduct customer count; it was up 29% in Q1, which is really encouraging, and revenue from multiproduct customers is also accelerating. We think it will continue to accelerate throughout the year as customers roll out more software capabilities that sit on top of the channels. The use cases are naturally multiproduct because personalization and understanding the brand–consumer relationship require software orchestration and memory connected to the underlying communication channels—email, voice, or messaging—and having a consistent experience with observability and sentiment across channels. Customers see the value of the platform and consolidate spend across channels with Twilio Inc.\nThe multiproduct motion is in the early stages of really accelerating because customers view Twilio Inc. as critical infrastructure for customer engagement in the agentic era, and we are helping them throughout that journey.",
+      "turn_index": 11
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "One moment for our next question. Our next question comes from the line of Sitikantha Panigrahi of Mizuho. Your line is now open.",
+      "turn_index": 12
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Sitikantha Panigrahi",
+      "text": "Great. Congrats on a great quarter. I want to ask about Voice AI. How would you characterize your largest Voice AI customer scale at this point? I know you talked a lot about experiments and testing last year moving toward full-scale production and use cases. Has that opened up in a meaningful way yet, or are you still seeing experiments? If so, what is the bottleneck there?",
+      "turn_index": 13
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Khozema Shipchandler",
+      "text": "It depends on the company. With a lot of the AI natives we support, we are seeing a lot of takeoff velocity, but it is off a relatively small base, which is why it contributes to our results but is not meaningful in the way Aidan characterized earlier. You see higher adoption in nonregulated industries versus regulated. In e-commerce, retail, and food service, we are seeing pilots and heavy experimentation translate into production—human-to-agent interactions. On the regulated side, it is pretty slow.\nYou are seeing very heavy experimentation, but given the high-stakes nature of many of those companies, it is going to take some time, which I think is good for us because it provides a longer-term tailwind and larger spend, but it is going to take time.",
+      "turn_index": 14
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "One moment for our next question. Our next question comes from the line of Mark Murphy of JPMorgan. Your line is now open.",
+      "turn_index": 15
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Mark Murphy",
+      "text": "Thank you so much, and congrats. Aidan, you have margins continually expanding—you grew operating income 31% year-over-year. Structurally, how are you thinking about headcount required to run the business, especially as AI tooling becomes more powerful to augment employees? Second, what are you budgeting for seat-based SaaS applications you use internally? Will that grow in line with headcount, or is there any motion to build some SaaS solutions in-house?",
+      "turn_index": 16
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Aidan Viggiano",
+      "text": "",
+      "turn_index": 17
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "On headcount and AI costs",
+      "text": "as you would imagine, we have tested a variety of AI tools over the last couple of years. We have rolled out a select number to our employee base, including coding tools and tools for knowledge workers. Inference costs are manageable and embedded in our guidance. From a headcount perspective, we have been roughly flat for two to three years. For modeling, I would keep it around that level. We are not intending to add meaningful numbers of heads. We continue to focus on controlling OpEx; we have been flat from an OpEx perspective, and we continue to take down stock-based compensation. In terms of SaaS tooling, nothing meaningful to highlight.\nWe regularly invest in different tools; I do not expect costs to grow meaningfully—maybe down a little. Again, it is all embedded in our guidance. On building tools in-house, nothing noteworthy to call out.",
+      "turn_index": 18
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from the line of Nick Altman of BTIG. Your line is now open.",
+      "turn_index": 19
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Nick Altman",
+      "text": "Awesome, thank you. I wanted to stick on margins. The 8% GAAP operating margin this quarter is super impressive. Aidan, you talked about stock-based comp and how that is well ahead of targets, but were there any one-time items that helped GAAP margins this quarter? And going forward, any goalposts for how we should think about GAAP operating margins for the remainder of the year?",
+      "turn_index": 20
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Aidan Viggiano",
+      "text": "",
+      "turn_index": 21
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "One moment for our next question. Our next question comes from the line of Derrick Wood of TD Cowen. Your line is now open.",
+      "turn_index": 22
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Derrick Wood",
+      "text": "Great. Khozema, could you talk about how you see the next phase of Segment playing out over the next few years? You have completed the back-end rearchitecture and made the data interop much more native on a communications platform. Where do you see the most synergies with the comms product, and can we expect a revival in growth in Segment this year?",
+      "turn_index": 23
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Khozema Shipchandler",
+      "text": "We are not as focused on Segment as a standalone. We are much more interested in using the data technology to enrich communications. In the AI era, if you do not have context, you are looking at much higher cost in AI workloads and you are not actually solving the customer's problem. Having a CDP in that respect is incredibly valuable; enriching every one of our communications with data is incredibly valuable. Some AI natives we cited are using tools such as conversational intelligence—the ability to use data to get smarter about the conversation in progress, get to problem resolution faster. That is the way I see it.\nWe will talk more about it next week at SIGNAL, largely through the lens of having memory and persistency in interactions so that lifetime customer value is really possible. The business on a standalone basis is less the focus; it is more about how it fits into the overall picture.",
+      "turn_index": 24
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "One moment for our next question. Our next question comes from the line of Arjun Bhatia of William Blair. Your line is now open.",
+      "turn_index": 25
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Arjun Bhatia",
+      "text": "Congrats on a great quarter. Two questions. First, I am curious why AI and the benefit you are getting from it are different between voice and messaging. Would you expect messaging to see a similar tailwind from AI adoption, or is this more specific to voice? Second, in terms of go-to-market, how do you think about readiness and the Salesforce's ability to sell more software add-ons, given you have a lot of products like Verify, Conversation Relay, and others?",
+      "turn_index": 26
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Khozema Shipchandler",
+      "text": "There is a longer-term opportunity with respect to messaging. Both are growing really well. As it relates to voice, most AI startups are starting in voice. It is our expectation that, similar to the historical shift of voice workloads to text, we will now see conversational AI enabling reaching the customer through the channel they want using context. That benefits not just messaging but also email. We are very excited about the longer-term prospects as a result of AI across all of our channels.",
+      "turn_index": 27
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Thomas Wyatt",
+      "text": "On go-to-market readiness, we put a lot of energy into organizing the sales organization this year—compensation plans and enablement—to enable AEs, combined with a specialist motion, to optimize multiproduct selling and cross-sell. We are seeing acceleration of software add-ons like Verify, Conversation Relay, and Branded Calling. The percentage of deals with multiple products at close is increasing. We feel good about where we are after Q1 and expect it to get better every quarter as we get more repetitions in this motion. We feel good about the team's progression and skill set to continue to drive multiproduct selling at scale.",
+      "turn_index": 28
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "One moment for our next question. Our next question comes from the line of Koji Ikeda at Bank of America. Your line is now open.",
+      "turn_index": 29
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Koji Ikeda",
+      "text": "Hey, thanks for taking the question. Voice and Voice AI demand sounds really good, and the opportunity is big and just getting started. What is it about Twilio Inc.'s offering today—and what Twilio Inc. may offer in the coming years—that gives you confidence you will not get disrupted by the time the opportunity really starts to get going from here?",
+      "turn_index": 30
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Khozema Shipchandler",
+      "text": "A couple things. We are the market leader by a mile. We have the best technology. We are priced higher than the competition, which reflects that we do have the best technology. Our multichannel ability is unprecedented relative to anybody in the marketplace. Having a great brand is also a really good place to be because as the average developer tries to figure out connectivity, our research indicates Twilio Inc. will be the first company requested. Longer term, being an infrastructure company for communications and data is hard to replicate.\nOn the communications side, it is very challenging for any AI-related company to get 4,800 different kinds of interconnections across 180+ growing countries and go through all of the compliance checks and KYC hurdles. It is very complex, regulated, and operational. That creates a substantial moat. Going forward, our ability to migrate from voice—already a source of strength—to multichannel orchestration, where customers can reach their consumers exactly the way they want to be reached, is key. That is where the data asset really shines—using channels plus data to inform how and when engagement happens, the necessary context, and then using that data to solve the consumer's problem.\nThat full wrapper is a real advantage for Twilio Inc. that no other company has.",
+      "turn_index": 31
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "One moment for our next question. Our next question comes from the line of William Power of Baird. Your line is now open.",
+      "turn_index": 32
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "William Power",
+      "text": "Thanks. I am going to come back to the organic revenue growth improvement—really impressive, reaching 16%. It sounds broad-based across messaging, voice, software add-ons, etc., nicely above the prior trend line. Is there anything else you would call out as to why we are seeing this inflection now versus the past couple of quarters? And tied to that, Q2 guidance assumes a decent deceleration in growth from Q1. Any potential comps versus conservatism and other factors in there?",
+      "turn_index": 33
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Aidan Viggiano",
+      "text": "It was a really good quarter, Will. As you said, 16% organic growth—our strongest growth rate in several years. From a product perspective, messaging and voice were key. From a sales channel perspective, ISVs and self-serve, both 25%+. It was partly driven by higher seasonal volumes earlier in the quarter, but mostly solid execution across the board. From an industry perspective, it was broad as well—financial services, tech, and health care were all very strong. Importantly, all of those factors contributed to revenue growth and accelerated gross profit growth at 16% as well.\nFor Q2 guidance, trends are pretty strong: 10% to 11% organically, consistent with our Q1 guidance at the time we provided it, which was the highest in several years. It reflects the strong underlying trends we are seeing, but consistent with how we have guided over the last few years, we continue to plan prudently given the usage-based nature of the business.",
+      "turn_index": 34
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "One moment for our next question. Our next question comes from the line of Jim Fish of Piper Sandler. Your line is now open.",
+      "turn_index": 35
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Jim Fish",
+      "text": "Hey, guys. Great quarter. Not trying to take away from the deals you are landing—they are quite impressive. Obviously, one of your competitors won on the Agentforce side of things. How did you think about that opportunity, and how do you see alignment with CRMs in this space? How do you see the environment playing out between up-and-comers you are tracking well with as the underlying infrastructure versus the systems of record of the world?",
+      "turn_index": 36
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Khozema Shipchandler",
+      "text": "That is not really what we are worried about. In the emerging AI landscape, what is important is being the single best integrator of all the tools and capabilities out there. Twilio Inc. has always occupied the space where, if you want to bring your own data warehouse or your own cloud, fantastic. Interoperability includes systems of record, with which we also integrate. Increasingly, we see customers bringing their own LLM and agent capabilities. Our bet is that AI will not develop like historical SaaS tool development tied to systems of record. We see a broader opportunity and will continue supporting AI companies, being the Switzerland of integrations with anyone to support customer needs.",
+      "turn_index": 37
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Thomas Wyatt",
+      "text": "To add one point, last week we announced an embeddable version of our Flex product that can be integrated into CRMs or other systems of record. That allows customers to take advantage of Twilio Inc. inside of these systems and also consume usage-based pricing, including bring-your-own-voice. We are integrating where our customers are and making the tools available to them.",
+      "turn_index": 38
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "One moment for our next question. The next question comes from the line of Needham. Please go ahead.",
+      "turn_index": 39
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Analyst",
+      "text": "Great, thanks for taking my question. This builds off the last point. It seems like your competitive moat is being enhanced given the complexity of the evolving ecosystem around AI as a trusted neutral partner. You can orchestrate agents using OpenAI running on AWS and pulling data from a Snowflake warehouse. Is this neutrality helping accelerate your opportunity as the complexity of the broader AI ecosystem grows?",
+      "turn_index": 40
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Khozema Shipchandler",
+      "text": "I would say it is a mild accelerant today. Going forward, it probably helps a lot more. Today, conventional developers are putting together a lot of this tooling. We all imagine a world in which both agents and developers really take off. As that happens and companies have built on their own stacks, they tend not to want to rip and replace. A company’s ability to use its existing technology—plus communications and data to create outcomes for their consumers—and to plug into all of these other choice points is key. The embeddable example Thomas mentioned is representative.\nIt is necessary to have as many integration points as possible so customers always have choice and do not have to add cost to their existing tech stack. Going forward, I would say mild accelerant becomes larger as agent-based coding starts to take off.",
+      "turn_index": 41
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "One moment for our next question. Our next question comes from the line of Jackson Ader of KeyBanc Capital Markets. Your line is now open.",
+      "turn_index": 42
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Jackson Edmund Ader",
+      "text": "Hey, guys. It is really nice to see the self-serve improvements you have made so far. Is this a situation where the low-hanging fruit on the self-serve mechanism has been picked and now we might be entering a normalized phase in that channel? Or are you just laying the foundation that unlocks more actions you can take to optimize this channel over the next multiyear period?",
+      "turn_index": 43
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Thomas Wyatt",
+      "text": "Hey, Jackson. We feel really good about the strength of our self-serve business. Some of it is work over the last 12 months to optimize onboarding and upgrade processes, but it is going beyond that. Next week, we will launch new Console capabilities to make it even easier for self-serve customers to get started with Twilio Inc. and adopt more than one product. Multiproduct adoption should continue to accelerate through that channel. We continue to see opportunities to improve conversion rates across the funnel and feel good about the strength and durability of that business, with new products coming over the next week or two to unlock more growth.",
+      "turn_index": 44
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "One moment for our next question. Our next question comes from the line of Morgan Stanley. Your line is now open.",
+      "turn_index": 45
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "James Reynolds",
+      "text": "Great, thanks. This is Jamie on for Elizabeth Porter, and congrats on the strong results. For the ISV channel, there is really good traction. Is that primarily being driven by a handful of ISVs, or is the breadth widening in a material way?",
+      "turn_index": 46
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Thomas Wyatt",
+      "text": "It is a wide range of ISVs across major verticals—beyond marketing, into service desk, education, hospitality, and more. Growth is coming from adoption of multiple channels. If an ISV grew up with us in one area, they are now expanding to a second or third area, which is helping accelerate growth in multimillion-dollar customers.",
+      "turn_index": 47
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "One moment for our next question. Our next question comes from the line of Citizens. Your line is now open.",
+      "turn_index": 48
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Analyst",
+      "text": "This is Nick Lee on for Pat. Congrats on the quarter, and thanks for taking the question. On Voice AI, I understand customer service is one of the most popular uses. As deployments mature, where do you see customers taking Voice AI next?",
+      "turn_index": 49
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Thomas Wyatt",
+      "text": "Early Voice AI use cases were largely customer support, but now we are seeing much more outbound and inbound sales motions. Examples include live seller augmentation, next-best actions for sellers based on the live conversation, and compliance use cases. We are seeing increases in voice recording as a software layer on our stack. It is just the beginning. Classic use cases are rolling into production, and now customers are getting creative—introducing virtual agents combined with human-assisted agents through escalation paths. It depends on the vertical, but many use cases are being unlocked.",
+      "turn_index": 50
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Khozema Shipchandler",
+      "text": "One of the more interesting ones is Main Street businesses. When they are closed at night, their ability to service customers during off-hours is super exciting and benefits the real economy and businesses that otherwise could not afford it. They will probably get served by an ISV in between, but still, it is really compelling technology for a Main Street business.",
+      "turn_index": 51
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "One moment for our next question. Our next question comes from the line of Wells Fargo. Your line is now open.",
+      "turn_index": 52
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Analyst",
+      "text": "This is Deshaun on for Ryan Mac. In your top customer wins, there was mention of a large customer consolidating their traffic onto Twilio Inc. How meaningful have competitive takeaways been for you over the past couple of quarters, and where might competitors be falling short and consequently ceding share?",
+      "turn_index": 53
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Thomas Wyatt",
+      "text": "It starts with the platform capabilities Twilio Inc. offers and the value proposition of understanding sentiment, observability, and orchestration of how to work with a consumer across multiple channels. When customers understand that roadmap and see the power of the software on top of our traditional communication channels, they see the value in consolidating spend with Twilio Inc., which is leading us to take more market share globally. Our platform approach and unique ability to scale across channels provide confidence we are the right partner, especially for more complex use cases like Voice AI that require personalization, memory, and orchestration. You cannot do all of that using multiple providers across multiple channels. That has been an advantage for us.",
+      "turn_index": 54
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "One moment for our next question. Our next question comes from the line of Rishi Jaluria of RBC. Your line is now open.",
+      "turn_index": 55
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Rishi Jaluria",
+      "text": "Thanks for taking my questions. Nice to see continued strength and acceleration at scale. On momentum with AI leaders, particularly in Voice AI—without speaking to a particular customer—can you help us understand, as those companies grow and you grow with them on your usage-based model and expand your footprint, how we should think about that timeline? It is not all happening in real time, so help us temper expectations as we see exciting headline numbers out there.",
+      "turn_index": 56
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Khozema Shipchandler",
+      "text": "It is still relatively early. Most startups in that space are relatively small. They are growing very fast, but at relatively low hundreds of millions revenue numbers. We will take a piece of that based on their work with us. The bigger opportunity is as this migrates to enterprises—whether AI startups act as ISVs on our behalf or we deploy directly. That is happening more slowly given enterprise buying cycles. Retail, e-commerce, and food service are adopting rapidly; regulated industries are adopting less rapidly. There is a lot of tailwind in how this plays out. There are a lot of Voice AI workloads still to deploy, and as we have said, voice work will move to other channels as well.\nAs this becomes conversational AI, there is an even bigger opportunity. Pretty early days.",
+      "turn_index": 57
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "One moment for our next question. Our next question comes from the line of Andrew King of Rosenblatt Securities. Your line is now open.",
+      "turn_index": 58
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Andrew King",
+      "text": "Thanks for taking my question, and congrats. Can you provide any color on how much of an accelerator AI has been to cross-sell opportunities for you? And second, how are you viewing the balance between driving profitability and maintaining AI investments?",
+      "turn_index": 59
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Aidan Viggiano",
+      "text": "We are definitely investing in AI tools; it is embedded in our guidance. It is moderate right now in terms of cost hitting the P&L. Profitability continues to be a big focus for us. We just increased guidance for the year on both cash and profitability, and that continues to be a focus on both the GAAP and non-GAAP lines.",
+      "turn_index": 60
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Thomas Wyatt",
+      "text": "",
+      "turn_index": 61
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "On AI as a cross",
+      "text": "you see it in software add-ons because we use AI as part of that stack—for fraud detection, personalization via conversational insights, and Conversation Relay. Second, indirect acceleration: overall spend is consolidating with us across channels to take advantage of that software stack. It is hard to quantify financially, but we see it in deal cycles where customers want to go deeper into advanced areas of our portfolio, setting us up nicely from a pipeline perspective for the rest of the year.",
+      "turn_index": 62
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "I am showing no further questions at this time. This does conclude the program. You may now disconnect. Goodbye.",
+      "turn_index": 63
+    }
+  ]
+}

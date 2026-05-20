@@ -1,0 +1,28 @@
+{
+  "ticker": "HON",
+  "call_date": "2026-04-23",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.028355420568343066,
+  "cosine_distance": 0.0309629481303495,
+  "sentiment_shift": 0.07214623629538851,
+  "question_difficulty_mean": 0.1955166169566323,
+  "baseline_mean": 0.03340408210629858,
+  "baseline_std": 0.0071398856188081,
+  "z_score": -0.7071067811865475,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5977583084783161,
+    "call_mean_answer_length": 146.6,
+    "call_hedge_density": 0.01251685283105363,
+    "call_pos_sentiment_mean": 0.5280240846176942,
+    "call_neu_sentiment_mean": 0.3063177761932214,
+    "call_neg_sentiment_mean": 0.16565812919288875,
+    "call_qa_similarity_mean": 0.5013398655350275,
+    "baseline_neg_sentiment_mean": 0.09351189289750024
+  },
+  "generated_at": "2026-05-20T05:42:03+00:00"
+}

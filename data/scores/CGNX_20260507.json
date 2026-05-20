@@ -1,0 +1,28 @@
+{
+  "ticker": "CGNX",
+  "call_date": "2026-05-07",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.010739943927185384,
+  "cosine_distance": 0.019592116626871547,
+  "sentiment_shift": 0.016646967461726822,
+  "question_difficulty_mean": 0.16649404854570657,
+  "baseline_mean": 0.012279605883078715,
+  "baseline_std": 0.001816722160582116,
+  "z_score": -0.8474944541877504,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5832470242728532,
+    "call_mean_answer_length": 239.69230769230768,
+    "call_hedge_density": 0.03014121995282864,
+    "call_pos_sentiment_mean": 0.3183979300352243,
+    "call_neu_sentiment_mean": 0.6339174875846276,
+    "call_neg_sentiment_mean": 0.047684587323321745,
+    "call_qa_similarity_mean": 0.47919037858313057,
+    "baseline_neg_sentiment_mean": 0.031037619861594923
+  },
+  "generated_at": "2026-05-20T04:57:41+00:00"
+}

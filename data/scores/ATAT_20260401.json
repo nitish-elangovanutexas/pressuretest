@@ -1,0 +1,28 @@
+{
+  "ticker": "ATAT",
+  "call_date": "2026-04-01",
+  "quarter": 4,
+  "year": 2024,
+  "pressure_score": 0.021414633804602914,
+  "cosine_distance": 0.04603623901766607,
+  "sentiment_shift": 0.021574470412451772,
+  "question_difficulty_mean": 0.18144712092816376,
+  "baseline_mean": 0.019013303355592395,
+  "baseline_std": 0.003395994088730151,
+  "z_score": 0.7071067811865476,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5907235604640819,
+    "call_mean_answer_length": 239.25,
+    "call_hedge_density": 0.0026867816091954025,
+    "call_pos_sentiment_mean": 0.8010945320129395,
+    "call_neu_sentiment_mean": 0.18420154182240367,
+    "call_neg_sentiment_mean": 0.01470393396448344,
+    "call_qa_similarity_mean": 0.6441638092891672,
+    "baseline_neg_sentiment_mean": 0.03627840437693521
+  },
+  "generated_at": "2026-05-20T04:40:34+00:00"
+}

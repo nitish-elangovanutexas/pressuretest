@@ -1,0 +1,28 @@
+{
+  "ticker": "AMRN",
+  "call_date": "2026-04-30",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.10373512111537497,
+  "cosine_distance": 0.26541671639304976,
+  "sentiment_shift": 0.04557543955385113,
+  "question_difficulty_mean": 0.1689767963830068,
+  "baseline_mean": 0.06098065132134689,
+  "baseline_std": 0.06046395103478535,
+  "z_score": 0.7071067811865475,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5844883981915034,
+    "call_mean_answer_length": 173.0,
+    "call_hedge_density": 0.011202276419070121,
+    "call_pos_sentiment_mean": 0.21790730906650424,
+    "call_neu_sentiment_mean": 0.644616536796093,
+    "call_neg_sentiment_mean": 0.13747618114575744,
+    "call_qa_similarity_mean": 0.4275325099192959,
+    "baseline_neg_sentiment_mean": 0.09190074159190631
+  },
+  "generated_at": "2026-05-20T04:33:41+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "LUMN",
+  "call_date": "2026-05-06",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.05445508824728295,
+  "cosine_distance": 0.14372949031806737,
+  "sentiment_shift": 0.0033343418235225325,
+  "question_difficulty_mean": 0.24367245516119854,
+  "baseline_mean": 0.03907010662026453,
+  "baseline_std": 0.02175764967379034,
+  "z_score": 0.7071067811865475,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6218362275805993,
+    "call_mean_answer_length": 49.8,
+    "call_hedge_density": 0.005161290322580645,
+    "call_pos_sentiment_mean": 0.4633130855858326,
+    "call_neu_sentiment_mean": 0.517188748344779,
+    "call_neg_sentiment_mean": 0.019498187676072122,
+    "call_qa_similarity_mean": 0.34033732495677405,
+    "baseline_neg_sentiment_mean": 0.022832529499594655
+  },
+  "generated_at": "2026-05-20T06:02:14+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "JPM",
+  "call_date": "2026-04-21",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.03669422408254041,
+  "cosine_distance": 0.06664528776254575,
+  "sentiment_shift": 0.053913160912837085,
+  "question_difficulty_mean": 0.19229151135089537,
+  "baseline_mean": 0.036894209127934514,
+  "baseline_std": 0.01733511458136832,
+  "z_score": -0.01153641324119355,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5961457556754477,
+    "call_mean_answer_length": 193.13333333333333,
+    "call_hedge_density": 0.02703628181025016,
+    "call_pos_sentiment_mean": 0.19507871543367702,
+    "call_neu_sentiment_mean": 0.6638308013478915,
+    "call_neg_sentiment_mean": 0.1410904950151841,
+    "call_qa_similarity_mean": 0.49198185958599094,
+    "baseline_neg_sentiment_mean": 0.087177334102347
+  },
+  "generated_at": "2026-05-20T05:52:05+00:00"
+}

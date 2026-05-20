@@ -1,0 +1,28 @@
+{
+  "ticker": "PLNT",
+  "call_date": "2026-05-07",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.015099796932902984,
+  "cosine_distance": 0.03791069980778561,
+  "sentiment_shift": 0.006093173986300826,
+  "question_difficulty_mean": 0.19917273800404503,
+  "baseline_mean": 0.02021051692833948,
+  "baseline_std": 0.007227649531037653,
+  "z_score": -0.7071067811865476,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5995863690020226,
+    "call_mean_answer_length": 173.0,
+    "call_hedge_density": 0.01919655612433713,
+    "call_pos_sentiment_mean": 0.2163825538009405,
+    "call_neu_sentiment_mean": 0.7567733104030291,
+    "call_neg_sentiment_mean": 0.026844132225960493,
+    "call_qa_similarity_mean": 0.44599554788244017,
+    "baseline_neg_sentiment_mean": 0.020750958239659667
+  },
+  "generated_at": "2026-05-20T06:35:44+00:00"
+}

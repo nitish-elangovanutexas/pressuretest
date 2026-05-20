@@ -1,0 +1,28 @@
+{
+  "ticker": "TMUS",
+  "call_date": "2026-04-28",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.02747166901096883,
+  "cosine_distance": 0.0767672738588615,
+  "sentiment_shift": 0.0016417189219006985,
+  "question_difficulty_mean": 0.1760874414394349,
+  "baseline_mean": 0.020451212677037926,
+  "baseline_std": 0.006107896928953058,
+  "z_score": 1.1494064840308735,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5880437207197174,
+    "call_mean_answer_length": 234.58333333333334,
+    "call_hedge_density": 0.015121571472030394,
+    "call_pos_sentiment_mean": 0.17634688969701529,
+    "call_neu_sentiment_mean": 0.7967181925972303,
+    "call_neg_sentiment_mean": 0.026934909634292126,
+    "call_qa_similarity_mean": 0.42258267179423,
+    "baseline_neg_sentiment_mean": 0.025293190712391427
+  },
+  "generated_at": "2026-05-20T07:10:49+00:00"
+}

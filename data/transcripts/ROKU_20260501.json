@@ -1,0 +1,322 @@
+{
+  "ticker": "ROKU",
+  "company_name": "Roku",
+  "call_date": "2026-05-01",
+  "quarter": 1,
+  "year": 2026,
+  "prepared_remarks": "Earnings Call Transcript\nRoku (ROKU) Q1 2026 Earnings Transcript\nBy\n\nMotley Fool Transcribing\n\n–\n\nMay 1, 2026 at 3:06PM EST\n\n\n\n\nImage source: The Motley Fool.\n\n\nDATE\nThursday, April 30, 2026, at 5 p.m. ET\nCALL PARTICIPANTS\nChief Executive Officer — Anthony J. Wood\nChief Financial Officer and Chief Operating Officer — Dan Jedda\nPresident, Roku Media — Charlie Collier\nPresident, Devices — Mustafa Ozgen\nVice President, Investor Relations — Conrad Grodd\nTAKEAWAYS\nPlatform Revenue\n-- $863 million, an increase of 28% year over year, driven by major sporting events and higher partner activity.\nAdvertising Revenue\n-- Grew by 27%, reflecting increased demand and success across both direct and programmatic channels.\nSubscription Revenue\n-- Rose 30%, attributed to premium sign-ups, the launch of Apple TV and Peacock, and international expansion.\nAdvertising Gross Margin\n-- Exceeded 60%, up over 400 basis points, with management stating, \"I believe this level is sustainable for the rest of this year and thereafter.\"\nSubscription Gross Margin\n-- Just above 40%, down year over year due to mix shift, with an outlook for 41%-42% for the balance of the year.\nEBITDA Margin\n-- Nearly 12%, more than doubling from the prior year.\nFree Cash Flow\n-- $148 million for the quarter, with a margin approaching 16%; noted as the company's second-highest on record.\nPlatform Revenue Guidance\n-- Full-year outlook increased by over $100 million, representing an approximately 3 percentage point raise to an expected 21% growth.\nActive Streaming Households\n-- Surpassed 100 million globally, setting a major company milestone.\nThird-Party DSP Strategy\n-- Majority of video delivery now via programmatic partners, with management highlighting growth contributions from Amazon DSP, The Trade Desk, Yahoo, FreeWheel, and new integration with DV360 through Google.\nDevice Revenue\n-- Declined 16% year over year with a negative 14% margin, primarily due to lower average selling prices (ASPs) and higher memory costs.\nHome Screen Redesign\n-- Broad rollout imminent, with testing indicating increased customer engagement, higher monetization, and improved click-through rates for the marquee ad unit.\nNon-M&E Ad Mix\n-- Non-media and entertainment brands accounted for nearly 30% of Roku Experience advertising revenue, marking an all-time high due to deliberate diversification efforts.\nAI Integration\n-- Artificial intelligence now underpins Ads Manager and recommendation engines, supporting product innovation, user engagement, and operational efficiency.\nOEM Partnerships\n-- Ongoing expansion with long-term TV partners and broadening retail distribution, with memory cost increases enhancing competitive positioning for OEM and retail collaborations.\nNeed a quote from a Motley Fool analyst? Email\n[email protected]\nRISKS\nDevice Segment Profitability\n-- Device revenue fell 16% and margins were negative 14%, attributed to persistent ASP pressure and higher memory pricing.\nSubscription Gross Margin Pressure\n-- \"at just north of 40%, subscriptions gross margin is down, and it is mix-driven,\" with expectations for margins to remain at 41%-42%.\nVisibility on Second Half Guidance\n-- Management stated, \"We have much stronger visibility into Q2 versus the second half, given the macro environment,\" citing conservative outlook for the latter half pending clarity on political and other factors.\nSUMMARY\nRoku\n\n(\nROKU\n\n0.34%\n)\ndelivered substantial top- and bottom-line growth, raising full-year guidance for platform revenue and highlighting increased EBITDA margin expansion, even as device segment profitability declined due to lower ASPs and higher component costs. Management disclosed the transition to over 100 million active streaming households and underscored the success of its open, programmatic advertising strategy, now centered on major partnerships with Amazon DSP, The Trade Desk, and a new DV360 integration. The quarter saw further growth in premium subscription revenue, continued international expansion, and successful early testing of a redesigned home screen aimed at boosting monetization and user satisfaction.\nLeadership stressed the sustainability of elevated advertising gross margins due to the rollout of higher-value ad products and efficiencies in campaign delivery.\nDevice segment headwinds were presented as primarily ASP- and input cost-driven, with management noting that greater bill of materials efficiency may provide long-term advantages with OEM and retail partners.\nExecutives asserted that AI adoption is materially improving product development, user engagement, ads performance, and operational efficiency, while maintaining close control over rising token costs.\nNon-media and entertainment advertisers set a new high as a proportion of platform ad revenue, reflecting progress in demand diversification and home screen ad unit innovation.\nSubscription revenue growth remains robust, with future drivers identified as new launches of tier-one and tier-two content partners, additional international rollouts, and features designed to drive direct-to-consumer activity.\nINDUSTRY GLOSSARY\nDSP (Demand-Side Platform)\n: Software platform that enables advertisers to buy digital advertising inventory, including connected TV ads, across multiple sources through a unified interface.\nDV360\n: Google's Demand-Side Platform (Display & Video 360), facilitating programmatic ad buys across digital channels, including CTV and digital video.\nM&E\n: Media and Entertainment; categorized advertiser segment, often referencing studios, networks, or streaming content providers.\nASPs (Average Selling Prices)\n: The average amount of revenue earned per device sold, indicative of pricing pressure and product mix.\nO&O\n: Owned-and-operated; refers to channels, apps, or platforms fully controlled by the company, such as The Roku Channel or Audi.\nFull Conference Call Transcript",
+  "qa_turns": [
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Hello, and thank you for standing by. Welcome to Roku, Inc. First Quarter 2026 Earnings Conference Call. At this time, all participants are in a listen-only mode. After the speakers' presentation, there will be a question-and-answer session. To ask a question during the session, please press star 11 on your telephone. You will then hear an automated message advising your hand is raised. To withdraw your question, please press star 11 again. I would now like to hand the conference over to Conrad Grodd, Vice President, Investor Relations. You may begin. Good afternoon. Welcome to Roku, Inc.'s first quarter 2026 earnings call.",
+      "turn_index": 0
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Conrad Grodd",
+      "text": "Joining us on today's call are Anthony J. Wood, Roku, Inc.'s founder and CEO; Dan Jedda, our CFO and COO; Charlie Collier, President, Roku Media; and Mustafa Ozgen, President, Devices. On this call, we will make forward-looking statements which are subject to risks and uncertainties. Please refer to our shareholder letter and periodic SEC filings for risk factors that could cause our actual results to differ materially from these forward-looking statements. We will also present GAAP and non-GAAP financial measures. Reconciliations of non-GAAP measures to the most comparable GAAP financial measures are provided in our shareholder letter. Unless otherwise stated, all comparisons will be against our results for the comparable 2025 period. With that, operator, our first question, please.",
+      "turn_index": 1
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you. Please press star 11 on your telephone, then wait for your name to be announced. To withdraw your question, please press star 11 again. Please stand by while we compile the Q&A roster. Our first question comes from the line of Brent Nabaughan with Bank of America. Your line is open.",
+      "turn_index": 2
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Brent Nabaughan",
+      "text": "Good afternoon. Thank you. Maybe just to start, can you explain some of the drivers for the strong first-quarter results and help us bridge that to your second quarter and full-year guidance, especially given all the momentum you have and political in the second half? Then as a follow-up, can you also discuss the impact rising memory prices are having on the devices segment and how you are thinking about total device segment investment? Thank you so much.",
+      "turn_index": 3
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Anthony J. Wood",
+      "text": "Hey, Brent. Thanks for your question. I will turn it over to Dan in a second to answer your question directly, but let me say a few things. First, I am very happy with the trajectory of our business. We are on a great path, and I am excited about how things are going. We delivered an outstanding quarter and are executing against our monetization initiatives. For example, advertising revenue grew 27%, and our third-party partnership strategy is working. Adoption of Ads Manager is growing, and overall we are building a highly performant connected TV ad platform. Subscription revenue grew 30%, driven by premium subscription sign-ups, and we are expanding our tier-one partners in premium subscriptions.\nWe recently added Apple TV in March, and this week we announced Peacock. We also recently passed 100 million streaming households, which is a huge milestone. We are focused on execution and are very well positioned. Dan will take your exact question.",
+      "turn_index": 4
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Dan Jedda",
+      "text": "Thanks, Anthony, and thanks for the question, Brent. As Anthony mentioned, Q1 was an outstanding quarter for us. Platform revenue grew 28%, coming in ahead of our outlook, benefiting from the Olympics and the Super Bowl, which contributed to an increase in subscription and M&E spend. EBITDA margins more than doubled year over year to nearly 12%, and our $148 million of free cash flow for the quarter was our second-highest free cash flow on record with free cash flow margins of nearly 16%. Regarding the bridge from Q1 to Q2 and to the full year, keep in mind a few things. First, we start to lap the Friendly acquisition in Q2.\nExcluding Friendly in Q1, subscription revenue growth was 23%. Second, Q1 had the easiest comp with advertising growing 12% year over year in Q1 of last year. That growth stepped up to 19% in Q2 of last year, and we are comping this higher growth rate for the rest of the year in advertising once you back out political in 2025. Third, as I mentioned, Q1 benefited from the Olympics and the Super Bowl. All that said, we expect Q2 platform revenue to grow at a strong rate of 20% year over year, and I expect subscriptions and advertising both to be around this level of growth.\nFor the full year, we increased our platform revenue guidance by over $100 million, or approximately three points of growth, to nearly 21%. We are increasing our EBITDA and EBITDA margins, and I fully expect free cash flow to again be above adjusted EBITDA for the full year. We have much stronger visibility into Q2 versus the second half, given the macro environment. As we gain better visibility into political and other initiatives, we will provide updated guidance for the second half. We are being a little conservative on our second-half outlook. Anthony, you want to start on the second question?",
+      "turn_index": 5
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Anthony J. Wood",
+      "text": "Your second question was about memory prices in our devices segment. First, I want to highlight that the Roku, Inc. TV operating system uses significantly less memory and storage than competing platforms. We spend a lot of effort building a highly customized OS designed specifically for television, with bill of materials cost as a major focus. One way we achieve lower bill of materials cost is using less memory and being more versatile in the types of memory we can use. In the TV business, every dollar matters. It is a hugely price-competitive market. So although memory prices are going up—something we need to manage in our first-party business—most of our business is actually third-party products.\nAs memory prices go up, the bill of materials advantage we have versus competitors gets bigger, which attracts TV OEMs and retail partners. That helps us win more accounts and retail placement. While there are issues around memory that we have to manage, it is generally good for our business because our cost advantage widens. Dan will talk more about the specifics.",
+      "turn_index": 6
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Dan Jedda",
+      "text": "The most important thing to know is that we remain confident in our ability to keep expanding EBITDA margins in 2026 and beyond. We have confidence in growing our platform revenue double digits while managing our device investment across both gross profit and operating expenses. Device revenue is generated from the sale of our players and first-party TVs. It does not include revenue from the sale of third-party Roku, Inc.-made TVs by our OEM partners, which is the largest portion of our overall device unit volume. We look at total device investment across both device gross profit and distribution costs, which sit in sales and marketing.\nDespite expectations for elevated memory costs in the second half of this year, the amount of our overall device investment and unit sales factored into our full-year outlook has not changed from last quarter. Our prior outlook already accounted for increasing memory prices. We maintain strategic flexibility to optimize the mix of units across players, first-party TVs, and third-party TVs. No one knows what will happen to memory prices beyond this year or how the CTV market will react. Even if memory prices remain elevated beyond this year, we are confident that strong platform revenue growth and our device and operational flexibility put us in a position to continue to expand our EBITDA margins.",
+      "turn_index": 7
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you. Our next question comes from the line of Sean Diffely with Morgan Stanley. Your line is open.",
+      "turn_index": 8
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Sean Diffely",
+      "text": "Great. Thanks very much, team. I was hoping you could talk about what you are seeing with your third-party DSP strategy and Amazon in particular. I think you extended the partnership with them earlier this year, so I was hoping you could elaborate on what you are seeing there.",
+      "turn_index": 9
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Anthony J. Wood",
+      "text": "Hey, Sean. Charlie will take your question.",
+      "turn_index": 10
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Charlie Collier",
+      "text": "Hey, Sean. Appreciate the question. I will talk a little about Amazon, but stepping back, all of our DSP partnerships are important and serve different customers and segments. Our strategy is to be open and interoperable and deeply integrated with every major DSP so that when clients want to transact, we meet them wherever they choose to transact—whether on the Amazon DSP or, for example, through the extension of our DV360 deal with Google. We aim to be everywhere buyers want to transact. Strategically, our medium-term goal is to be the most performant CTV ad platform in the industry. While I will not break out specifics, first quarter results show our third-party DSP strategy is working.\nThe majority of our video delivery is now through third-party programmatic partners, and we are growing quickly. These take time to ramp. We feel very good about how Amazon is doing and how our other partnerships are going. You are seeing the results in Q1 and in our compounded share of programmatic revenue. Combined, Amazon DSP, The Trade Desk, Yahoo, FreeWheel—all of them—advertisers can now access our premium inventory through virtually every major buying platform. Our job is to drive outcomes and performance for marketing partners, and we are bullish on our position as the open and interoperable partner in a marketplace with so many walled gardens.",
+      "turn_index": 11
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you. Our next question comes from the line of Justin with KeyBanc. Your line is open.",
+      "turn_index": 12
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Justin Patterson",
+      "text": "Great. Thank you very much, and congratulations on the 100 million household milestone and the Laguna Beach special. Conrad looked pretty excited repping that hat at Nasdaq. Two quick ones if I can. First, I was hoping to hear about how you are thinking about the role of Roku, Inc. Originals today. Second, we have seen many companies achieve meaningful productivity improvements from GenAI tools. How are you thinking about the pace of product innovation, improvements to discovery and recommendations, and what guardrails you have against rising token costs?",
+      "turn_index": 13
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Anthony J. Wood",
+      "text": "Thanks, Justin. Charlie will take the question on originals and then I can take your second question on AI.",
+      "turn_index": 14
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Charlie Collier",
+      "text": "Thanks, Anthony. Justin, first of all, that was a great hat, and we are really happy with Laguna Beach—he looked great. On content and specifically originals, our overall strategy in the content ecosystem is differentiated and has been honed over the years. Our original programming strategy has not changed. It is a targeted and powerful part of our offering, but remains a relatively small part of the overall content budget. In the upfront we say Roku, Inc. has the hits and the habits. The hits are ours—like the Laguna Beach 20th reunion, which became our largest unscripted series ever—and everyone else’s are on the platform. The habits are the massive daily viewing that makes up so much of U.S.\nTV viewing. With 100 million households and nearly half of streaming happening on our platform, our scale as a programmer is meaningful to every type of partner. Specifically for originals, we program across four pillars. We complement everyone’s hits and build the lead-in to their hits. We program against sports—an important vertical—and serve as a lead-in to major sporting events. We program seasonally—custom holiday movies with sponsors, World Cup specials, and similar. And we do UI programming—when Wicked launched on demand, we had original programming in our UI and brought Demi Lovato to do a concert on a Roku City rooftop. We also just launched a UI original, Roku City Dash, an interactive game.\nWhile the majority of our spending builds daily reach—because we see our viewer 25 days a month—we love when our originals take advantage of that. Anthony?",
+      "turn_index": 15
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Anthony J. Wood",
+      "text": "On AI, at the highest level, AI is a big opportunity for Roku, Inc. It is a powerful tailwind for our business. We are integrating it across our entire technology stack. In our products and platform, we use AI to improve discovery and increase engagement, improve advertising performance, and unlock new monetization opportunities. We have used AI in the platform since the beginning, but over the last year or two we have been moving algorithms to modern generative approaches, improving performance. The more we personalize the experience, the more engagement we get, the more ad viewing we can drive, and the more subscription sign-ups we can drive. On engineering, we are rapidly adopting AI.\nIt is accelerating feature development and enhancing engineer productivity. In content, AI is lowering the cost of content creation for both entertainment and ads, which should drive more engagement on our platform. On the advertising side, generative AI is helping us build the most performant connected TV ad platform—our big goal. We are leaning into performance across integrating AI, team and hiring, and product. Ads Manager is only possible because of generative AI. It opens an entirely new market of performance advertisers and SMBs. That product is built end-to-end on generative AI, including creative video generation. We also use AI across the company to drive operational efficiency and productivity. It strengthens our platform, improves monetization, and enhances performance.\nIn terms of controlling costs, we are watching carefully. AI-driven efficiencies improve productivity and will show up in OpEx. Costs are very manageable at this point.",
+      "turn_index": 16
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you. Our next question comes from the line of Vasily with Cannonball Research. Your line is open.",
+      "turn_index": 17
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Vasily Karasyov",
+      "text": "Dan, I have a question about subscription revenue and how we should be thinking about forecasting it. You have given us five quarters now. Are there factors we should keep in mind when looking at quarter-on-quarter growth throughout the year? Any seasonal factors? Are there bumps from adding tier-one apps into The Roku Channel? Anything to help frame the trajectory would be helpful. Thank you.",
+      "turn_index": 18
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Dan Jedda",
+      "text": "Thanks for the question, Vasily. There is some seasonality to subscriptions. During sporting seasons—like the NFL—there will be a jump in subscriptions. Price increases are also positive for partners and for us. But the most important factor is scale: we monetize tens of millions of subscriptions, so seasonality does not move the needle much quarter to quarter. What is most impactful from a revenue perspective is launching not just tier-one, but also tier-two and tier-three premium subscription partners, which we are doing very well. That brings incremental subscribers and revenue as we continue to launch new partners. As Anthony said, we recently launched Apple and Peacock. We will have more launches in the future.\nWe also launched premium subscriptions in Mexico and will launch more countries. We think the subscription growth rate is being driven by adding more tier-one, tier-two, and tier-three partners. We are also adding new features and new subscription products that will help over time. The growth rate we see is indicative of the success in premium subscriptions and our direct-to-consumer subscription business. I believe this growth rate is sustainable given the pipeline.",
+      "turn_index": 19
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Vasily Karasyov",
+      "text": "Thank you. Can you give an example of tier one versus tier two—how you classify that?",
+      "turn_index": 20
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Dan Jedda",
+      "text": "We do not have a strict definition. Think of the largest content partners as tier ones. We will mention some larger launches—Peacock, Apple; Paramount+ is a premium subscription partner; we launched Apple in Mexico. There is also a relatively long torso and tail in this business. We monetize tens of millions of subscriptions across our subscription business, and all are growing well for us. Premium subscriptions are just growing faster.",
+      "turn_index": 21
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from the line of Michael Nathanson with MoffettNathanson. Your line is open.",
+      "turn_index": 22
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Michael Nathanson",
+      "text": "Great. Thanks for the added disclosure—it is really helpful. On that line, if you look at gross margin on advertising, it has picked up nicely—probably an all-time high. What is driving that and is it sustainable, maybe even higher from here? And for Anthony, I would love to dig into first-party versus third-party OEMs. Are there differences in monetization or performance? Why would you not lean more to third party if it is more efficient?",
+      "turn_index": 23
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Anthony J. Wood",
+      "text": "Thanks for your question. Dan will answer on advertising gross margin, then I will talk about OEMs.",
+      "turn_index": 24
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Dan Jedda",
+      "text": "Advertising gross margin at just over 60% was very strong in Q1—up over 400 basis points year over year. We feel very good about advertising gross margins. We focus on growing revenue and improving gross margins. We have many tools: higher-margin ad products coming to market—think home screen monetization, like adding video—have been very positive. We are efficient in how we deliver campaigns. We continually optimize to maximize gross margin alongside revenue. On sustainability, I believe this level is sustainable for the rest of this year and thereafter. It could potentially come up. We have ongoing optimizations and new ad products that help margins. We are focused on both overall advertising revenue and GP.\nI believe it will sit at this level, maybe even come up.",
+      "turn_index": 25
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Anthony J. Wood",
+      "text": "On first party versus third party, to level set, first-party products are our streaming players and streaming sticks—products we build, sell, distribute, and market ourselves—as well as first-party TVs sold under the Roku, Inc. brand and the Hero brand. Third party means working with other OEMs like TCL and Hisense, among many others. In terms of monetization, they are pretty similar. There are slight differences by retail channel because different retailers have different customer mixes, which can result in slightly different monetization. TV size also affects monetization a bit—bigger TVs monetize slightly higher—and players versus TVs differ somewhat, but none of these are particularly large. We would not focus on it. Why not lean more into third party?\nWe already lean into third party a lot. The vast majority of Roku, Inc. TVs sold are third-party TVs. We do both because TV distribution is complex—different countries, regions, retailers, brands, models, features, price points. Offering a variety across third party and first party gives us maximum flexibility to maximize distribution and gives retailers options. For example, Hero is currently exclusive to Target, which helps distribution there. There are many similar reasons.",
+      "turn_index": 26
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you. Our next question comes from the line of Richard Scott Greenfield with LightShed Partners. Your line is open.",
+      "turn_index": 27
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Richard Scott Greenfield",
+      "text": "Hi, thanks for taking the question. A couple. One, you have been expanding tests of a new home screen—looks like half the screen is content boxes, apps pushed down, and a persistent video box on the right. How soon does this roll out more broadly, and what are you seeing early in terms of impact on subscription uptake or advertising? Any business impacts would be great. Two, there is talk from Antenna that Audi hit 1 million subscribers. Whether or not that is true, Audi is clearly bigger than expected. How big can Audi be? Do you need original programming? The future of Audi would be great to hear.",
+      "turn_index": 28
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Anthony J. Wood",
+      "text": "Thanks, Rich. On the home screen, we have been testing the new design for a while. It is a big change—every Roku, Inc. customer will get the new home screen when it rolls out, so we want to ensure customers are happy and prefer it. It is easy to get most customers to like it more, but we aim for almost all customers to like it more. We have focused on improving monetization—subscriptions and ads—and engagement, and preserving our iconic look. Most connected TV platforms look similar; our home screen looks unique and more delightful, and we do not want to lose that. The test is in a fairly large number of homes and will roll out to everyone soon.",
+      "turn_index": 29
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Results are encouraging",
+      "text": "more engagement, improved viewer satisfaction, increased monetization. For example, the marquee ad is visible on first launch in the new design—previously you had to scroll—driving higher click-through rates and making the unit more valuable. Making content more prominent is something consumers want; it drives engagement and allows us to promote subscriptions and ad-supported content. We are also making app tiles more user-friendly—more likely to see the app they want near the top. There are many detailed changes to improve satisfaction and monetization. It is going to be a good change for us. On Audi: for those who may not know, Audi is our owned-and-operated subscription streaming service.\nOur main O&O service is The Roku Channel, which is free and ad-supported and is the number two app on our platform with over 6% of all streaming viewing in the U.S. Audi is newer and not as big as The Roku Channel, but it is doing extremely well. It is an ad-free SVOD at $3 a month—very affordable. It targets a segment not well served today as services have raised prices and increased ad loads. We intend to stay focused on that affordable segment, which we think is very large. The content will keep getting better as we grow, enabling more investment and a positive flywheel. I think it can be very large.\nOn originals, we do not have plans right now for big-budget originals. Those are expensive and generally require a more expensive service. That said, as we improve content quality and the audience grows, we will likely have originals someday. We do have Roku, Inc. Originals today—like Laguna Beach—which tend to be unscripted rather than big-budget scripted. For now, we are focused on improving content quality and promoting it in our UI and off-platform. We recently launched on Amazon Prime and in Mexico, and those are doing really well.",
+      "turn_index": 30
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you. Our next question comes from the line of Peter Supino with Wolfe Research. Your line is open.",
+      "turn_index": 31
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Peter Supino",
+      "text": "Hi. Question on your DSP relationships. If you could discuss the growth contributions you are seeing in the context of this great acceleration of ad sales. Could you rank order the growth contributions from The Trade Desk, Amazon, and others? And I believe your relationship with DV360 is somewhat different than with Amazon. If that becomes a contributor, should it have a different impact? Thank you.",
+      "turn_index": 32
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Anthony J. Wood",
+      "text": "Hey, Peter. Thanks for the question. Charlie will take it.",
+      "turn_index": 33
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Charlie Collier",
+      "text": "Thank you. I answered some of this earlier. Each relationship is different and important, and we start with the customer. Customers want to transact in different ways and have different goals, so our strategy is to serve them by being open, interoperable, and deeply integrated with every major DSP, meeting clients everywhere they want to transact. On top of that, our goal is to be the most performant CTV platform. On DV360, we expanded in ways that are slightly different—each DSP relationship is different. We signed up with Campaign Manager 360, which matters for three reasons. First, Roku, Inc. is the first streamer to participate in Publisher Match—we like being an early mover.\nSecond, it enables holistic management of YouTube for the first time, which means advertisers can activate Google's first-party data and their own first-party data on Roku, Inc. Media inside DV360—audiences that previously only worked on YouTube in isolation. Third, Campaign Manager 360 measures Roku, Inc. Media regardless of where the advertiser's buy lands, providing proof of Roku, Inc.'s outstanding performance up and down the marketing funnel. As we seek to be known as the most performant CTV platform, this further proves it across all sources of advertising platforms.",
+      "turn_index": 34
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you. Our next question comes from the line of John Hodulik with UBS. Your line is open.",
+      "turn_index": 35
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "John Hodulik",
+      "text": "Maybe talk about subscription revenue gross margin. It looks like, different from advertising, you saw some pressure over the last few quarters on gross margin there. What is driving that? Is it mix shift? Any outlook on that margin would be great. And I see that non-M&E ad spend on the home screen reached 30%. Where can that number go, and what categories are having success on the home page?",
+      "turn_index": 36
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Anthony J. Wood",
+      "text": "Dan will take that.",
+      "turn_index": 37
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Dan Jedda",
+      "text": "Thanks, John. On subscriptions, at just north of 40%, subscriptions gross margin is down, and it is mix-driven. We have different subscription activities that mix to higher revenue growth but slightly lower gross margins. I expect it to stay at the 41% to 42% level for the rest of this year. We also have higher-margin activities that we think will grow in Q2 and for the rest of the year. Premium subscriptions are driving margins down a little, but I expect it to level off here. Along with advertising margin at just north of 60%, I think platform gross margin will be closer to the high end of the 51% to 52% range.\nI do not expect it to go down from there—if anything, maintain or come up a little. On non-M&E, non-M&E brands represented nearly 30% of the Roku, Inc. Experience advertising revenue in Q1—an all-time high and a deliberate outcome of years of demand diversification work. Adding video to the home screen has been important, and the new home screen—which collapses the left nav—has the ad unit front and center on launch, increasing impressions and effectiveness. This diversification lets us expand availability of that unit, a positive for both revenue and gross margin. There are other home screen areas to monetize as well, but that unit is particularly impactful.",
+      "turn_index": 38
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Charlie Collier",
+      "text": "To add, as I look at M&E now, when the M&E market is healthy, there is a tailwind for Roku, Inc., and when it is soft, the rest of Roku, Inc.'s book now carries us. That is a major difference between this year and prior years.",
+      "turn_index": 39
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from the line of Laura Anne Martin with Needham. Your line is open.",
+      "turn_index": 40
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Laura Anne Martin",
+      "text": "Hi. I have two. First, you are aggregating the most expensive content—film and TV—and we are hearing from Netflix that they will add lower-cost content, maybe high-quality YouTube influencers. What is your vision for aggregation and driving engagement long term, which may take different kinds of lower-cost content? Second, on devices: device revenue is down 16% with a negative 14% margin. Does it matter whether that is sticks versus your Roku, Inc.-branded TVs? Or did Walmart buying Vizio affect shelf space? Could you go granular into what is driving the downdraft on the device line?",
+      "turn_index": 41
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Anthony J. Wood",
+      "text": "Hey, Laura. On content, we talked about the Netflix announcement—they will do clips. We do have that kind of content in many places. We are primarily a distribution platform for third-party services; we carry YouTube, which has a lot of lower-cost content. In our own services, we distribute clips—from Saturday Night Live to movie trailers to sports highlights from multiple leagues. We have a “best of clips” strategy in our owned-and-operated services. We are not trying to compete with YouTube; we carry YouTube and it is a great product.\nWith Audi, we are focused on offering a low-cost service, so we look for both high-quality more expensive content and high-quality lower-cost content, including content made lower-cost through AI production and unscripted formats. We are focused on a broad array of content, including lower-cost content.",
+      "turn_index": 42
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Dan Jedda",
+      "text": "On devices, what is driving revenue and margins down is primarily ASPs in streaming players continuing to come down, along with higher memory costs. That impacts overall margins. From a unit perspective, we are on track with where we expected to be for total units across all devices. To be clear, we are not kicked out of Walmart. We still sell a lot of units at Walmart—third-party units and first-party TVs. First-party TVs are growing quite well year over year. It is not a volume issue per se; it is ASP pressure and higher memory pricing, especially in the back half, consistent with our guidance.",
+      "turn_index": 43
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Mustafa Ozgen",
+      "text": "We feel good about diversifying our distribution and are on track with overall device unit sales targets for the year. We recently surpassed 100 million streaming households worldwide, a major milestone highlighting our scale and momentum. In the U.S., we are in more than half of broadband households. Customers love our products and experience, and retailers want to sell them. We continue to have a great relationship with Walmart—our products fit well for their customer base, and shoppers love them. We are successfully broadening and diversifying retail distribution. We grew our presence at Target—Anthony mentioned the Hero brand TVs supporting that partnership.\nWe are growing at Best Buy, Amazon, and regional retailers, and we expect to add more retailers in the second half. We are actively expanding and diversifying TV OEM licensing agreements, including with long-term partners TCL and Hisense. Increasing memory costs across the industry are helping us—we are becoming more attractive to OEMs and retailers. We expect to see the impact of updated partnerships in second-half sales. Overall, we are well positioned. Our portfolio—streaming sticks, first-party TVs, third-party TVs—gives us flexibility to lean into products based on market and cost conditions. Roku, Inc. TV unit sales may go up or down quarter to quarter, but overall we expect to continue growing our scale.",
+      "turn_index": 44
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you. Please stand by for our next question. Due to the interest of time, our final question will come from the line of David Carl Joyce with Seaport Research Partners. Your line is open.",
+      "turn_index": 45
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "David Carl Joyce",
+      "text": "Thank you. As you continue to deepen your integrations with DSPs and maybe add a few more, what could that do to the cadence of the advertising gross margin? I know you talked about overall where you think it could be, but what might the impacts be over the next few quarters?",
+      "turn_index": 46
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Anthony J. Wood",
+      "text": "Thanks, David. Dan will take your question.",
+      "turn_index": 47
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Dan Jedda",
+      "text": "The way we integrate with demand-side platforms impacts the volume of impressions we get depending on where the advertiser wishes to transact, but not margins—with one caveat. Amazon, where it is at the platform level, will be positive. The remaining DSPs—where we integrate and adopt their identifiers like hashed email—do not impact our margins either way. What impacts margins is how we fulfill: the ad units we have—like the home screen—and how we complete campaigns internally. We are very good at optimizing fulfillment, and we keep getting better. That is not a function of how demand comes in; it is a function of how we fill it with our platform.",
+      "turn_index": 48
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you. Ladies and gentlemen, at this time, I would like to turn the call back over to Anthony for closing remarks.",
+      "turn_index": 49
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Anthony J. Wood",
+      "text": "Thanks. It was an outstanding quarter. I would like to thank our employees, customers, advertisers, and content partners, and thanks to all the listeners for joining.",
+      "turn_index": 50
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "That concludes today's conference call. Thank you for your participation. You may now disconnect.",
+      "turn_index": 51
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "OPK",
+  "call_date": "2026-02-26",
+  "quarter": 4,
+  "year": 2025,
+  "pressure_score": 0.05085103210999642,
+  "cosine_distance": 0.14407814841739763,
+  "sentiment_shift": 0.0017620720900595188,
+  "question_difficulty_mean": 0.16695421141882738,
+  "baseline_mean": 0.05072356644568695,
+  "baseline_std": 0.0001802636712033469,
+  "z_score": 0.7071067811865476,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5834771057094137,
+    "call_mean_answer_length": 33.0,
+    "call_hedge_density": 0.0,
+    "call_pos_sentiment_mean": 0.7695146799087524,
+    "call_neu_sentiment_mean": 0.21722976863384247,
+    "call_neg_sentiment_mean": 0.01325556356459856,
+    "call_qa_similarity_mean": 0.4206994626648504,
+    "baseline_neg_sentiment_mean": 0.011493491474539042
+  },
+  "generated_at": "2026-05-20T06:29:03+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "BIIB",
+  "call_date": "2026-04-29",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.07219386621299183,
+  "cosine_distance": 0.20268453608536952,
+  "sentiment_shift": 0.0047151676643220515,
+  "question_difficulty_mean": 0.16916183753501726,
+  "baseline_mean": 0.07227892170440603,
+  "baseline_std": 0.010391472458294389,
+  "z_score": -0.008185124077032119,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5845809187675086,
+    "call_mean_answer_length": 129.27272727272728,
+    "call_hedge_density": 0.040841225659602826,
+    "call_pos_sentiment_mean": 0.11276018687269905,
+    "call_neu_sentiment_mean": 0.8578221093524586,
+    "call_neg_sentiment_mean": 0.029417692514305763,
+    "call_qa_similarity_mean": 0.3631842213057392,
+    "baseline_neg_sentiment_mean": 0.034132860178627815
+  },
+  "generated_at": "2026-05-20T04:46:28+00:00"
+}

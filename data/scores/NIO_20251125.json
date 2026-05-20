@@ -1,0 +1,28 @@
+{
+  "ticker": "NIO",
+  "call_date": "2025-11-25",
+  "quarter": 3,
+  "year": 2025,
+  "pressure_score": 0.019620089506486426,
+  "cosine_distance": 0.02702933267358487,
+  "sentiment_shift": 0.038914678437505665,
+  "question_difficulty_mean": 0.23460961953181658,
+  "baseline_mean": 0.01835436604141429,
+  "baseline_std": 0.0013517425269509184,
+  "z_score": 0.9363643148279045,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6173048097659083,
+    "call_mean_answer_length": 323.2857142857143,
+    "call_hedge_density": 0.003038680980195677,
+    "call_pos_sentiment_mean": 0.41938148545367376,
+    "call_neu_sentiment_mean": 0.49185002382312504,
+    "call_neg_sentiment_mean": 0.08876848619963441,
+    "call_qa_similarity_mean": 0.5448574022823395,
+    "baseline_neg_sentiment_mean": 0.04985380776212875
+  },
+  "generated_at": "2026-05-20T06:22:09+00:00"
+}

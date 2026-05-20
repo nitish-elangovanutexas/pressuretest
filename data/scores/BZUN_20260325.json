@@ -1,0 +1,28 @@
+{
+  "ticker": "BZUN",
+  "call_date": "2026-03-25",
+  "quarter": 4,
+  "year": 2025,
+  "pressure_score": 7.903648222903363e-17,
+  "cosine_distance": 2.220446049250313e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.18649557305116898,
+  "baseline_mean": 7.903648222903363e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5932477865255845,
+    "call_mean_answer_length": 148.4,
+    "call_hedge_density": 0.02537220990680149,
+    "call_pos_sentiment_mean": 0.6930490672588349,
+    "call_neu_sentiment_mean": 0.2966164290904999,
+    "call_neg_sentiment_mean": 0.010334515757858754,
+    "call_qa_similarity_mean": 0.4714747290516573,
+    "baseline_neg_sentiment_mean": 0.010334515757858754
+  },
+  "generated_at": "2026-05-20T04:51:43+00:00"
+}

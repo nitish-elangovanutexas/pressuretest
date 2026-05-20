@@ -1,0 +1,28 @@
+{
+  "ticker": "VICI",
+  "call_date": "2026-04-30",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.07319483399582082,
+  "cosine_distance": 0.20245114343865345,
+  "sentiment_shift": 0.012415546911780706,
+  "question_difficulty_mean": 0.15780806395802996,
+  "baseline_mean": 0.04189225761382725,
+  "baseline_std": 0.027116105527027097,
+  "z_score": 1.1543905650755688,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.578904031979015,
+    "call_mean_answer_length": 107.85714285714286,
+    "call_hedge_density": 0.026793313370825467,
+    "call_pos_sentiment_mean": 0.2080421091190406,
+    "call_neu_sentiment_mean": 0.7667734537805829,
+    "call_neg_sentiment_mean": 0.025184445216187408,
+    "call_qa_similarity_mean": 0.4380829256409542,
+    "baseline_neg_sentiment_mean": 0.037599992127968114
+  },
+  "generated_at": "2026-05-20T07:21:55+00:00"
+}

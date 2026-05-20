@@ -1,0 +1,28 @@
+{
+  "ticker": "C",
+  "call_date": "2026-04-14",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.024199359823941682,
+  "cosine_distance": 0.06345719411228168,
+  "sentiment_shift": 0.007554380642250176,
+  "question_difficulty_mean": 0.1776970681213052,
+  "baseline_mean": 0.02527807516924746,
+  "baseline_std": 0.01146920519448355,
+  "z_score": -0.09405319087190259,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5888485340606526,
+    "call_mean_answer_length": 111.46153846153847,
+    "call_hedge_density": 0.013670883199832009,
+    "call_pos_sentiment_mean": 0.28601443566955054,
+    "call_neu_sentiment_mean": 0.6901551416287055,
+    "call_neg_sentiment_mean": 0.02383041474968195,
+    "call_qa_similarity_mean": 0.3852869612109578,
+    "baseline_neg_sentiment_mean": 0.031384795391932126
+  },
+  "generated_at": "2026-05-20T04:52:19+00:00"
+}

@@ -1,0 +1,394 @@
+{
+  "ticker": "APP",
+  "company_name": "Applovin",
+  "call_date": "2026-05-07",
+  "quarter": 1,
+  "year": 2026,
+  "prepared_remarks": "Earnings Call Transcript\nAppLovin (APP) Q1 2026 Earnings Transcript\nBy\n\nMotley Fool Transcribing\n\n–\n\nUpdated May 7, 2026 at 12:36PM EST\n\n\n\n\nImage source: The Motley Fool.\n\n\nDate\nWednesday, May 6, 2026 at 5 p.m. ET\nCall participants\nChief Executive Officer — Adam Foroughi\nChief Financial Officer — Matt Stumpf\nNeed a quote from a Motley Fool analyst? Email\n[email protected]\nTakeaways\nRevenue\n-- $1.84 billion, representing 59% year-over-year growth and 11% sequential growth, attributed to advancements in core gaming and expansion in the consumer vertical.\nAdjusted EBITDA\n-- $1.56 billion, up 66% year over year with an 85% margin and an 86% quarter-over-quarter flow-through, reflecting strong operating leverage.\nFree Cash Flow\n-- $1.29 billion for the quarter, with management attributing a temporary elevation to interest and tax payment timing, and guidance for approximately 75% EBITDA conversion for the year.\nCash and Cash Equivalents\n-- $2.76 billion at quarter-end, giving management stated flexibility for continued organic investment and capital returns.\nShare Repurchases\n-- 2.23 million shares repurchased and withheld for $1 billion, ending with 336 million shares outstanding and $2.3 billion remaining under authorization.\nQ2 2026 Outlook\n-- Revenue guidance of $1.915 billion to $1.945 billion (52% to 55% year-over-year growth, 4% to 6% sequentially); adjusted EBITDA guidance of $1.615 billion to $1.645 billion with implied 84% to 85% margin.\nPlatform Public Launch\n-- Axon platform opening to all advertisers in June, cited by management as a major milestone. that will change company trajectory and enable self-serve onboarding worldwide.\nConsumer Vertical Momentum\n-- Quarter exit saw March advertiser spend 25% higher than January; April reached a record high for advertiser spending, surpassing all previous Q4 months and marking new acceleration.\nAI-Driven Model Improvements\n-- Recent material model release for the consumer vertical produced noticeable uplift in advertiser returns and spending, maintaining a historically high pace of compounding improvements.\nAI Creative Tools Rollout\n-- Interactive page generator for ad creative made available to all customers; video ad generator in final testing, with plans to broadly launch before the June platform opening.\nGaming Vertical Scale\n-- Gaming remains the largest revenue contributor with sustained acceleration.\nHybrid Monetization Trend\n-- Management cited a continued migration of in-app purchase (IAP) games toward hybrid models, with growing use of ads unlocking a 10x the market opportunity for developers as ad and IAP coexist.\nMarketing Efficiency\n-- Performance marketing breaks even in under 30 days; average annualized revenue per newly acquired customer projected well over $70,000 highlighting strong retention and significant incremental cohort potential.\nCapital Allocation\n-- Priorities unchanged: fund organic investments and return excess capital to shareholders via buybacks.\nInfrastructure Readiness\n-- Management confirmed sufficient GPU capacity for current demand and flexibility to expand as needed via cloud partnerships.\nSummary\nAppLovin\n\n(\nAPP\n\n+2.60%\n)\ndelivered exceptional first-quarter growth, highlighted by rapid expansion in both its core gaming and newer consumer vertical, alongside margin improvement and outsized free cash flow. Management announced the June public launch of the Axon platform as a pivotal step to dramatically broaden the company’s advertising reach. Product enhancements, including advanced AI-based models and creative tools, are accelerating advertiser success and fueling record spend, particularly in the consumer segment. Shareholder capital returns remained sizable, with $1 billion in repurchases and flexible liquidity reported.\nManagement described April’s record advertiser spend as surpassing all previous Q4 peaks, indicating unusual demand seasonality for the consumer vertical.\nThe company projected total advertiser opportunity could expand considerably, with potential for 100,000 new customers to generate approximately $7 billion in initial-year ad spend.\nRetention was reported as highly durable, with customers who surpass a 30-day threshold almost never churn, according to Foroughi.\nLeadership confirmed hybrid monetization—combining ads and in-app purchases—has grown much faster than single-channel models, and expects this trend to persist across the gaming ecosystem.\nCapital-allocation strategy remains disciplined with flexibility maintained, as evidenced by strong cash reserves and ongoing buybacks.\nAI-driven creative generation will soon roll out to all users, which management expects will further lower onboarding friction and increase advertiser success rates.\nManagement set expectations for Q2 revenue growth to continue at above 50% year over year, with only modest sequential acceleration amid platform expansion.\nLeaders signaled that Connected TV and additional lead-generation models are under active development for longer-term growth, though no short-term financial impact is projected.\nIndustry glossary\nAXON\n: AppLovin's proprietary ad platform, central to company monetization and now being opened to self-serve advertisers globally.\nIAP (In-App Purchase)\n: Revenue generated within apps from digital purchases, such as game upgrades or content, as opposed to advertising-supported revenue.\nHybrid Monetization\n: A model where mobile apps or games use both in-app purchases and in-app advertising for revenue generation.\nDAU (Daily Active Users)\n: The count of unique users engaging with the platform each day, serving as a core scale metric for ad and app businesses.\nPerformance Marketing\n: Marketing strategies where payment is tied to measurable outcomes like clicks, leads, or sales, rather than branding or reach.\nFull Conference Call Transcript\nAdam Foroughi:\nThanks, everyone, for joining us today. I want to start this call a little bit differently than our last few. No preamble on stock price, no addressing short sellers, no reacting to noise. This quarter, the conversation is about us and our future. And from where we sit, the future has never looked better. We just delivered another quarter where we beat our own guidance. Again, we continue to grow this business very quickly despite the numbers getting much bigger, and we are doing it while margins keep expanding. The rate of top line growth, profitability and free cash flow generation that we are delivering is exceptionally rare in public markets, and our team deserves all the credit for that.\nWhat I want to spend my time on today is the opportunity ahead because we are quickly moving through a lot of the goals we set for the business this year, and we are now well on our way to opening up our platform to the public in June. That is a major milestone. For 14 years, we have been a closed platform. Come June, advertisers across the world will be able to sign up for Axon and start running campaigns. That changes the trajectory of this company in a very meaningful way. Let me start with gaming because it remains the foundation of everything we do, and it is performing really well.\nA couple of weeks ago, we hosted our annual Gaming CEO Summit. We bring in the top executives from the biggest mobile gaming companies in the world, and the energy this year was unlike anything I have seen. These companies have been our closest partners for over a decade in many cases, and the excitement was strong. There is a real sense that we are entering a new phase of growth for the industry and our platform is at the center of it. Here is what is driving that excitement. First, AI technologies are now enabling these studios to do things they cannot do before.\nIncumbent gaming companies, the ones that already have successful titles, can now use AI tools to improve their current games faster and cheaper. More importantly, it is giving them the confidence to launch new games. The cost of experimentation has come down dramatically, and that is unleashing a wave of new content that is really healthy for our ecosystem. Second, we are seeing a meaningful shift in how these companies think about monetization. Games that historically only made money from purchases are now really focused on testing hybrid models where they also unlock incremental revenue from ads. This is a big deal.\nFor years, a lot of these IAP-only games would not run ads because they did not want to promote competing titles. But as we scale advertisers who are not gaming companies, whether apps or websites, e-commerce or other categories, which we now call our consumer vertical, those concerns go away. A cookware company or a fashion brand is not competition to a puzzle game. So we fully expect to see a lot of IAP-only games start monetizing with ads that will not be deemed competitive. That is going to be a strong tailwind for many quarters.\nTogether, we and our gaming partners can acknowledge that our platform is driving the market's leading scale and return on ad spend and continues to help the industry grow faster than expected. The ad-supported part of the ecosystem continues to grow at really healthy rates, multiples faster than the growth of the more mature in-app purchasing category. As we look forward, we expect to see much more high-quality content come to market that taps into both ads and in-app purchasing monetization, and that plays really well into our strengths. Now that brings me to the consumer vertical, which is growing even faster than gaming. This is still only 1.5-years-old product. I want people to really internalize that.\nAnd it is scaling at a pace that gets us very excited. A couple of weeks ago, we had another material model release that improves scale and return on ad spend significantly for our consumer advertisers. These are the types of compounding improvements we have talked about on prior calls. The team improves the model, advertisers see better returns and they put more budget into our system. It is a virtuous cycle, and it is working. The consumer vertical exited the quarter very strong with March growing roughly 25% more than the numbers we did in January and April reaching a record month in advertiser spend, higher than any peak Q4 month.\nThat kind of acceleration is exactly what you want to see from a product that is still early in its development curve. Advertisers are seeing real success on our platform, and they are ramping aggressively. We are thrilled that this is happening, and we are really excited about what comes next. When we open up our platform in June and start pursuing our mission of helping all the businesses in the world add another material marketing channel to their set of opportunities, that is when this thing just continues to compound. We've always said we want to help the smaller businesses scale.\nLast quarter, I highlighted an Israeli cookware company that went from $4 million in revenue to $16 million to now projecting $80 million with the majority of their ad spend on our platform. That is the kind of story we want to replicate thousands of times over. As we look forward, one of the things that I'm most excited about is how advertisers will interact with our platform. We are already seeing advertisers use AI agents to manage their marketing spend, and we are building Axon to be natively accessible to those agents.\nBetween self-serve access in June, our AI-powered ad creative tools and agent-compatible infrastructure, we are building a system where an advertiser can onboard, generate high-performing ads and scale campaigns profitably without ever needing to talk to a human. We're also showing up more, podcast, sponsorships, a larger voice in the market, that visibility reflects a deeper conviction, Axon-powered growth isn't a niche phenomenon. It's a blueprint for transformation at a scale the world hasn't seen yet. Millions of businesses, that's the opportunity in front of us. Let me close with this. We are a focused company, more excited about our opportunities than at any point in our history.\nThe gaming business is strong, our partners are energized, and we are helping the industry grow. The consumer vertical is scaling fast, and we are just getting started. Our platform opens to the world next month. We will continue to ignore noise, execute on our path forward, perform well and drive value to our customers. We know that, in turn, that will set us up for a much bigger future than where we are today. With that, I will turn the call over to Matt to walk us through the financials.\nMatt Stumpf:\nThanks, Adam, and thanks to everyone for joining us today. Q1 was another exceptional quarter. We exceeded the high end of our guidance on revenue and adjusted EBITDA, expanded margins to a new high and continued our disciplined return of meaningful capital to shareholders. Revenue in the first quarter was $1.84 billion, up 59% year-over-year and 11% sequentially, driven by continued technology advancements across our core gaming business and our expanding consumer vertical. Adjusted EBITDA was $1.56 billion, up 66% year-over-year, representing an 85% margin. Margins expanded approximately 400 basis points from the same period last year. Quarter-over-quarter flow-through to adjusted EBITDA was 86%, again, reflecting the operating leverage of our model.\nFree cash flow for the quarter was $1.29 billion, slightly elevated due to interest and tax payment timing. As cash tax payments are weighted toward the second and third quarters, free cash flow conversion is naturally lower in those periods and will normalize over the course of the year to approximately 75% of EBITDA for 2026. We ended the quarter with $2.76 billion in cash and cash equivalents, providing significant flexibility to continue funding both organic investment and capital returns.\nDuring the first quarter, we repurchased and withheld 2.23 million shares for $1 billion, ending the quarter with 336 million shares outstanding and approximately $2.3 billion remaining under our share repurchase authorization, a program that continues to reflect our conviction in the value and durability of our business. Turning to our outlook for the second quarter of 2026. We expect revenue between $1.915 billion and $1.945 billion, representing 52% to 55% year-over-year growth or 4% to 6% sequentially. Adjusted EBITDA is expected to be between $1.615 billion and $1.645 billion with an adjusted EBITDA margin of approximately 84% to 85%.\nTo close, Q1 was a beat across every metric with margins at a new high and significant cash returned to shareholders. Our capital allocation priorities for the balance of the year are unchanged, fund organic investment and return capital through buybacks, reflecting our continued commitment to driving shareholder value through disciplined capital deployment. With that, let's move to Q&A.\nOperator:\n\n[Operator Instructions]\nOur first question will come from Matthew Cost with Morgan Stanley.\nMatthew Cost:\nI guess on the product road map, Adam, you talked about a significant product breakthrough just a couple of weeks ago. I guess, could you give us a little bit more detail about what that entailed? Was it a new type of model targeting a different use case? Or was it an existing one? And then we think about -- when we think about the road map forward from a product perspective, what should we be watching for signs of you continuing to expand that opportunity in -- I guess, what you're calling consumer now? Is it about launching new models? What are the milestones that we should be watching for success?\nAdam Foroughi:\nYes. Thanks, Matt. So if you recall, when we first launched AXON 2.0, we've had a lot of fast growth quarters since. I think it's been 12 straight. And almost -- most of that has been attributed to two things. One is releasing new products. So as we've gotten deeper into gaming, you know that we've come out with longer-dated periods of models. And the second and more important is improving the underlying model. An analogy is when you get to the LLMs, they can continuously uptick their model. They're releasing new models that perform better. In e-commerce and now what we're calling consumer, this product is really early. So it's like AXON 2.0, call it, 10 quarters ago.\nWe're going through the phase of not only rolling out a model and understanding what the consumer needs, but also then on the other side, getting more data into the system. As we add more advertisers, we get more data, then we can build a more sophisticated model that can process it and create better output. So we've been continuously doing that. Last quarter earnings, I mentioned we just had one new model that had just created an uplift. The one we just had a couple of weeks ago was quite substantial. So that's why I highlighted on the talk track that we saw a big acceleration going exiting the quarter.\nAnd then April Q2, bigger than any quarter that we had in Q4, which, as you know, most advertising businesses -- I don't know of another advertising business, actually, they can grow Q1 over Q4. But when you're in e-commerce, normally, the first half of the year is a huge drop against Q4. So already being ahead of where we were in Q4 prior to opening up the platform gets us really excited.\nMatthew Cost:\nGot it. Great. And then just on -- you mentioned the GenAI creative tool. You've been talking about that for a couple of quarters, but I think you're in the process of rolling it out more broadly. So I guess how is uptake there? And then I guess, more importantly, for the advertisers that are using it, what sort of impacts are you observing from that?\nAdam Foroughi:\nYes. So I mean, as you know, we've talked about in past quarters, the creative placement on our platform is much different than anywhere else in the world. I'd argue it's the best ad there is. You get over 30 seconds of viewer time and the user can't do anything else. So they're watching our ad and they get to -- the brand can deliver a really thoughtful message there and then go to other steps in the ad that can drive transaction. Because it is so different and unique, advertisers have a problem coming to platform and investing in the creative resources necessary to make our platform scale.\nOn the other hand, on gaming, we're the largest there is anywhere in the world when it comes to mobile gaming user acquisition. So creative resources are entirely dedicated to our platform. So the importance of this shouldn't be understated. It was critical for us to get a model on top of the popular image and video generation models out so that we can hand to advertisers the capacity to just create ads out of the box that work for our platform. We rolled out something called our interactive page generator earlier in the quarter. That's out to all customers. That has pretty widespread adoption at this point. But more important is the video side. That's still in testing.\nWe're going to roll it out to all accounts shortly. And then that's important before we go to a general release as well because that was the point that I mentioned on the last earnings call, advertisers trip up on -- is a lot of advertisers don't even have video for a platform like us. We'll hand it to them with these tools.",
+  "qa_turns": [
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question will come from Omar Dessouky with BofA.",
+      "turn_index": 0
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Omar Dessouky",
+      "text": "Can you hear me now? I wanted to focus on the gaming business for a second, right, because it kept on getting bigger and bigger. So the past several quarters, your quarterly run rate derived from mobile game advertisers has increased every quarter. And more specifically, the amount by which it steps up has also increased in the last several quarters. Did you see that trend continue in the first quarter? Do you expect it to continue the rest of the year? And how does your capacity to fund GPU capacity separate you from some of your competitors who are also adding a lot quarter-on-quarter. Obviously, you're the biggest, but it seems like there's a number of firms growing here.\nSo sorry, so a couple of questions. Did you see the trend continue? Do you expect it to continue for the step-ups to get bigger? And how does your GPU -- your ability to fund GPUs separate you from competitors, if at all?",
+      "turn_index": 1
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Adam Foroughi",
+      "text": "Yes, Omar, you asked like you're almost surprised, but obviously, we're pretty good at game advertising. I'd say with 2 less days in the quarter and coming off the holidays to have that much growth in the quarter -- Q-over-Q against Q4 is quite substantial. When you look at 59% year-over-year, a large, large part of that still because gaming is such a large part of our business comes from the gaming vertical. We have yet since we launched AXON 2.0, seen a slowdown. I also touched on a couple of bullets that were important to understand on the talk track.\nWe've got a lot of these IAP game companies that are really, really good at monetizing in an existing game, now able to create more games at lower cost. Much of those more games will be ad-supported and in-app purchasing supported. This hybrid category is explosive growth on our platform. So as you think about that, we're going into a period post growing really quickly, but one where there's going to be a lot more games from the highest quality developers and more games that are targeted directly at what we're very good at, ads and IAP. So at least thus far, we haven't seen a slowdown in growth.\nWe've talked about 20% to 30% long-term growth in the games category. I think we mentioned that maybe 6 to 8 quarters ago. We've never had a single quarter that's come close to those growth numbers. We've been way over those rates. And we've never stated any different view on our long-term growth rates on the gaming vertical alone. I think you can sort of bank on that at this point. We're doing really well. On the GPU capacity, as the models get more complex, -- as we continue adding more customers, we're going to need more GPUs.\nWe work with Google Cloud on it, and we can go to any cloud, but we have the GPUs that we need to process the business today. And it's very likely we're going to need to continue to buy GPUs. In the market we exist in, the amount of GPUs you have is not the direct indicator of who's going to have the most success. If you compare us to the mobile gaming ad platforms, we probably have the largest infrastructure. However, if you compare us to Google and Facebook, we certainly don't have anywhere near the largest infrastructure. And the reality is different businesses use infrastructure for different purposes.\nWhat makes our business really compelling is that for this space, we've written the best models and products for the advertisers. That's super critical. That's what allows us to do so well. And we process that data and create a better output than anyone else. And that technology lead plus the data expansion, plus all the budgets being on our platform, first and foremost, drives the scale, growth and success you've seen from us.",
+      "turn_index": 2
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Omar Dessouky",
+      "text": "Okay. It was really a question about the quarterly run rate and how much has stepped up, but I do appreciate the answer. Maybe we can talk in the after call about it.",
+      "turn_index": 3
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question will come from Jason Bazinet with Citi.",
+      "turn_index": 4
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Jason Bazinet",
+      "text": "So Adam, I've listened to you long enough to know when you say something a couple of times, it's probably true. And you've mentioned this migration of in-app purchase games moving to hybrid monetization for a couple of quarters now. And since you're pretty good at doing math on the fly, could you just spend a few seconds and just sort of give us your sense of sort of what the mix is today in terms of in-app purchase only versus hybrid? And pick a number, if 5% of the games go over to this hybrid model, what would that mean in terms of your top line? Like how should we dimensionalize what it could mean for AppLovin?",
+      "turn_index": 5
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Adam Foroughi",
+      "text": "Yes. It's really, really hard to do that, especially on the fly. But I'll give you some qualitative points. The in-app purchasing market is mature. It's around $100 billion market. Most of the largest in-app purchasing games are some of our big advertisers. There's been a few that are new, but most are pretty old games. Almost all new games and a lot of these older games are really looking at this hybrid strategy because the growth in that hybrid category has been phenomenal. There was a company out of Turkey this past quarter that just with a dozen people roughly sold for nearly $1 billion about 6 months after launch.\nVast majority of all their user acquisition was on our platform, hybrid game and the growth was phenomenal, got up to a 9-figure year business literally in half a year. And so why is that? Well, the people who are likely to pay in a mobile game are probably all people on our platform given we service adults. But at any given time inside a mobile game, sub-10% of the population will pay in a short window. And we optimized a 28-day window.\nNow when you look at that and go, okay, if I'm a really good developer and I'm making an in-app purchasing game and I'm coming to this really strong marketing platform, Axon, and I'm only buying 10% of their audience, what am I doing? Well, let me go and layer on hybrid monetization. And what happens, 10x the market opportunity for that same customer. So these in-app purchasing developers are really starting to understand that there's massive growth in this mix monetization model. You've got this ad-supported market that's much smaller.\nBut as you know, from the growth rates of all of our peers in the ecosystem and our own, has to be growing way faster than the single-digit growth rate in the in-app purchasing market. It's also starting smaller. Where it is today, I would guess, is going to continue to converge to where the in-app purchasing market is over the next 5 years, and it's going to make it a really strong market opportunity for us and all other players in the ecosystem given how much more available inventory there will be to monetize.\nThen what gets us excited is you pair that with all this extra demand that we're bringing in and the model improvements, and that's really what catalyzes all the growth that you've seen from us.",
+      "turn_index": 6
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question will come from James Heaney with Jefferies.",
+      "turn_index": 7
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "James Heaney",
+      "text": "Just one for Adam and one for Matt. So just for Adam, I think last quarter, you talked about the breakage that you're seeing in your new customer onboarding flow. Could you just give us a progress update on that and how far below your target breakage rate you currently are? And then I had a follow-up for Matt.",
+      "turn_index": 8
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Adam Foroughi",
+      "text": "Yes, James. I don't know that we have a target. I mean, look, in any sort of platform when you get customers on, whether it's social network or an ads platform, you're going to have some breakage. Our job is to give the best tools possible to the customers and really understand what the breakpoints are. The main thing that we talked about last call, resolving, we're still in the midst of resolving. We will over the next couple of weeks before we go to general release, and that's delivering video out of the box. That's not a trivial task, but we initially rolled it out a few weeks ago with customers.\nThere's a blog on our website, so you can see some of the AI-generated ads. Frankly, the AI-generated ads are really, really tough to tell that they're built by AI instead of a human being. And the cost is exceptionally low relative to what a human-generated video would cost. So we think we're pretty close to having that ready to go for anyone to just plug in and get video out of the box. And then we talked about opening up the platform in June. So in a matter of weeks, we'll think we're there. We'll roll it out to the broader base of new customers and just get going.",
+      "turn_index": 9
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "James Heaney",
+      "text": "Great. And then one for Matt, just on marketing expense for the second half of the year. I mean, is it fair to say, obviously, you've got Axon launching broadly in June? I mean is it something you're looking at kind of -- I don't want to say bumping up, but bumping the marketing expense higher in the second half? Like how do you think about that investment?",
+      "turn_index": 10
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Matt Stumpf",
+      "text": "Yes. I mean we've communicated this in the past, James. We're spending performance marketing the same way that our customers do. So we're looking at the return from that spend, and we're only investing where we can do that in an efficient and a profitable way. So we might see some increase in sales and marketing costs associated with the general audience launch and just this ongoing building of our overall brand awareness as well that you've seen, Adam is doing more podcasts that he mentioned in the preamble as well. So we'll be spending more costs. And so you might see some temporary increase in the sales and marketing costs associated with that.\nBut over time, if we're really ramping up spend, it should be a positive signal to investors and to the market that we're seeing really profitable returns coming from that. So it should be received very positively.",
+      "turn_index": 11
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Adam Foroughi",
+      "text": "Yes. A couple of other cool stats I pulled before the call on that, too, is we're still running under 30-day breakeven on the dollars we're spending. We're doing a mix of paid marketing and sponsorships. So you might have seen us on some podcasts, you might see the ads on social media, you might see the ads on search. We're going to keep doing that, but we're very disciplined about what we do. We're not in a rush to go really sprint at this opportunity because at the same time as it's really important for us to bring advertisers on, we need time to keep improving our models and our products.\nAnd as you know, every time we do that, everything lifts with it. And then secondarily, I was looking at right before the call, what's the actual value in the frontier of a new customer. And our business, as you know, as customers retain over time, the growth that will happen to the cohorts will be pretty material after the first few months to the front year to the following years. We almost never churned customers once they get through the first 30 days on our platform. Right now, we're projecting well over $70,000 a year from every new customer.\nSo if you just want to size that, if we open up the platform and sign on 100,000 customers in the next year, first year revenue from them are ad spend -- advertising spend would be roughly $7 billion. And then you start stacking the cohorts up. So the market opportunity for us now that we've seen that the ticket size is pretty material, even though we've opened up the platform in part through referral is really, really large. We just have to go execute on it.",
+      "turn_index": 12
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question will come from Stephen Ju with UBS.",
+      "turn_index": 13
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Stephen Ju",
+      "text": "I guess I don't want to split hairs here, but Adam, you've started to talk about the broader consumer segment instead of just the narrower e-commerce definition. The retail opportunity is, of course, pretty large. But as you think about the rest of the ad market out there that could be spending with AppLovin, can you talk about how easily transportable your current efforts will be to some of the other verticals?\nAnd secondarily, I don't know if this has ever been a concern, but versus the amount of inventory that's out there, how much incremental inventory do you think can be realized with some of the IAP-only publishers as you start to bring them advertisers that do not necessarily compete with them? And should we be thinking about the sales cycles to these publishers is not going to be that difficult because you're hopefully going to be showing up at their doorstep with lots of cash.",
+      "turn_index": 14
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Adam Foroughi",
+      "text": "Yes. So great question, Stephen. So let's cover the second one first because I can remember right now, we'll go back to the first one. So the second one, inventory expansion is pretty important for us over time, but not necessary right now. We have over 1 billion daily active users, and we undermonetize what we show right now. As you know, our conversion rate on 1,000 impressions is pretty low to a revenue-generating event for us. And that's only going to go up as the models improve and advertiser density improves. But there's a couple of logical places to go to get inventory.\nSo as you talk about in-app purchasing games, if you just start with the $100 billion market and say, Activision when they were public, and they used to report King ad revenue, they've gotten it to 15%. Let's just take that as an estimate, $15 billion a year to the publisher and then obviously, revenue on top for ad networks. Most of those apps today don't run ads. So if you say, let's say, even half of them do, now you have a $7.5 billion opportunity publisher, there's a massive supply side expansion for us. That's sort of sitting there pretty easy out of the box. We're going to go after that in short order.\nThe other side of this that is important to understand is as we go and get more publishers to look at us as an advertising monetization platform, we're not competitive with really anyone in the world. So you can imagine any type of publisher that's sitting out there outside of the really big walled gardens are going to want monetization support. It's not particularly easy to place a game ad on a social network or a music streaming site or a show streaming business. However, you can imagine e-commerce would place pretty well. And tied back to your first question, things like lead generation and things like fintech would place really well as well.\nAnd so as we start going out to these other categories, build the models for them, bring on the demand, in parallel, we're going to go to get more supply, both on mobile and then hopefully execute on the connected TV strategy as well. So this is all on our road map. It's stuff that we're actually working on and thinking about today. It's not stuff that I would say for 2026 is going to have any material financial impact. But as we think about our business, our job is to execute on things today that will help the coming years. That's one of the key bullets that we care about.\nNow on the first question of advertiser demand expansion, I'll start with we're never going to get into branding. We believe everything should be performance when it comes to advertisers. So if you think about our business today, almost all of it drives to revenue generation for advertisers, but we're missing a huge category, leads. If you think about some of the biggest advertisers on social, you've got e-commerce, you've got gaming, you have apps that drive to subscription. So those businesses are all revenue-generating businesses. We do that well. The other huge category are things like auto insurance, health insurance, fintech, food delivery. These are things that are structured around a lead. Now we're missing that today.\nWe're in the midst of testing a model around that right now. And as we roll that out, we're going to be sort of in the early stages of what we were when we rolled out the original consumer vertical, what we call e-commerce 6 quarters ago. We'll be at that same stage. But that's something that we're going to invest in. We're going to go service those kinds of advertisers. The 1 billion-plus daily active users are not just gamers as we've proven. They're also not just gamers and shoppers for D2C products. They're going to broadly want to do things.\nAnd so being able to service them with financial services offers, health insurance, auto insurance is a big part of our strategy.",
+      "turn_index": 15
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question will come from Benjamin Black with Deutsche Bank.",
+      "turn_index": 16
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Benjamin Black",
+      "text": "So Adam, on web-based or I guess, consumer advertisers across your existing customers. Can you talk about the difference you're seeing across those who are having success and those who are not yet having success on Axon? And then maybe what you're doing to eliminate some of those points of friction before you open up the self-serve platform in June? And then secondarily, we're hearing more and more developers bypass App Store fees, which obviously improves their margin. So as their profitability increases, have you seen a noticeable tailwind on the gaming side?",
+      "turn_index": 17
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Adam Foroughi",
+      "text": "Yes. The second one is easier, so I'm just going to answer that directly. We don't notice it. It will flow into the ecosystem as it does. It's never going to be uniform. The game developer ecosystem is so fragmented as is our advertiser base. So as they see benefits one-off, they might start investing, but game developers tend to be risk-averse as well. So it's very unlikely that there's been a massive change in economics to the -- net to the game developer thus far. On the first one, as you think -- actually, my mind is slipping up, can you remind me of the question again?",
+      "turn_index": 18
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Benjamin Black",
+      "text": "Success versus not success.",
+      "turn_index": 19
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Adam Foroughi",
+      "text": "Yes. Okay. So when it comes to success versus not, we've talked about this before, ad creative matters a lot. We put out blogs around this. We're trying to instruct the advertisers. But it turns out when we first launched this product, it was pretty easy to tell the advertisers port your social media ads to our platform. That was sort of almost a trap in a way because a 10-second ad that's meant to hook a user in 3 seconds is not very well suited to a 30-second video spot. And so what we've really been doing over the last 18 months with the customers is trying to get them to understand our placements are different.\nThey need to really build creative for our platform. And then not only that, we're starting at a point in time where demand density doesn't exist on our platform. If you go to social, it's very rare that you're going to see the advertiser 5 times in a row. If you come to our platform, we're just getting started. And one, this is sort of a hindrance today, but a huge opportunity over time. If we think that users in the market for a mattress, they might see the same mattress offer 5 times in a row. Now that mattress company wouldn't have had that case in social.\nWhen it comes to us, if they serve 5 times in a row, they better have 5x the video creative, right? Now come a year from now, if we have way more home goods advertisers because the density is inevitably going up, we would serve five different ads in those slots, which would drive our conversion rate up. So thus far, we've seen success with customers that know to invest in our platform for its unique attributes. And we've seen less success for those that think just port over what they're doing elsewhere, and that's going to work out of the box.\nLonger term, the opportunity on our platform is large and what we're excited about is that the conversion rate is inevitably going to go up as we get more advertiser density and drive more competition, which is going to lower frequency of each individual advertiser to the end consumer.",
+      "turn_index": 20
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question will come from Alec Brondolo with Wells Fargo.",
+      "turn_index": 21
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Alec Brondolo",
+      "text": "I appreciate it. Maybe two for me. We track the number of apps and games that are being added to the app stores every month. I think that March was up something like 170% year-over-year. It's a pretty meaningful inflection. I think that the these apps are probably going to be different than the apps that were on the App Store before. I think a lot of them are Vibe coded, A lot of them are being created by prosumers. And I guess the question is, does the way that you distribute the mediation solution need to change in order to kind of reach this new long tail of games and apps that are being created.\nSo that's the first question. Maybe the second question, I think the kind of AppLovin creating a social media platform has been floating around [indiscernible] for a couple of months. I think it keeps coming up. You did a podcast maybe a week ago where you mentioned it again. And so could we maybe just get a little bit of clarification. Is there interest in building a social media network or maybe acquiring one? What is the thought there?",
+      "turn_index": 22
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Adam Foroughi",
+      "text": "Yes. So the first question is a good question. Look, right now, a lot of the Vibe coded stuff in the world is quite a bit of slop more than substance. But as you go forward, what's going to end up happening is these tools are going to let the best developers create more content. Quality is going to go up. The content count is going to go up and the need for discovery is going to go up. So that plays right into our strong suit. The better quality apps are you going to need mediation. Integration with our mediation solution is really trivial. Anyone could integrate with our mediation solution using the popular Vibe coding tools today.\nSo there's nothing that we need to change there. Now it's not our job to go monetize $0.10 a day monetizing apps. There's not a whole lot of value in the long tail. But -- so I would say we don't get excited over the flood of apps in the App Store today. What we get excited about is the ramification of Vibe coding tools for the best developers today. They're only going to get better as we go forward. On the second point, I mentioned this on the podcast, we also can Vibe code products. And there is once upon a time we bid on TikTok. So you know that we have an interest in better monetizing social.\nWe believe we're very good at recommendation engine technology. We have one of the world's most sophisticated advertising technology and the possibility to work on an engagement algorithm with a social app is enticing to our team. What we look at when it comes to the world of Vibe coding and just releasing products is there's very little cost. But what it does for your business to be able to build new products is attract more engineers. Our CTO, Giovanni's job is to hire the best talent in the world of recommendation systems. And so the social media app is an example of something that will play that role.\nNot only will it allow us to attract great talent, that team is pretty excited about the things that they're building, and we're going to be able to test and iterate on our product in a very low-cost and swift way because of the popular Vibe coding tools out there.",
+      "turn_index": 23
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question will come from Clark Lampen with BTIG.",
+      "turn_index": 24
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "William Lampen",
+      "text": "Adam, I wanted to go back to, I guess, the hybrid conversion comments that you were making before. I think you said that net of those changes, developers were seeing 10x improvements in monetization. Is it possible to give us like a relative comparison or some relative framing of how monetization post those changes or the bidding dynamics, I guess, post those changes compares between gaming advertisers and non-gaming advertisers. I think there's some concern that as density builds for the latter that if they're bidding against a higher transaction value that there could be some shift in the bidding dynamics that would be unfavorable for your gaming marketers. Is that happening?\nOr is that -- are you seeing any signs of that occurring?",
+      "turn_index": 25
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Adam Foroughi",
+      "text": "Yes. I mean, look, that's a great question, Clark. Originally, when we got into e-commerce and now what we call consumer, we were a little worried like is this going to cannibalize the gaming customers? And we said we are wasting a lot of impressions showing game, game, game, game. And the model given the opportunity to personalize ads is going to drive incremental transactions without cannibalizing. Now this business continues to grow. So we talked about the $1 billion run rate a year ago. It's much bigger now. And we talked about our fastest growth month and then now in April, getting bigger than any month in Q4.\nSo you see the trends where it's growing, and you just saw us put up a huge growth quarter where most of that growth is driven by gaming. So we have yet to see any cannibalization. There's -- not only is there an offset, which is we have a lot of impressions that we waste that now we can utilize for better targeted product ads, -- the other offset is as we get more e-commerce or consumer brands to go live, we get more data into the system. The more data we get into our model benefits both kinds of advertisers. So as we get more targeted with gaming ads, it's not likely we're going to see a loss.\nAnd then the third tailwind there, which frankly isn't up to us, is that these game developers, I mentioned, again, more sophisticated. They're going to have more titles coming out, and they're going to be doing these hybrid monetization strategies, which paired with the App Store fee cuts are going to drive their monetization up a lot, their reach up a lot and create this opportunity to really expand the ecosystem.",
+      "turn_index": 26
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "William Lampen",
+      "text": "Okay. That's helpful. And maybe for the next question, going back to the top, and I think following up on Matt's question around the timeline for directed model improvements that we are seeing. You guys talked about a conversion rate of around 1.3% intra-quarter. It feels, I guess, at least at a high level, like we're seeing a faster pace of directed model improvements of late. Is that -- one, is that right? And I guess, two, if so, is there something that you guys have figured -- like figured out about your underlying models that is leading to a faster pace of improvement or some unlock there? Like could the next 1.3% come faster?",
+      "turn_index": 27
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Adam Foroughi",
+      "text": "I mean, look, the 1.3% comes from advertiser onboarding and model enhancements. This is really a testament to the team. We're now further evolved at understanding how to improve these models, right? So they understand the techniques. They've gotten more sophisticated at what they're doing. The AI research space, obviously, is seeing fast improvement, too. You've seen an insane amount of product releases in the large language model space in short order because of everything that's happening there. A lot of those same trends apply to us, but I think it starts with our team is just getting much smarter about the tests that they're doing.\nSo we have 100% seen faster improvements to the models, both across the consumer business and the gaming business. And we don't really see a reason why that's going to slow down. As our team of researchers get smarter about the things that they're testing, the success rate goes up, which is going to enable us to continue to push the technology forward, to drive better return on ad spend. That drives up same-store growth. The same customers we have today should keep growing and then pair that with opening up the platform and new advertisers and new data, it makes us really excited about where we're going.",
+      "turn_index": 28
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question will come from Rob Sanderson with Loop Capital.",
+      "turn_index": 29
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Robert Sanderson",
+      "text": "I wanted to go back to the video creation tool that you're in testing now, obviously. Is it mostly technology readiness that you're testing? I mean, is it too early for any learnings on how it changes spending patterns? Second question on that. I know you source multiple models, but any hiccup with OpenAI dropping Sora? And also like is SeeDance 2.0 something you're interested in leveraging? Is that something you can leverage? And then as the product becomes more popular and you can see this scaling to thousands of customers, maybe more than that over time. But what are the implications for compute costs? And do you expect that's going to be a drag on margin?\nDo you think the revenue stimulus is much higher and it maybe comes at lower margin? Or do you think the business can absorb the costs? Or do you think there might be some consumption fee or something like that?",
+      "turn_index": 30
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Adam Foroughi",
+      "text": "Yes. You got a ton of questions I love it.",
+      "turn_index": 31
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Robert Sanderson",
+      "text": "You got to remember them all.",
+      "turn_index": 32
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Adam Foroughi",
+      "text": "Let's see if we can keep them straight. All right. Like video creation tool is new for us. So we don't have -- right now, like in terms of adoption and total volume on the platform, it's pretty low. The job is to make sure that a customer can access the screen, request a video ad and get an output that they're satisfied with. And so like once we clear that hurdle and there's not a whole lot of back and forth on that, we'll roll it out. So as I said earlier, I mean, we're days away from rolling it out. So we're in a pretty good spot with believing that the tool is ready.\nNow we know for a fact, more creatives that are catered to our platform drive up spend. That's pretty much standard. Like it's really not a complex task. So we think it's going to be very beneficial, especially for the smaller customers. There are big customers that make ads for our platform. So if you think about like the gaming companies, not as beneficial for them. They're already investing heavily in creating ads for our platform. I mentioned that on the last earnings call, some of the top ones have 50,000 ads plus live at any given time. This tool isn't meant for them.\nBut the tool is meant for the long tail that we're about to onboard and a lot of these e-commerce/consumer brands that just aren't ramped up on creative production. Now when it comes to cost, which was your last question, we're going to roll it out where we're going to give them sort of an unlimited access. But if people start over delivering creatives, one, it's beneficial. It means the tool works really well. But two, it's a revenue stream for us. We can start charging, we can cap credits. There's companies out there that are raising tons of money at insanely high valuations. They're simply doing this.\nSo if we see that kind of adoption, we could just start charging for it. And frankly, the cost is going to be so low compared to what they can generate in human-generated creatives, that would be a really good sign for the success of what we're building here. And then -- so I wouldn't factor this into our economic profile at all. I would not expect margin compression. This is also not our own compute. This is utilizing third-party services. So it's really just a tax that we have to pay to third-party services to utilize their compute.\nSo then to your last question, which third-party services do we utilize or how is the market evolving when it comes to image and video generation. Sora 2 is a good product. Obviously, it is one of the ones that we use underneath the hood. It going away doesn't change a whole lot. One of the nice things about being an independent company looking at all the large language models is we don't have to be favored toward any of them. And so you mentioned SeeDance, there's other ones out of China as well.\nWe can deploy any form of model, whether open source or closed source in any of the categories, text image or video and utilize the one that's best for the purposes that we have. And you can assume we do that. We don't stick to just one. We want to be optimized for the field. And so that's something that we constantly do. Therefore, Sora 2 being deprecated didn't impact us at all.",
+      "turn_index": 33
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Robert Sanderson",
+      "text": "I know there were six questions, but I'm going to do a follow-up anyway. Just any learnings from the audience segmenting and targeting like you went prospecting campaigns to discovery campaigns. Like any generalization on what this is doing to unlock budget for existing customers?",
+      "turn_index": 34
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Adam Foroughi",
+      "text": "Yes. I mean, look, it's simple. It helps. As you think about like the three different levels of targeting, we talk about it as going to the extreme top of funnel. The discovery tool is to send brand-new site visitors, optimize them and try to convert them for an advertiser. So this is site visitors the customer has never seen before. That's the extreme top of funnel. Then you go to a prospecting campaign that's sort of like you're going a little bit further down funnel, but you're still near the top, where you're driving a new customer that's never bought before, so 0 retargeting, but something that is a new customer that might have visited the site before.\nAnd then our universal campaigns are a mixture of retargeting and not. And so by going from the -- giving this targeting that we allow the advertiser to go complete top of funnel middle of funnel and bottom of funnel, we're seeing that unlock much greater aggregate budget. Most customers that care about this or have these recurring high brand loyalty type of business models usually use a mix of all three. And it gives them just more tools in the tool set. And so it is nice to do that for your customers. It allows them to break things down better. It allows them to change their budgets to better map to their goals.\nAnd we've only seen success since we've rolled out those other incremental targeting types.",
+      "turn_index": 35
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question will come from Vasily Karasyov with Cannonball.",
+      "turn_index": 36
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Vasily Karasyov",
+      "text": "So Adam, following up on what you mentioned a couple of questions ago, you mentioned Connected TV, right? And I remember, I think for 2025, you listed connected TV as your five top priorities for the year, right? Obviously, not getting a ton of attention. But can you explain your vision there? You say you will never do brand, right? You have Wurl. And by the way, Roku mentions Wurl now and then in their shareholder letters that they integrate with them. So can you help us understand how -- what your vision is and how -- what you're doing now will sort of evolve into that.",
+      "turn_index": 37
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Adam Foroughi",
+      "text": "Yes. I mean if you think about what happened, this e-commerce/consumer business just started growing really quickly. So we sort of shifted focus and said, we don't need to take a bunch of shots on goal last year. We said, all in, let's go make this product really scale. Let's build the Axon Ads Manager let's open up the platform. The opportunity was just too big to ignore. So we went all hands on deck on what was in front of us. That doesn't change the fact that we still believe television is massively undermonetized.\nAnd truly the holy grail of advertising when it comes to my view on advertising, defining performance as being able to drive actual incremental revenue for customers is to be able to take that small and medium-sized business that can't today access the big screen and let them buy the big screen and prove that they're driving incremental value. If we're able to do that, we can take the customers that we're acquiring now and be able to give them a click of a button to go to the television screen. That's something that we're still working on.",
+      "turn_index": 38
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Vasily Karasyov",
+      "text": "Take the creative that you generated for them and choose to place it on big screen somewhere. Is that?",
+      "turn_index": 39
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Adam Foroughi",
+      "text": "Exactly right. And be able to do -- prove to them that, that big screen ad drove more revenue for them than the cost that they were paying us on it. If we can do that well, that's a massively scalable business line. And it's also one that's really enticing to us because it's such an underused screen for performance marketing. It's overused for brand marketing historically. It's underused for a lot of these small- to medium-sized businesses, and those are the ones that we really are building tools for. So if we can help them get there, it will grow their businesses and it will be really dramatic growth for us. That's something that we're working on.\nNow as you've seen in the past, we work on a lot of things. We don't talk about things really until we know that things are going to work. It's easy to do extrapolation math. And you've seen us really signal new product is going to scale. And I don't know that we've been wrong once yet, right? Like -- so this is early in development for connected TV. We're still working on it. At the point in time when it becomes something that's real, tangible and we can extrapolate to big numbers, we'll start talking about it more.\nBut I just laid out for you how we think about it, and we do think it's a big opportunity for us as a company in the long term.",
+      "turn_index": 40
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question will come from Jim Callahan with Piper Sandler.",
+      "turn_index": 41
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "James Callahan",
+      "text": "To scale -- how should we think about balancing the user acquisition needs between consumer, I guess, now consumer and gaming verticals?",
+      "turn_index": 42
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Matt Stumpf",
+      "text": "I think we missed the first part of your question, Jim. Could you...",
+      "turn_index": 43
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "James Callahan",
+      "text": "Sorry. Just as e-commerce scales, how should we think about balancing needs between the consumer and gaming verticals on sort of the user acquisition side, making sure they're both sort of happy.",
+      "turn_index": 44
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Adam Foroughi",
+      "text": "Yes. I mean, look, we don't really think about that because, as I mentioned earlier to Clark's question, we haven't seen any cannibalization effect. And so in the absence of -- our job is to continue to invest for both verticals. But the reason why we talk about the platform as a single platform is it's a single auction. It's our job to deliver as much demand diversity into the model so that the model can decide how to place the ad. Now the two models we've talked about historically are different. So we continue to invest on the gaming side, and we continue to invest on the e-commerce/consumer side.\nIt's also our job to keep improving the underlying technology on both at rapid rates. So that's something that we haven't stopped on. Obviously, the gaming vertical for us is much bigger than anything else in our platform today. When we met with the gaming executives in Greece, they've taken note of the fact that our models continue to improve. So we're not going and saying we're going to slow down on one in favor of the other. We're saying we're going to push both forward. And if we continue to see gaming growing really well, we're almost certainly going to see consumer growing faster.\nBut because we haven't seen any cannibalization, it doesn't make us think about, okay, how do you balance the two.",
+      "turn_index": 45
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "James Callahan",
+      "text": "Okay. That's great. And then just one more on e-com. Talked about the step-up in April recently. There have been a lot of sort of new product rollouts. I'd be curious what you'd kind of call out as like the biggest flag of kind of the improvement there.",
+      "turn_index": 46
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Adam Foroughi",
+      "text": "I mean the product rollouts help advertisers build campaigns, launch ads. Those are sort of like the basics of ad campaign management. A lot of that is going to be automated in the future, too, with agents. But the most important driver of our success, especially this early in the product, is the engineers improving the model to drive better return on ad spend for advertisers at a higher scale. So when we talk about we saw a big uplift. Something that creates a big uplift across all is almost certainly to be an improvement on a next release version of the model.",
+      "turn_index": 47
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question will come from Robert Coolbrith with Evercore.",
+      "turn_index": 48
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Robert Coolbrith",
+      "text": "Adam, just wanted to get your response on a couple of topics that may come up in conversations with some of the gaming developers. On the direct billing or web shops, obviously, there's the cost savings side of the equation, but we also hear some developers talk about that as an interesting new surface area for data capture and remarketing. Do you think that's going to be a meaningful opportunity for the sector? And is that something that's potentially a good fit for AppLovin to develop the solution around? And then second, we also hear some people talking about some of the new creative or generative creative tools, things like playables generation and iteration or versioning.\nIs that something that you think fits in with the platform could fit alongside some of the things that you're doing with Creative clustering?",
+      "turn_index": 49
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Adam Foroughi",
+      "text": "Yes. Thanks for the question. So web shops is not a space we're going to get into directly, but obviously, we benefit. So if the game developers have the capacity to get more user data, build a more intimate relationship with the user, launch things like remarketing or even possibly ads on those checkout pages, those are things that we can play a role in. We don't need to be the one responsible for the billing now. When it comes to the generative creative tools, it's not our goal to just stop on video and interactive pages. Eventually, we'll have playables. And hopefully, over time, using these tools, we can create more types of templates as well.\nThere's no desire or expectation that for the rest of our existence, we're only going to serve videos and playables and gaming. It's very possible there'll be other types of ad formats. And as we get into high iteration mode using the LLMs, it's possible we'll land on new techniques, too, that can create a better response from consumers. Now today, the game developers already use a lot of these tools to create way more content into our system. I really doubt any customer created 50,000-plus ads by hand. So these tools are already benefiting us as a platform that's closed loop in this large scale and also really for the game developer, the first destination.\nIf they're going to spend money on AI tools to create ads, they're going to start with, let's create ads for the Axon platform and then they're going to go beyond that. So we're already seeing a benefit. But I think that benefit will continue to grow as we get better at building out these tools ourselves.",
+      "turn_index": 50
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question will come from Martin Yang with OpCo.",
+      "turn_index": 51
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Martin Yang",
+      "text": "My question first is on the consumer side. The strength you saw in April. If you break it down, is that from newer cohorts that onboarded since 4Q last year or from a more mature cohorts?",
+      "turn_index": 52
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Adam Foroughi",
+      "text": "Yes, Martin, it's from both. I mean newer cohorts are never going to ramp up all that much. So if you recall, I just mentioned, call it, over $70,000 in the front year. So you're not talking about a lot of advertiser spend per month over the cohorts that we've gotten. So you could say like if we're seeing material growth, it almost certainly is coming from the current existing customer base as they see the product improving. What we care about is growth from those existing customers. If your current cohorts are growing much faster than expected, it's with certainty you're going to be able to open up your platform and get new customers.\nThat's something that we just know is a function that's inevitable. We don't want growth from new to distract from the need to create growth from pre-existing. So we're always fixated on growth from current as the most important KPI that we want to see, and that's exactly what we're seeing as we improve the models.",
+      "turn_index": 53
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Martin Yang",
+      "text": "And second question on the new features and tools you created for your consumer customers. What about the gaming side? Are those customers getting as many new features and updates as the consumer side?",
+      "turn_index": 54
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Adam Foroughi",
+      "text": "Yes. I mean, look, on the underlying model, the gaming models are continuing to evolve as quickly as the consumer side. So that's why gaming you keep seeing is growing really, really quickly. There's nothing that suggests we should be growing gaming at the scale that we operate at this quickly other than we have to be improving the model really quickly. On the ad creative side, I just mentioned like these gaming companies are already really sophisticated. They don't need the tools to be ready for them as much as the consumer advertisers. It's our job to make the consumer advertisers scale, but then get better at these tools for the gaming customers as well.\nSo I just touched on that eventually, we'll have a playable generator as well. So we'll get into all these categories. But right now, because the tools are so early, the lowest hanging fruit for us was the consumer vertical.",
+      "turn_index": 55
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question will come from Ralph Schackart with William Blair.",
+      "turn_index": 56
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Ralph Schackart",
+      "text": "Just two quick ones. It doesn't look like the macro impacted you in the quarter, but just kind of curious, Adam, anything you're hearing out there, particularly probably the e-comm customers or advertisers with oil prices where they are? And then talking to ad buyers intra-quarter, we're hearing retention rates were a lot higher at least the people we've been talking to on the self-serve product. I'm just kind of curious if that's something you're also observing on a broader basis on your platform?",
+      "turn_index": 57
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Adam Foroughi",
+      "text": "Yes. I mean, like the first one, we don't tend to get much macro impact. We're selling revenue and profit to advertisers. So if they're buying profit, they're not going to come and cut the dollar that's driving them the best ROI on their advertising. So it's not something that we really see. And then on the consumer side, where you'd say broader set of customers around the economy, most of our customers still are Western as we haven't yet really launched an effort to go get customers around the world. So I'd say short is no impact from us, but I don't know that we have the visibility to even know.\nAnd it's very likely that just the structure of our business selling revenue and profit to customers makes us pretty insulated for macro trends long term. On the self-service retention rates, I guess, to your question, are we seeing strong retention from self-service customers? Yes, yes, for sure. I mean I mentioned a few minutes ago that if they get to 30 days of spend, there's first like get them live, which we're continuing to work to improve. But once they get live, if they get to 30 days of spend, customers almost never churn on our platform.\nSo it's our job to get them there, but we see pretty low churn overall when customers go live relative to what you would expect on products like these because we're selling again, we're selling profit to them. So they launch, they see good return on ad spend out of the box. It costs very little for them to see that, then they continue to invest in the platform. And that's why when we look at a product offering that today has less than a 30-day breakeven on the marketing dollars that we're spending, that's really exciting. Obviously, we have really strong retention long term and those cohorts, net dollar retention is going to be pretty strong as well.\nAnd you break even that quickly, you're going to make a lot of money as you go get more customers.",
+      "turn_index": 58
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question will come from Tim Nollen with SSR. We'll move to Jonathan Kees with Daiwa.",
+      "turn_index": 59
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Jonathan Kees",
+      "text": "Okay. Waiting patiently here. So glad to make it. And yes, you guys can see me. I guess I wanted to ask a strategy question. You're now talking about this as consumer, which has many verticals. And in the past, you talked about going after transactional base and now you're talking about transaction and lead based, talking about the three parts of the funnel. The question that you guys, I'm sure, received when you're first going to go into e-commerce and now it came to mind again as you talk about consumer with many verticals. isn't it too much?\nI mean you guys got really good because you focus on just one vertical, mobile games, that you guys dominate that, right? And now you're taking that expertise over to e-commerce and the verticals within consumer, understood. But you're also talking you have to have two separate models and stuff like that and resources can be scarce. That question pops up again in terms of are you doing too much and especially like you're still trying to gain traction with like the video ad market, the TV ad market. So I guess that's the -- I'll leave it with that.",
+      "turn_index": 60
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Adam Foroughi",
+      "text": "Yes. And look, it's a good question. We have a great team. People love working hard. They love the products that they're working on. And we've never reached the point of too much. I mean it's one of those things where like it's easy to look at how lean we are and think, okay, they can't do more. But these incremental products are things that we understand really well. Their goal is to go better monetize the audience that we have. And so as we talk about like launching cost per lead model, getting into lead gen, it's not a materially big lift compared to what we've already done because we know really what we have to do.\nThen we talked about in the talk track, giving our dashboard access to agents or any of the popular LLMs. Eventually, you can imagine advertisers will just be able to use their favorite LLM take all the action they need in our dashboard, automatically create the video and end cards, get live, get profits, get leads, scale. That doesn't require a lot of effort from us. A lot of the stuff in the world that we're going into is going to go automated. And then it's up to our team of really sophisticated engineers to build great product.\nAnd it's up to our business team to make sure -- the business and growth marketing teams to make sure that our brand is recognized and the customers come to our platform. Those are things that overlap to everything that we're talking about here, whether it's the lead gen model or the connected TV model. So what gets us excited about that is all of these growth vectors, also including just getting more supply, are all really related to each other. And a lot of this effort is not meant for this year again. Like we're not saying we're going to race after this opportunity and count on it this year. We don't need to count on anything this year.\nThis business is growing really fast. What we're talking about is a whole bunch of related opportunities that are really large that will hopefully set us up for exceptional growth rates and profitability expansion over the coming years.",
+      "turn_index": 61
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "And that concludes the question-and-answer session for this quarter. We thank you all for joining us today. Have a good afternoon.",
+      "turn_index": 62
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Adam Foroughi",
+      "text": "Thank you.",
+      "turn_index": 63
+    }
+  ]
+}

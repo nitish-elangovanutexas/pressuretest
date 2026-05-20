@@ -1,0 +1,28 @@
+{
+  "ticker": "FIVE",
+  "call_date": "2026-03-19",
+  "quarter": 4,
+  "year": 2025,
+  "pressure_score": -7.555889402747036e-17,
+  "cosine_distance": -2.220446049250313e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.13429002328880776,
+  "baseline_mean": -7.555889402747036e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5671450116444039,
+    "call_mean_answer_length": 206.76923076923077,
+    "call_hedge_density": 0.01955469851355055,
+    "call_pos_sentiment_mean": 0.24427774720467055,
+    "call_neu_sentiment_mean": 0.7287906912656931,
+    "call_neg_sentiment_mean": 0.026931555870060738,
+    "call_qa_similarity_mean": 0.4846685251042573,
+    "baseline_neg_sentiment_mean": 0.026931555870060738
+  },
+  "generated_at": "2026-05-20T05:28:52+00:00"
+}

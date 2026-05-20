@@ -1,0 +1,28 @@
+{
+  "ticker": "LIND",
+  "call_date": "2025-11-04",
+  "quarter": 3,
+  "year": 2025,
+  "pressure_score": 0.0,
+  "cosine_distance": 0.0,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.12875477829888937,
+  "baseline_mean": 0.0,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5643773891494447,
+    "call_mean_answer_length": 101.0,
+    "call_hedge_density": 0.018681810930540183,
+    "call_pos_sentiment_mean": 0.5626769488056501,
+    "call_neu_sentiment_mean": 0.42438781075179577,
+    "call_neg_sentiment_mean": 0.012935252084086338,
+    "call_qa_similarity_mean": 0.5021073879567824,
+    "baseline_neg_sentiment_mean": 0.012935252084086338
+  },
+  "generated_at": "2026-05-20T05:57:18+00:00"
+}

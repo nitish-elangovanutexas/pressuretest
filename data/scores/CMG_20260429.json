@@ -1,0 +1,28 @@
+{
+  "ticker": "CMG",
+  "call_date": "2026-04-29",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.011987048229179243,
+  "cosine_distance": 0.03438607735724908,
+  "sentiment_shift": 0.0013483185822815227,
+  "question_difficulty_mean": 0.13240404675380335,
+  "baseline_mean": 0.012509341367597314,
+  "baseline_std": 0.0005494740832612955,
+  "z_score": -0.9505327991415029,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5662020233769016,
+    "call_mean_answer_length": 150.9375,
+    "call_hedge_density": 0.02111559543108197,
+    "call_pos_sentiment_mean": 0.45100827096030116,
+    "call_neu_sentiment_mean": 0.5150818140245974,
+    "call_neg_sentiment_mean": 0.03390993201173842,
+    "call_qa_similarity_mean": 0.4548442815904552,
+    "baseline_neg_sentiment_mean": 0.03525825059401994
+  },
+  "generated_at": "2026-05-20T05:01:15+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "ARLP",
+  "call_date": "2025-08-04",
+  "quarter": 2,
+  "year": 2025,
+  "pressure_score": 3.923819899499078e-17,
+  "cosine_distance": 1.1102230246251565e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.17808758915019912,
+  "baseline_mean": 3.923819899499078e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5890437945750996,
+    "call_mean_answer_length": 190.30769230769232,
+    "call_hedge_density": 0.021276167846310066,
+    "call_pos_sentiment_mean": 0.42207228105801803,
+    "call_neu_sentiment_mean": 0.5338205775389304,
+    "call_neg_sentiment_mean": 0.04410714032844855,
+    "call_qa_similarity_mean": 0.4607425592240529,
+    "baseline_neg_sentiment_mean": 0.04410714032844855
+  },
+  "generated_at": "2026-05-20T04:38:46+00:00"
+}

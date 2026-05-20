@@ -1,0 +1,28 @@
+{
+  "ticker": "VZ",
+  "call_date": "2026-04-27",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.06321656356282783,
+  "cosine_distance": 0.16727154821126566,
+  "sentiment_shift": 0.02368748008695819,
+  "question_difficulty_mean": 0.1510881307551645,
+  "baseline_mean": 0.05266188423243754,
+  "baseline_std": 0.03467459838179561,
+  "z_score": 0.30439225897225,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5755440653775823,
+    "call_mean_answer_length": 733.5714285714286,
+    "call_hedge_density": 0.01613028273518758,
+    "call_pos_sentiment_mean": 0.5225444712809154,
+    "call_neu_sentiment_mean": 0.4236109278031758,
+    "call_neg_sentiment_mean": 0.053844603310738294,
+    "call_qa_similarity_mean": 0.5249923621889555,
+    "baseline_neg_sentiment_mean": 0.030157123223780103
+  },
+  "generated_at": "2026-05-20T07:26:38+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "ADSK",
+  "call_date": "2026-02-26",
+  "quarter": 4,
+  "year": 2026,
+  "pressure_score": -7.608693736392393e-17,
+  "cosine_distance": -2.220446049250313e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.14221700919976696,
+  "baseline_mean": -7.608693736392393e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5711085045998835,
+    "call_mean_answer_length": 242.0,
+    "call_hedge_density": 0.016484440616868386,
+    "call_pos_sentiment_mean": 0.1285908080637455,
+    "call_neu_sentiment_mean": 0.8334627687931061,
+    "call_neg_sentiment_mean": 0.03794642435386777,
+    "call_qa_similarity_mean": 0.49968492055813396,
+    "baseline_neg_sentiment_mean": 0.03794642435386777
+  },
+  "generated_at": "2026-05-20T14:43:52+00:00"
+}

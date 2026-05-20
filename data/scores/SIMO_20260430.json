@@ -1,0 +1,28 @@
+{
+  "ticker": "SIMO",
+  "call_date": "2026-04-30",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.018157617874022158,
+  "cosine_distance": 0.025767605587629805,
+  "sentiment_shift": 0.04052412778189046,
+  "question_difficulty_mean": 0.1466684505024319,
+  "baseline_mean": 0.026587466191270673,
+  "baseline_std": 0.00756399343639004,
+  "z_score": -1.1144706018242805,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5733342252512159,
+    "call_mean_answer_length": 114.25,
+    "call_hedge_density": 0.010030439706971551,
+    "call_pos_sentiment_mean": 0.37480044302841026,
+    "call_neu_sentiment_mean": 0.5880624633282423,
+    "call_neg_sentiment_mean": 0.03713711572345346,
+    "call_qa_similarity_mean": 0.4794683085928373,
+    "baseline_neg_sentiment_mean": 0.07766124350534392
+  },
+  "generated_at": "2026-05-20T06:53:46+00:00"
+}

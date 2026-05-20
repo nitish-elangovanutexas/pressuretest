@@ -1,0 +1,28 @@
+{
+  "ticker": "AGNC",
+  "call_date": "2026-04-21",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.03858031224648295,
+  "cosine_distance": 0.10590561780356711,
+  "sentiment_shift": 0.01594650512561202,
+  "question_difficulty_mean": 0.10352470729459533,
+  "baseline_mean": 0.034111348592266,
+  "baseline_std": 0.0062611050892491015,
+  "z_score": 0.7137659551331563,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5517623536472976,
+    "call_mean_answer_length": 301.75,
+    "call_hedge_density": 0.02754848233719113,
+    "call_pos_sentiment_mean": 0.3312264233827591,
+    "call_neu_sentiment_mean": 0.5477881077677011,
+    "call_neg_sentiment_mean": 0.12098546698689461,
+    "call_qa_similarity_mean": 0.5305942431337789,
+    "baseline_neg_sentiment_mean": 0.10503896186128259
+  },
+  "generated_at": "2026-05-20T04:28:44+00:00"
+}

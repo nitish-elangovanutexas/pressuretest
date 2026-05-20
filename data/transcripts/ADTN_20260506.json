@@ -1,0 +1,334 @@
+{
+  "ticker": "ADTN",
+  "company_name": "Adtran",
+  "call_date": "2026-05-06",
+  "quarter": 1,
+  "year": 2026,
+  "prepared_remarks": "Earnings Call Transcript\nAdtran (ADTN) Q1 2026 Earnings Transcript\nBy\n\nMotley Fool Transcribing\n\n–\n\nUpdated May 6, 2026 at 9:10AM EST\n\n\n\n\nImage source: The Motley Fool.\n\n\nDATE\nTuesday, May 5, 2026, at 8:30 a.m. ET\nCALL PARTICIPANTS\nChief Executive Officer — Thomas Stanton\nChief Financial Officer — Timothy Santo\nTAKEAWAYS\nTotal Revenue\n-- $286.1 million, up 15.5% year over year, with U.S. revenue accounting for $146.2 million, and non-U.S. revenue at $139.9 million.\nNon-GAAP Gross Margin\n-- 43%, up 55 basis points year over year, and 54 basis points sequentially, driven by product mix and cost efficiency initiatives.\nNon-GAAP Operating Margin\n-- 6.9%, a 3% increase year over year, reflecting disciplined cost controls and improved operating leverage.\nSegment Revenue: Optical Networking Solutions\n-- $97.3 million, up 24% year over year; management expects this segment’s revenue to build throughout the year.\nSegment Revenue: Access and Aggregation Solutions\n-- $90.5 million, up 2% year over year, and 14% sequentially, attributed to broad-based momentum in the U.S., and Europe.\nSegment Revenue: Subscriber Solutions\n-- $98.2 million, up 22% year over year, driven by sustained demand for fiber-to-the-home and multi-gig Wi-Fi 7 deployments.\nNon-GAAP Net Income\n-- $11 million, translating to $0.14 per diluted share, compared to $0.03 per share in the prior year period.\nOperating Cash Flow\n-- $12.7 million;\nFree Cash Flow\n-- negative $3.3 million due to the timing of receipts and higher inventory purchases.\nInventory and Receivables\n-- Inventory at $209 million, with days inventory outstanding of 110, down four days sequentially; receivables at $215.5 million, and DSO of 68 days, up two days sequentially.\nCash and Cash Equivalents\n-- $88.3 million at period end, versus $95.7 million at December 31, 2025.\nBEAD Program Visibility\n-- Early orders are being received as funding approval expands to almost all states; management anticipates revenue impact to become more meaningful toward late 2026, and into 2027.\nLiteWave800 Launch\n-- Product is in prototype with scale production targeted in about one year; CEO Stanton said, “It will not be dilutive to company gross margins.”\nSDG Wi-Fi 7 Portfolio\n-- Received conditional FCC approval, with management noting early competitive customer engagements as a result.\nQuantum-safe Solutions\n-- Portfolio expansion in enterprise and government segments is underway, with initial engagement and interest shown, though commercialization is still early.\nAI Solutions\n-- Mosaic One Clarity deployed for predictive maintenance and subscriber experience, with nearly 500 customers onboarded, while Intellifi adoption surpassed 100 customers.\nFiscal 2026 Q2 Outlook\n-- Management guides for revenue in the $283 million to $303 million range, and non-GAAP operating margin of 5%-9%.\nNeed a quote from a Motley Fool analyst? Email\n[email protected]\nRISKS\nFreight costs remain elevated; CEO Stanton stated, “Our freight expense this quarter was higher than I would like it to be. Probably be higher this quarter as well.”\nMemory pricing pressure persists industry-wide and impacts margins in lower-end residential CPE; CEO Stanton noted, “memory costs remain elevated and could deteriorate further.”\nOngoing Middle East conflict negatively affected both EMEA revenue and freight costs, with CFO Santo quantifying the impact as “less than 5% of revenue.”\nFree cash flow was negative $3.3 million due to inventory build and timing of cash receipts.\nSUMMARY\nManagement highlighted year-over-year growth in all core segments, supported by favorable market trends, improved operating leverage, and expansion of their AI and cloud product portfolios. Updates on BEAD program integration point to a growing pipeline with broadening state funding approval and initial customer purchase orders, but a more substantial revenue contribution is expected from late 2026 onward. The LiteWave800 launch plans reflect management’s intent to capitalize on surging data center connectivity demand while affirming no margin dilution from this product.\nAdtran\n\n(\nADTN\n\n4.08%\n)\nalso reported strategic inroads in quantum-safe and enterprise AI offerings, along with regulatory progress for its Wi-Fi 7 solutions.\nOn technology differentiation, CEO Stanton stated, “LiteWave800 is the first clear example of this strategy in action. It is purpose-built for intra-data center connectivity and high-density AI compute environments, and is designed to reduce power consumption by over 90% compared to existing alternatives,” and targets data center adoption with anticipated volume production in about a year.\nManagement affirmed proactive price increases to offset memory component cost inflation in certain product lines.\nEuropean market demand is reinforced by legislative action targeting high-risk vendor displacement, supporting ongoing sales momentum across the region.\nCapital allocation priorities remain focused on margin expansion and cash generation, with continued working capital efficiency emphasized.\nDespite near-term headwinds from freight and memory pricing, management expects gross margins to remain “broadly consistent with what we have delivered over the past several quarters” due to portfolio shifts and cost controls.\nINDUSTRY GLOSSARY\nBEAD\n: Broadband Equity, Access, and Deployment—a U.S. federal funding initiative to expand high-speed internet access through state-administered projects.\nSDG Wi-Fi 7\n: ADTRAN’s Subscriber-Defined Gateway family of Wi-Fi 7 routers and gateways, emphasizing advanced multi-gig home connectivity.\nMOFN\n: Managed Optical Fiber Networks—carrier networks optimized for wholesale fiber and cloud connectivity, cited as a key ADTRAN addressable market driver.\nClarity\n: ADTRAN’s AI-driven software platform for network operations and subscriber experience management, branded as “Mosaic One Clarity.”\nZR Pluggable\n: A specification for coherent optical transceiver modules (such as 100ZR, 400ZR, 800ZR) enabling high-speed, low-power data center and metro interconnects.\nFull Conference Call Transcript\nThomas Stanton:\nThank you, Kayla. Good morning, everyone. ADTRAN delivered solid first quarter results with revenue of $286.1 million, up 15.5% year-over-year, and non-GAAP operating margin of 6.9%, up 3% year-over-year. These results reflect the continued strength of our core markets and the operating leverage we have now firmly established across the business. The demand drivers underpinning our business continue to strengthen. In the U.S., broadband expansion is gaining traction and BEAD deployment funds are beginning to reach operators in a growing number of states. In Europe, high-risk vendor displacement continues to progress with momentum reinforced by legislation such as the proposed Cybersecurity Act 2.0, which would mandate the removal of high-risk vendors from critical network infrastructure.\nThis quarter also marked a meaningful step in our growth strategy as we showcased our expanding portfolio addressing cloud and AI infrastructure connectivity. This included the introduction of the LiteWave800, a solution purpose-built for high-performance and low-power intra-data center connectivity. Optical networking solutions revenue was $97.3 million in the first quarter, up 24% year-over-year. On a sequential basis, strength from our larger customers and hyperscalers was offset by seasonal declines with smaller customers and government sales. Across our service provider base, demand remains healthy. Operators across all geographies are expanding wholesale optical capacity to support growing demand for cloud connectivity and higher bandwidth services, reflecting a broad-based trend.\nIn Europe, high-risk vendor replacement initiatives continue to add to that demand with growing strength among our cloud and hyperscaler customers, and a positive outlook across our service provider base. We expect our optical networking revenue to build throughout the year. Access and aggregation solutions revenue was $90.5 million in the first quarter, up 2% year-over-year and 14% sequentially, driven by broad-based strength across the U.S. and Europe. We expect steady progress across our European business through the remainder of the year. In the U.S., BEAD deployment funding is beginning to reach operators in select states.\nAnd while we are seeing early orders from several customers, we expect the impact to become more meaningful as we move towards the back half of the year. Subscriber solutions revenue was $98.2 million in the first quarter, up 22% year-over-year. Demand remains healthy, supported by continued investment in fiber-to-the-home, multi-gig Wi-Fi 7 and carrier Ethernet applications. In recent weeks, our award-winning SDG Wi-Fi 7 portfolio received conditional FCC approval, exempting our platforms from covered list restrictions. We are among the first vendors to achieve this designation. And while the broader industry works through the approval process, we are already seeing service providers engage with us on competitive opportunities that this creates.\nStepping back from the details for the quarter, I want to take a moment to talk about our business and the market dynamics that continue to drive demand for our solutions. Service providers are investing across transport, access and subscriber platforms to scale their networks for long-term demand and improved reliability. These investments are being reinforced by several important tailwinds, including high-risk vendor replacement initiatives in Europe, the expansion of managed optical fiber networks or MOFN to address surging demand for wholesale services from cloud providers, and continued upgrades across access and subscriber networks to support multi-gig service delivery.\nIn addition to these network upgrade catalysts, operators are in the early stages of transforming how they operate their networks and engage subscribers through agentic AI. With the launch of Mosaic One Clarity, which recently received the FTTH Europe award for AI innovation, we are addressing the shift towards proactive and increasingly autonomous network operations. Early deployments have provided strong validation of these capabilities across both small and large operators, particularly in the areas of predictive maintenance and improving the in-home subscriber experience. Beyond our core service provider business, we continue to see meaningful opportunities to further accelerate growth by expanding our presence in both cloud providers and enterprise customers.\nThese segments benefit from many of the same underlying trends shaping service provider networks, but they are growing at a faster pace and are driving new network architectures and requirements. In the enterprise space, we have a long history of providing secure optical and Ethernet connectivity to some of the world's largest enterprise and government customers. Demand in this customer segment is increasingly shaped by 2 important tailwinds. First, the expansion of AI workloads across secure enterprise environments is driving demand for higher capacity interconnects between private enterprise data centers. And second, growing awareness of the limitations of traditional security mechanisms is accelerating interest in quantum-safe, optical and Ethernet communications.\nBuilding on our longstanding presence in these markets, we have developed a comprehensive portfolio of quantum-safe communication solutions. While still early, we are seeing increasing engagement across a broadening base of enterprise, government and utility customers, positioning us well for longer term growth as these initiatives mature. In our cloud provider customer segment, the rapid expansion of AI compute infrastructure and the networking required to connect large-scale cluster GPU deployments is driving a surge in networking investment, making this the fastest-growing segment in our industry. Data center operators are scaling capacity to support AI workloads where power efficiency, thermal constraints and network density have become defining design considerations.\nWe have long served data center customers through our interconnect solutions and as evidenced by last quarter's results, that business continues to benefit from growing demand for data center connectivity. Our strategy is to build on that foundation and extend our portfolio to address surging bandwidth demands from inside the data center as well. LiteWave800 is the first clear example of this strategy in action. It is purpose-built for intra-data center connectivity and high-density AI compute environments, and is designed to reduce power consumption by over 90% compared to existing alternatives. We are still in the early stages of this product family, but initial market engagement and feedback have been very encouraging. Shifting from our market opportunities to operations.\nMemory pricing has remained elevated industry-wide and freight costs are adding an additional layer of pressure, headwinds that are affecting the entire sector. Despite these pressures, our non-GAAP operating margin of 43% reached its highest level since the beginning of the supply chain disruption in 2020. This was achieved through a combination of disciplined cost management, pricing adjustments across the portfolio and a revenue mix that has less reliance on lower-margin CPE where memory cost pressure is the most acute. Consumer CPE represents a relatively small portion of our overall revenue.\nAlthough memory costs remain elevated and could deteriorate further, our current visibility supports gross margins in the near term, remaining broadly consistent with what we have delivered over the past several quarters. We entered the second quarter with a positive demand outlook. Fiber infrastructure investment remains active across our core business, and we continue to advance our initiatives in AI infrastructure and enterprise networks, expanding our business opportunities. Our priorities remain consistent: expanding operating margins, generating cash and converting the strong customer pipeline into revenue. With that, I'll turn the call over to Tim to review our financial results in more detail. Tim?\nTimothy Santo:\nThank you, Tom, and thank you all for joining us today. We delivered solid results for Q1 2026 led by continued and consistent execution. We had operating margin expansion to a new level despite a seasonal reduction in revenues that remained above the midpoint of our previously issued guidance, driven by continued cost discipline and scale in the business. Our first quarter revenue was $286.1 million, up 15.5% year-over-year and returning to a more normalized seasonal pattern. Geographically, U.S. revenue was $146.2 million, representing 51% of total revenue, up 42% year-over-year and 7% sequentially. Non-U.S. revenue was $139.9 million or 49% of total revenue.\nAccess and aggregation solutions revenue was $90.5 million or approximately 32% of total revenue, up 2% year-over-year and 14% sequentially. Subscriber solutions revenue was $98.2 million or 34% of total revenue, up 22% year-over-year. Optical networking solutions revenue was $97.3 million or 34% of total revenue, up 24% year-over-year. Turning to gross margin. Non-GAAP gross margin was 43%, up 55 basis points year-over-year from 42.5% in Q1 '25 and up 54 basis points sequentially from 42.5% in Q4 2025, driven by favorable product mix and continued progress on cost efficiency. Non-GAAP operating expenses for the first quarter were $103.3 million compared to $95.5 million in Q1 2025 and $105.1 million in Q4 '25.\nThe year-over-year increase largely resulted from the impact of foreign currency fluctuations on our European cost base, which has had minimal impact on operating leverage due to natural hedging and continued investment in R&D and go-to-market activities. Non-GAAP operating income was $19.9 million or 6.9% of revenue. On a sequential basis, operating income increased from $18.8 million or 6.4% in Q4 2025. Year-over-year, non-GAAP operating margin expanded 300 basis points from 3.9% in Q1 2025, continuing the progression from 5.4% in Q3 '25 and 6.4% in Q4 '25. Non-GAAP tax expense in the first quarter was $4.4 million, reflecting an effective non-GAAP tax rate of 25.5%.\nNon-GAAP net income attributable to ADTRAN Holdings was $11 million or $0.14 per diluted share compared to $0.03 in Q1 2025. Turning to the balance sheet and cash flow. Net working capital was $253.9 million at quarter end compared to $259 million at December 31, 2025. During the quarter, inventory was $209 million with days inventory outstanding of 110 days, down 4 days sequentially. Trade accounts receivable were $215.5 million with DSO of 68 days, up 2 days sequentially due to the timing of quarter end invoicing. Accounts payable was $170.6 million with days payable outstanding of 66 days, which is flat sequentially. As revenue scales, our focus remains on improving working capital efficiency.\nOperating cash flow was $12.7 million for the quarter and free cash flow was a negative $3.3 million, reflecting timing of cash receipts and higher purchases of inventory. We ended the quarter with $88.3 million in cash and cash equivalents compared to $95.7 million at December 31, 2025. Turning to our outlook for the second quarter of 2026. We expect revenue to be between $283 million and $303 million, and non-GAAP operating margin within a range of 5% to 9%. This concludes our prepared remarks. Before turning the call over to Tom, I'd like to highlight that we will be participating at the B.\nRiley Conference on May 20 in Marina Del Rey and the Evercore Technology Media and Telecom Conference on June 2 and 3 in San Francisco. We look forward to seeing many of you there. And now I will turn the call back to Tom.\nThomas Stanton:\nGreat. Thanks very much, Tim. All right. Kayla, at this time, we'd like to turn it over to people that may have some questions.\nOperator:\n\n[Operator Instructions]\nYour first question comes from the line of Mike Genovese with Rosenblatt Securities.\nMichael Genovese:\nTom, I'd like to hear about the LiteWave800 more about basically the strategy of launching this product, maybe bigger thoughts on getting into the data center. But more specifically, any timing or size or margin expectations for the new product that you could share would be helpful.\nThomas Stanton:\nYes. I probably -- I'm going to shy a little bit away from pricing on the product, although there is a lot of IP in that product and IP typically gains better gross margins. The reason I mentioned it upfront in my remarks is the market reaction to it has been fantastic. We've had some very large, very well-known customers that have been very encouraging for us to get the product out as quickly as possible. But unfortunately, there is a lot of work to be done. And I would expect that to be sometime about a year from now before we really kind of hit production level type numbers. We did show -- we do have prototypes now.\nWe did show operating models at the recent OFC. It is a real product. It does work. It's a matter of getting it -- finalizing and then getting it to scale, which will take some time just because it's very -- it's a semiconductor type product. That is one of the products we have. We also have the Quattro, which will be coming out at the end of this year, which is a 4 by 100 product versus the 8 by 100 product. It is also a very, very power-saving product. I think it's better than anything out there on the market today. The real thing about the 800 though is it's ridiculously low power.\nI mean it's -- I think, 1 picojoule per bit, which is an industry first, and that's what's driven the excitement around it.\nMichael Genovese:\nInteresting. Now, when you say there's a lot of IP in it, I mean, is it fair to say that it would not be significantly dilutive to company gross margins?\nThomas Stanton:\nIt will not be dilutive to company gross margins.\nMichael Genovese:\nOkay. That's good to hear. I guess, maybe just something similar on any other new products. I mean we saw something about an announcement of an AI edge platform I'd like to hear more about. And then if I go back to OFC, I also think there was an announcement, at least where you were demoing 800 and 400ZR. So is that a product that you have, ZR? And could you talk more about the AI sort of edge platform?\nThomas Stanton:\nYes. The AI edge platform, I think you're talking about is still an offshoot of Clarity. So I'm not sure if there's anything else out there that we've -- at least I've seen that we announced. I'm not telling you it couldn't happen. But all of our AI products are in the Clarity family. We have an edge product that we are trialing right now, and then we have the core product for network operations that we have been trialing for some time. I will tell you the feedback here also is fantastic. I just recently had a bunch of customers in. We had 150 or so customers here in Huntsville and the feedback there just overwhelmingly positive.\nSo good things there. On the 400ZR, we do have products coming out towards the end of this year, I think, for 400. And those are just ongoing pieces. The AI piece, now that I think about it, the AI piece you may be talking about it on Ensemble, which is the product that we were highlighting that has started to implement AI -- agentic AI in this product line.",
+  "qa_turns": [
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "And your next question comes from the line of Irvin Liu with Evercore.",
+      "turn_index": 0
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Jyhhaw Liu",
+      "text": "I also had a question related to AI infrastructure. As you target this opportunity, can you talk about any sort of R&D and go-to-market investments needed to serve this customer segment?",
+      "turn_index": 1
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Thomas Stanton",
+      "text": "There is some shifting that we'll be doing throughout the year where we make sure that we have the right R&D resources and sales resources to be able to do that. But all of that is within the current operating budget that we have today. So I don't think there's going to be any significant increase. We're kind of committed to and believe that we can grow the business fairly meaningful within the budgets that we have today. Once we get north of our targeted 10% -- or excuse me, we said low-single-digit, but 10% operating income, then we'll take a look at that as well and make sure that we're investing in the right places.\nBut right now, we don't see any problems.",
+      "turn_index": 2
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Jyhhaw Liu",
+      "text": "Got it. And then for my follow-up, you've been seeing strong demand in the regional service provider customer segment. So can you talk about any sort of momentum you're seeing as it relates to your suite of software products such as Mosaic One and Intellifi? Just any color on upsell efforts and attach rates here would be helpful.",
+      "turn_index": 3
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Thomas Stanton",
+      "text": "Yes. We don't have those numbers broken out, but I will tell you the uptick on Intellifi has been fantastic. Mosaic got a very good launch. We have probably close to 500 customers right now on Mosaic One. And all of those are in different levels of subscription base. But Intellifi is doing really well. I think last time we reported on, it was over 100 customers and it was -- it's been a real highlight. So we don't have those numbers broken out. Hopefully next quarter, I'll be able to talk about them.",
+      "turn_index": 4
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "And your next question comes from the line of George Notter with Wolfe Research.",
+      "turn_index": 5
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "George Notter",
+      "text": "I wanted to -- you mentioned cloud revenue in your cloud business. Can you remind us what percentage of sales comes from cloud operators? Do you have a sense for that?",
+      "turn_index": 6
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Thomas Stanton",
+      "text": "Yes. We don't break that out. As you know, George, we don't break out specific customer segments like that. But just to give you some color, hyperscalers actually did really good in the fourth quarter. They were, as I mentioned, a real positive in the quarter, and we would expect that to continue on through this year. I mean we've got a fairly good backlog with some of our hyperscaler customers right now that's building. So that's pretty much it.",
+      "turn_index": 7
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "George Notter",
+      "text": "Got it. Okay. And I assume these are -- can you just walk through maybe the product sets that you sell in there and just kind of get us for your point on what is -- what you're leading with customers. Obviously, the LiteWave product is going to come on. But is it optical? What pieces are you selling?",
+      "turn_index": 8
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Thomas Stanton",
+      "text": "Yes. The biggest piece is optical, and it's -- a lot of the momentum we're seeing right now is around our 100ZR plug.",
+      "turn_index": 9
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "George Notter",
+      "text": "Got it. Okay. I guess I would have assumed the 100-gig ZR plug was a little bit more of a telecom application rather than a cloud application.",
+      "turn_index": 10
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Thomas Stanton",
+      "text": "As you know, maybe you do know, I think you do know, George, that we have a fairly large footprint. So when you look at large data center connectivity, not in the sweet spot. That's where the 400 and 800 will play more. In the smaller data center interconnectivity spot, which some of the hyperscalers have as an architecture, it plays very well.",
+      "turn_index": 11
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "George Notter",
+      "text": "Okay. Super. And then the other one I had was just on the LiteWave800. Obviously, laser datacom chips are really hard to come by in the industry. And I hear what you say about the business ramping a year from now. I guess I'm just curious about where you guys are getting laser datacom chip supply. Is that difficult to come by? Is it easy to come by? Is there anything you can tell us about where you're sourcing those?",
+      "turn_index": 12
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Thomas Stanton",
+      "text": "I probably won't get into direct sourcing on that. We do have some partners that we're working with on this. They do know what the supply needs are right now. We see -- depending on how aggressive that launch is, we don't see any issues in being able to supply it as we launch it.",
+      "turn_index": 13
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "And your next question comes from the line of Ryan Koontz with Needham & Company.",
+      "turn_index": 14
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Ryan Koontz",
+      "text": "I want to ask about optical demand, kind of that maybe step it up to a higher level. You talked about MOFN demand here. Can you maybe characterize where you are, where you see the biggest drivers specifically within Europe for your optical product lines and which products you're seeing the greatest success with in terms of demand? You just talked about 100ZR. I assume that's a big piece, but maybe any more color beyond that would be great.",
+      "turn_index": 15
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Thomas Stanton",
+      "text": "Yes, I do think 100ZR also -- I think that the -- especially in Europe, I think that our 400 and 800-gig products are going to play very well in that upgrade path as well. The customer base that we're talking about is the customer base that you already know. It's ones that we've been doing business with for a very long period of time. And they're trying to situate their networks to be able to do more basically wholesale services. That customer is active. And then there's one here in the U.S. that you're already aware of that's also making a lot of noise around it.",
+      "turn_index": 16
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Ryan Koontz",
+      "text": "Helpful. And are you seeing -- within that, are you seeing a shift away from traditional chassis-based transponders over to ZR pluggables in the telecom side as well?",
+      "turn_index": 17
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Thomas Stanton",
+      "text": "It's a mix. That is dependent on the carrier size. And it also depends on whether or not they already have installed chassis. Where there's already an installed chassis there, they're going to upgrade that chassis. Where it's a footprint, even in footprint on some of the larger carriers, the operational ease that the current systems provide is actually very beneficial to them, but it's definitely a mix.",
+      "turn_index": 18
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Ryan Koontz",
+      "text": "Got it. And then maybe hitting the gross margin here. Obviously, great results on the quarter. Congrats. And you talked about a lower mix of consumer CPE within your subscriber solutions. Can you maybe -- is consumer CPE, would it approach half of that number? Or you think it's maybe less than half of your total subscriber business? Just sort of quantify.",
+      "turn_index": 19
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Thomas Stanton",
+      "text": "It's probably -- to be fair, it's probably -- I think it's definitely not less than a half, but it's not substantially more. And I think the reason that I was bringing it out is we have gotten feedback that customers were unclear about kind of how much the CPE margin problem is affecting us, and it does affect us. I mean there's no doubt about it. But the impact is substantially less when you take a look at it in the overall perspective of the entire company, but it is north of 50% of just the subscriber segment.",
+      "turn_index": 20
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Ryan Koontz",
+      "text": "Makes sense. And maybe one last one, if I can squeeze it in. You talked about some better visibility on BEAD projects here. What sort of milestones should we look for before we start to see your revenues start to inflect for BEAD? Are we talking about permits and design and forecasts and orders? Can you maybe walk us through how we should think about the milestones that lets BEAD unfold and start to contribute for ADTRAN?",
+      "turn_index": 21
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Thomas Stanton",
+      "text": "Yes. So funding is starting to flow or could flow for the -- by far, the majority of the states now. So a lot of that has been worked itself through. Now what you're seeing is kind of individual customers deciding how they want to roll out. We have some customers that have already placed purchase orders and they're rolling out and/or at least making sure that they've got supply to be able to not be a hamstrung. The smaller the customer, the easier that is.\nOn the larger customers, the biggest pull -- long pull is going to be actually deploying the fiber itself, which is why we've been saying end of this year is probably where you start seeing that. On a local level, I mean, you can look at permitting and kind of where that is, that's kind of hard to actually get a good grasp of. At the end of the day, I'm looking for purchase orders. We're starting to see some today, but it's a trickle. It's not a lot. But we expect that -- I mean, this whole unlocking of the approval process really has accelerated.\nWe went from, what, maybe 2 states a quarter ago, I think 3 states a quarter ago to pretty much all of the states now being able to send out funding. So I think the best visibility is actually seen in the numbers though because every carrier is going to be a little different.",
+      "turn_index": 22
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Ryan Koontz",
+      "text": "And you think you'll just see nice steady improvements and '27 starts to feel like a more material number for you from being...",
+      "turn_index": 23
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Thomas Stanton",
+      "text": "Absolutely. Yes.",
+      "turn_index": 24
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "And your next question comes from the line of Christian Schwab with Craig-Hallum.",
+      "turn_index": 25
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Christian Schwab",
+      "text": "Just a quick clarity on that, Tom. With '27 orders picking up indeed more materially, would you anticipate '28 being potential peak revenue for that program? Or do you think it extends beyond that? And would you be willing to quantify a revenue range of opportunity over a multiyear time frame that this program could offer you guys?",
+      "turn_index": 26
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Thomas Stanton",
+      "text": "I think we've given a range before, and that math changes depending on ultimately which carrier actually is deploying where. But Tim, do you remember what that range was?",
+      "turn_index": 27
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Timothy Santo",
+      "text": "We had said of that market size, there's about $1 billion to go to the industry over multi years.",
+      "turn_index": 28
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Thomas Stanton",
+      "text": "So it's a 5-year program. The timing of this, we've seen programs like this in the past. I think if you pick the middle of the window, that's typically where you see the majority of the spend. And then you'll see some kind of cleanup at the very tail end when people try to make sure that they get all the funding they can get. So my guess would be the middle of the program, which would be probably towards the tail end of '27. And then you'll probably see some cleanup from that point forward.\nAnd as you get towards the end of the program, you'll typically see some kind of flush as people try to make sure they did all the work they need to do.",
+      "turn_index": 29
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Christian Schwab",
+      "text": "Great. That's great clarity. And then my last question just as your largest -- one of your competitors spent a significant amount of time on their conference call talking about memory cost headwinds. I'm just wondering how you guys are navigating through that.",
+      "turn_index": 30
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Thomas Stanton",
+      "text": "Yes, sure. Right now, we're doing good. So I do think that we are helped by the fact that we have a fairly diverse product portfolio. When you get into some of our larger products like some of our larger access and ag platforms, which handle thousands of customers, or you get into optical for that matter, the memory content on those products is just less of the total bill of material. So the impact is significantly less. If you get into some of the lower-end residential CPE, that memory can be a large percentage of the total bill of material. And I think that's the direct impact.\nIf you take a look at our -- that maybe that's the direct tie through to your question. If you take a look at our CPE for residential, which is the most materially impacted, it is also the lowest cost products we sell and the lowest inherent gross margins to begin with that we sell. There's a bigger impact. When you get to some of the larger 100-gigabit platforms, 400 gigabit platforms, that memory impact is just substantially less. And I think that's the difference.",
+      "turn_index": 31
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "And your next question comes from the line of Dave Kang with B. Riley.",
+      "turn_index": 32
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Dave Kang",
+      "text": "Just the first question is regarding the Middle East conflict. Just wondering if you can talk about the impact from that.",
+      "turn_index": 33
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Thomas Stanton",
+      "text": "Yes. So I think it impacts us in a couple of different ways. One is, without a doubt, it hurt us on the freight line. There are some disruptions. Our freight expense this quarter was higher than I would like it to be. Probably be higher this quarter as well, so last quarter and this quarter. And that's just a matter of being able to get capacity in the right planes. And it was a little messy last quarter, freight line. I think that's the biggest -- that's the biggest headline impact. We absolutely saw an impact though in our Middle East revenues as well. Some of that was disrupted last quarter. I don't know when that gets better.\nI would expect it to be a little better this quarter, but I think it hurt us both on the revenue and the cost line.",
+      "turn_index": 34
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Dave Kang",
+      "text": "Are we talking like maybe 1%, 2% revenue impact?",
+      "turn_index": 35
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Timothy Santo",
+      "text": "Revenue, yes, less than 5%, yes.",
+      "turn_index": 36
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Dave Kang",
+      "text": "So it's definitely meaningful. I mean, material, right?",
+      "turn_index": 37
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Thomas Stanton",
+      "text": "Well, especially if you talk on a -- we tend to -- we really look at EMEA as one big bucket, and that's how we manage it. And for the EMEA area, yes, it definitely hurt. But on the overall company, it was -- it was not as meaningful. I think on the freight side, it probably hurt more to be honest with you.",
+      "turn_index": 38
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Dave Kang",
+      "text": "And should we expect that to be better this quarter, the...",
+      "turn_index": 39
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Thomas Stanton",
+      "text": "I don't want to tell our operations guys, but I don't expect our freight to be materially better this quarter. I think it's going to be messy this quarter as well. I can't project. Go ahead.",
+      "turn_index": 40
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Dave Kang",
+      "text": "Yes. Got it. So that leads me to my second question, is your operating margin guide for 2Q, 5% to 9%. Just wondering if you can go over some of your assumptions of 5% versus 9%.",
+      "turn_index": 41
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Timothy Santo",
+      "text": "Yes. So we continue to think that -- I mean, if you think about it, basically we're assuming a similar freight environment in this quarter as last quarter and a similar memory impact in this quarter as last quarter.",
+      "turn_index": 42
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Dave Kang",
+      "text": "Got it. And then my last question is, were you able to raise prices or any plans to raise prices to counter elevated freight as well as component costs?",
+      "turn_index": 43
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Thomas Stanton",
+      "text": "Freight, we're not pushing so much on. I mean we're still very hopeful that's transitory. Component prices on the memory prices, we have raised prices to customers to reflect the current challenges in that supply chain.",
+      "turn_index": 44
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "[Operator Instructions]\nYour next question comes from the line of Tim Savageaux with Northland Capital Markets.",
+      "turn_index": 45
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Timothy Savageaux",
+      "text": "I want to come back to a comment you made about optical, mainly kind of building throughout the year, which makes sense. Typically, in access and aggregation, you see kind of the opposite pattern, which is a stronger first half driven by Europe and then maybe a weaker second half. My question is, I wonder if BEAD can serve to offset that this year. So you might be able to have a similar type profile building throughout the year. And at least let's just focus on access and aggregation here as a result of that.\nAnd at this point, are you able to make an estimate for what the annual incremental contribution of BEAD might be in the second half or this year in general?",
+      "turn_index": 46
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Thomas Stanton",
+      "text": "I really -- yes, unfortunately, I really can't give an estimate on BEAD because there's too many customers and too many unknowns. But your question is, do I think you would also see the typical access and ag. I think a couple of things can play into that. BEAD definitely will be helpful. I think the other thing that we expect to see, and this is still relatively early in the year, but I think Europe is going to be stronger than what we saw the last couple of years seasonally.\nSo I think that we're -- you won't see -- the current expectations is that we won't see the same kind of falloff in the second half versus first half that we saw last year. Did that answer your question, Tim?",
+      "turn_index": 47
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Timothy Savageaux",
+      "text": "Sure guys.",
+      "turn_index": 48
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "And your next question comes from the line of Bill Dezellem with Tieton Capital.",
+      "turn_index": 49
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "William Dezellem",
+      "text": "Relative to the LiteWave800 and your engineering knowledge set that you have gained to reduce that power consumption by 90%, is there a carryover or an opportunity to take that knowledge and apply to other products throughout your catalog that could be materially impactful to the business? And if so, what's the timeline that it would take to have that technology or those capabilities infiltrate the rest of the product line?",
+      "turn_index": 50
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Thomas Stanton",
+      "text": "I think it's relatively unique to the product sets that we're talking about. It is because of particular speeds and particular distances that we're able to actually get the power savings that we're talking about. I think the -- but I did call it a family. And I consider Quattro to be part of that same family, which is in our multi Mux family, which is very, very power savings as well. But I think the proliferation you'll see of that technology is in that pluggable space. So you're going to see first product is QSFP. We do have other products that are, let's say, I'll just say more integrated that will be coming out over time.\nSo I think you're going to see different members of the family and similar application sets where this technology will actually play itself out.",
+      "turn_index": 51
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "William Dezellem",
+      "text": "And Tom, those applications are all within the data center? Or are there other short distance opportunities that are outside of the data center that I'm not thinking about right now?",
+      "turn_index": 52
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Thomas Stanton",
+      "text": "There could be, but I can tell you that demand with inside the data center is worth focusing on. It is very large. At this, I think we are out of questions. So I want to thank everybody for joining us on the conference call, and we look forward to talking to you next quarter. Thanks, everyone.",
+      "turn_index": 53
+    }
+  ]
+}

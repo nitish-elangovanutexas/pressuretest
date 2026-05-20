@@ -1,0 +1,28 @@
+{
+  "ticker": "DHT",
+  "call_date": "2026-05-06",
+  "quarter": 4,
+  "year": 2025,
+  "pressure_score": 0.0,
+  "cosine_distance": 0.0,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.143553704491745,
+  "baseline_mean": 0.0,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5717768522458725,
+    "call_mean_answer_length": 131.85714285714286,
+    "call_hedge_density": 0.0437767579868465,
+    "call_pos_sentiment_mean": 0.12307629361748695,
+    "call_neu_sentiment_mean": 0.8234308106558663,
+    "call_neg_sentiment_mean": 0.05349289060437253,
+    "call_qa_similarity_mean": 0.48523675483372114,
+    "baseline_neg_sentiment_mean": 0.05349289060437253
+  },
+  "generated_at": "2026-05-20T05:12:30+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "DOW",
+  "call_date": "2026-04-23",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": -7.850747371218545e-17,
+  "cosine_distance": -2.220446049250313e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.17855409785332463,
+  "baseline_mean": -7.850747371218545e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5892770489266623,
+    "call_mean_answer_length": 181.5,
+    "call_hedge_density": 0.015219675920922137,
+    "call_pos_sentiment_mean": 0.17082891426980495,
+    "call_neu_sentiment_mean": 0.6872674524784088,
+    "call_neg_sentiment_mean": 0.1419036341831088,
+    "call_qa_similarity_mean": 0.46125167993276195,
+    "baseline_neg_sentiment_mean": 0.1419036341831088
+  },
+  "generated_at": "2026-05-20T05:15:08+00:00"
+}

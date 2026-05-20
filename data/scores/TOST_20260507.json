@@ -1,0 +1,28 @@
+{
+  "ticker": "TOST",
+  "call_date": "2026-05-07",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.050623829497151905,
+  "cosine_distance": 0.14311592476498813,
+  "sentiment_shift": 0.0005740708205848946,
+  "question_difficulty_mean": 0.17594215469078117,
+  "baseline_mean": 0.038643963055894834,
+  "baseline_std": 0.016942089596644058,
+  "z_score": 0.7071067811865475,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5879710773453906,
+    "call_mean_answer_length": 133.9,
+    "call_hedge_density": 0.011296834228755858,
+    "call_pos_sentiment_mean": 0.3442616969347,
+    "call_neu_sentiment_mean": 0.6381990730762481,
+    "call_neg_sentiment_mean": 0.017539213877171278,
+    "call_qa_similarity_mean": 0.3325195559331356,
+    "baseline_neg_sentiment_mean": 0.016965143056586383
+  },
+  "generated_at": "2026-05-20T07:11:12+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "COST",
+  "call_date": "2026-03-05",
+  "quarter": 2,
+  "year": 2026,
+  "pressure_score": 0.017771934011194444,
+  "cosine_distance": 0.04821759613951315,
+  "sentiment_shift": 0.004427371031072522,
+  "question_difficulty_mean": 0.15772392113562453,
+  "baseline_mean": 0.020479409126964963,
+  "baseline_std": 0.0038289480285103312,
+  "z_score": -0.707106781186548,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5788619605678123,
+    "call_mean_answer_length": 159.875,
+    "call_hedge_density": 0.012946228113481529,
+    "call_pos_sentiment_mean": 0.5503824893385172,
+    "call_neu_sentiment_mean": 0.42426052037626505,
+    "call_neg_sentiment_mean": 0.025356975151225924,
+    "call_qa_similarity_mean": 0.5288071414365959,
+    "baseline_neg_sentiment_mean": 0.020929604120153402
+  },
+  "generated_at": "2026-05-20T05:05:34+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "SBUX",
+  "call_date": "2026-04-28",
+  "quarter": 2,
+  "year": 2026,
+  "pressure_score": 0.027864882847654072,
+  "cosine_distance": 0.07922036478067285,
+  "sentiment_shift": 6.739858626609793e-05,
+  "question_difficulty_mean": 0.17179832965907318,
+  "baseline_mean": 0.017861052372477218,
+  "baseline_std": 0.014147552733676393,
+  "z_score": 0.7071067811865475,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5858991648295366,
+    "call_mean_answer_length": 371.0,
+    "call_hedge_density": 0.029139974122274644,
+    "call_pos_sentiment_mean": 0.23019488900899887,
+    "call_neu_sentiment_mean": 0.7482594677380153,
+    "call_neg_sentiment_mean": 0.021545664806451117,
+    "call_qa_similarity_mean": 0.4429983091652727,
+    "baseline_neg_sentiment_mean": 0.02147826622018502
+  },
+  "generated_at": "2026-05-20T06:51:02+00:00"
+}

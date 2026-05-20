@@ -1,0 +1,28 @@
+{
+  "ticker": "TLYS",
+  "call_date": "2026-03-11",
+  "quarter": 4,
+  "year": 2025,
+  "pressure_score": 3.848804517718835e-17,
+  "cosine_distance": 1.1102230246251565e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.15556497278802853,
+  "baseline_mean": 3.848804517718835e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5777824863940143,
+    "call_mean_answer_length": 122.75,
+    "call_hedge_density": 0.029720831001871603,
+    "call_pos_sentiment_mean": 0.48104197531938553,
+    "call_neu_sentiment_mean": 0.4995344951748848,
+    "call_neg_sentiment_mean": 0.019423538353294134,
+    "call_qa_similarity_mean": 0.30881386632692753,
+    "baseline_neg_sentiment_mean": 0.019423538353294134
+  },
+  "generated_at": "2026-05-20T07:09:02+00:00"
+}

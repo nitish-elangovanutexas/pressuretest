@@ -1,0 +1,28 @@
+{
+  "ticker": "PKG",
+  "call_date": "2026-04-23",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.02387731616778324,
+  "cosine_distance": 0.0646285637602263,
+  "sentiment_shift": 0.0044449411837399755,
+  "question_difficulty_mean": 0.17752428155934552,
+  "baseline_mean": 0.027959055774634537,
+  "baseline_std": 0.005772451510084528,
+  "z_score": -0.7071067811865475,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5887621407796728,
+    "call_mean_answer_length": 46.88235294117647,
+    "call_hedge_density": 0.010539868739193794,
+    "call_pos_sentiment_mean": 0.24547749933074503,
+    "call_neu_sentiment_mean": 0.7011937880340744,
+    "call_neg_sentiment_mean": 0.053328708088135016,
+    "call_qa_similarity_mean": 0.36729271288316095,
+    "baseline_neg_sentiment_mean": 0.04888376690439504
+  },
+  "generated_at": "2026-05-20T06:35:07+00:00"
+}

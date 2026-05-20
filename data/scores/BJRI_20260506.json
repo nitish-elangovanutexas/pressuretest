@@ -1,0 +1,28 @@
+{
+  "ticker": "BJRI",
+  "call_date": "2026-05-06",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 3.878466226817886e-17,
+  "cosine_distance": 1.1102230246251565e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.16447060359107238,
+  "baseline_mean": 3.878466226817886e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5822353017955362,
+    "call_mean_answer_length": 193.0,
+    "call_hedge_density": 0.029628361310616153,
+    "call_pos_sentiment_mean": 0.3842448018491268,
+    "call_neu_sentiment_mean": 0.5660154335200787,
+    "call_neg_sentiment_mean": 0.04973977943882346,
+    "call_qa_similarity_mean": 0.4897817522894444,
+    "baseline_neg_sentiment_mean": 0.04973977943882346
+  },
+  "generated_at": "2026-05-20T04:47:30+00:00"
+}

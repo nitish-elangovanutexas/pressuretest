@@ -1,0 +1,28 @@
+{
+  "ticker": "TMHC",
+  "call_date": "2026-04-22",
+  "quarter": 4,
+  "year": 2024,
+  "pressure_score": 0.02600398684108891,
+  "cosine_distance": 0.05060426252018291,
+  "sentiment_shift": 0.03324015050505598,
+  "question_difficulty_mean": 0.19124187629383035,
+  "baseline_mean": 0.02815898648338412,
+  "baseline_std": 0.0030476297210430586,
+  "z_score": -0.707106781186547,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5956209381469152,
+    "call_mean_answer_length": 101.11111111111111,
+    "call_hedge_density": 0.013759834625495689,
+    "call_pos_sentiment_mean": 0.2702121258609825,
+    "call_neu_sentiment_mean": 0.6607242375612259,
+    "call_neg_sentiment_mean": 0.06906363725041349,
+    "call_qa_similarity_mean": 0.3896136859371906,
+    "baseline_neg_sentiment_mean": 0.10230378775546947
+  },
+  "generated_at": "2026-05-20T07:09:32+00:00"
+}

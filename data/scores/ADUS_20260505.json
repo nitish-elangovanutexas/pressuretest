@@ -1,0 +1,28 @@
+{
+  "ticker": "ADUS",
+  "call_date": "2026-05-05",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.011121226107141094,
+  "cosine_distance": 0.03022184098777836,
+  "sentiment_shift": 0.0021235526772215955,
+  "question_difficulty_mean": 0.17173302480950853,
+  "baseline_mean": 0.03678906982048252,
+  "baseline_std": 0.03629981269628044,
+  "z_score": -0.7071067811865475,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5858665124047543,
+    "call_mean_answer_length": 163.4,
+    "call_hedge_density": 0.0214163464653235,
+    "call_pos_sentiment_mean": 0.20872854217886924,
+    "call_neu_sentiment_mean": 0.7666650474071502,
+    "call_neg_sentiment_mean": 0.02460639914497733,
+    "call_qa_similarity_mean": 0.5916182090451674,
+    "baseline_neg_sentiment_mean": 0.022482846467755734
+  },
+  "generated_at": "2026-05-20T14:44:12+00:00"
+}

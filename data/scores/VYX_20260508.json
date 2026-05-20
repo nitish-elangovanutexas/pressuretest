@@ -1,0 +1,28 @@
+{
+  "ticker": "VYX",
+  "call_date": "2026-05-08",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": -7.893182177414747e-17,
+  "cosine_distance": -2.220446049250313e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.18492441043241656,
+  "baseline_mean": -7.893182177414747e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5924622052162083,
+    "call_mean_answer_length": 168.66666666666666,
+    "call_hedge_density": 0.017016846582860092,
+    "call_pos_sentiment_mean": 0.0921781671543916,
+    "call_neu_sentiment_mean": 0.8687077065308889,
+    "call_neg_sentiment_mean": 0.039114148976902165,
+    "call_qa_similarity_mean": 0.43922040674784874,
+    "baseline_neg_sentiment_mean": 0.039114148976902165
+  },
+  "generated_at": "2026-05-20T07:26:05+00:00"
+}

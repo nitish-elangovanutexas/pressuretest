@@ -1,0 +1,28 @@
+{
+  "ticker": "SFIX",
+  "call_date": "2026-03-11",
+  "quarter": 2,
+  "year": 2026,
+  "pressure_score": 0.0,
+  "cosine_distance": 0.0,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.13876565356017784,
+  "baseline_mean": 0.0,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5693828267800889,
+    "call_mean_answer_length": 243.4,
+    "call_hedge_density": 0.011841660917841071,
+    "call_pos_sentiment_mean": 0.6555294454097748,
+    "call_neu_sentiment_mean": 0.3298333875834942,
+    "call_neg_sentiment_mean": 0.01463721003383398,
+    "call_qa_similarity_mean": 0.4893512606020896,
+    "baseline_neg_sentiment_mean": 0.01463721003383398
+  },
+  "generated_at": "2026-05-20T06:52:00+00:00"
+}

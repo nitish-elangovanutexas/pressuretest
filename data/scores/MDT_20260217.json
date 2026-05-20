@@ -1,0 +1,28 @@
+{
+  "ticker": "MDT",
+  "call_date": "2026-02-17",
+  "quarter": 3,
+  "year": 2026,
+  "pressure_score": 0.011412711565225544,
+  "cosine_distance": 0.03239008255438813,
+  "sentiment_shift": 0.0017265373657847603,
+  "question_difficulty_mean": 0.1342014250388957,
+  "baseline_mean": 0.014453059384598312,
+  "baseline_std": 0.004299701120488432,
+  "z_score": -0.7071067811865478,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5671007125194478,
+    "call_mean_answer_length": 206.84615384615384,
+    "call_hedge_density": 0.019628819879690947,
+    "call_pos_sentiment_mean": 0.28251615166664124,
+    "call_neu_sentiment_mean": 0.6972019145121942,
+    "call_neg_sentiment_mean": 0.020281951444653366,
+    "call_qa_similarity_mean": 0.4245246436901357,
+    "baseline_neg_sentiment_mean": 0.018555414078868605
+  },
+  "generated_at": "2026-05-20T06:07:18+00:00"
+}

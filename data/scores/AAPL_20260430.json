@@ -1,0 +1,28 @@
+{
+  "ticker": "AAPL",
+  "call_date": "2026-04-30",
+  "quarter": 2,
+  "year": 2026,
+  "pressure_score": 0.020842676084941548,
+  "cosine_distance": 0.0595465243788591,
+  "sentiment_shift": 0.0003845119474726322,
+  "question_difficulty_mean": 0.1617434409388663,
+  "baseline_mean": 0.026784800608438197,
+  "baseline_std": 0.0067016727108551374,
+  "z_score": -0.8866628944549622,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5808717204694331,
+    "call_mean_answer_length": 108.46153846153847,
+    "call_hedge_density": 0.014695340686853046,
+    "call_pos_sentiment_mean": 0.4566841612641628,
+    "call_neu_sentiment_mean": 0.4969874070240901,
+    "call_neg_sentiment_mean": 0.046328443174178786,
+    "call_qa_similarity_mean": 0.537843718266018,
+    "baseline_neg_sentiment_mean": 0.04671295512165142
+  },
+  "generated_at": "2026-05-20T14:42:54+00:00"
+}

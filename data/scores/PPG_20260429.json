@@ -1,0 +1,28 @@
+{
+  "ticker": "PPG",
+  "call_date": "2026-04-29",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.016640806542720404,
+  "cosine_distance": 0.026885456794048967,
+  "sentiment_shift": 0.02885096741619668,
+  "question_difficulty_mean": 0.20273275369461521,
+  "baseline_mean": 0.015626635704138435,
+  "baseline_std": 0.0014342541544859187,
+  "z_score": 0.7071067811865464,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6013663768473076,
+    "call_mean_answer_length": 189.68421052631578,
+    "call_hedge_density": 0.023002688035211695,
+    "call_pos_sentiment_mean": 0.34504744508548785,
+    "call_neu_sentiment_mean": 0.5346336700022221,
+    "call_neg_sentiment_mean": 0.12031888579459567,
+    "call_qa_similarity_mean": 0.39039170036326243,
+    "baseline_neg_sentiment_mean": 0.14916985321079235
+  },
+  "generated_at": "2026-05-20T06:38:08+00:00"
+}

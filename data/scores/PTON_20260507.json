@@ -1,0 +1,28 @@
+{
+  "ticker": "PTON",
+  "call_date": "2026-05-07",
+  "quarter": 3,
+  "year": 2026,
+  "pressure_score": 0.03874670216131115,
+  "cosine_distance": 0.09229002295772981,
+  "sentiment_shift": 0.02927651645150036,
+  "question_difficulty_mean": 0.15515902023840775,
+  "baseline_mean": 0.03457517204150982,
+  "baseline_std": 0.015807508662409077,
+  "z_score": 0.2638954821338425,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5775795101192038,
+    "call_mean_answer_length": 487.0,
+    "call_hedge_density": 0.01565620619737775,
+    "call_pos_sentiment_mean": 0.2276950001716614,
+    "call_neu_sentiment_mean": 0.7239892959594727,
+    "call_neg_sentiment_mean": 0.04831568840891123,
+    "call_qa_similarity_mean": 0.5602302738486433,
+    "baseline_neg_sentiment_mean": 0.07759220486041159
+  },
+  "generated_at": "2026-05-20T06:40:48+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "AXON",
+  "call_date": "2026-05-06",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.0,
+  "cosine_distance": 0.0,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.18778422714152257,
+  "baseline_mean": 0.0,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5938921135707613,
+    "call_mean_answer_length": 159.11111111111111,
+    "call_hedge_density": 0.01946345252891475,
+    "call_pos_sentiment_mean": 0.2558129322197702,
+    "call_neu_sentiment_mean": 0.723682036002477,
+    "call_neg_sentiment_mean": 0.020505046471953392,
+    "call_qa_similarity_mean": 0.3749938055105457,
+    "baseline_neg_sentiment_mean": 0.020505046471953392
+  },
+  "generated_at": "2026-05-20T04:42:34+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "UPWK",
+  "call_date": "2026-02-09",
+  "quarter": 4,
+  "year": 2025,
+  "pressure_score": 0.012079938001773422,
+  "cosine_distance": 0.029422711714462757,
+  "sentiment_shift": 0.008363702295658484,
+  "question_difficulty_mean": 0.15051915846102548,
+  "baseline_mean": 0.013841249175302207,
+  "baseline_std": 0.0024908701491636784,
+  "z_score": -0.7071067811865478,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5752595792305127,
+    "call_mean_answer_length": 220.11111111111111,
+    "call_hedge_density": 0.012506642963942532,
+    "call_pos_sentiment_mean": 0.4523325976398256,
+    "call_neu_sentiment_mean": 0.4716966268089082,
+    "call_neg_sentiment_mean": 0.07597077420602243,
+    "call_qa_similarity_mean": 0.5995206902578682,
+    "baseline_neg_sentiment_mean": 0.06760707191036394
+  },
+  "generated_at": "2026-05-20T07:19:48+00:00"
+}

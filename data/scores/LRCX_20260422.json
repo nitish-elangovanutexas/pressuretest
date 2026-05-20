@@ -1,0 +1,28 @@
+{
+  "ticker": "LRCX",
+  "call_date": "2026-04-22",
+  "quarter": 3,
+  "year": 2026,
+  "pressure_score": 0.024643228896454678,
+  "cosine_distance": 0.057778093454504464,
+  "sentiment_shift": 0.017379995352322503,
+  "question_difficulty_mean": 0.18423389408846966,
+  "baseline_mean": 0.01814038927177377,
+  "baseline_std": 0.009196403991160909,
+  "z_score": 0.7071067811865474,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5921169470442348,
+    "call_mean_answer_length": 154.83333333333334,
+    "call_hedge_density": 0.02553804308654029,
+    "call_pos_sentiment_mean": 0.2585595523317655,
+    "call_neu_sentiment_mean": 0.7227885896960894,
+    "call_neg_sentiment_mean": 0.018651852772260707,
+    "call_qa_similarity_mean": 0.46190553383279087,
+    "baseline_neg_sentiment_mean": 0.03603184812458321
+  },
+  "generated_at": "2026-05-20T06:00:19+00:00"
+}

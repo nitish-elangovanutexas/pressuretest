@@ -1,0 +1,28 @@
+{
+  "ticker": "GM",
+  "call_date": "2026-01-27",
+  "quarter": 4,
+  "year": 2025,
+  "pressure_score": 0.008464638851008552,
+  "cosine_distance": 0.022469107244303288,
+  "sentiment_shift": 0.0019349545188662096,
+  "question_difficulty_mean": 0.18756561660571308,
+  "baseline_mean": 0.007589754489452543,
+  "baseline_std": 0.0012372733296206343,
+  "z_score": 0.7071067811865471,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5937828083028566,
+    "call_mean_answer_length": 166.55555555555554,
+    "call_hedge_density": 0.01786676874941072,
+    "call_pos_sentiment_mean": 0.4501935905880398,
+    "call_neu_sentiment_mean": 0.5317757220731841,
+    "call_neg_sentiment_mean": 0.01803069385803408,
+    "call_qa_similarity_mean": 0.5380281258704762,
+    "baseline_neg_sentiment_mean": 0.01996564837690029
+  },
+  "generated_at": "2026-05-20T05:36:56+00:00"
+}

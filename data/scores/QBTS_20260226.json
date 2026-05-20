@@ -1,0 +1,28 @@
+{
+  "ticker": "QBTS",
+  "call_date": "2026-02-26",
+  "quarter": 4,
+  "year": 2025,
+  "pressure_score": 0.015397314985137755,
+  "cosine_distance": 0.03923920228418076,
+  "sentiment_shift": 0.007869729220580598,
+  "question_difficulty_mean": 0.15372797620360998,
+  "baseline_mean": 0.015714674995262037,
+  "baseline_std": 0.0004488148304726256,
+  "z_score": -0.7071067811865436,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.576863988101805,
+    "call_mean_answer_length": 125.38461538461539,
+    "call_hedge_density": 0.011927485052406307,
+    "call_pos_sentiment_mean": 0.3743202342436864,
+    "call_neu_sentiment_mean": 0.6099275556894449,
+    "call_neg_sentiment_mean": 0.015752206914699994,
+    "call_qa_similarity_mean": 0.5565181837776199,
+    "baseline_neg_sentiment_mean": 0.023621936135280592
+  },
+  "generated_at": "2026-05-20T06:42:01+00:00"
+}

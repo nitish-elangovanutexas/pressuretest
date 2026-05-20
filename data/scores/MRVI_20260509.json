@@ -1,0 +1,28 @@
+{
+  "ticker": "MRVI",
+  "call_date": "2026-05-09",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 4.087879052836007e-17,
+  "cosine_distance": 1.1102230246251565e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.2273447052725266,
+  "baseline_mean": 4.087879052836007e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6136723526362633,
+    "call_mean_answer_length": 140.14285714285714,
+    "call_hedge_density": 0.016570347405758985,
+    "call_pos_sentiment_mean": 0.33850861553634914,
+    "call_neu_sentiment_mean": 0.6189851803439004,
+    "call_neg_sentiment_mean": 0.04250623432121107,
+    "call_qa_similarity_mean": 0.5597708988713482,
+    "baseline_neg_sentiment_mean": 0.04250623432121107
+  },
+  "generated_at": "2026-05-20T06:13:14+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "DKNG",
+  "call_date": "2026-02-13",
+  "quarter": 4,
+  "year": 2025,
+  "pressure_score": 3.787531838827819e-17,
+  "cosine_distance": 1.1102230246251565e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.13716846519992357,
+  "baseline_mean": 3.787531838827819e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5685842325999618,
+    "call_mean_answer_length": 194.7058823529412,
+    "call_hedge_density": 0.022496292469282895,
+    "call_pos_sentiment_mean": 0.2309778621968101,
+    "call_neu_sentiment_mean": 0.6149779001579565,
+    "call_neg_sentiment_mean": 0.15404424608192024,
+    "call_qa_similarity_mean": 0.495237108970678,
+    "baseline_neg_sentiment_mean": 0.15404424608192024
+  },
+  "generated_at": "2026-05-20T05:13:20+00:00"
+}

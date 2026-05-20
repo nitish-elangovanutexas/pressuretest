@@ -1,0 +1,28 @@
+{
+  "ticker": "APA",
+  "call_date": "2026-05-07",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.026322187900052325,
+  "cosine_distance": 0.06857281773639601,
+  "sentiment_shift": 0.0077721686723331625,
+  "question_difficulty_mean": 0.18963463464253963,
+  "baseline_mean": 0.019201519981307265,
+  "baseline_std": 0.010070145143844264,
+  "z_score": 0.7071067811865475,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5948173173212699,
+    "call_mean_answer_length": 117.33333333333333,
+    "call_hedge_density": 0.01868179675752152,
+    "call_pos_sentiment_mean": 0.5809443816542625,
+    "call_neu_sentiment_mean": 0.40470727408925694,
+    "call_neg_sentiment_mean": 0.014348343635598818,
+    "call_qa_similarity_mean": 0.4853579854972272,
+    "baseline_neg_sentiment_mean": 0.02212051230793198
+  },
+  "generated_at": "2026-05-20T04:36:36+00:00"
+}

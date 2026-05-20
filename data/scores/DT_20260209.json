@@ -1,0 +1,28 @@
+{
+  "ticker": "DT",
+  "call_date": "2026-02-09",
+  "quarter": 3,
+  "year": 2026,
+  "pressure_score": 0.0,
+  "cosine_distance": 0.0,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.1491793915911408,
+  "baseline_mean": 0.0,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5745896957955704,
+    "call_mean_answer_length": 182.88888888888889,
+    "call_hedge_density": 0.012221299252431038,
+    "call_pos_sentiment_mean": 0.31255873623821473,
+    "call_neu_sentiment_mean": 0.6669165574842029,
+    "call_neg_sentiment_mean": 0.02052470865762896,
+    "call_qa_similarity_mean": 0.43071013703682104,
+    "baseline_neg_sentiment_mean": 0.02052470865762896
+  },
+  "generated_at": "2026-05-20T05:17:09+00:00"
+}

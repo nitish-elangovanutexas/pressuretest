@@ -1,0 +1,28 @@
+{
+  "ticker": "GOOGL",
+  "call_date": "2026-04-29",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.023369576048929596,
+  "cosine_distance": 0.06380828910935943,
+  "sentiment_shift": 0.0011962066404521462,
+  "question_difficulty_mean": 0.20575296359031237,
+  "baseline_mean": 0.02264509434720904,
+  "baseline_std": 0.0010245718482643491,
+  "z_score": 0.7071067811865476,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6028764817951562,
+    "call_mean_answer_length": 193.4,
+    "call_hedge_density": 0.02826277644485245,
+    "call_pos_sentiment_mean": 0.42505949437618257,
+    "call_neu_sentiment_mean": 0.5637114912271499,
+    "call_neg_sentiment_mean": 0.011229031346738338,
+    "call_qa_similarity_mean": 0.5044571179158032,
+    "baseline_neg_sentiment_mean": 0.012425237987190484
+  },
+  "generated_at": "2026-05-20T05:38:01+00:00"
+}

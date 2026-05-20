@@ -1,0 +1,28 @@
+{
+  "ticker": "AXP",
+  "call_date": "2026-04-23",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.02950838814390179,
+  "cosine_distance": 0.08200778866636393,
+  "sentiment_shift": 0.004345823273373149,
+  "question_difficulty_mean": 0.15848641385405227,
+  "baseline_mean": 0.024699798911032425,
+  "baseline_std": 0.006523759115695684,
+  "z_score": 0.7370887164273514,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5792432069270261,
+    "call_mean_answer_length": 214.66666666666666,
+    "call_hedge_density": 0.021067857652441548,
+    "call_pos_sentiment_mean": 0.240088758783208,
+    "call_neu_sentiment_mean": 0.7025404738055335,
+    "call_neg_sentiment_mean": 0.05737078458898597,
+    "call_qa_similarity_mean": 0.604384719523087,
+    "baseline_neg_sentiment_mean": 0.06171660786235912
+  },
+  "generated_at": "2026-05-20T04:43:10+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "TTC",
+  "call_date": "2026-03-05",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 7.688887419674064e-17,
+  "cosine_distance": 2.220446049250313e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.15425568393792696,
+  "baseline_mean": 7.688887419674064e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5771278419689635,
+    "call_mean_answer_length": 108.29411764705883,
+    "call_hedge_density": 0.0216609360185259,
+    "call_pos_sentiment_mean": 0.40426473494838266,
+    "call_neu_sentiment_mean": 0.525263935984934,
+    "call_neg_sentiment_mean": 0.07047132720403812,
+    "call_qa_similarity_mean": 0.48791476141749235,
+    "baseline_neg_sentiment_mean": 0.07047132720403812
+  },
+  "generated_at": "2026-05-20T07:14:00+00:00"
+}

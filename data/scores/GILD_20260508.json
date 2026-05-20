@@ -1,0 +1,28 @@
+{
+  "ticker": "GILD",
+  "call_date": "2026-05-08",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.03719965452264262,
+  "cosine_distance": 0.10242061426819515,
+  "sentiment_shift": 0.0016515245661139488,
+  "question_difficulty_mean": 0.1978061747627018,
+  "baseline_mean": 0.03844690666714631,
+  "baseline_std": 0.0017638808984560522,
+  "z_score": -0.7071067811865456,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5989030873813509,
+    "call_mean_answer_length": 182.0,
+    "call_hedge_density": 0.003937007874015748,
+    "call_pos_sentiment_mean": 0.499870240688324,
+    "call_neu_sentiment_mean": 0.4913923665881157,
+    "call_neg_sentiment_mean": 0.008737401105463505,
+    "call_qa_similarity_mean": 0.4464207625499423,
+    "baseline_neg_sentiment_mean": 0.010388925671577454
+  },
+  "generated_at": "2026-05-20T05:35:41+00:00"
+}

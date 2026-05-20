@@ -1,0 +1,28 @@
+{
+  "ticker": "XPO",
+  "call_date": "2026-04-30",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.028698735771850493,
+  "cosine_distance": 0.03229904578343512,
+  "sentiment_shift": 0.07117303735697521,
+  "question_difficulty_mean": 0.19956321954675194,
+  "baseline_mean": 0.026730664678988842,
+  "baseline_std": 0.0027832728312393857,
+  "z_score": 0.7071067811865475,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5997816097733759,
+    "call_mean_answer_length": 366.0,
+    "call_hedge_density": 0.015523713425182982,
+    "call_pos_sentiment_mean": 0.4869466058232568,
+    "call_neu_sentiment_mean": 0.3345640802925283,
+    "call_neg_sentiment_mean": 0.17848931303755802,
+    "call_qa_similarity_mean": 0.5143690445200877,
+    "baseline_neg_sentiment_mean": 0.10731627568058281
+  },
+  "generated_at": "2026-05-20T07:35:34+00:00"
+}

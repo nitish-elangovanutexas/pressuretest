@@ -1,0 +1,28 @@
+{
+  "ticker": "QUAD",
+  "call_date": "2026-04-30",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.061172049780082505,
+  "cosine_distance": 0.11169651894519639,
+  "sentiment_shift": 0.08979907731215159,
+  "question_difficulty_mean": 0.1885274977047789,
+  "baseline_mean": 0.0706051302528314,
+  "baseline_std": 0.029839393501357402,
+  "z_score": -0.3161284250740478,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5942637488523894,
+    "call_mean_answer_length": 234.8,
+    "call_hedge_density": 0.025976287022404915,
+    "call_pos_sentiment_mean": 0.16135817244648934,
+    "call_neu_sentiment_mean": 0.6154847413301467,
+    "call_neg_sentiment_mean": 0.22315707430243492,
+    "call_qa_similarity_mean": 0.5682598906811178,
+    "baseline_neg_sentiment_mean": 0.13335799699028333
+  },
+  "generated_at": "2026-05-20T06:43:19+00:00"
+}

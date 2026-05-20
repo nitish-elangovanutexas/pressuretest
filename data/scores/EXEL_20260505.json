@@ -1,0 +1,28 @@
+{
+  "ticker": "EXEL",
+  "call_date": "2026-05-05",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.061439481069870606,
+  "cosine_distance": 0.1686264979402401,
+  "sentiment_shift": 0.010153112208677664,
+  "question_difficulty_mean": 0.16763870512486947,
+  "baseline_mean": 0.05062585019299189,
+  "baseline_std": 0.013901259865215702,
+  "z_score": 0.7778885497951894,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5838193525624348,
+    "call_mean_answer_length": 12.375,
+    "call_hedge_density": 0.006944444444444444,
+    "call_pos_sentiment_mean": 0.05666287895292044,
+    "call_neu_sentiment_mean": 0.9091709181666374,
+    "call_neg_sentiment_mean": 0.034166204277426004,
+    "call_qa_similarity_mean": 0.12937503673733575,
+    "baseline_neg_sentiment_mean": 0.02401309206874834
+  },
+  "generated_at": "2026-05-20T05:26:24+00:00"
+}

@@ -1,0 +1,622 @@
+{
+  "ticker": "NEO",
+  "company_name": "Neogenomics",
+  "call_date": "2026-04-22",
+  "quarter": 4,
+  "year": 2024,
+  "prepared_remarks": "Earnings Call Transcript\nNeoGenomics (NEO) Q4 2024 Earnings Transcript\nBy\n\nMotley Fool Transcribing\n\n–\n\nApr 22, 2026 at 4:56PM EST\n\n\n\n\nImage source: The Motley Fool.\n\n\nDATE\nTuesday, February 18, 2025 at 8:30 a.m. ET\nCALL PARTICIPANTS\nChief Executive Officer — Chris Smith\nChief Financial Officer — Jeffrey Sherman\nChief Commercial Officer — Warren Stone\nChief Innovation Officer — Andrew Lukowiak\nChief Operations Officer — Melody Harris\nHead of Strategy and Transformation — Kareem Saad\nMedical Director — Nate Montgomery\nTAKEAWAYS\nRevenue\n-- $172 million, reflecting an 11% increase.\nClinical Testing Volumes\n-- Grew 9%, supported by a 5% lift in revenue per test.\nAdjusted Gross Margin\n-- Improved to 48%, the highest in 20 quarters.\nNGS Revenue\n-- Increased 24% for the quarter and 34% for the year, now representing over 30% of total revenue.\nAdjusted EBITDA\n-- Rose 27% in the quarter to $12 million, marking six consecutive quarters of positive performance.\nFull-year 2024 Results\n-- Revenue of $661 million, up 12%; adjusted EBITDA of $40 million, improving over 1,000%.\nCash and Marketable Securities\n-- Ended at $387 million, down 7% sequentially.\nFull-year 2025 Guidance\n-- Revenue projected at $735 million-$745 million (11%-13% growth), and adjusted EBITDA expected at $55 million-$58 million (38%-45% improvement).\nSalesforce Expansion\n-- Anticipated to reach 140, approaching a 1:1 hospital pathology to community oncology ratio.\nCommercial Partnerships\n-- Announced exclusive multi-year MRD collaboration with Adaptive, aiming to strengthen Heme testing leadership.\nOperational Metrics\n-- Lab turnaround time improved 11%; over 300 new customer interfaces implemented, tripling prior year’s figure, and Net Promoter Score rose to 74 from 70 (with oncology respondents improving from 42 to 64).\nClinical Innovation\n-- Launch planned for PanTracer liquid biopsy and an upgraded Neo Comprehensive NGS panel to include HRD.\nGross Margin Expansion Drivers\n-- Over 240 basis points improvement attributed to automation, staffing efficiencies, and higher-value test mix initiatives.\nLong-term Plan Update\n-- Raised targets: 12%-13% annual top-line growth, 25% NGS growth, 100-150 basis points in annual gross margin expansion, and 250-300 basis points EBITDA margin growth, excluding possible MRD revenue.\nConvertible Notes Repayment\n-- Plan to repay $201 million principal due May 2025 entirely from cash and securities.\nNeed a quote from a Motley Fool analyst? Email\n[email protected]\nRISKS\n\"we did not see the customer year end budget flush that fuels revenue in the fourth quarter. These macro conditions and the limitations of selling new RaDaR contracts resulted in the softer quarter.\"\n\"On top of this, we were limited in our ability to sell new RaDaR contracts due to the preliminary injunction and negotiated settlement.\"\n\"it was down 7% for the year and we did talk about Q4 even being softer where we typically see a budget flush and we saw other\"\n\"the pharma business has been more of a challenge candidly. We didn't see that flush of the business in Q4. We've restructured that whole field organization now that it's under Warren's leadership and that kicked-off kind of late Q4 into Q1. But the pharma business has been a little bit challenged because we haven't been able to sell new RaDaR. And so getting through this court case in October, we think is going to give us some nice clarity on the future.\"\nSUMMARY\nNeoGenomics\n\n(\nNEO\n\n+1.04%\n)\nreported double-digit revenue growth and six consecutive quarters of positive adjusted EBITDA, driven by expanding NGS adoption and operational improvements. Management confirmed the launch timeline for major growth products, including PanTracer liquid biopsy and a Neo Comprehensive NGS panel upgrade, while underscoring their strategy for cost efficiency and continued margin expansion. The company highlighted progress on exclusive partnerships and test menu innovation, supporting its higher long-range growth guidance, and detailed plans for repaying $201 million in convertible notes from available liquidity without external financing.\nThe transition to Tony Zook as CEO was attributed to NeoGenomics reaching a stable platform for growth after surpassing turnaround and profitability milestones.\nNGS growth was attributed to new product launches and expanded field sales resources, with management signaling ongoing market share gains in both Heme and solid tumor modalities.\nManagement acknowledged the Q4 and non-clinical revenue softness, attributing it directly to pharma budget timing and temporary legal constraints on RaDaR sales rather than core demand trends.\nNeoGenomics cited 13 new material products launched over two years, with seven added in the past year—most NGS-based—fueling product mix shifts and supporting revenue per test growth.\nPlans for additional in-licensing and partnership activity remain unchanged, as both leadership and business development priorities continue to favor complementary innovations and channel leverage.\nThe ongoing litigation regarding RaDaR 1.1 was acknowledged, with a jury trial set for October; company leaders expressed confidence in their pipeline, differentiation by sensitivity, and multi-platform MRD strategy.\nINDUSTRY GLOSSARY\nNGS (Next-Generation Sequencing)\n: Advanced genomic analysis method enabling parallel sequencing of DNA or RNA, used for comprehensive cancer testing panels.\nMRD (Minimal Residual Disease)\n: Testing to detect small numbers of cancer cells remaining after treatment, used to guide prognosis and further therapy in hematologic malignancies.\nRCM (Revenue Cycle Management)\n: Processes and systems managing claims, payments, and revenue generation in healthcare services.\nAUP (Average Unit Price)\n: The mean revenue received per diagnostic test performed.\nRaDaR\n: NeoGenomics' proprietary liquid biopsy platform for personalized cancer monitoring and MRD assessment.\nHRD (Homologous Recombination Deficiency)\n: A biomarker indicating impairment in the DNA repair pathway, relevant for therapy selection in cancer.\nFull Conference Call Transcript\nChris Smith, Chief Executive Officer; Jeff Sherman, Chief Financial Officer; Warren Stone, Chief Commercial Officer; and Andrew Lukowiak, Chief Innovation Officer. Additional members of the management team are available for Q&A, including Melody Harris, Chief Operations Officer and Kareem Saad, Head of Strategy and Transformation. This call is being simultaneously webcast. And we'll be referring to a slide presentation that has been posted to the investors tab on our website at ir.neogenomics.com. During this call, we will make forward-looking statements regarding our future performance. We caution you that actual events or results could differ materially.\nAnd the forward-looking statements made during this call speak only as of the original date of this call and we undertake no obligation to update or revise any of these statements. Please refer to our most recent Forms 10-K, 10-Q, and 8-K we filed with the SEC to identify important risks and other factors that may cause our actual results to differ from the forward-looking statements. During this call, we refer to certain non-GAAP financial measures that involve adjustments to GAAP results. The non-GAAP financial measures presented should not be considered an alternative to the financial measures required by GAAP and are unlikely to be comparable to non-GAAP financial measures provided by other companies.\nAny non-GAAP financial measures referenced on this call are reconciled to the most directly comparable GAAP financial measures in a table available in the press release we issued this morning. I will now turn the call over to Chris Smith, Chief Executive Officer of NeoGenomics.\nChris Smith:\nThanks, Kendra, and good morning, everyone. Thanks for joining us today. On today's call, we'll discuss the highlights of our fourth quarter and full year financial results and provide an update on key business growth drivers. Before we discuss the financial results, I just want to thank our teammates for their unyielding commitment to our mission and their hard work throughout the year. Our mission and vision, which is about saving lives by improving patient care, is what attracted me to Neo and is what drives me and our teammates of 2,200 across the United States and in the UK every day.\nI want to thank my teammates for the work they've put in over the last several years to transform this company. As many of you know, when I took the Neo CEO role, it was with the commitment to help lead a turnaround of Neo back to growth and profitability. This transformation occurred much quicker than I originally anticipated. We have now grown revenue double-digits for nine consecutive quarters and have turned around adjusted EBITDA from a negative $48 million in 2022 to a positive $40 million in 2024. With the company now in a strong financial position, I decided it was time for me to retire.\nWhile I retire on April 1st, I'm confident in the future growth potential of Neo. We compete in a very large and growing market with a broad test menu. We enjoy a leadership position in the community setting and we have a world-class management team. In addition, I think our incoming CEO, Tony Zook's deep commercial experience, especially around launching new products and R&D, as well as having the opportunity to interact with the management team and learn the business as a Board member over the last few years made him the right choice as the next CEO to lead Neo into the future. With that, let's get into the Q4 highlights on the next slide.\nAs you can see, we had another strong quarter with revenue of $172 million, growing revenue by double-digits for the ninth consecutive quarter. Clinical testing volumes increased 9% versus prior year with a 5% increase in revenue per test. Adjusted gross margins improved to 48%, the highest in 20 quarters or five years. As a highlight, we saw 24% growth in NGS in the quarter and 34% for the year. NGS now represents over 30% of our total revenue. From an adjusted EBITDA perspective, our progress continues with 27% improvement for the quarter, making Q4 our sixth consecutive quarter of positive adjusted EBITDA. We made key investments in our commercial and enterprise operation organizations throughout the year.\nThese investments, combined with the entire organization's efforts to enhance customer experience has enabled us to serve nearly 700,000 patients in 2024, which I believe positions us well to achieve our goal of serving 1 million patients annually by 2028. The success we experienced throughout the transformation and the continued momentum of our quarterly financial results enabled us to raise our long-range financial plan last month. We're not going to be in the habit of adjusting this number annually, but given our understanding of the business today versus where our new management team was at Investor Day in April 2023, we want to provide a clear picture of the business as we see it over the next few years.\nOur long range financial plan targets top line growth to 12% to 13% annually. Notably, this excludes any revenue from MRD. We believe the company has the potential to continue to grow the NGS business by 25% annually, which would outpace the market growth rates, which we believe is around 15%. We think about our gross margins, we see about 100 basis points to 150 basis points of expansion each year. When you take that with the revenue, our disciplined approach to OpEx and our focused investment strategy, it gives us about 250 basis points to 300 basis points of growth in adjusted EBITDA margins.\nOur confidence in continuing to execute on this broad range of growth levers as well as the large addressable market in our business is what drives our LRP performance over the next several years. The statistics are clear. One in two men and one in three women are projected to be diagnosed with cancer in their lifetime and 80% of those new patients will choose to be treated close to home in a community setting. Our value proposition has always been how do we provide patients with the same cancer care they'd receive at an academic center like MD Anderson, in the community setting where they live and are being treated like Greenville, South Carolina.\nOur broad menu of over 500 tests and our relationship with hospital pathologists and community oncologists gives us confidence in our long range plan. On that, let me turn it over to Warren Stone, our Chief Commercial Officer, to give an update on the business and some highlights and insight into the growth. Warren?\nWarren Stone:\nThanks, Chris, and good morning, everybody. Let's turn to Slide 7. The optimization of our commercial business is one of our key drivers in achieving long term sustainable growth. Our field organization continues to effectively execute our commercial strategy, protect, expand, acquire. To deliver volume growth, increased AUP and improved mix driven by strength in NGS. NeoGenomics drove significant organic volume growth in the fourth quarter across the portfolio as our commercial and lab operations teams continues to execute. Growth is especially robust across NGS with revenue growth of 24% in the quarter, driven by competitive account wins, improved mix and adoption of large test panels across Heme and solid tumor.\nAs we shared on the third-quarter call, we are expanding our commercial resources to drive market penetration into community oncology and to support the launch of key products targeted to this segment. We anticipate we'll be at 140 salespeople when the expansion is complete, approaching a one-to-one ratio between hospital pathology and community oncology core points. Most of these team members have been onboarded and attended our global sales meeting last week, joining at a very exciting time for Neo as we look to launch new tests in the coming months, including PanTracer liquid biopsy.\nWith greater reach from an expanded commercial organization, we will continue to penetrate both new and existing accounts with our comprehensive menu of oncology testing solutions. A key differentiator for Neo is our broad menu over 500 tests, which addresses diagnosis and precision medicine needs in NCCN guideline-approved panels and comprehensive pan-cancer panels. This allows us to meet providers where they are in terms of how they choose to treat their patients. To enhance our comprehensive menu, which already includes flow MRD tests and to further our leadership position in Heme, we announced a multi-year exclusive strategic commercial collaboration with Adaptive that will advance minimal residual disease monitoring options for patients with select blood cancers.\nUnder this partnership, patients will have access to compass and chart comprehensive and personalized assessment services, alongside Adaptive NGS-based [clonoSEQ] (ph) MRD assay, all from one single bone marrow sample. We believe MRD is an integral part of patient care, not only as a prognostic pool but also to guide clinical decision-making and this is -- and this -- that exclusive collaboration reflects a broader commitment to providing the best-in-class personalized diagnostic testing for patients throughout their cancer journey while strengthening our leadership position in Heme testing. We'll continue to evaluate opportunities for in-licensing and strategic partnership arrangements to enhance our efforts to drive innovation and bring optionality to patients who can benefit from MRD testing.\nWhile we focus on growing commercial footprint, we always keep the patients as a priority. We know the difference a day makes while waiting for test results. So the entire organization works to get results back to physicians quickly. I'm proud to say our lab improved turnaround time by 11% annually compared to 2023, even with significant increase in test volumes. Providing a seamless user experience to our customers is at the heart of our commercial strategy. Last year, we implemented over 300 new interfaces with ordering accounts across community oncology practices and hospitals, a 3 times increase over 2023. As a result, more than 40% of our customers now have customer -- custom interfaces directly with us.\nWe see a material increase in revenue with each customer we establish an interface with as it enables stickiness in the relationship by making it easier to do business with us. We intend to continue to invest in the acceleration and the deployment of more comprehensive interfaces to support our customers as we expand our commercial presence. The trust our partners have in us to deliver on turnaround time and meet our commitments has once again improved our Net Promoter Score to 74 in 2024, up from 70 in 2023. Importantly, oncology specific respondents, which is reflective of our new target market has improved from 42 in 2023 to 64 in 2024.\nThis is especially proud of this improvement as community oncology is a tough market to penetrate and notably less sticky than the hospital business. In the pharma setting, we did not see the customer year end budget flush that fuels revenue in the fourth quarter. These macro conditions and the limitations of selling new RaDaR contracts resulted in the softer quarter. As we enter 2025, we have concluded the preparations and implementation of our revised commercial strategy. This model better aligns with the needs of our pharma customers and their buying processes, resulting increased value and shorter sales cycles. Additionally, it allows Neo to capitalize on operational synergies, which will enhance quality and customer experience.\nNow let me hand over to Andrew Lukowiak, Chief Innovation Officer, to talk about upcoming products and clinical data that will provide our commercial organization with tools to expand their reach.\nAndrew Lukowiak:\nThanks, Warren. Turning to Slide 9, I'd like to focus on innovation. We believe innovation is another critical driver for delivering long-term sustainable growth. Identifying and executing on the right opportunities positions us well to capitalize on this rapidly evolving market, both now and for the long-term. We organize these opportunities in the three distinct but complementary segments, products, studies and research. Let's begin with products. The bulk of our existing test menu has addressed the diagnostics market, but more and more, we are moving our business into therapy selection. We believe the therapy selection market is around $13 billion in size with only about 35% penetration.\nSo to aid in capturing share of this market, we are launching Neo PanTracer liquid biopsy in the clinical setting in the first half of this year. For the clinical customer, PanTracer liquid biopsy will be a comprehensive and highly sensitive liquid biopsy test, complementing traditional tissue testing for therapy selection in advanced stage solid tumor patients. We will also launch an upgrade to our Neo Comprehensive NGS panel to include HRD. Beyond the therapy selection market, we continue the development of RaDaR version 1.1, which is on track to complete clear validation. We continue to support RaDaR 1.0 under the legally approved carve-outs for patients and clinical trials already using the technology.\nThe next song of innovation is the generation of clinical evidence. We are accelerating investment to participate in outcomes-based clinical studies that help drive adoption, support reimbursement, and expand our current clinical applications. We'll give a more detailed update of our clinical studies in the coming months. Last, but perhaps most important is the development of a dedicated research program to enhance our MRD portfolio. This program focuses on applying a directed intentional approach to generating intellectual property specific to the field of MRD, including the development of both broad core technologies as well as targeted innovations that would be cancer-type specific. We're pleased to announce that this program is already operational with multiple opportunities actively being explored.\nAnd now, I'll hand it back to Jeff for some color on some margin expansion.\nJeffrey Sherman:\nThanks, Andrew. We are excited about what you and your team are working on and you're already having an impact on our R&D efforts. We are executing our margin expansion initiatives to deliver sustainable growth. Through a combination of efforts, including automation, staffing efficiencies and higher-value tests, we drove over 240 basis points of gross margin improvement in the second half and full year of 2024 versus prior year. We've provided you with some high-level updates on our plans to improve and upgrade our lab information management system. The migration to one single LIM system is a multi-year process and each quarter we continue to make progress.\nWe have now combined our clinical and pharma workflow, blending COGS and operating expenses into one single segment and increasing efficiencies. Now, let me go into our fourth quarter and full year financial results. I'll start with a little more detail on our operating results for the quarter. We delivered a strong overall performance in Q4 with yet another quarter of double-digit revenue growth increasing 11% over the prior year to $172 million. The combination of clinical test volume growth, the ongoing shift to higher-value tests, and improvements in revenue per test due to RCM initiatives continue to drive revenue growth.\nAdjusted gross margins improved by 134 basis points to 48% with adjusted EBITDA improving $3 million or 27% from the prior year to $12 million. As Chris said, Q4 was our sixth consecutive quarter of positive adjusted EBITDA. Total revenue for the quarter, remind you, we are reporting one single segment going forward, grew to $172 million, an increase of 11% over prior year. The increase in revenue reflects increasing test volumes and higher revenue per test due to increased ordering of higher-value NGS tests and strategic reimbursement initiatives. As our expanded sales force penetrates deeper into the community oncology setting, we are seeing increased adoption of NGS testing, which is driving higher volume growth.\nThe strong demand for NGS testing and the insights it provides continue to fuel revenue growth and earnings. As Warren noted, we did not see the expected pharma budget flush with year-end projects in the fourth quarter that we had expected and had observed in prior years which impacted our revenue. On top of this, we were limited in our ability to sell new RaDaR contracts due to the preliminary injunction and negotiated settlement. We enter 2025 confident that we are positioned to grow our pharma relationships and we did see growth in informatics, now called oncology data solutions in the fourth quarter and for the full year.\nLooking at our fourth quarter financial overview on Slide 14, adjusted gross profit increased by 14% over prior year as a result of revenue growth and operating leverage generating higher adjusted gross profit and margins. Regarding operating expenses, sales and marketing expense was $22 million, an increase of 24%, reflecting our continued investment in the expansion of our commercial sales organization and support staff. R&D expense increased 12% to $8 million in the quarter and our 2025 guidance also incorporates ramping investments in R&D, targeted to drive future products and long-term IP value, as Andrew noted. Finally, G&A expense increased to $63 million driven by higher technology costs to drive customer engagement, increased compensation costs, and higher depreciation expenses.\nWe ended the fourth quarter with cash and marketable securities of $387 million, a decrease of 7% versus prior year. Cash flow from operations was positive $10 million as we continue to make investments in the business to fuel long-term sustainable growth. We still intend to pay off our May 2025 convertible notes with the principal balance of $201 million using existing cash and marketable securities. Turning to Slide 15 for full year 2024 results. Revenue was up 12% versus prior year to $661 million, driven by deeper penetration in the community setting, higher volumes, a continuing shift to higher-margin modalities and execution of revenue cycle management initiatives.\nAdjusted gross profit was $311 million, representing an adjusted gross margin of 47% or an improvement of 245 basis points. Cash flow from operations improved 460% to positive $7 million and adjusted EBITDA increased over 1,000% to positive $40 million, an improvement of $36 million over prior year. Let's move on to our full year 2025 guidance. Warren and Andrew talked about the investments we are making into the commercial organization and in R&D. We are investing more heavily in the first half of the year than we initially anticipated to enable accelerated growth in the back half with the typical seasonality of Q1 being the softest.\nFor the full year, we expect revenues of $735 million to $745 million, representing 11% to 13% growth and adjusted EBITDA of $55 million to $58 million, representing an improvement of 38% to 45%. While we do not give quarterly guidance, we wanted to give clarity into the weighting of the year due to these investments in H1 and the ramp of revenue in H2. Similar to last year, we expect first quarter revenues to be about 23% of full year revenue, representing growth of 8% to 10%, and we expect 8% to 10% of the adjusted EBITDA for the year to be earned in Q1.\nWe will continue to take a balanced approach to investments with increasing adjusted EBITDA, enabling expanded investments in our commercial organization, further investments to drive operating efficiencies in the business and targeted investments in R&D to drive future product innovation for our well established commercial channel. In summary, 2024 represented a strong year of execution and financial discipline, which positions us well to continue the momentum into 2025. And with that, I'll hand it back to Chris to wrap up.\nChris Smith:\nThanks, Jeff. Wow, it's been a great quarter contributing to a very strong year. I'm so proud of our teammates for working so hard to sustain performance that delivers these type of results. Before we wrap up, let me give a quick update on RaDaR litigation as to whether RaDaR 1.1 infringes two of Natera's patents and it's still ongoing. A jury trial is currently scheduled for October 2025 and as you've heard the team talk about today, we remain committed to bringing patients optionality in MRD testing and are confident in our position in the market.\nSo to round out the call, in 2024, we saw four consecutive quarters of double-digit year-on-year revenue growth and positive adjusted EBITDA in all quarters as well as the highest adjusted gross margin in 20 quarters in Q4. We served nearly 700,000 patients on the path to our goal of serving 1 million patients annually by 2028. We saw meaningful progress in the execution on our strategic priorities and expect this momentum to continue throughout the year, which allowed us to raise our long-term guidance earlier this year. Our 2025 guidance reflects our confidence in the business and our teammates who will help us along the way. So now let's hand the call back over to Kendra for questions.\nThank you.\nKendra Sweeney:\nThanks, Chris. That concludes our prepared remarks this morning. Let's go ahead and open the line for questions. Holly?",
+  "qa_turns": [
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Certainly. At this time, we will be conducting a question-and-answer session.\n[Operator Instructions]\nYour first question for today is from Andrew Brackman with William Blair.",
+      "turn_index": 0
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chris Smith",
+      "text": "Hey, Andrew.",
+      "turn_index": 1
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Andrew Brackman",
+      "text": "Hi guys. Hi, Chris. Good morning. Thanks for taking the questions to the entire team. Maybe just to start here on the guide. If we look back over the last few years, investors have really sort of rewarded those revenue beats. So as we sort of think big-picture for the full year 2025, can you maybe just sort of talk to us about where some of the levers are for potential upside to the range for the year? And then I guess, conversely, where might there be a little bit more risk than we might typically expect from Neo in the guide here? Thanks.",
+      "turn_index": 2
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chris Smith",
+      "text": "Yes. When you said at the very beginning, did you say investors did not reward the beats or did?",
+      "turn_index": 3
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Andrew Brackman",
+      "text": "Did.",
+      "turn_index": 4
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chris Smith",
+      "text": "Yes, I'm sorry, I missed. So look, I would say that we continue to see very good momentum in NGS. The quarter was at 24%. The year was at 34%, but remember, we had a tough comparable in Q4 of last year. And one of the things that I think we'll see great opportunity is the second half of the year, the launch of liquid biopsy. We're going to launch in the first half. But now we probably have just one-off top of my head here, but probably 35% more people in the field than we would have a year ago. And even the people that we had in the field a year ago have now have time and grade.\nSo I think that gives us a really nice opportunity, I think from a revenue perspective. We're obviously excited about the Adaptive partnership and I think we think that has good opportunity. And look, it's going to take us through the first half of the year to get all the systems in place. So that's a big second half I think opportunity for us. And look, I would say the one thing that we continue to see is good progress on Heme and the momentum on Heme. And I think that's been really -- I think people have underestimated, the Heme market is growing about 10% or 11% and we are the market leader.\nAnd so we continue to use that as a lever. So those will be the three that jump out. We are still going to launch another solid tumor probably beginning of late Q2, Q3. So I think all those things hopefully will give us. Look, if you look at -- look risk to the business, look, I would say our biggest risk has always been our ability to take advantage of the opportunity. I think the community setting, we have such a leadership position there. But look, pharma -- the pharma business has been more of a challenge candidly. We didn't see that flush of the business in Q4.\nWe've restructured that whole field organization now that it's under Warren's leadership and that kicked-off kind of late Q4 into Q1. But the pharma business has been a little bit challenged because we haven't been able to sell new RaDaR. And so getting through this court case in October, we think is going to give us some nice clarity on the future.",
+      "turn_index": 5
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Andrew Brackman",
+      "text": "Great. That's good color. And then maybe just back to Warren's comments on further in-licensing and partnerships and participating in MRD in various ways. Now that the adaptive partnership has sort of been signed here, have your requirements for any of these deals sort of changed at all and if so, how? Thanks.",
+      "turn_index": 6
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chris Smith",
+      "text": "Yes, I'm going to let Kareem actually who runs strategy and BD talk to that. But I will tell you, Andrew, I think one of the greatest things that we have is our distribution channel. I would say it's best in class. And so I think we just didn't have the talent. We chose not to invest in BD and bring in the talent to build-out that business when we first all got together because we were trying to get the house in order. But now Kareem has been here eight months.",
+      "turn_index": 7
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Kareem Saad",
+      "text": "Seven months",
+      "turn_index": 8
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chris Smith",
+      "text": "And so has built a team. But let me let him talk a little bit about how we think about that.",
+      "turn_index": 9
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Kareem Saad",
+      "text": "Yeah, Andrew, I'd say no change in the overall requirements or the criteria that we use to evaluate these opportunities. We look at strategic fit, potential for how we can plug these partnerships into our commercial channel to leverage these technologies and complement the broad test menu that we bring to our customers. And then we look at the financial parameters of these opportunities and make sure that they're accretive to our business, both on the top line, but also on the bottom line. So it really hasn't changed. And again, now we're in the process of activating the partnership and we'll probably go live with a partnership in the second half of the year. So we're excited about that.",
+      "turn_index": 10
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Andrew Lukowiak",
+      "text": "And I will say we are seeing a lot more interest in inbound calls from companies in various stages of product development. Given our distribution channel, I think the adaptive announcement is probably even accelerating that a little bit more. So we're seeing a lot of activity from companies have interesting products that are looking for a partner.",
+      "turn_index": 11
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Andrew Brackman",
+      "text": "Great. Thanks guys.",
+      "turn_index": 12
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chris Smith",
+      "text": "Take care.",
+      "turn_index": 13
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question is from Puneet Souda at Leerink.",
+      "turn_index": 14
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chris Smith",
+      "text": "Hi, Puneet.",
+      "turn_index": 15
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Puneet Souda",
+      "text": "Yes, Hi guys. Yes, thanks, Chris. So first one, if you can elaborate on AUP assumptions that you have in the guide. Obviously, NGS important contributor there, maybe liquid PanTracer, but you have revenue cycle too. So just trying to get a sense of AUP contribution that you expect here in the full year? And then, yes, let me pause there. I'll come back for follow-up.",
+      "turn_index": 16
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chris Smith",
+      "text": "Okay, Jeff.",
+      "turn_index": 17
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Jeffrey Sherman",
+      "text": "Yes, we didn't break it out separately in our guide, Puneet, but I would say, I would expect somewhat of a similar mix between volume and AUP growth know that we saw over the last year is what I would contemplate for 2025.",
+      "turn_index": 18
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Puneet Souda",
+      "text": "Got it. And then if I look at the PanTracer product, you are launching that product in the first half. Just maybe just elaborate a bit on sort of the gross margin impact that you expect from that? And maybe just also help us understand, you have a well-established competitor in the market. Others have emerged with liquid CGP products over the years. So what's the commercial strategy here? Is it more about gaining ground with new accounts or in the community oncology setting or is it taking more share? Maybe just help us understand the strategy there? And lastly, for the pharma business, what is the growth expectation for that this year just given the business is disappointed?\nThank you.",
+      "turn_index": 19
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chris Smith",
+      "text": "So, take it two ways, we have Jeff talk about the gross margin and Warren talk a little bit about the opportunity.",
+      "turn_index": 20
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Jeffrey Sherman",
+      "text": "Yes. So from a gross margin perspective, I would put this in the category of a high value test here at Neo. So I think from a reimbursement standpoint, we expect it to be competitive with what's on the market. And I think given our overall cost profile, it will be accretive to overall gross margins. And I'll turn it over to Warren on that [Multiple Speakers]",
+      "turn_index": 21
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Warren Stone",
+      "text": "Yes, the positioning, et-cetera, a great question. So first of all, we see the -- this PanTracer liquid as a very competitive test. It's going to include TMB and MSI, which is sort of becoming prerequisites from the target customer. I think what's important to understand here is that the backbone or the platform that this runs on is the same platform that we run our Neo Comprehensive solid tumor.\nAnd a big part of our strategy here is to offer a concurrent testing solution between solid tumor biopsies and obviously the liquid biopsy and having the back -- the common backbone is going to make it very easy to reflex and particularly in the lung setting, but for all sort of solid tumor cancers where liquid biopsies playing an increasingly important role. From a targeting perspective, we've seen a lot of success as we gained share on the Neo Comprehensive solid tumor and feedback from ordering physicians in the fact that this has been a gap within our portfolio.\nSo based on that feedback, we feel confident that we're able to leverage our broader menu, provide a solution to consolidate testing both across the Heme and the solid tumor side of things within one lab. So that remains a very compelling value proposition from our perspective, which differentiates from our competition.",
+      "turn_index": 22
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chris Smith",
+      "text": "Yes. And I think people -- we talk about this a lot, Puneet, but every one of our competitors' customers is buying more tests probably from us than they are from our competitors, because of our broad menu. And that's why I think we saw traction [indiscernible]. They were getting solid from one of our competitors had a great test, but they're doing everything else and the ability to do kind of the end-to-end has really helped us.",
+      "turn_index": 23
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Jeffrey Sherman",
+      "text": "And then on the pharma side, I would say our non-clinical revenue now, which really includes our pharma and our oncology data solutions. I mean, if you look at 2024, I mean, it was down 7% for the year and we did talk about Q4 even being softer where we typically see a budget flush and we saw other analysts reporting this as well, it clearly just did not happen as has been a pretty historical practice. So it did grow sequentially from Q3 to Q4, but came in a little bit lighter than we were expecting. So we are seeing -- we believe stabilization there and expect to see some growth, but it will be modest growth.\nOn the pharma component of the business, more growth on the informatics or oncology data services business. And then I think clinical will continue to be driving good growth as it has been.",
+      "turn_index": 24
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Puneet Souda",
+      "text": "Okay. Got it. Okay. Thank you.",
+      "turn_index": 25
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question for today is from Tycho Peterson at Jefferies.",
+      "turn_index": 26
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chris Smith",
+      "text": "Hey, Tycho.",
+      "turn_index": 27
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Jack Slevin",
+      "text": "Yes. Hi guys. This is Jack on for Tycho. Appreciate you taking our question. I guess, first, I think you touched on it during the call, but would it be great to get timeline update for RaDaR 1.1 and also 2.0. And then following that, the MRD space looks to be increasingly competitive with notable coverage determinations recently and launches on the horizon. I guess, how do you expect to compete in a bit more crowded field this time versus when you launched 1.0? And what are your expectations for original 1.0 users with respect to adoption of 1.1, are there any indications that those customers will be sticky and perhaps easier wins?",
+      "turn_index": 28
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chris Smith",
+      "text": "Yes. So I think it was about seven questions in there, but I'll try to dissect them. And I'm not surprised you're digging deep in MRD after you guys note last night, which was a good note. Look, I think we gave clarity. A lot of things you are building towards this trial in October. We talked about we're clearing clear validation really at the very late Q1, early Q2. So we feel really well positioned. Our bridging study that shows clinical effectiveness and equivalency between 1.0 and 1.1 is well on its way. It's a different path for MolDX than it would be, for example, for legal, So we feel very good.\nLook, I continue to like that people are building that market. And I think there's good tests and good companies. But I think your guys note was at $20 billion. I think there's other notes out there at $30 billion market and we feel very confident we're going to get our share. And you have to remember that the inventors -- we believe the inventors of MRD really sit in Cambridge, right? So we have some of the smartest people around MRD. And so we feel really good not only about 1.1, but the future.\nAnd I wouldn't say 2.0, I would say next-gen, and it's one of the reasons we brought Andrew in to really build up that research program. And I think we've pivoted significantly over the last six months on what are we going to be working on not only today but what are we going to work on five years from now. So look, I think we can continue to feel pretty good about where we'll be from our position in the marketplace. It doesn't mean that we're not going to have competition, but I think that's good for business.",
+      "turn_index": 29
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Warren Stone",
+      "text": "We can't build on that just on a couple of things, Chris. So I think maybe two points. I think the note last night said this as well. Sensitivity remains of the most important buying drivers for ordering physicians. And I think that's the next-gen strategy is to get to a technology that is significantly more sensitive to address lower shedding cancers and the adjuvant and neoadjuvant setting. But I think our strategy is not sort of to have next-gen and nothing else. We likely will run 1.1 in parallel with next-gen because -- to allow for cost optimization. In the surveillance setting, you don't need the sensitivity.\nSo therefore, you don't need a sequence as deep and the 1.1 solution is going to provide a long-term strategy there for us while the next-gen will focus on areas where you need greater sensitivity, deeper sequencing, higher cost in the adjuvant, neoadjuvant setting for lower shedding cancers.",
+      "turn_index": 30
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chris Smith",
+      "text": "Thanks.",
+      "turn_index": 31
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Jack Slevin",
+      "text": "Great. And then if I could just squeeze in an eighth question here.",
+      "turn_index": 32
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chris Smith",
+      "text": "I'm going to have you jump back in the queue in the interest of time, if that's okay.",
+      "turn_index": 33
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Jack Slevin",
+      "text": "All right. Thank you.",
+      "turn_index": 34
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question is from Mason Carrico at Stephens.",
+      "turn_index": 35
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chris Smith",
+      "text": "Hey, Mason.",
+      "turn_index": 36
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Mason Carrico",
+      "text": "Hey guys, thanks for taking the questions here. Would you be willing to talk a bit about revenue contribution from new products in 2024 is just -- as well just remind us of the cadence of products that rolled out over the last 12 months as we think about modeling out the clinical business this year?",
+      "turn_index": 37
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chris Smith",
+      "text": "Yes, you want to talk about the cadence like when we rolled out the new [Multiple Speakers]",
+      "turn_index": 38
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Warren Stone",
+      "text": "So maybe we -- over the last two years, if you go back to January of 2023 to 2024, we've launched 13 new products, and I'd say material in nature. There's been some line extensions, et cetera, but material in nature, 13 new products. In last year, there were seven of them that were brought to market at different stages throughout the market. The greater majority of those were NGS-based products. So that enables our NGS growth. We haven't actually reported the actual contribution that new products actually have delivered within the strategy, but naturally, it's a clear component that's driving the growth within the NGS that we reported.",
+      "turn_index": 39
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chris Smith",
+      "text": "Yes, remember, we launched -- when we say 13, many of those were small. So we're not significant, but they filled the bag. But I would say the one to think about it is in Q -- late -- really Q2 of 2023, we launched the new large panel solid. And then in Q3, we did the new large panel Heme. And that's why I talked about the comparables as we got into Q4. And our view is that we need to launch several kind of line extension, smaller products each year, but really one to two major products every probably 12 months to 18 months. And so you're going to see the liquid biopsy come out this year.\nYou'll see really a line extension on our already large panel with HRD. And then really it's in the first half of 2026 when we'll launch another significant new panel. So think about it that way is probably every 12 months to 18 months, you fight the comparables. But as Warren mentioned, we don't break out individually the products. We do break out obviously individually NGS and most of these products roll into NGS.",
+      "turn_index": 40
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Mason Carrico",
+      "text": "Okay. And then sorry if I missed this, but have you guys started to see any benefit from the biomarker legislation? What are your expectations around that this year? Is that baked into the guide at all? Or would that be upside?",
+      "turn_index": 41
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Jeffrey Sherman",
+      "text": "Yes, It's part of our overall RCM strategic reimbursement initiatives. And I would say it's been slow. I mean, I think just because the legislation is passed, it does not mean the payers flip the switch and start paying us. So I'd still kind of describe it as hand-to-hand combat into trenches because you still have to kind of work with each payer and states where it happened and you're operating with payers that are operating in 50 states that have multiple different payment systems.\nAnd so it's a pretty complex process, but we think it's definitely going to be a tailwind long-term and it's part of the incremental opportunity we see over the next several years to have more of these large panel tests being required to be paid for by the biomarker legislation.",
+      "turn_index": 42
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Mason Carrico",
+      "text": "Got it. Thank you.",
+      "turn_index": 43
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question is from Tejas Savant with Morgan Stanley.",
+      "turn_index": 44
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Tejas Savant",
+      "text": "Hey, guys. Good morning.",
+      "turn_index": 45
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chris Smith",
+      "text": "How are you doing?",
+      "turn_index": 46
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Tejas Savant",
+      "text": "Good, how are you? So, Chris, I want to go back to the point about using your channel to push through partner assays. I think, Jeff, you pointed to adaptive as one example, but there's other similar activity that's been spurred by that announcement. So can you talk a little bit about what's your long-term philosophy about the shared economics of those arrangements? And more specifically, can you share a little bit more color on how you plan to reject salesforce incentives on your end to ensure a balanced focus for situations where there may be partial overlap with your own assays? I think the adaptive case was unique in that sense. It's largely sort of complementary.\nBut in a field like MRD, you could envision sort of overlapping customer bases and value proposition. So just some clarity on that would be great.",
+      "turn_index": 47
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chris Smith",
+      "text": "Yes, look, I think the Adaptive, you're right, was a very unique in the sense that it's additive. But I would say that the majority of the things that we are looking at in licensing probably more than -- we're probably looking at more in licensing than we are strategic partnerships. But they would be relevant to our current portfolio. They wouldn't probably compete because you got to remember in MRD there's multiple ways to look at it, whether it's tumor naive or tumor informed, things like that. So I think we feel pretty good. As far as our field organization, we shift based on where we are trying to drive behaviors.\nAnd Warren can talk more about this, but if you look at the folks that are living more in the oncology, clinical setting, they are more incentivized on kind of non-hospital products. So think about heavily weighted on NGS type of things where the hospital group is probably more incentivized on hospital based products. And so I think as we bring these products out, it depends on how we establish it. I mean, we don't publicly disclose how we do that, but we feel very good on the ability to steer the field organization where we feel like they need to spend their time. Yes. But I don't think -- I'm looking at Kareem and let me be Kareem.",
+      "turn_index": 48
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Kareem Saad",
+      "text": "Yes, I mean, I think…",
+      "turn_index": 49
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chris Smith",
+      "text": "I think we're probably we're exploring a large number of things. I don't know that any of them are going to...",
+      "turn_index": 50
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Kareem Saad",
+      "text": "Yeah, I don't think -- I think one of the key strategic drivers are these partnerships is that there are products and capabilities that are complementary to our existing product set. And our customers are looking for a provider of comprehensive testing across the Board [Multiple Speakers]. And so for us, that's really the main criteria that drives a lot of these partnerships. And so, we try to minimize the overlap intentionally and deliberately. So that's the whole point.",
+      "turn_index": 51
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Warren Stone",
+      "text": "And I think coming back to one of the comments that Kareem made earlier in the strategic rationale, core point overlap is something that's imperative. I would struggle at this stage to support an opportunity that would drive our commercial organization into a different core point, which would then significantly dilute the efforts from a core business perspective. So that comes back to sort of how we select these deals.",
+      "turn_index": 52
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Tejas Savant",
+      "text": "Got it. That's actually super helpful. I have a quick follow-up really for Jeff on the guide. I think 1Q at the midpoint, Jeff, you're calling for about 3% EBITDA margins. The full year is around 8%. And you talked about the ramp upfront OpEx back end loaded on revenue. Where are you thinking about sort of exit rates for EBITDA margin in the fourth quarter this year? And is it fair to model that as a jumping-off point for 2026? Or should we think of a slight sort of 1Q reset off of which it starts building again with a year-over-year increase next year.",
+      "turn_index": 53
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Jeffrey Sherman",
+      "text": "Yes. I think from a trending perspective, Q1 is clearly our weakest quarter if you go back four or five years. It's always been the weakest quarter of the year. So if you look back at last year, Q1 was about a little bit shy of 9% of adjusted EBITDA for the year, and then the adjusted EBITDA built and the margin improved throughout the year. So I would expect kind of a similar dynamic in 2025 with Q1 being our weakest quarter, I said in that 8% to 10% range.\nWe are increasing some investment in sales expansion enablement as well as R&D, as I said in my prepared remarks, but we do think as you have those salespeople ramping throughout the year, you'll see more back-end benefit from that as well.",
+      "turn_index": 54
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chris Smith",
+      "text": "Yes. I want to make sure I understood, but you're also talking about the jump-off from 2025. Are we talking about the gross margin jump-off at 2025 into 2026 or the adjusted EBITDA?",
+      "turn_index": 55
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Andrew Lukowiak",
+      "text": "Adjusted EBITDA, Chris.",
+      "turn_index": 56
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Jeffrey Sherman",
+      "text": "Yes. So I would say -- so you will see a similar dynamic, I think, play out with -- because of the seasonality of the business. So you'll see a Q4 exit rate, it will decline -- I would expect it will decline in Q1 2026 and then build again throughout the year just because of the nature of the business.",
+      "turn_index": 57
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chris Smith",
+      "text": "Right, but up against Q1 of 2025.",
+      "turn_index": 58
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Andrew Lukowiak",
+      "text": "Correct.",
+      "turn_index": 59
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chris Smith",
+      "text": "Right. So kind of that stairstep type of thing.",
+      "turn_index": 60
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Jeffrey Sherman",
+      "text": "Yes. I mean, we do face some of the high-deductible dynamics that others in the industry have talked about as patients kind of race to see treatment into Q4 of the year and then there is kind of a little bit of a slowdown in Q1 and you can have more weather impact in Q1 as well, so.",
+      "turn_index": 61
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Tejas Savant",
+      "text": "Got it. Fair enough. Thank you, guys.",
+      "turn_index": 62
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question for today is from Mark Massaro with BTIG.",
+      "turn_index": 63
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chris Smith",
+      "text": "Hey, Mark.",
+      "turn_index": 64
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Vivian Bais",
+      "text": "Hey, guys. Hey, this is actually Vivian on for Mark. Thanks for taking the questions. A lot has been asked, so I'll just keep it to one maybe. Just the latest on RaDaR V2. It sounds like you may have an inclination to keep pursuing V2 over inorganic growth. Could you just explain your latest thinking around investing in V2 versus M&A? Thanks.",
+      "turn_index": 65
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chris Smith",
+      "text": "Yeah. I think you're talking about what worth calling our next-gen RaDaR. Look, we're going to go down both avenues. I mean, I just think because of our deep understanding and insight into how to develop those products. A lot of that -- our internal stuff has historically been tumor-informed. So we haven't spent as much time on the research side on tumor-naive. So I think -- look, I would say that we're pursuing both opportunities. Look, I want to be really clear because we're talking a lot about new products. Look, there is a lot of development going on organically. But on the inorganic, we are not going out and buying companies that are not accretive.\nSo this isn't a strategy that we're going to go buy in Nevada. We're going to go buy some great MRD product that loses $50 million a year. These are very rifle shot mainly in-source licensing where companies have innovative technologies and we may be looking at one or two disease states to be able to take onto that product and be able to offer it. So I just want to be clear on that.",
+      "turn_index": 66
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Vivian Bais",
+      "text": "Yes, understood. Thanks for taking the question.",
+      "turn_index": 67
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chris Smith",
+      "text": "Thanks.",
+      "turn_index": 68
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question is from Matt Sykes at Goldman Sachs.",
+      "turn_index": 69
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chris Smith",
+      "text": "Hey, Matt.",
+      "turn_index": 70
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Prashant Kota",
+      "text": "Hey guys, this is Prashant Kota on for Matt. Thanks for taking the question. So you mentioned in your slides, 51% improvement in the Gartner productivity index on the clinical services side. Can you just talk about the drivers there and how you maintain innovation to stay competitive given your lower R&D spend as a percentage of sales relative to your competitors?",
+      "turn_index": 71
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chris Smith",
+      "text": "Yes, it's kind of two different things, but I'll let Warren talk about Gartner Index.",
+      "turn_index": 72
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Warren Stone",
+      "text": "Yes, it is two different things. But one of the things that we started to do going back, when I first started to late 2022, early 2023 was to assess the sort of maturity and the productivity of our commercial organization because we're looking to invest there. But if you haven't got a high productivity, it's kind of you're throwing good money off the bat in many instances. So there's a standardized assessment that Gartner makes available that measures the productivity of commercial organization. And through that measurement, you're able to identify areas where your productivity is lacking or productivity leaks. We have systematically gone after addressing those leaks. And we continue to do so.\nWe've still got a road ahead of us. But ultimately through back office investments in resources, the investments in new systems and tools and also investments in standardized sales process have been the sort of three key things that we've invested in over the last two plus years that's allowed for this 50% productivity improvement. So this is important because as we're layering on additional resources, which gives us additional reach, but the existing resources are also more productive. So, it's sort of a compounding effect in terms of the impact that we have within the marketplace.\nAnd then obviously, you layer on new products that we've been launching from an R&D perspective that we spoke about earlier and that is -- that really fuels the growth. The combination of innovation and increased productivity is what's been driving the growth within the organization.",
+      "turn_index": 73
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Prashant Kota",
+      "text": "Got it. That's helpful. And then could you just talk about some of the reasons why providers or health systems would not want NGS based testing and how are you looking to overcome those barriers?",
+      "turn_index": 74
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chris Smith",
+      "text": "Would not? Nate? Nate is on the call. Maybe if you want to [Multiple Speakers] Dr. Montgomery to provide a medical perspective on that.",
+      "turn_index": 75
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Nate Montgomery",
+      "text": "Yes, I think in general, the trend is that we're seeing less and less of that. The movement is definitely towards panel testing. I think NGS is increasingly incorporated into guidelines. Of course, there are going to be situations where costs could drive a desire in particular circumstances to take a more focused approach. But the trend is certainly moving more and more away from that and I think we would all expect it to continue in that regard. And there are handful of other circumstances where perhaps again where there's a particular biomarker of interest where there could be some benefits of sensitivity from a more focused assay.\nBut again, these are -- will increasingly be a smaller and smaller slice of all molecular testing occurring in the oncology space.",
+      "turn_index": 76
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Prashant Kota",
+      "text": "Amazing. Thank you.",
+      "turn_index": 77
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question is from Mike Matson with Needham.",
+      "turn_index": 78
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Unidentified Analyst",
+      "text": "Hi, everybody. This is Multiple Speakers] on for Mike. Good, good, thank you. I guess I'll just ask my two questions together if that's all right. So the 2028 target to 1 million patients served, I guess just maybe trying to understand how this matches up with the revenue target. I mean just based off of some loose math, it's somewhere around like 9% volume growth to get you to the 1 million patients. So is that how we should kind of think of it as like a base-case high-single-digit, something like that 9%, 10% volume growth, and the rest coming from pricing improvements? And then the second question real quick, Neo Comprehensive launching there with HRD this year.\nIs that something that clinicians have been kind of asking a lot about that's maybe limiting Neo Comprehensive growth? Should we be -- kind of be thinking this as maybe some type of inflection or more just like an incremental add-on to the test?",
+      "turn_index": 79
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chris Smith",
+      "text": "Yes, I'll start on the million patients. I would say that's a goal we're looking at kind of at a macro-level, but it also includes pharma patients. So it's a little bit of apples and oranges in terms of the patient mix and so I wouldn't use that to drive a volume growth projection on the long-range plan. I think as we continue to build out our sales force, it's going to be -- I think it's going to be as it has been a continued mixture of both, both volume growth and increases in revenue, driven by higher-value tests RCM initiatives and pricing gains.\nSo I would say it's been kind of a balanced approach between the two, maybe a little more heavily weighted on the volume growth side over the last two years. But I wouldn't extrapolate on the 1 million patient to try and discern a volume number.",
+      "turn_index": 80
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Warren Stone",
+      "text": "On the HRD question, I think this comes back a little bit to what Dr. Montgomery was saying earlier in that, the guidelines are changing and HRD is now is going to become more prevalent in guidelines. Today it's in place for Ovarian and we anticipate prostate and breast to follow in the near future and as a result, this is definitely a need that we see coming from ordering physicians that up until today, we're not able to address. So this will when we launch this product early in the second half of the year will address an unmet need within our portfolio today.",
+      "turn_index": 81
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Unidentified Analyst",
+      "text": "Okay, great. Yes, super helpful. Thank you for taking our questions.",
+      "turn_index": 82
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question for today is from Dan Brennan with TD Cowen.",
+      "turn_index": 83
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chris Smith",
+      "text": "Hey Dan.",
+      "turn_index": 84
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Dan Brennan",
+      "text": "Great. Thank you for -- hey, good morning. Thanks for taking the questions. Maybe the first one just on the Advanced Diagnostics business since I know that was kind of the weak spot in the quarter. If you go back to 3Q, I know management sounded pretty positive about the business bottoming. And I know you cited no flush as the culprit this quarter, but just kind of wondering if you could dig in a little bit here. I know you talked about a new go-to-market sounded pretty positive about building a robust pipeline of opportunities back in Q3. So any more color on kind of what's happening on the ground and kind of what does the backlog look like?\nAnd when you say grow in 2025, are we thinking like low single-digit growth? Is that the right way to think about it?",
+      "turn_index": 85
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chris Smith",
+      "text": "Yes. So maybe let me kind of address it. Look, we obviously talked about that pharma flush. And look, I would definitely say that we feel significantly better going into this year than I think coming out of probably last year. I think when we went from the third quarter kind of been moving in the fourth quarter, we thought we'd get that flush. We don't really report anymore on bookings, but I will tell you that we're having significantly more activity than we would have in this time last year. So I think all the trends look good.",
+      "turn_index": 86
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Jeffrey Sherman",
+      "text": "Yes, and it was up sequentially, Dan. It wasn't up as much as we expected to be Q3 to Q4. And that budget flush -- budget flush has been pretty -- I mean, pretty much very consistent over the last multiple years and we just didn't see it. But I would say, as Chris said, the activity starting out the year has given us a view that we should see growth.\nAnd I think, again coming off the non-clinical business being down 7% last year and 12% in the fourth quarter, we expect there to be growth and seeing modest growth there is what I would expect is going to help the overall growth trajectory given the continued strong performance of clinical.",
+      "turn_index": 87
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Warren Stone",
+      "text": "Yes. And I mean, the challenge here is a long sales cycle. This is a much longer sales cycle to convert from sort of creating bookings to actually convert those bookings into revenue, particularly in prospective studies where they need to obviously enroll patients, get samples, those types of things. So it is a long sales cycle and that's going to hamper the ability in terms of how quickly we can turn this around. We remain very confident in the business.",
+      "turn_index": 88
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Dan Brennan",
+      "text": "Great. Thanks for that. And then maybe just kind of a high-level one on the clinical business. Sequencing, I think in your deck, said it grew 34% for the year. You guys still have a bunch of products coming out this year, which support continued really strong growth. I'm just wondering, like we're coming out with like 32% sequencing growth this year with 4% core. Just wondering if you can comment at all on kind of those assumptions or if not, maybe just on the core side, like, kind of how did the year end-up and any way to think about what the right trajectories is for that business in 2025?",
+      "turn_index": 89
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chris Smith",
+      "text": "Yes, the way to think about, Dan, is that we see kind of the modalities. So put NGS aside, we would say that modalities are -- we are seeing generally growing 3% to 4% and we've talked that we will grow -- we have been and we project continue to grow faster than the market. And I think the way we look at NGS is that, NGS in the marketplace is growing anywhere from 15% to 20% and the same thing we project it will continue to grow significantly faster than the market. So I think that's kind of the clarity that we've given.\nI don't know, Jeff, if you want to share anything more, but I think that's the way we kind of think about it. And that -- and the reason we like that really is if you're moving the modalities, the lower modalities, you're moving share. And so I think everybody gets into this NGS growth of the market and everybody is excited and we -- John Doe did 100 last year. He will do 120 this year of NGS, right? But we also focus significantly on moving share. And I think that's one of the places that we continue to win. And that's why we think those other modalities growing more than market.\nThat's why we call it out is we think that's a good indicator.",
+      "turn_index": 90
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Dan Brennan",
+      "text": "Great. Thank you, Chris.",
+      "turn_index": 91
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question is from Andrew Cooper with Raymond James.",
+      "turn_index": 92
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chris Smith",
+      "text": "Hey, Andrew.",
+      "turn_index": 93
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Andrew Cooper",
+      "text": "Hey, everybody. Thanks for the time. A lot already asked, but maybe just digging in a little bit more kind of link to something you just touched on. But as we think about that pace of clinical ASP or AUP stepping up, how should we think about that pace in 2025 and maybe the delta in 2025 versus 2024 prior years of what's RCM initiatives, what's mix and what sort of traditional price capture in terms of driving that ASP growth as we move forward?",
+      "turn_index": 94
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chris Smith",
+      "text": "Yes. So we talk a lot about, I don't know, roughly 60% of our business is direct client bill. So we're billing the hospitals direct. And we as a company have a policy that all of our materials, labor, everything is going up. So we pass -- we push through a price increase. So we feel pretty good, I think about that. When you look at the other part of the business, I would say there's things that are moving in our -- moving in the way -- in the direction we need.\nOne is the biomarker loss, but also it's an area we've now -- we don't probably talk a lot about it on the investment because it's not hiring 30 more people, but we are continuing to expand kind of the payer relations and because it doesn't mean anything at those biomarkers if we can't pull them through. So I think we feel pretty good about where the AUP.",
+      "turn_index": 95
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Jeffrey Sherman",
+      "text": "Yes, and I would say from a mix perspective, if you looked at 2024, roughly about 60% of the overall increase in AUP was driven from NGS and the balance was mixture of other test mix, price increases and revenue cycle initiatives. I think that's probably a reasonable way about it for 2025.",
+      "turn_index": 96
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Andrew Cooper",
+      "text": "Okay. Helpful. And then maybe just one very quick one. Thinking back to 3Q, you had the hurricanes right there at the start of the fourth quarter. You talked about potentially a little bit of impact, but it probably gets made up. Just any color there on potential hurricane impacts and if anything from the West Coast fires as well, would love your insights.",
+      "turn_index": 97
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chris Smith",
+      "text": "Yes, I definitely think all of those events have impacts on the business at a moment in time. Because we're really not an elective procedure type of business historically. We think the majority of that stuff eventually flushes through. You just are delaying when you see your physician, I think the challenge is getting into see docs. I joked in the call about Greenville, South Carolina, because that's where my mom lives and she has cancer, even getting in to see hers, right, in Greenville it's tough. And so I think what you see is when these big events happen, it delays things. So it's hard to put a finger on where it is. It's definitely disruptive.\nI think because we have redundancy, we're able to take care of the existing patients pretty quickly because we like when it's a hurricane here, we move it to California. If we're really impacted by the fires in California, we move it here. Look, we're just hoping that there's never an earthquake and a hurricane at the same day on the West Coast and the East Coast. But I think for us, we're in pretty good shape.",
+      "turn_index": 98
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Andrew Cooper",
+      "text": "Perfect. I'll stop there. Thanks, everybody.",
+      "turn_index": 99
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chris Smith",
+      "text": "Thanks, everybody. Look, we appreciate you taking the time and catching up and everybody have a wonderful day. Take care.",
+      "turn_index": 100
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "This concludes today's conference and you may disconnect your lines at this time. Thank you for your participation.",
+      "turn_index": 101
+    }
+  ]
+}

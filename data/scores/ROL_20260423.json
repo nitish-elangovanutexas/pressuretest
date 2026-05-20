@@ -1,0 +1,28 @@
+{
+  "ticker": "ROL",
+  "call_date": "2026-04-23",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.0316334355923112,
+  "cosine_distance": 0.06262348942073392,
+  "sentiment_shift": 0.04044411474406118,
+  "question_difficulty_mean": 0.17701997580366885,
+  "baseline_mean": 0.027107642888972966,
+  "baseline_std": 0.006400437421550124,
+  "z_score": 0.7071067811865478,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5885099879018344,
+    "call_mean_answer_length": 104.77777777777777,
+    "call_hedge_density": 0.013692118893180557,
+    "call_pos_sentiment_mean": 0.42241066445906955,
+    "call_neu_sentiment_mean": 0.4559316254324383,
+    "call_neg_sentiment_mean": 0.12165771041893297,
+    "call_qa_similarity_mean": 0.5328166713966962,
+    "baseline_neg_sentiment_mean": 0.0812135956748718
+  },
+  "generated_at": "2026-05-20T06:47:32+00:00"
+}

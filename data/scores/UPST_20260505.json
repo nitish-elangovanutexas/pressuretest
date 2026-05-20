@@ -1,0 +1,28 @@
+{
+  "ticker": "UPST",
+  "call_date": "2026-05-05",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.006460978513989313,
+  "cosine_distance": 0.014614085734673377,
+  "sentiment_shift": 0.005506069655530153,
+  "question_difficulty_mean": 0.17784150851300976,
+  "baseline_mean": 0.018792246347365527,
+  "baseline_std": 0.017439046211215732,
+  "z_score": -0.7071067811865477,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5889207542565049,
+    "call_mean_answer_length": 192.6,
+    "call_hedge_density": 0.01408125196143618,
+    "call_pos_sentiment_mean": 0.3373364629223943,
+    "call_neu_sentiment_mean": 0.605885186418891,
+    "call_neg_sentiment_mean": 0.056778337620198724,
+    "call_qa_similarity_mean": 0.5671923622018296,
+    "baseline_neg_sentiment_mean": 0.05127226796466857
+  },
+  "generated_at": "2026-05-20T07:19:25+00:00"
+}

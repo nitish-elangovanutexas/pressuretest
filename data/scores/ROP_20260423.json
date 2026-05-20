@@ -1,0 +1,28 @@
+{
+  "ticker": "ROP",
+  "call_date": "2026-04-23",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.03670097911355046,
+  "cosine_distance": 0.08506759533432784,
+  "sentiment_shift": 0.030274975653857186,
+  "question_difficulty_mean": 0.16233288826367404,
+  "baseline_mean": 0.0276037566561866,
+  "baseline_std": 0.010836183084996917,
+  "z_score": 0.8395227716260434,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.581166444131837,
+    "call_mean_answer_length": 181.25,
+    "call_hedge_density": 0.05038996514745241,
+    "call_pos_sentiment_mean": 0.16679754247888923,
+    "call_neu_sentiment_mean": 0.7385083865374327,
+    "call_neg_sentiment_mean": 0.0946940717403777,
+    "call_qa_similarity_mean": 0.4453581514057784,
+    "baseline_neg_sentiment_mean": 0.06441909608652051
+  },
+  "generated_at": "2026-05-20T06:48:23+00:00"
+}

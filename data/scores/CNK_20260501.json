@@ -1,0 +1,28 @@
+{
+  "ticker": "CNK",
+  "call_date": "2026-05-01",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.02591280619810357,
+  "cosine_distance": 0.07426617360139531,
+  "sentiment_shift": 0.001590808676396549,
+  "question_difficulty_mean": 0.14668512062343345,
+  "baseline_mean": 0.03272045780161829,
+  "baseline_std": 0.011999761046025672,
+  "z_score": -0.567315597152613,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5733425603117167,
+    "call_mean_answer_length": 179.69230769230768,
+    "call_hedge_density": 0.029569731337222113,
+    "call_pos_sentiment_mean": 0.37537130598838514,
+    "call_neu_sentiment_mean": 0.591782917196934,
+    "call_neg_sentiment_mean": 0.03284576449256677,
+    "call_qa_similarity_mean": 0.5026825162929648,
+    "baseline_neg_sentiment_mean": 0.03443657316896332
+  },
+  "generated_at": "2026-05-20T05:02:57+00:00"
+}

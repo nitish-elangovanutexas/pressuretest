@@ -1,0 +1,28 @@
+{
+  "ticker": "LAW",
+  "call_date": "2026-05-06",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.061076782650488326,
+  "cosine_distance": 0.16694820907019825,
+  "sentiment_shift": 0.007085561730144987,
+  "question_difficulty_mean": 0.185920674676973,
+  "baseline_mean": 0.04134023446383426,
+  "baseline_std": 0.027911694119996295,
+  "z_score": 0.7071067811865476,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5929603373384865,
+    "call_mean_answer_length": 188.0,
+    "call_hedge_density": 0.015759134581343873,
+    "call_pos_sentiment_mean": 0.6637886166572571,
+    "call_neu_sentiment_mean": 0.31903500358263653,
+    "call_neg_sentiment_mean": 0.017176343438525993,
+    "call_qa_similarity_mean": 0.4651352783295859,
+    "baseline_neg_sentiment_mean": 0.02426190516867098
+  },
+  "generated_at": "2026-05-20T05:56:12+00:00"
+}

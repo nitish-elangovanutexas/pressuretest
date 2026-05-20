@@ -1,0 +1,28 @@
+{
+  "ticker": "JMIA",
+  "call_date": "2026-05-07",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.0239598915622365,
+  "cosine_distance": 0.041858368102833166,
+  "sentiment_shift": 0.03786233123391866,
+  "question_difficulty_mean": 0.1902592807699684,
+  "baseline_mean": 0.02216080031741874,
+  "baseline_std": 0.002544299238367974,
+  "z_score": 0.7071067811865475,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5951296403849842,
+    "call_mean_answer_length": 215.9,
+    "call_hedge_density": 0.010818945581820678,
+    "call_pos_sentiment_mean": 0.41809156648814677,
+    "call_neu_sentiment_mean": 0.4642343698069453,
+    "call_neg_sentiment_mean": 0.11767405392602086,
+    "call_qa_similarity_mean": 0.4529047850895889,
+    "baseline_neg_sentiment_mean": 0.0798117226921022
+  },
+  "generated_at": "2026-05-20T05:51:20+00:00"
+}

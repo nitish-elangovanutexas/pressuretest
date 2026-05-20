@@ -1,0 +1,28 @@
+{
+  "ticker": "SON",
+  "call_date": "2026-04-22",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.013551236269704977,
+  "cosine_distance": 0.0361157603560619,
+  "sentiment_shift": 0.002359159057959914,
+  "question_difficulty_mean": 0.1985286742822104,
+  "baseline_mean": 0.016816997557695966,
+  "baseline_std": 0.004618483904949883,
+  "z_score": -0.7071067811865478,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5992643371411052,
+    "call_mean_answer_length": 139.5,
+    "call_hedge_density": 0.02351340045797914,
+    "call_pos_sentiment_mean": 0.30753030767664313,
+    "call_neu_sentiment_mean": 0.6033072047866881,
+    "call_neg_sentiment_mean": 0.0891624758951366,
+    "call_qa_similarity_mean": 0.4358753028078818,
+    "baseline_neg_sentiment_mean": 0.09152163495309651
+  },
+  "generated_at": "2026-05-20T06:58:06+00:00"
+}

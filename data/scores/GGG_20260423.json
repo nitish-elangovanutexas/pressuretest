@@ -1,0 +1,28 @@
+{
+  "ticker": "GGG",
+  "call_date": "2026-04-23",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.042132568760620014,
+  "cosine_distance": 0.10847033051211274,
+  "sentiment_shift": 0.0109664752562013,
+  "question_difficulty_mean": 0.2129927619324302,
+  "baseline_mean": 0.023662557020750607,
+  "baseline_std": 0.015996204940930042,
+  "z_score": 1.1546496064581886,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.606496380966215,
+    "call_mean_answer_length": 117.25,
+    "call_hedge_density": 0.025491422649863107,
+    "call_pos_sentiment_mean": 0.3256018462901314,
+    "call_neu_sentiment_mean": 0.5870942218850056,
+    "call_neg_sentiment_mean": 0.08730392064899206,
+    "call_qa_similarity_mean": 0.39800245640956783,
+    "baseline_neg_sentiment_mean": 0.09827039590519336
+  },
+  "generated_at": "2026-05-20T05:35:31+00:00"
+}

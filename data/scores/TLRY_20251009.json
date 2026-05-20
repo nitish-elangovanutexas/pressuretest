@@ -1,0 +1,28 @@
+{
+  "ticker": "TLRY",
+  "call_date": "2025-10-09",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.014230578876465083,
+  "cosine_distance": 0.039045862865964565,
+  "sentiment_shift": 0.0014334505214100013,
+  "question_difficulty_mean": 0.1858372065137387,
+  "baseline_mean": 0.011592356415862846,
+  "baseline_std": 0.0037310099843410028,
+  "z_score": 0.7071067811865476,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5929186032568694,
+    "call_mean_answer_length": 265.53846153846155,
+    "call_hedge_density": 0.0065408540502675675,
+    "call_pos_sentiment_mean": 0.17575762793421745,
+    "call_neu_sentiment_mean": 0.7933278450599084,
+    "call_neg_sentiment_mean": 0.030914515973283693,
+    "call_qa_similarity_mean": 0.48049140304596105,
+    "baseline_neg_sentiment_mean": 0.029481065451873692
+  },
+  "generated_at": "2026-05-20T07:08:53+00:00"
+}

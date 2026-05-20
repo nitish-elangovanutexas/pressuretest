@@ -1,0 +1,28 @@
+{
+  "ticker": "BLBD",
+  "call_date": "2026-05-06",
+  "quarter": 2,
+  "year": 2026,
+  "pressure_score": 0.06637947434558401,
+  "cosine_distance": 0.16035139347962035,
+  "sentiment_shift": 0.030921022155477353,
+  "question_difficulty_mean": 0.22269176537696203,
+  "baseline_mean": 0.05123135460142099,
+  "baseline_std": 0.02213584597571811,
+  "z_score": 0.6843253138271623,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.611345882688481,
+    "call_mean_answer_length": 75.83333333333333,
+    "call_hedge_density": 0.02267080745341615,
+    "call_pos_sentiment_mean": 0.44944007446368534,
+    "call_neu_sentiment_mean": 0.4794457446162899,
+    "call_neg_sentiment_mean": 0.07111418759450316,
+    "call_qa_similarity_mean": 0.40103074750727763,
+    "baseline_neg_sentiment_mean": 0.04019316543902581
+  },
+  "generated_at": "2026-05-20T04:48:11+00:00"
+}

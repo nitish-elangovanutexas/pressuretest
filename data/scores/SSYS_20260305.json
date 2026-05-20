@@ -1,0 +1,28 @@
+{
+  "ticker": "SSYS",
+  "call_date": "2026-03-05",
+  "quarter": 4,
+  "year": 2025,
+  "pressure_score": -7.847499333476007e-17,
+  "cosine_distance": -2.220446049250313e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.17806650246775887,
+  "baseline_mean": -7.847499333476007e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5890332512338794,
+    "call_mean_answer_length": 240.14285714285714,
+    "call_hedge_density": 0.005298820723584503,
+    "call_pos_sentiment_mean": 0.15527082899851458,
+    "call_neu_sentiment_mean": 0.7958462493760246,
+    "call_neg_sentiment_mean": 0.04888293107173273,
+    "call_qa_similarity_mean": 0.3761938630580343,
+    "baseline_neg_sentiment_mean": 0.04888293107173273
+  },
+  "generated_at": "2026-05-20T07:00:38+00:00"
+}

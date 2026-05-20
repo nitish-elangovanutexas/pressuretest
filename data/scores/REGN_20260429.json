@@ -1,0 +1,28 @@
+{
+  "ticker": "REGN",
+  "call_date": "2026-04-29",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.027749480244319356,
+  "cosine_distance": 0.07557114827763545,
+  "sentiment_shift": 0.0008207380888052285,
+  "question_difficulty_mean": 0.21519081443580382,
+  "baseline_mean": 0.06921856918246681,
+  "baseline_std": 0.05864614799558422,
+  "z_score": -0.7071067811865476,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.607595407217902,
+    "call_mean_answer_length": 88.5,
+    "call_hedge_density": 0.04520288440132589,
+    "call_pos_sentiment_mean": 0.2572336606681347,
+    "call_neu_sentiment_mean": 0.7131316624581814,
+    "call_neg_sentiment_mean": 0.02963467186782509,
+    "call_qa_similarity_mean": 0.43032048295998143,
+    "baseline_neg_sentiment_mean": 0.03045540995663032
+  },
+  "generated_at": "2026-05-20T06:44:46+00:00"
+}

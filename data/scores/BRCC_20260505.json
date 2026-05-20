@@ -1,0 +1,28 @@
+{
+  "ticker": "BRCC",
+  "call_date": "2026-05-05",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.03157537105809593,
+  "cosine_distance": 0.0534825654005604,
+  "sentiment_shift": 0.051841773651540274,
+  "question_difficulty_mean": 0.19544248681533544,
+  "baseline_mean": 0.037375098287946634,
+  "baseline_std": 0.011094466094090673,
+  "z_score": -0.5227585699630789,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5977212434076677,
+    "call_mean_answer_length": 324.4,
+    "call_hedge_density": 0.01874323257985607,
+    "call_pos_sentiment_mean": 0.4688845366239548,
+    "call_neu_sentiment_mean": 0.43673765659332275,
+    "call_neg_sentiment_mean": 0.09437779951840639,
+    "call_qa_similarity_mean": 0.4999486349888346,
+    "baseline_neg_sentiment_mean": 0.04253602586686611
+  },
+  "generated_at": "2026-05-20T04:50:08+00:00"
+}

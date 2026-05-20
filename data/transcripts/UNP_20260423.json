@@ -1,0 +1,394 @@
+{
+  "ticker": "UNP",
+  "company_name": "Union Pacific",
+  "call_date": "2026-04-23",
+  "quarter": 1,
+  "year": 2026,
+  "prepared_remarks": "Earnings Call Transcript\nUnion Pacific UNP Q1 2026 Earnings Transcript\nBy\n\nMotley Fool Transcribing\n\n–\n\nApr 23, 2026 at 10:25AM EST\n\n\n\n\nImage source: The Motley Fool.\n\n\nDATE\nThursday, April 23, 2026 at 8:45 a.m. ET\nCALL PARTICIPANTS\nChief Executive Officer — Jim Vena\nChief Financial Officer — Jennifer L. Hamann\nExecutive Vice President, Operations — Eric J. Gehringer\nExecutive Vice President, Marketing and Sales — Kenyatta G. Rocker\nTAKEAWAYS\nNet Income\n-- $1.7 billion, a 5% increase, reaching a first-quarter record.\nEarnings Per Share (EPS)\n-- $2.87, up 6%; adjusted EPS excluding merger costs was $2.93, increasing 9%.\nOperating Ratio\n-- Improved by 80 basis points to 59.9% (adjusted for merger costs).\nOperating Revenue\n-- Rose 3% to $6.2 billion; freight revenue grew 4% to $5.9 billion despite 1% lower volume.\nCore Pricing and Mix\n-- Core pricing and business mix contributed about 325 basis points of freight revenue improvement, offsetting 75 basis points lost to lower volumes.\nOther Revenue\n-- Decreased 4% to $324 million, attributed to lower subsidiary revenue following the Metra transfer in 2025.\nTotal Operating Expense\n-- Increased 3% to $3.8 billion, with compensation and benefits up 1% and fuel expense up 7% due to a 7% rise in average per-gallon price.\nWorkforce Productivity\n-- Improved 7%; workforce reduced by 5% with a 6.5% rise in cost per employee.\nFree Cash Flow\n-- $30 million, after substantial network investment and continued dividend payments.\nNet Debt\n-- Decreased by $1.2 billion, bringing adjusted debt-to-EBITDA ratio to 2.5x.\nBulk Segment Revenue\n-- Up 10% with a 12% increase in volume; record grain volume supported by export demand to China and expansion into Mexico.\nIndustrial Segment Revenue\n-- Increased 5% on 4% higher volume; record average revenue per car and continued strong demand related to LNG terminals and data centers.\nPremium Segment Results\n-- Revenue declined 5% on 9% lower volume but achieved a 4% increase in average revenue per car; international intermodal volumes fell 28% while domestic intermodal delivered its third consecutive record quarter.\nFreight Car Velocity\n-- Increased 9% to 235 miles per day, with terminal dwell improved to 19.7 hours (11% better).\nLocomotive Productivity\n-- Improved 6%, and the active locomotive fleet was reduced by 4% despite higher gross ton-miles.\nTrain Length\n-- Grew 3%, enabled by technology including PhysX Train Builder and new mainline investments.\nGuidance Affirmation\n-- Reaffirmed 2026 outlook for mid-single-digit EPS growth, including merger costs, and target of high single-digit to low double-digit EPS CAGR through 2027.\nMerger Process Update\n-- Revised merger application will be filed April 30; management states, \"We are 100% on track\" and believes \"the additional information we are providing meets the STB's expectations.\"\nResource Capacity\n-- Management described the railroad as having sufficient latent capacity \"to add 10% more business without huge incremental capital and operating costs.\"\nNeed a quote from a Motley Fool analyst? Email\n[email protected]\nRISKS\nCFO Jennifer L. Hamann stated, \"fuel will definitely be a headwind, particularly here in the second quarter with—again, as I mentioned in the prepared remarks—we are paying a little north of $4 a gallon right now here in April. That will certainly pressure margins in the second quarter.\"\nPremium segment international intermodal volumes declined 28%, with ongoing softness in West Coast imports and customer shifts cited by management as continuing headwinds.\nSUMMARY\nUnion Pacific Corporation\n(\nUNP\n\n+0.85%\n)\ndelivered record first-quarter operating and financial results, driven by solid pricing, a favorable business mix in key segments, and focused execution of efficiency and productivity measures. Management reaffirmed both near-term and multi-year earnings guidance, despite acknowledging margin headwinds from higher fuel costs and international intermodal weakness. The company emphasized its readiness for future growth, citing substantial network, equipment, and workforce capacity, while highlighting strong momentum in domestic intermodal and key bulk and industrial markets.\nCEO Jim Vena highlighted that the forthcoming merger application is \"more compelling now\" and reiterated job guarantees for all unionized employees as part of the transaction.\nInvestment in proprietary technologies and AI-enabled tools—such as Automated Movement Planner and MobileNX—was described as directly improving service reliability, terminal operations, and resource efficiency.\nVP Operations Eric J. Gehringer stated that workforce productivity gains and operating fundamentals achieved at Union Pacific are \"They absolutely are transferable.\" to the contemplated merger integration with Norfolk Southern.\nCommitted gateway pricing and the maintenance of open gateways were cited as strategies to enhance competition and provide customer choice following the merger.\nManagement stated that share repurchases are paused and that EPS guidance now explicitly includes merger-related costs, clarifying the accounting basis for outlook figures.\nConstruction project pipeline remained robust, with 20 new projects closed in the quarter; business development remains a focus for ongoing top-line and volume growth.\nINDUSTRY GLOSSARY\nOperating Ratio\n: The percentage of operating expenses to operating revenues, a lower figure indicates greater efficiency.\nIntermodal\n: Transportation process that uses multiple modes (rail, truck, ship) for a single shipment, commonly in standardized containers.\nARC (Average Revenue per Car)\n: The mean revenue earned by moving one railcar, used as a pricing and margin metric by railroads.\nPhysX Train Builder\n: Union Pacific’s proprietary technology enabling optimized train assembly and longer train length.\nCommitted Gateway Pricing\n: A pricing approach providing guaranteed rates at interchanges between railroads, ensuring customer choice and competition after mergers.\nCycle Time\n: The total time for a railcar or shipment to complete its trip, measuring operational efficiency.\nMetra Transfer\n: The transfer of Metra commuter rail services out of Union Pacific's network, completed in 2025, affecting non-freight revenues.\nSTB (Surface Transportation Board)\n: The U.S. regulatory body that oversees railroad mergers, service agreements, and competition.\nFull Conference Call Transcript\nJim Vena:\nWell, good morning, everyone. Thanks for joining us. It is a wonderful morning here in Omaha for railroading, and a little bit of rain coming down, but nothing that would stop the men and women of Union Pacific Corporation from going out there and delivering. I am excited to be here, to review our first quarter, and then take your questions. I am joined by the regular crew: Chief Financial Officer Jennifer L. Hamann; Executive Vice President of Operations Eric J. Gehringer—the railroad looks pretty good this morning, Eric, excellent job; and Executive Vice President of Marketing and Sales, Kenyatta G. Rocker. I will run through the highlights real quick before I turn it over to Jennifer.\nIf you go to Slide 4, 2026 started strong as we delivered record first quarter results. We showed who we are—executing on new opportunities and raising the bar on what is possible for ourselves and the industry. It is important that we see that strength reflected on our bottom line as we reported first quarter records in operating income and net income. For the quarter, reported net income of $1.7 billion grew 5%, earnings per share of $2.87 increased 6%, and we improved our operating ratio. Excluding merger costs, adjusted net income was up 7%, EPS of $2.93 increased 9%, and our operating ratio improved 80 basis points to 59.9%.\nThese are strong results that reflect what is possible when the team consistently executes at a high level. Now I will let the team walk you through the quarter in more detail and then come back and wrap it up before we go to Q&A. Jennifer, why do you not do the first quarter financials, please?\nJennifer L. Hamann:\nThank you, Jim, and good morning, everyone. Let me begin with a walk-down of our first quarter income statement on Slide 6, where operating revenue of $6.2 billion increased 3% versus last year as freight revenue of $5.9 billion grew 4% on 1% lower volume. Digging into the drivers, lower volume reduced freight revenue 75 basis points. Fuel surcharge revenue of [inaudible] increased $43 million, reflecting the impact of higher year-over-year fuel prices and adding 100 basis points to freight revenue. Core pricing combined with business mix drove approximately 325 basis points of freight revenue improvement. As we committed, our quarterly pricing dollars exceeded inflation dollars.\nSpecifically, coal pricing remained positive but at a lower rate than last year for business indexed to natural gas prices, and as we noted in January, we continue to see impacts from the competitive and global environment in select agricultural markets. Fortunately, we are well positioned to compete, as our strong operating performance and productivity initiatives enable us to continue to win new business at good margins. Our first quarter business mix was positive, although not as favorable as we might have expected due to higher volume in our lower average revenue per car businesses such as coal and rock, combined with lower volume on some of the higher ARC businesses such as food and refrigerated and forest products.\nWrapping up the top line, other revenue declined 4% to $324 million, driven by lower subsidiary revenue as we have now lapped the Metra transfer completed in 2025. Turning to expenses, our appendix slides provide more detail. Let me discuss the key drivers as total operating expense increased 3% to $3.8 billion. Compensation and benefits expense increased 1% as we almost entirely offset the impact of inflation with record first-quarter workforce productivity that enabled a 5% smaller workforce. First-quarter cost per employee increased 6.5%, driven by higher wages and benefits along with increased incentive compensation.\nWe continue to expect full-year compensation per employee to increase between 4% and 5% as we work to offset cost inflation with process and technology improvements. Fuel expense grew 7% on a 7% increase in average fuel price from $2.51 to $2.69 per gallon. Purchased services and materials expense increased 7% as a result of merger-related costs, while equipment and other rents declined 9% with record first-quarter cycle times. Reported first quarter 2026 net income totaled $1.7 billion and was a first-quarter record, with earnings per share of $2.87. Adjusted for the merger costs, our earnings per share totaled $2.93 and operating ratio came in at 59.9%.\nOverall, we delivered strong quarterly results to start the year, and we are confident in the ability to continue delivering for all of our stakeholders by successfully executing on the fundamentals of our business. Turning to cash returns and the balance sheet on Slide 7, first-quarter cash from operations totaled $2.4 billion, up 10% versus last year, and we generated free cash flow of $30 million after making significant investments in the network and returning an industry-leading dividend to our shareholders. Net debt decreased $1.2 billion as we repaid long-term debt. We ended the quarter with an adjusted debt-to-EBITDA ratio of 2.5x while we continue to be A-rated by our three credit rating agencies.\nLooking ahead, we are affirming our 2026 outlook for mid-single-digit EPS growth. This includes our expectations for reported earnings and operating ratio improvement. Our original diesel fuel estimate of $2.35 per gallon, as established in January, is now much harder to predict as we have seen quite a bit of volatility recently, and although fuel prices seem to be coming down, the month of April will likely average over $4 per gallon. Beyond 2026, we remain committed to attaining our three-year CAGR target of high single-digit to low double-digit EPS growth through 2027. I will now turn it over to Kenny to provide an update on the business demand. Kenny?\nKenyatta G. Rocker:\nThank you, Jennifer, and good morning. In the first quarter, freight revenue grew 4%, and if you exclude the impact from fuel surcharge, freight revenue increased 3%, both first-quarter records. Core pricing gains, higher fuel surcharge revenue, and favorable business mix more than offset the 1% lower volume in the quarter. Let us walk through the key drivers. Starting with our Bulk segment, revenue for the quarter was up 10% compared to last year, driven by a 12% increase in volume. Strength in coal was driven by sustained utility demand and favorable natural gas pricing, supported by strong service execution as well as new business with LCRA which started in April.\nIn grain, the first quarter delivered record volume, driven by strong export demand including a rebound in shipments to China and continued expansion into Mexico, such as Bartlett’s new facility in Monterrey. Grain products continue to benefit from business development tied to renewable fuels and associated feedstocks. Turning to Industrial, revenue was up 5% for the quarter on a 4% increase in volume, delivering a record first quarter and outperforming the market. Strong core pricing drove a best-ever quarterly average revenue per car. We continue to see strength in demand for construction projects driven by new LNG terminals and data centers, coupled with our intense focus on business development.\nPetrochemicals also performed well this quarter, reflecting new business wins and improved demand. Premium revenue for the quarter declined 5% on a 9% decrease in volume and a 4% increase in average revenue per car, reflecting business mix and higher fuel surcharges. As expected, lower West Coast imports and customer shifts had a drag on international intermodal volumes, which declined 28% versus last year. But on a positive note, domestic intermodal delivered a third consecutive record quarter driven by outstanding service and continued commercial momentum. Softening vehicle sales pressured automotive volumes, though having won incremental volume with BMW offset some of the market softness. Looking ahead on Slide 11, we remain optimistic about coal’s potential.\nDespite current natural gas pricing, we expect full-year coal results to be positive. In grain, improving export demand to China, along with continued momentum into Mexico, positions the business well to support growth. For grain products, we expect continued strength driven by business development and expanding renewable fuels and feedstocks markets, with a clear renewable fuels policy providing more stable demand. Moving to Industrial, despite a soft housing environment and tepid end-market fundamentals, we remain firmly focused on outperforming industrial production. We expect the strong volume in construction and petrochemical to continue based on our customer wins.\nA great example is the Golden Triangle Polymers Company joint venture with CPChem, where we are encouraged by the upcoming startup of this new world-scale facility in the third quarter. Wrapping up with Premium, international intermodal volumes will remain subdued, although we lap some of the shift we experienced last year as we move through the quarter. Domestic intermodal continues to perform well, supported by over-the-road conversions enabled by our strong service products and diverse market reach. While softer vehicle sales are expected to pressure automotive volumes, we expect business development wins will offset some of the impact.\nOur first quarter results reflect the team’s relentless focus on revenue growth, which is achieved through pricing to the service we provide, investing for growth, and driving business development. With that, I will turn it over to Eric.\nEric J. Gehringer:\nThank you, Kenny, and good morning. Moving to Slide 13, our first-quarter operating results highlight our focus on safety, service, and operational excellence. Last year, we led the industry in employee safety. We carried that momentum into the first quarter as we improved both employee safety and derailments versus their respective three-year rolling averages. We set first-quarter records in all six of our key performance efficiency metrics on Slides 13 and 14. Freight car velocity increased 9% to 235 miles per day. This performance was driven by best-ever terminal dwell of 19.7 hours, 11% better than last year, and our second quarter below 20 hours.\nEvery day, we continue to challenge ourselves to find new and innovative opportunities to reduce car touches, leverage existing technology in our terminals, and implement new technologies. For service, both intermodal and manifest SPI finished at 98%, a 4- and 5-point improvement respectively. These results compare to our best service months achieved in 2025, as we continue to raise the bar for success. We also demonstrated that maintaining a buffer of resources is critical to recovering from weather and incidents, as customers trust us to provide consistent, reliable service. Moving to Slide 14, locomotive productivity improved 6% and was a best-ever quarter.\nNotably, our average active locomotive fleet decreased 4% with higher gross ton-miles, highlighting efficiency gains from our combined efforts related to locomotive dwell, train lengths, and capital investments that increase locomotive pulling power. Workforce productivity, which includes all employees, increased 7%. Our active train, engine, and yard workforce decreased 4% on a 1% reduction in carload levels, demonstrating our discipline as we remain more than volume variable. Looking ahead, we will continue to hire for attrition and to support our service. Train length grew 3% compared to last year. Proprietary technologies such as PhysX Train Builder, combined with mainline investments and solid execution of the fundamentals, enabled us to safely grow train length.\nIn closing, we had a very successful first quarter. We operated safely, efficiently managed our resources, and consistently served our customers. As we progress throughout the year, we will remain nimble and continue to build on our strong momentum. With that, I will turn it back over to Jim.\nJim Vena:\nThank you very much, Eric. Fantastic results. If we can turn to Slide 16, please. Before we get to your questions, I would like to quickly summarize what you have heard so far. We had a strong first quarter and start to the year. Our network is running well and we are delivering on commitments to our customers. Put it all together, we are doing what we said we would—leading the industry in safety, service, and operational excellence. That further translates into affirming our long-term guidance of high single-digit to low double-digit CAGR through 2027 with best-in-class operating ratio and return on invested capital. Before we turn to your questions, just a quick merger update.\nWe are 100% on track with filing the revised application on April 30. We are confident the additional information we are providing meets the STB’s expectations and we look forward to moving toward approval—the real exciting part of operating America’s first transcontinental railroad. With that, we are now ready to take your questions.\nOperator:\nWe will now",
+  "qa_turns": [
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Scott H. Group",
+      "text": "So Jim, I wanted to ask on the merger. We were supposed to be six months or whatever into this process, and I guess we are about to restart the clock. Does the fact that we are taking this long give you any more or less confidence in your ability to get this approved? And maybe just confirming—yeah—that is the crux of the question.",
+      "turn_index": 0
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Jim Vena",
+      "text": "Listen, Scott, great question and I appreciate it. It is a good way to start off. I thought for sure you would start with “Jim and team, pretty good quarter,” but I think top of mind for a lot of people is the merger. We were disappointed but not surprised when you look at historical events of how the process works to put railroads together. We were going to get some things that we foresaw, and what we thought was going to happen did not happen in the timeline we liked. We knew this was not going to be a process that would happen as quickly as I would like.\nI was hoping it was going to be done for my birthday this year, so we are going to miss that date in August. But when we look at the fundamentals and the facts of what this combination will deliver—for the country by taking trucks off the highway, moving products more seamlessly, opening new markets for customers, providing service to some underserved markets that now go by truck—we are more convicted now than we ever have been. When you take a look at what is in the merger application and all the detail we have put forward, we are more convicted.\nI would be concerned leading this company if we had lost our way in how we operate because of the merger. As you can see, we have been very clear: our time is spent on operating the railroad every day, finding ways to grow our business, finding new markets and new customers, and adding to the customers we have. Even with economic uncertainty, everything going on in the world, and tariffs that we and our customers have to go through, we delivered again a quarter that moves us ahead. Because of that, let us turn to the merger itself and what we are going to put forward in the application and why it is a compelling case—more compelling now.\nThe experts we have hired clearly show where the opportunity is. On a service level, a seamless railroad is able to move products at less cost; therefore pricing will be beneficial for our customers because of our lower cost. We will be able to serve our customers with a product that allows them to save on their own costs—whether it is railcar inventory—and move to the end user faster. For our employees, we have been clear from the start: our unionized employees should be part of the win of a new railroad that goes across the country, and we have guaranteed a job for everyone. That commitment is ironclad.\nService is going to be better, we provide more opportunity, we take trucks off the highway, and our employees are guaranteed jobs. This is good for the country and good for Union Pacific Corporation. Financially, it is good for our shareholders. We see growth opportunity, lower-cost movements, and more fluidity. I am more convicted today than when we put the application in the first time.",
+      "turn_index": 1
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question is from Christian F. Wetherbee with Wells Fargo. Please proceed with your question.",
+      "turn_index": 2
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Christian F. Wetherbee",
+      "text": "Good morning. Maybe to think about the guidance—helpful on the merger and how you are thinking about it. For the outlook this year, particularly the operating ratio improvement—obviously a good first quarter—but fuel is going to be a headwind, and fuel surcharges will be a headwind from an operating ratio perspective. Are there incremental productivity opportunities becoming apparent as you have been operating so far through the year—positives to offset that headwind?",
+      "turn_index": 3
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Jim Vena",
+      "text": "Jennifer, why do you not talk about fuel and everything we are doing on that piece?",
+      "turn_index": 4
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Jennifer L. Hamann",
+      "text": "Thanks for the question, Chris. You are right, fuel will definitely be a headwind, particularly here in the second quarter with—again, as I mentioned in the prepared remarks—we are paying a little north of $4 a gallon right now here in April. That will certainly pressure margins in the second quarter. But we have a lot of opportunities to drive efficiency in our railroad. We have opportunities that Kenny and his team are driving in terms of business development. With our great service product, we also are being very consistent in pricing for the value of that service.\nPut all those things together, and we are still confident for the full year we will be able to improve our operating ratio. We reiterated that to make it clear we have that confidence and line of sight. Fuel is a pressure here in the second quarter, and we feel good about the rest of the year.",
+      "turn_index": 5
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from Jonathan B. Chappell with Evercore. Please proceed with your question.",
+      "turn_index": 6
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Jonathan B. Chappell",
+      "text": "Jim and team, pretty good quarter. My question is for Kenny or Eric. We look at the numbers on Slides 13 and 14, and then we understand there are macro headwinds across different end markets. Is there an estimate for spare capacity? Another way to ask it: what kind of volume growth can the current system handle without needing to add extra resources if some of those macro headwinds turn to tailwinds?",
+      "turn_index": 7
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Jim Vena",
+      "text": "Jonathan, thank you for that question. It is a topic we review consistently. We have always said the railroad’s critical resources are five: mainline capacity, terminal capacity, crews, locomotives, and cars. You are hitting on one of those five. Today we have latent capacity, driven by a couple of ways. Number one, on top of all the improvements we have made in train length, we did it again—3% improvement, best quarter ever. That train length is generating lane capacity; among other reasons we do train length, it is right at the top to generate capacity. In addition, we still invest between $500 million and $700 million a year in capacity projects—siding extensions, siding constructions, and expansion of terminals.\nUnion Pacific Corporation is positioned, and will remain positioned, with that capacity to bring growth that Kenny and the team are working on every single day.",
+      "turn_index": 8
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Kenyatta G. Rocker",
+      "text": "Two tangible ways that I see that capacity bearing fruit. One is on the equipment side, where we are able to insert more equipment into a facility and spot at 100% of order fulfillment, which allows us to capture more business. More importantly, capacity gives us the ability to shift in different lanes or geographic areas—maybe from the Gulf to the Southeast, or from the Midwest shifting down to the Gulf or Mexico. That is the kind of capacity benefit we take advantage of.",
+      "turn_index": 9
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Jim Vena",
+      "text": "That is a good example when we think about grain this year. Last year we talked about the shift of grain into Mexico. We have seen some of that shift back to the Pacific Northwest as China has become more open to receiving American commodities. We did not have to build five more sidings; we took advantage of capacity we had and delivered successfully. It was not clearly forecasted, so we had to be agile. We build the railroad—capacity-wise and asset-wise—with a buffer. With the business level we have today—and I look at it every morning—we are operating with over 100 locomotives fewer on the mainline because of our speed improvements.\nSo we parked them, giving us a nice buffer of locomotives and assets. On people, through technology, investments, and how we operate the yards and stay fluid, we have been able to get more cars switched per employee. We see line of sight to be better at that. On the capacity of the railroad to add 10% more business, we have invested hundreds of millions of dollars, especially in our terminals, to make them more resilient, recover faster, and have higher capacity by speeding railcars through and reducing touches.\nIf you turn the clock back to early 2019, if we were operating the way we were then, we would have 25% more trains out there running this morning than we are today. We did not remove capacity. This railroad is operating at higher volume than we were in 2019 and with 24% fewer trains to move that volume. Touches are fewer, terminals are faster. I am very comfortable that we have capacity to add a lot of business without huge incremental capital and operating costs, because when you run up against capacity, costs go up due to congestion. We do not sleep until we are comfortable the railroad is running with the system it has.\nAnd we are not done—there is lots of opportunity over the next few years. Thanks for the question, Jonathan.",
+      "turn_index": 10
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Next question comes from Jason H. Seidl with TD Cowen. Please proceed with your question.",
+      "turn_index": 11
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Jason H. Seidl",
+      "text": "",
+      "turn_index": 12
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Kenyatta G. Rocker",
+      "text": "I will not give guidance on volume, but we are very bullish and optimistic about new pieces of business coming online. I think you are talking about the industrial development aspect. We feel good about the numbers we closed for the quarter—we closed about 20 new construction projects in the first quarter—and we feel good about where we are headed in the second quarter. We have a strong pipeline of construction projects coming on. Most are on the carload side. We have taken a focus on adding new customers both at the origin and destination and expanding that capacity. We are excited about where we are.",
+      "turn_index": 13
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "The next question comes from Kenneth Scott Hoexter with Bank of America. Please proceed with your question.",
+      "turn_index": 14
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Kenneth Scott Hoexter",
+      "text": "Good morning, Jim and team. Great job on the expenses, and that was an impressive stat on the train starts—something I do not think we have heard before. Looking at the way the stock is trading, I want to return to M&A; it seems to suggest the market is building in maybe larger concessions that might be somewhat destructive to market value, given where you are trading vs. peers. Does that make sense? Is there anything in the detailed request for deal terms or discussions parties are having through the process on where you will come out on concessions? And then, Jen, any reason you switched the language to reported outlook from adjusted since you are calling out merger costs?\nDoes that mean your long-term target still includes the merger costs?",
+      "turn_index": 15
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Jennifer L. Hamann",
+      "text": "Let me hit that last one, Ken. We added that as a clarification from last time because we did not have “reported,” and it generated a lot of questions. We wanted to be clear that when we talk about EPS growth, that is off of our reported. So that includes the headwind from the merger costs that we did not originally anticipate, as well as the fact that we are not buying back shares right now. So it is on reported.",
+      "turn_index": 16
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Jim Vena",
+      "text": "Jennifer thought she was helping, and I love it, Ken, that you caught the change in words. As far as the stock and conviction, the market is the market—I cannot control it. Fundamentally, as a business we see growth in opportunity with customers, whether building with some customers or the amount of investment our customers are making in different parts of the country. On the merger and concessions, this is truly an end-to-end merger with a small piece of overlap. We will take care of that in the application to make sure that no customer is harmed. The number of customers going from two to one is a handful out of thousands—very small.\nIt is hard to come up with concessions that make sense. Some competitors are loudly talking about this business. CSX reported great results and will compete hard in the East through price, innovation, and efficiency. In the West, people get this wrong: we are competing against a very strong Burlington Northern Santa Fe owned by Berkshire, a company with the capability to invest heavily. They will be a strong competitor. Given our biggest pieces of competition in the U.S., we are comfortable they will compete hard, but we will provide a level of service with fewer touches that speeds products across the U.S. That is why it is compelling.\nI do not see a big change in the amount of concessions. Are we talking to people? Yes—customers and competitors—to see if we can come up with something reasonable. But we are not prepared to give concessions that just open up our railroad for no reason other than others wanting to gain through this process. That is not the way America works. If something is truly detrimental to customers, then you do something. But when you speed things up and give more opportunity, it is hard to see major concessions we have to give.",
+      "turn_index": 17
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "The next question comes from Brandon Robert Oglenski with Barclays. Please proceed with your question.",
+      "turn_index": 18
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Brandon Robert Oglenski",
+      "text": "Good morning, Jim. Maybe a follow-up, because more skeptical competitors and maybe some investors would say yes, but this combination at a high level is going to drive more than 40% market share to your network relative to much smaller competitors and regional competitors. How do you push back on that criticism of a transaction of this size?",
+      "turn_index": 19
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Jim Vena",
+      "text": "You have to look at the entire market. People want to look at the railroads and say combined Union Pacific Corporation and Norfolk Southern is going to have about 39% of GTMs, but we are not going to be that much bigger than our Western competitor at that level with gross tons both will be moving. As far as the local market, short lines do a great job on first mile/last mile, and I see us strengthening them—we will drive more business to them with this combination.\nThere will always be some affected due to changing handoffs or routes, but in the end, when you look at the entire market, railroads are in the low double-digit capture of the true market that moves by land or water in the U.S. The opportunity is huge for all of us to move that a little. That is a better way to look at it.",
+      "turn_index": 20
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Next question comes from Stephanie Benjamin Moore with Jefferies. Please proceed with your question.",
+      "turn_index": 21
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Stephanie Benjamin Moore",
+      "text": "Good morning. I want to ask a different theme. Jim, your opinion on the value of Union Pacific Corporation’s physical network at a time when investors are increasingly focused on AI-driven disruption. What do you think the market is missing about the intrinsic value of the network, especially post-deal? And also, talk about what you are doing in this world of more technology opportunities—AI-enabled efficiencies—and what you are already doing in the yards and operations to drive better results.",
+      "turn_index": 22
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Jim Vena",
+      "text": "Great question. Eric, why do you not start with how we are using information, AI, and technology to operate the railroad and what we see coming?",
+      "turn_index": 23
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Eric J. Gehringer",
+      "text": "Absolutely. Our conversations about AI or equivalent tools focus first on not doing it just to do it. We focus on the actual problem and the associated value—whether removing car touches, dropping dollars to the bottom line, or improving service. We are not in the business of hobbies; we are in the business of delivering value. Of the most important use cases—foundational to service and productivity, which allow us to grow—it is how we use AI inside our dispatching center. Automated Movement Planner, informed by AI and continually evolving, focuses on driving even more consistent, reliable service by supporting dispatchers in real time and looking 12 hours ahead to lay out the railroad.\nOn any 200 miles of railroad, a lot happens daily—train movements, track maintenance, and variability events. AI helps us plan for all that. Inside our terminals, technologies like MobileNX automate part of the work with AI components. Even more valuable are tools like Terminal Command Center that we have provided to on-the-ground teams operating terminals. They give a higher level of intelligence to forecast what is coming, see problems ahead of time, and avoid rework—for example, catching a wrong car in a cut before it creates big productivity hits. Even in the case of mistakes—which we work tirelessly to avoid—AI tools help us be more efficient in addressing them.\nIn total, we have at least 8 to 10 major AI-related projects. They represent how we are using it to, one, improve our service product and, two, drive efficiency.",
+      "turn_index": 24
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Jim Vena",
+      "text": "The pace of technology change with AI helps across the company—how we communicate with customers and get information better, including in finance. Stay tuned—we are close to rolling out locomotive capabilities to make them more autonomous than they are today for fuel conservation. Those tools are driven by technology that allows locomotives to operate in a smarter, more fuel-efficient manner. Big things include how fast we can change with different flows of business and react to weather across our system. We are working to react much quicker—getting to days instead of weeks—with how we manifest and use employees and optimize the system.\nWe are a simple old business with big hardware, but we are embedding the latest information tools to get answers quicker and automate as much as we can. Good question—hopefully we answered it.",
+      "turn_index": 25
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "The next question is from Brian Patrick Ossenbeck with J.P. Morgan. Please proceed with your question.",
+      "turn_index": 26
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Brian Patrick Ossenbeck",
+      "text": "Good morning, everyone. Just to follow up on integration and technology, are you still assuming 2027 approval? And it does not sound like you are expecting to address your peers’ concerns, more so addressing what the STB has asked for in the new application next week. Also, would love to hear more about concerns about integration based on prior industry issues long ago. Clearly, things have changed—technology among them. What can you give us in terms of new processes and abilities to get ahead of those concerns this time around?",
+      "turn_index": 27
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Jim Vena",
+      "text": "Great set of questions. On timing, yes, we are working off the STB’s timeline—so second quarter next year we would expect to be at a place where they approve it and we can move ahead. It is not finalized; we hope they can speed it up. They want to do a thorough examination, and we are ready for it. Regarding competitors, our revised application answers what the STB asked for—they were specific on required information. We are answering those questions—TRRA, market share, and the amount of business built in. We have decided to release 5.8.\nI never thought our competitors should know exactly what that document held, but at the end of the day it is not going to make a big difference. As for competitors’ asks—you are all smart people—competitors always look to get an advantage they cannot otherwise get or do not want to spend money to get. If a railroad wants to build in—as we are—they have every right to. If we built this transaction around satisfying what other railroads want, well, Canadian Pacific would love to get access to the U.S. West Coast; I would love to get to Toronto. Some of what they have asked for is not about competition—it is about trying to gain for their own railroads.\nWe do not need to answer that, but we are willing to talk. On broader competition, when I was in Canada recently, we talked at a Vancouver terminal. Canada is spending money to compete against U.S. ports—Prince Rupert, Vancouver, and others plan to expand and double capacity for imports. That is who we are competing against. Our intermodal product—international and domestic—is in competition with that product. The size of investment by the Canadian government to expand ports in an economy that does not need that much capacity is purely to compete against U.S. ports and U.S. movement of goods. That is the real competition—sometimes we are too narrow in how we look at it. Eric, on integration?",
+      "turn_index": 28
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Eric J. Gehringer",
+      "text": "You want to learn from past mergers, but be careful—some references go back 30 years, and a lot has changed. Three items. First, technology: when two railroads merged with two different TMS systems, the issue was not the tech itself but the pace of integration—change management on cutover. We have a huge advantage: Union Pacific Corporation has demonstrated a very strong ability to change over systems, including our full transportation system, NetControl, less than two years ago—very successfully, no customer impact, seamless and effective. Second, timing: in the past, some mergers made the pace of implementation a KPI right out of the gate.\nWe are not in the business of going slow, but we are in the business of understanding exactly what we have to do on day one, day 90, day 180. On day one, you will not see a lot of difference—we will operate the two railroads largely independently for the first few months, then thoughtfully implement one action at a time, ensure it works, then move to the next. Third, railroad health: in past mergers, the premium railroad was buying a poorly operating railroad. That is not the case here. Norfolk Southern is a good railroad—good on infrastructure and technology. Together, we will be even stronger. We are not buying a railroad in disarray; we are combining two good railroads.\nThe work is underway, intentional, and will be the most comprehensive integration of any two railroads this country has seen.",
+      "turn_index": 29
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "The next question is from Walter Noel Spracklin with RBC. Please proceed with your question.",
+      "turn_index": 30
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Walter Noel Spracklin",
+      "text": "Good morning. Going back to Slide 11, compared to the prior quarter’s outlook slide, it looks like you added three new positives—added construction as a plus, deleted forestry as a negative, and improved autos from negative to neutral. We are also hearing from trucking peers that the freight recession might be over. If volume is looking better compared to 4Q, why would your EPS guide not be up as well? I do not think your team would have an issue getting operating leverage, but that logic implies you are.",
+      "turn_index": 31
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Jim Vena",
+      "text": "Walter, great question. I will pass it to Kenny—we had that same discussion.",
+      "turn_index": 32
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Kenyatta G. Rocker",
+      "text": "First, lumber is still challenged; it is just a smaller volume. On autos, we have won incremental volume. The SAAR for lumber is still negative—call it 3%. The SAAR for autos is still negative—2% to 3%. We are winning our way to a point to feel better about those markets. On intermodal, you are right—we have seen a jump up in fuel, which happened mid-March. We would like to see that and a sustained tightening of the truck market hold a bit longer. As we progress through the year, if those sustain, then we should see uplift in volume. It all begins with the service product—Eric and his team have done a fabulous job and you are seeing us win.\nOur goal is to increase the size of the pie with over-the-road conversions, and we are accomplishing that.",
+      "turn_index": 33
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Jim Vena",
+      "text": "If you have a railroad running at a high level of service and delivering for customers—and the economy is not as impacted as some would say—then it is Kenny’s job and our job to go sell that service level and grow the business. I like that he has more positives than negatives. And, Walter, fellow Canadian—I stayed up to watch the Oilers last night and they lost. Tough times—hopefully your teams win it.",
+      "turn_index": 34
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from David Scott Vernon with Bernstein. Please proceed with your question.",
+      "turn_index": 35
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "David Scott Vernon",
+      "text": "Thanks for taking the question. Jim or Kenny, how are you thinking about proving that this merger enhances competition? You have been out in the market with committed gateway pricing. What kind of feedback have you gotten from customers? How are you thinking about that idea and its ability to help meet the notion of enhancing competition?",
+      "turn_index": 36
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Jim Vena",
+      "text": "We are not ambiguous. We enhance competition by moving products across the country faster than anybody with fewer touch points. If people want to compete against that, they will have to enhance service to reduce touch points or compete on price. That is what they are worried about—on some lanes, price may be the only lever. We will enhance competition by enabling products consumed mostly in the East to move across the country more seamlessly and open more markets. That enhances customers’ ability to sell in markets and move products the way they are supposed to move. We will compete better in intermodal and carload—soybeans, for example—moving product faster and more efficiently to open markets.\nA large piece of the growth we see is intermodal—giving customers optionality between rail and truck. Committed gateways give western and eastern railroads a set price they can offer customers in the identified products. We have said we will keep every gateway open. If someone wants to get to the Southeast through CSX at New Orleans, they can have that—it is the faster road in some markets. Why would we limit that? Kenny, customer conversations?",
+      "turn_index": 37
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Kenyatta G. Rocker",
+      "text": "",
+      "turn_index": 38
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Let me remind everyone",
+      "text": "520 customers have signed letters of support; 700 commercial partners have signed letters of support; 2,000 in total have signed letters of support. Jim and I spend a lot of time with customers. Here is what is undisputed: customers see the value of improved transit; they see the benefits of an interchange going away; they are excited that their supply chains—both private equipment investors and users of system equipment—become more valuable with increased cycle times. As we move through the journey, customers want to see what we will file and the STB process. We are staying close to them.\nOn domestic intermodal, we have had three consecutive record quarters—won through first service and then lower cost structure, which opens new markets and improves margins. Customers see and appreciate that, and it excites them.",
+      "turn_index": 39
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Jennifer L. Hamann",
+      "text": "The only thing I will add is that with committed gateway pricing, we are extending the benefit of the merger to customers that would otherwise not be impacted. That absolutely enhances competition.",
+      "turn_index": 40
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Jim Vena",
+      "text": "Good point, Jennifer. Thank you for the question.",
+      "turn_index": 41
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question is from Thomas Richard Wadewitz with UBS. Please proceed with your question.",
+      "turn_index": 42
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Thomas Richard Wadewitz",
+      "text": "You mentioned maybe 2Q27 for approval, so you have some runway and want to execute well. Service is strong, network operation is very good—supportive of the case you can make it all work. How do you think about volume growth? Is delivering volume growth also important as you build your case that you can handle integrating two large railroads? Related, how do you think about volume versus price—do you intentionally push a little more volume in intermodal and grain where there are questions about price versus volume?",
+      "turn_index": 43
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Jim Vena",
+      "text": "We want to increase volume—no ifs, ands, or buts. We want to increase revenue—by having more business and moving more products on our railroad—and also be very diligent on price to increase revenue. You can see that again this quarter and in the last few quarters. I separate the merger from the railroad today. Today’s job is to run at a high level, and I give Eric and the operating team a lot of credit. I have spent 48 years railroading and am very impressed; I see more runway to be more efficient and move products so Kenny can go sell our customers on what we can do better.",
+      "turn_index": 44
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Our key goals",
+      "text": "increase volume and revenue, drive it to the bottom line, deliver high service for customers, and operate as efficiently as possible. That is a good summary of where we are.",
+      "turn_index": 45
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Jennifer L. Hamann",
+      "text": "Even with high truck competition compressing markets the last couple of years, truck pricing is still a more expensive option than rail. What we are doing to be more efficient, get into new markets, and offer new services positions us very well to grow going forward.",
+      "turn_index": 46
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Jim Vena",
+      "text": "You bet. Kenny?",
+      "turn_index": 47
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Kenyatta G. Rocker",
+      "text": "I think you covered it all.",
+      "turn_index": 48
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Jim Vena",
+      "text": "Son of a gun, I was trying to pass it over to you. Next question.",
+      "turn_index": 49
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Next question is from Analyst with Deutsche Bank. Please proceed with your question.",
+      "turn_index": 50
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Analyst",
+      "text": "Good morning, and thanks for squeezing me in. On headcount—you made the comment about record first-quarter workforce productivity, and this is the lowest Q1 headcount levels we have ever seen as you are growing top line. Is this the new normal, or could it be better? Jim, you mentioned line of sight to be better, and Eric, holding us to that—how is this possible? What productivity initiatives are you doing differently? And as you think about the pending merger with NS, are these productivity gains transferable, or is there something unique about the Union Pacific Corporation network that allows you to achieve these levels more easily?",
+      "turn_index": 51
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Jim Vena",
+      "text": "I will pass it to Eric in a second. On management, we are more efficient and, through attrition, have sized appropriately and see more benefit. For the combination, absolutely—we see substantial improvement in productivity when two railroads are combined. You only need one Chief Marketing Officer and one CEO—just joking, Kenny—but yes, we see a lot of that. Eric, day-to-day operations?",
+      "turn_index": 52
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Eric J. Gehringer",
+      "text": "They absolutely are transferable. We improved workforce productivity 7%. How we did that is how we will do it tomorrow, next week, and next month. One of Union Pacific Corporation’s greatest strengths is our mindset: productivity drives growth. That drives alignment across the company. Combined with operating’s mindset of perpetual dissatisfaction, we look at every scorecard and see opportunities. Sometimes those are big and take a while; many come from fundamentals. Why is one terminal at 19 hours of dwell and another at 15? Why cannot 19 be 15? We grind on that until we get there. That expands across the network. Layer on technology—as Jim and Jennifer mentioned—and you get a multiplier, getting even more out of initiatives.\nI could not be more proud—this positions Kenny to win in the marketplace, and there is no finish line to it.",
+      "turn_index": 53
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Jim Vena",
+      "text": "Thanks for the question.",
+      "turn_index": 54
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "The next question is from Ariel Luis Rosa with Citigroup. Please proceed with your question.",
+      "turn_index": 55
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Ariel Luis Rosa",
+      "text": "Good morning, and nice quarter. Staying on headcount—it is truly impressive what efficiency gains you are achieving. But, Jim, you made a commitment to unions that all union jobs are protected. Given the productivity gains, do you worry that could slow some of that progress? How do you think about the commitment weighed against those gains? And more broadly, is there anything you would be doing differently in operating the railroad currently if the merger process were not going on?",
+      "turn_index": 56
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Jim Vena",
+      "text": "On the last question—no. We operate the railroad the best we can today and always look for improvement. People dealing with the merger are focused on the application and integration planning when it gets approved, because it is going to get approved—it is a compelling case. Bottom line: most people at Union Pacific Corporation operate the railroad. No one is getting lost traveling to talk about the merger—we are railroading the Union Pacific Corporation the way we are today. On the union commitment, I thought about this carefully. We looked at normal attrition numbers for both railroads and how fast we can put this together and optimize without impacting service for customers.\nWe are comfortable the commitment we gave will not limit our capability to move ahead and be productive, while guaranteeing people a job. With attrition and this being a growth story—especially in intermodal where there are areas we do not move intermodal today—we can win more business and bring it on the railroad if our service stays high. The commitment is strong and made with a thoughtful process. I do not see any issue with it impacting us as we move ahead.",
+      "turn_index": 57
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our final question is from Analyst with Morgan Stanley. Please proceed with your question.",
+      "turn_index": 58
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Analyst",
+      "text": "Good morning. Just wondering, given your current network utilization and service levels and current inflation levels, what do operating leverage and incremental margins look like in the upcycle?",
+      "turn_index": 59
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Jim Vena",
+      "text": "We love an upcycle. Jennifer would scold me if I got into too much detail, but that is exactly how we are thinking about it. There are many things holding back all the railroads—truck pricing, among others. Higher natural gas—we love it from a railroad perspective. We are in a good place and operate in a good manner. An upcycle would be very beneficial, and if everything settled down and the economy grew, it would really help us as we grow with America and American businesses. Thank you for the question.",
+      "turn_index": 60
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "There are no additional questions at this time. I would like to turn the call back to Mr. Vena for closing comments.",
+      "turn_index": 61
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Jim Vena",
+      "text": "Thank you very much. I know many companies are reporting, and I appreciate you joining us this morning. To our shareholders—our owners—rest assured that we look at this railroad every day to make sure we operate it in the best way possible to move ahead. I am very comfortable that we are doing that and that we have the right team. I joke with Kenny about only needing one Chief Marketing Officer, but he and his team are doing a good job. I could not be prouder of Eric and the operating team, and Jennifer and our whole team, keeping our feet to the fire and making sure we are doing the right thing.\nWe look forward to filing the application on the 30th, getting it accepted, and moving ahead with a transaction that will build on the results of Union Pacific Corporation and make us a stronger railroad and a strong competitor to move the products that Americans use every day. Thank you very much. Appreciate everybody joining us.",
+      "turn_index": 62
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Ladies and gentlemen, thank you for your participation. This concludes today’s teleconference. You may now disconnect your lines, and have a wonderful day.",
+      "turn_index": 63
+    }
+  ]
+}

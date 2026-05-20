@@ -1,0 +1,28 @@
+{
+  "ticker": "TDOC",
+  "call_date": "2026-04-29",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.031258658138530154,
+  "cosine_distance": 0.0810635241110289,
+  "sentiment_shift": 0.011883860258089882,
+  "question_difficulty_mean": 0.17091916512141572,
+  "baseline_mean": 0.021392776867859675,
+  "baseline_std": 0.008785128911038583,
+  "z_score": 1.1230206603199553,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5854595825607078,
+    "call_mean_answer_length": 147.16666666666666,
+    "call_hedge_density": 0.01781480379211123,
+    "call_pos_sentiment_mean": 0.5565445547302564,
+    "call_neu_sentiment_mean": 0.40972944628447294,
+    "call_neg_sentiment_mean": 0.03372600224489967,
+    "call_qa_similarity_mean": 0.5760855454444438,
+    "baseline_neg_sentiment_mean": 0.021842141986809786
+  },
+  "generated_at": "2026-05-20T07:06:02+00:00"
+}

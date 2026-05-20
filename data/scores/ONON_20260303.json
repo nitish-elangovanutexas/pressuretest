@@ -1,0 +1,28 @@
+{
+  "ticker": "ONON",
+  "call_date": "2026-03-03",
+  "quarter": 4,
+  "year": 2025,
+  "pressure_score": 0.012848734360961683,
+  "cosine_distance": 0.0354992996990291,
+  "sentiment_shift": 0.00013455903778473652,
+  "question_difficulty_mean": 0.2034366699767902,
+  "baseline_mean": 0.016645126239605693,
+  "baseline_std": 0.00536890888286143,
+  "z_score": -0.7071067811865477,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6017183349883951,
+    "call_mean_answer_length": 176.0,
+    "call_hedge_density": 0.017855219182478725,
+    "call_pos_sentiment_mean": 0.6462683361023664,
+    "call_neu_sentiment_mean": 0.33940781373530626,
+    "call_neg_sentiment_mean": 0.014323852490633726,
+    "call_qa_similarity_mean": 0.43392854321364877,
+    "baseline_neg_sentiment_mean": 0.014458411528418463
+  },
+  "generated_at": "2026-05-20T06:28:57+00:00"
+}

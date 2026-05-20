@@ -1,0 +1,28 @@
+{
+  "ticker": "CLF",
+  "call_date": "2026-04-22",
+  "quarter": 4,
+  "year": 2024,
+  "pressure_score": 0.015687748053312703,
+  "cosine_distance": 0.02544217612601629,
+  "sentiment_shift": 0.029082250717784683,
+  "question_difficulty_mean": 0.16645311401461202,
+  "baseline_mean": 0.04569118911498551,
+  "baseline_std": 0.03754273801548631,
+  "z_score": -0.7991809507685997,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.583226557007306,
+    "call_mean_answer_length": 79.70270270270271,
+    "call_hedge_density": 0.004399984420946303,
+    "call_pos_sentiment_mean": 0.1376645868090359,
+    "call_neu_sentiment_mean": 0.7539719055230553,
+    "call_neg_sentiment_mean": 0.10836351511848939,
+    "call_qa_similarity_mean": 0.3716241336554689,
+    "baseline_neg_sentiment_mean": 0.07928126440070471
+  },
+  "generated_at": "2026-05-20T04:59:37+00:00"
+}

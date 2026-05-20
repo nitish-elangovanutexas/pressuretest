@@ -1,0 +1,316 @@
+{
+  "ticker": "EQIX",
+  "company_name": "Equinix",
+  "call_date": "2026-04-29",
+  "quarter": 1,
+  "year": 2026,
+  "prepared_remarks": "Earnings Call Transcript\nEquinix (EQIX) Q1 2026 Earnings Transcript\nBy\n\nMotley Fool Transcribing\n\n–\n\nApr 29, 2026 at 6:57PM EST\n\n\n\n\nImage source: The Motley Fool.\n\n\nDate\nApril 29, 2026 at 5:30 p.m. ET\nCall participants\nChief Executive Officer — Adaire Fox-Martin\nChief Financial Officer — Olivier Leonetti\nSenior Executive — Phillip Konieczny\nTakeaways\nRecurring revenue\n-- $2.3 billion, up 10% year over year, at the high end of expectations on a normalized and constant currency basis.\nTotal revenue\n-- $2.4 billion, up 8% year over year, reflecting broad-based demand.\nAdjusted EBITDA\n-- $1.2 billion, up 13% year over year; adjusted EBITDA margin was 51%, rising 190 basis points sequentially and 300 basis points year over year.\nQuarterly AFFO\n-- Surpassed $1 billion for the first time, increasing 11% year over year.\nAFFO per share\n-- $10.79, up 10% year over year on a normalized and constant currency basis.\nChurn\n-- 1.7%, below guided range due to delayed churn events and renewal process execution; full-year tracking toward 2%-2.5% guidance range.\nAnnualized growth bookings\n-- $378 million, up 9% year over year; total sales activity, including $140 million in pre-selling, up 35% in the quarter to a record backlog.\nInterconnection revenue\n-- Up 9% year over year; Fabric revenue up 26%; Fabric bookings up 70% year over year, all on normalized and constant currency basis.\nPhysical and virtual net interconnections\n-- Increased by 5,800, with Fabric additions leading growth.\nCabinets billing and backlog\n-- 4,100 net cabinets added; cabinet backlog at record level.\nMRR per cabinet\n-- $2,524, up 7% year over year, reflecting pricing and density trends.\nRetail expansion CapEx\n-- 46 major projects underway across 32 markets, with 70% of retail expansion CapEx in major metros; 25% of 2026 retail capacity expansion already pre-sold.\nTotal capital expenditures\n-- Approximately $1.3 billion, with about 90% devoted to growth and value-accretive capacity expansion.\nLiquid cooling deployments\n-- 36 customer deployments across regions; Q1 saw 50% growth in liquid cooling deployments, including six deployments and seven orders in the quarter.\nBalance sheet\n-- $3.1 billion of cash and short-term investments; net leverage ratio of 3.8x annualized adjusted EBITDA.\nSenior notes issuance\n-- $1.5 billion at a 3.1% blended effective rate.\nGuidance revision\n-- Raised full-year total revenue by $21 million, adjusted EBITDA by $24 million, and AFFO by $40 million; now guiding total revenue growth of 10%-11%, adjusted EBITDA margin of approximately 51%, and AFFO growth of 10%-12%.\nExScale lease economics\n-- Expected $80 million in revenue, $65 million in AFFO, and $0.65 in AFFO per share from Hampton ExScale lease shifted to Q2 from Q1; no full-year impact as economics were already incorporated.\nHedging program\n-- More than 90% of 2026 energy costs hedged, with \"minimal impact\" expected from elevated prices according to management.\nAtNorth acquisition\n-- Agreement signed to purchase AtNorth, adding an approximately 800 MW pipeline in the Nordics expected to come online over five years; transaction expected to be immediately accretive to AFFO per share upon closing.\nCustomer highlights\n-- Eight of the top 10 AI model providers and four of the top five neo clouds expanding with Equinix, deploying over 110 network nodes; Fabric connections for major deals tripled year over year.\nNeed a quote from a Motley Fool analyst? Email\n[email protected]\nRisks\nCEO Fox-Martin stated, \"We have one project underway in Dubai at our DX3 facility, which is a construction project, and we have seen the RFP stage of that project be impacted due to the conflict,\" indicating potential delays or disruptions from geopolitical tensions in the Middle East.\nChurn guidance remains cautious as CEO Fox-Martin said, \"to keep our churn in the range of 2% to 2.5% for the rest of the year is the right thing to do,\" suggesting potential upward movement from the Q1 level.\nSummary\nEquinix\n\n(\nEQIX\n\n0.52%\n)\ndelivered record quarterly results driven by double-digit normalized recurring revenue growth and historic sales activity, particularly in AI, cloud, and interconnection workloads. Management highlighted outsized growth in Equinix Fabric, a rapid uptick in AI-related deals, and confirmed that a large pipeline of capacity expansion is already partially pre-sold. The company raised full-year guidance for revenue, adjusted EBITDA, and AFFO, citing consistent margin expansion, disciplined capital allocation, and robust customer demand.\nCFO Leonetti detailed that capital reinvestment will prioritize debt over equity, leveraging the company's BBB+ rating and balance sheet flexibility.\nManagement reported \"approximately 50% growth in terms of our liquid cooling deployment\" in Q1, with active engagements across all regions and ongoing expansion efforts.\nThe company confirmed total capital expenditures are tracking toward the top end of guidance at $4.1 billion, with mid-20% to 25% unlevered cash-on-cash returns maintained as a business target.\nHedging strategies for energy costs were reiterated as a competitive advantage, with management stating that \"we are more than 90% hedged for 2026,\" minimizing sensitivity to market volatility.\nInterconnection growth in stabilized assets outpaced overall pool revenue at 9% versus 6%, signaling mix shift potential in future revenue composition.\nThe AtNorth acquisition is expected to enhance Equinix's Nordics footprint and bring significant development pipeline online over the next five years.\nIndustry glossary\nAFFO\n: Adjusted Funds from Operations—a key REIT cash metric showing recurring cash flow after maintenance CapEx.\nExScale\n: Equinix's large-scale data center offering, focused on hyperscale cloud and large enterprise deployments.\nFabric\n: Equinix's software-defined interconnection platform enabling direct, private connectivity between customers, clouds, and partners.\nMRR per cabinet\n: Monthly Recurring Revenue generated per data center cabinet, used as a unit economics metric within data infrastructure.\nIBX\n: International Business Exchange—Equinix's branded, standardized retail colocation data center facilities.\nNeo cloud\n: New-generation, AI-focused cloud providers, often specializing in GPU-accelerated or inference workloads distinct from hyperscalers.\nLiquid cooling\n: Advanced data center cooling technology using direct-to-chip or immersion methods to handle high-density compute workloads.\nFull Conference Call Transcript\nAdaire Fox-Martin:\nThank you. Hello, and a warm welcome to our Q1 2026 earnings call. This quarter's results reflect continued strength across the business as we capitalize on a large and growing set of opportunities. Demand is broad-based and durable, execution is driving efficiency, and AI continues to fuel infrastructure investments that play to our strengths. Before I get into our results, I would like to start with some important market context. Over the course of the past year, my conversations with customers have changed. A year ago, they were about piloting AI. Now our conversations are focused on enterprise-wide adoption—adoption at scale. Two forces are driving this shift.\nInference has grown from experimental workloads to an engine of real-time business decision-making, and agentic AI is moving from demos into distributed deployments, with agents acting autonomously to achieve business outcomes. The reality is that most enterprise architectures are not optimized for these workflows. Agents need private, low-latency paths to data wherever it lives. They perform best at the edge, closest to where the decisions get made. And they must be able to move freely across models and clouds whilst staying within jurisdictional boundaries. Performance, cost, and compliance all suffer when today's agents run on yesterday's networks. Simply put, this deployment gap is an architecture problem.\nEnterprises need infrastructure that is purpose-built for the way AI operates—distributed, interconnected, sovereign by design, and in close proximity to the data that matters most. This is a market that we are built to serve. Equinix, Inc. is not simply the world's largest digital infrastructure company; we are the world's most deliberately curated digital ecosystem. And our Q1 results demonstrate the progress we are making to capture the market opportunity. In Q1, our recurring revenue grew 10% on a normalized and constant currency basis, coming in at the high end of our expectations. This is our second straight quarter of double-digit MRR growth. At the same time, we are driving continued margin improvement.\nQ1 was also the largest quarter of total sales activity in our history, inclusive of annualized growth bookings and pre-selling activity. Total sales activity was up more than 5% year over year. We drove significant interconnection and CapEx billing growth, while reducing churn, reflecting ecosystem strength across our key operating metrics. And we are expanding our capacity whilst bringing new products to market that extend our runway for growth. Our progress stems from the extraordinary efforts of our team, and I am proud of the way our employees are stepping up to meet the moment. Let me now provide some color on our overall results and what is driving our performance.\nAs you saw in our press release, our Q1 results do not include the ExScale Hampton lease. We are nearing execution on expanded mutually beneficial terms with our customer. Unknown Speaker will provide additional details on how you should model Hampton. Adjusting for the timing of Hampton, our Q1 revenue, AFFO, and AFFO per share results were all ahead of our expectations. Overall, our ExScale pipeline is robust, given that our remaining capacity is in major metros. Our momentum reinforces our confidence for the year. As such, we have raised our guidance across several key metrics. I am especially pleased with the strength we are building across the AI inferencing ecosystem.\nThe expansion of our relationships with the world's leading hyperscalers, neo clouds, AI security vendors, and model providers serves as a magnet for agentic AI workloads. Eight of the top 10 AI model providers and four of the top five neo clouds are actively expanding with Equinix, Inc. They have placed more than 110 separate network nodes with us to support mission-critical and latency-sensitive elements of their architectures. Consistent with the prior quarter, approximately 60% of our largest deals in Q1 were AI-related. Additionally, large-capacity Fabric connections have tripled from just a year ago. We believe there is meaningful upside to come, given we are still in the early days of the agentic AI wave and inferencing adoption.\nThis momentum is part of a broader uptick in customer demand spanning a wide range of AI, cloud, and networking workloads. Now let me highlight some recent wins and associated use cases. Qubit Pharmaceuticals, a quantum AI-driven drug discovery company, relies on Equinix, Inc. for the high-performance, low-latency infrastructure required to run millions of GPU-intensive molecular simulations. By deploying a dedicated GPU cluster in Equinix, Inc. data centers with direct cloud interconnection, Qubit has reduced experimental cycles by 20x whilst lowering costs by a factor of five. Most importantly, our solutions are accelerating the path from discovery to potential therapies that can save lives.\nGammon Construction, a leading construction and engineering services company in Asia, chose Equinix, Inc. because of our neutral platform presence across major metros and connectivity solutions to enable their multicloud AI platform. They are using our Fabric interconnection portfolio to power their network infrastructure, which is the base for innovative solutions such as AI-powered robotics and drones for on-site risk assessments and smarter decision-making. During the quarter, we expanded our partnership with Options IT, the number one provider of infrastructure to global financial services firms. They selected Equinix, Inc. because of our presence in the locations that matter most to their operations and ecosystems, including London, New York, Singapore, and Tokyo.\nWe are enabling Options IT to deliver private cloud and AI-managed infrastructure solutions to grow their business whilst meeting the data sovereignty requirements of their customers. We also grew our relationship with Maersk, a global leader in integrated logistics, as it digitizes critical supply chain infrastructure. Maersk recently selected Equinix, Inc. as its primary data center partner to support high-performance and AI workloads, including its first liquid-cooled AI deployment in Frankfurt. Our global footprint, secure and resilient operations, and industry-leading interconnection capabilities are supporting Maersk’s ongoing network transformation and long-term growth strategy. I am exceptionally grateful to all our customers and partners for trusting Equinix, Inc. to help move their business forward.\nThe outcomes we are enabling for them reflect rigorous execution against our strategic pillars. Starting with Serve Better, we delivered annualized growth bookings of $378 million in Q1, up 9% year over year, with approximately $140 million in pre-selling activity on top of that. As I mentioned earlier, that is 35% growth in total sales activity in the quarter, resulting in a record backlog. Transaction volumes continued to demonstrate a broad base of workload requirements, with over 3,800 transactions spanning more than 3,100 unique customers in the quarter. Importantly, we also saw increased customer adoption of our self-service portal. Our portal is a key area of focus as we work to create a better experience.\nIt also drives efficiencies within Equinix, Inc. compared to traditional quote-based ordering. This is one example of our broader focus on digitizing processes and workflows across the company. Customers placed 20 thousand orders through our portal in Q1, up 12% year over year, and we intend to continue driving enhancements to this solution. Turning to Solve Smarter, our customers consistently raise two key challenges to us. The first is AI infrastructure fragmentation. Enterprises are spending too much time and budget navigating dozens of disconnected AI model providers, GPU clouds, data platforms, and security services. The Equinix Distributed AI Hub we introduced at NVIDIA GTC solves this by giving enterprises a single private, low-latency connection to the entire AI ecosystem.\nUnlike AI marketplaces built by providers with their own services to sell, our Distributed AI Hub is completely neutral, providing access to all models and clouds so customers can select what is best for them. The second challenge facing customers is network complexity. Most enterprise networks are not designed to handle distributed AI workloads, and it is resulting in degraded AI performance, inflated costs, and compliance risks. Equinix Fabric Intelligence solves these problems by monitoring network performance in real time, automatically adjusting configurations, and flagging anomalies before they become outages, all without human intervention. Unlike other network management tools that sit on top of the network, Fabric Intelligence is built directly into our Fabric interconnection platform.\nThis is a structural competitive advantage given the more than 500 thousand live interconnections across our ecosystem. Our innovation is extending our market leadership and driving growth. Total interconnection revenue was up 9% year over year in Q1, boosted by Fabric revenue growth of 26% year over year. Fabric bookings were up 70% year over year as our attach rate continues to increase. These growth rates are all on a normalized and constant currency basis. On Build Bolder, we continue to expand our capacity to meet demand. We have 46 major projects underway across 32 markets, including six ExScale projects.\nMore than 70% of this retail expansion CapEx is within our major metros, with the remainder focused on critical expansion markets, particularly in our Asia region. Given the strength of our pre-sales motion, approximately 25% of our 2026 retail capacity expansion has already been sold. We continue to meaningfully grow our pipeline for new powered land and capacity expansion opportunities that can enhance our long-term growth prospects in key metros and deliver attractive returns. And we are not just growing, we are doing it responsibly. Last week, we released our annual sustainability report.\nIt shows how we are building essential infrastructure the world needs in ways that are affordable for our communities, sustainable for our planet, and reliable for our customers. These have long been core Equinix, Inc. values and they will continue to guide our future investment decisions. In Q1, we announced an important investment in one of the world's most sustainability-focused markets, as we signed a joint agreement with Canada Pension Plan Investment Board to purchase AtNorth. This deal will further enhance our position in the Nordics by giving us access to an installed and active development pipeline of approximately 800 megawatts expected to come online over the next five years.\nAtNorth's footprint in key markets such as Copenhagen is complementary to our existing EMEA operations and is well positioned to serve enterprise, cloud, and AI growth. The transaction is subject to closing conditions and is expected to be immediately accretive to AFFO per share upon closing. Overall, Q1 demonstrated continued momentum across the business, and we see significant opportunities to accelerate growth as we deliver on our strategy. I am now going to turn the call over to our new CFO, Olivier Leonetti, to go into more detail on our financials. Unknown Speaker joined us in March and has already proven to be an excellent addition to our leadership team.\nPreviously, he was CFO of Eaton and Johnson Controls, two large suppliers to the data center industry. He has a strong track record of delivering profitable growth and creating shareholder value, and we look forward to his contributions to our success as we work to deliver healthy revenue growth, margin expansion, and superior returns. Over to you.\nOlivier Leonetti:\nThank you for the kind words, Adaire. I am delighted to be here. Nearly two months in, I am excited about the strength of the markets we serve and very impressed by Equinix, Inc. company culture, vision, and unique positioning to serve accelerating customer demand. I look forward to helping enable our vision by prudently allocating capital and thoughtfully utilizing our balance sheet to drive durable, profitable growth. As Adaire summarized, we are executing well across our business. This was the largest quarter of total sales activity on record, up 35% year over year, reflecting broad demand and strong execution. Customer activity increased across all of our verticals, products, and channels.\nTurning to Q1 results on Slide 7, and with all figures discussed on a normalized constant currency basis: Recurring revenues were $2.3 billion, up 10% year over year, as our bookings performance from the second half of last year is converting into revenue. Total revenues were $2.4 billion, up 8% year over year. Adjusted EBITDA was $1.2 billion, up 13% year over year, resulting in a 51% adjusted EBITDA margin, which is up 190 basis points quarter over quarter and 300 basis points year over year. This is a result of our continued cost discipline, forward cost benefits, and scaling our operating leverage. As we have discussed, driving additional efficiency will be a focus moving forward.\nQuarterly AFFO surpassed the $1 billion mark for the first time, increasing 11% year over year, and AFFO per share was $10.79, up 10% year over year. Please note that, adjusted for the Hampton ExScale lease signing, which I will provide details on in a moment, we came in above the midpoint of our Q1 revenue and adjusted EBITDA guidance ranges. As Adaire mentioned, we are near execution on the Hampton ExScale lease. These types of negotiations are fluid, and we have adjusted the expected timing while discussing expanded mutually beneficial terms with our customer. Here are the moving pieces as they relate to guidance over the past couple of quarters.\nOur guidance for Q4 2025 assumed $54 million of non-recurring revenue from the deal based on the original terms being considered. Our guidance for Q1 2026 included the expanded terms, with an expected contribution of approximately $80 million of revenue, $65 million of AFFO, and $0.65 of AFFO per share. The expanded economics are now included in our guidance for Q2. This timing shift does not impact our full-year outlook because the economics were already incorporated. Now to our non-financial metrics, which also demonstrate strong momentum. We increased physical and virtual net interconnections by 5.8 thousand, with particular strength in Fabric additions.\nWe added 4.1 thousand net cabinets billing, and our backlog of cabinets sold but not yet installed is at a record level. Churn came in at 1.7%, primarily due to the benefit of some delayed churn and a focus on execution during our renewal process. For the full year, we are tracking towards the low end of our 2% to 2.5% guidance range. And MRR per cabinet increased to $2,524, up 7% year over year, reflecting the firm pricing environment and continued increase in density. On Slide 12, our capital investments continue to deliver very strong returns. Consistent with prior years, this quarter we completed the annual refresh of our stabilized pool, which increased by five IBX data centers.\nOur 192 stabilized assets increased recurring revenue by 6% year over year, are collectively 82% utilized, and generated a 26% cash-on-cash return on growth PP&E. Turning to our capital on Slide 10, at quarter end, we had approximately $3.1 billion of cash and short-term investments on the balance sheet, and our net leverage was 3.8x annualized adjusted EBITDA. During the quarter, we issued $1.5 billion of senior notes at a blended effective rate of 3.1%, reflecting proactive execution in the market and our ability to take advantage of lower-cost debt around the world. Our balance sheet and diversified capital program are competitive advantages in all macro environments, particularly so in the kind we see today.\nIn combination with significant retained cash flow, we continue to access lower-cost sources of capital to fund our robust growth opportunity. Now looking at capital expenditures on Slide 11, total capital expenditures for the quarter were about $1.3 billion, approximately 90% of which was growth and value-accretive capacity expansion. We continue to expect mid-20% unlevered cash-on-cash returns on investment. Since the last earnings call, we opened six projects, adding critical capacity to meet demand across six metros. Before we get into guidance, I will briefly address the energy environment given developments in the Middle East. We systematically hedge energy costs to provide predictability to our customers and broader stakeholders, particularly in volatile periods.\nGlobally, we are more than 90% hedged for 2026, and, as usual, we are progressively hedging into the future. As a result, we expect minimal impact for 2026, even if energy prices were to remain elevated. Finally, please refer to Slides 13 to 17 for an update of 2026 guidance, with all growth rates discussed on a normalized and constant currency basis. Based on the robust environment and the team's execution, we are raising guidance across key financial metrics. For the second quarter, we anticipate continuing strength across the business including MRR growth of 10% to 11% year over year.\nFor total revenue, the largest piece to consider is that it includes the expanded economics from the Hampton ExScale lease signing that I provided a moment ago. Again, please note that these economics were already included in our guidance for the full year; they simply shifted from Q1 into Q2. For the full year, we are raising total revenue guidance by $21 million based on our Q1 outperformance, improving expected total revenue growth range by 100 basis points to 10% to 11%. We are raising adjusted EBITDA guidance by $24 million, resulting in adjusted EBITDA margins of approximately 51%, a 200 basis point improvement over last year.\nAdditionally, we are raising AFFO guidance approximately $40 million, improving our expected AFFO growth range by 100 basis points to 10% to 12%. This corresponds to a similar 100 basis point improvement in our expected AFFO per share growth range to 9% to 11%. We continue to execute on our capacity expansion to meet robust customer demand. Excluding ExScale and land acquisitions, we now expect total capital expenditures to approximate the top end of our prior range at $4.1 billion, including $280 million to $300 million of recurring spend and approximately $3.8 billion of non-recurring spend.\nGiven our confidence in the growth opportunity in front of us, the team continues to evaluate opportunities to accelerate our capacity to deliver growth and value to our shareholders. Overall, we are pleased with our progress and confident in our plan. We will continue executing with discipline to deliver on our goals and create shareholder value. I now turn the call back over to Adaire.\nAdaire Fox-Martin:\nThank you. Our Q1 results demonstrate strong performance, and our outlook reflects underlying strength across the business. We see immense opportunity ahead to drive revenue, enhance margins, and deliver attractive AFFO per share growth. But we take nothing for granted. Our continued success demands focused execution against our strategic priorities and disciplined investment to unlock structurally higher returns. Above all, it calls on every member of our Equinix, Inc. team to deliver exceptional value for our customers each and every day. This is the mindset guiding us forward. And I am confident in our direction.\nWe are well positioned across our markets, we are building momentum in key growth areas, and we remain focused on delivering against the goals we have set. With that, let us open the line for questions. Thank you. We will now open the call for questions.",
+  "qa_turns": [
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our first caller is Ari Klein with BMO Capital Markets. Your line is open. Ari Klein with BMO Capital Markets. Your line is open. We will go to the next caller, Michael Rollins with Citi. Your line is open.",
+      "turn_index": 0
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Michael Ian Rollins",
+      "text": "And Unknown Speaker, congratulations on joining the team. I had a question about some of the comments you made earlier in the call. So I think, if I got this right, you mentioned that eight of the top 10—maybe it was AI model providers—and four of the top five neo clouds are actively expanding with Equinix, Inc. for AI, 110 separate network nodes. I am curious if you could provide more color. Is that 110 in addition to whatever cloud nodes they typically would have?\nAnd can you characterize the types of interconnectivity demand that you are already seeing for those AI nodes and how that is informing you, maybe early in this environment, of the type of growth that is out there from AI for your business model? Thanks.",
+      "turn_index": 1
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Adaire Fox",
+      "text": "Hi, Michael. Thanks so much for the question. Maybe let me just clarify a couple of points. I mentioned that it was eight of the 10 AI model providers—the LLMs—and four of the five neo clouds. They have deployed between them 110 or so separate network nodes at Equinix, Inc., and that is in addition to all of the nodes that we see being deployed by the hyperscalers in order to manage their connectivity journey. When we look at the role of the neos here, we can see that for many of them their journey is evolving a little.\nTheir value proposition was always based on pricing and based on GPU access and largely facilitating large training footprints, mostly focused with the SaaS providers and the hyperscalers. As we can see, they are transforming into AI inference workloads and looking to pursue enterprise customers and medium-sized businesses. We see them as potential inference magnets for our ecosystem going forward, and we see many of them converging, as I have mentioned already, and engaging at Equinix, Inc. It is about a couple of things in terms of the use cases. It is about network nodes that provide connectivity to the CSPs and the NSPs for the neos and the LLMs.\nIt is about AI inference nodes for densely populated metros—so a little bit of a different picture. And it is about Fabric access to the enterprise customer base of Equinix, Inc. So that sums up the three things that we are seeing for the neo use of our environment.",
+      "turn_index": 2
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you. Our next caller is Cameron McVeigh with Morgan Stanley. Your line is open.",
+      "turn_index": 3
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Cameron McVeigh",
+      "text": "Hi, thank you. I wanted to ask about the $140 million in pre-leasing activity. Just curious how tenant appetite is changing and if tenants are willing to commit further in advance and for longer terms, and really how that is translating to the terms for Equinix, Inc., whether through pricing, terms, or deposits? Any color there would be helpful. Thanks.",
+      "turn_index": 4
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Adaire Fox",
+      "text": "Pricing remains firm whether we are looking at pre-sales or bookings within the quarter. I think the pre-sales booking really provides our customers with security—security in terms of the infrastructure that they are defining and the opportunity to ensure that they are solving for their own compute and energy future. This is something that I think was not done only in the recent past, but we are seeing a great benefit from that in terms of conversations with our customers and our long-term ability to serve them. Would you like to go to the next caller?",
+      "turn_index": 5
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Yes, please. Matt Niknam with Truist. Your line is open.",
+      "turn_index": 6
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Matt Niknam",
+      "text": "Hi, thanks so much for taking the question. Congrats on the quarter. My question is more big picture around macro. Have you seen any macro dynamics, particularly around rising memory or fuel and energy costs and the prospects for higher IT costs later on in the year, affecting customer behavior at all, whether it is pulled-forward demand or pushed-out deals if customers are running into supply shortages? Thanks.",
+      "turn_index": 7
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Adaire Fox",
+      "text": "As it relates to concerns about energy costs, Unknown Speaker mentioned our hedging program, which means that we are in a position to be able to continue to support our customers at the price points at which we are operating today. Based on the demand environment that we see, it is a very durable and broad-based demand environment. It is very diverse, and we are not seeing any pullback from customers as it relates to increasing costs at this point in time.\nI think you can see that reflected just in the sheer scale of the number of transactions and that those transactions occurred across all of our customer segments and actually across all industries that were all growing at roughly the same percentage in Q1.",
+      "turn_index": 8
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you. Our next caller is Frank Garrett Louthan with Raymond James. Your line is open, sir.",
+      "turn_index": 9
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Frank Garrett Louthan",
+      "text": "Great. Thank you. As you see the rising demand for AI inferencing, is there any difference in the incremental capital required that you are seeing to fulfill those new workloads versus what you have traditionally seen? And can you quantify that, if there is? Thanks.",
+      "turn_index": 10
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Adaire Fox",
+      "text": "No, we do not see any difference in incremental capital that will be required. Notwithstanding the fact that our strategy has been to be very metro focused, we are located in 77 metros across the world, and we will continue to build on that footprint. That is already embedded into how we have managed our capital, because that is part of our 27-year history, and therefore we do not anticipate any capital differences. I am going to ask Phillip to add an additional comment here.",
+      "turn_index": 11
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Phillip Konieczny",
+      "text": "The only thing that I would add to that, Frank, is that we are always skating to where the puck is going, as they say, and thinking about the types of requirements that are needed for the deployments. When you look at some of our facilities that we are going to be bringing online in the next few years, the densities that we are building towards are much higher and much more suited for a lot of the requirements that we are hearing from our customers. We are always thinking about where we need to go and what the requirements are of our customers, and we are building towards that.",
+      "turn_index": 12
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Frank Garrett Louthan",
+      "text": "Is that increasing or decreasing the returns that you are looking at going forward with that higher density requirement?",
+      "turn_index": 13
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Phillip Konieczny",
+      "text": "The returns we are underwriting, even with those higher densities, are still in that mid-20% range that we have been talking about for a long time.",
+      "turn_index": 14
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you. Our next caller is Vikram Malhotra with Mizuho. Your line is open, sir.",
+      "turn_index": 15
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Vikram Malhotra",
+      "text": "Thanks. Good evening. Thanks for taking the questions. I just want to clarify two things. One, just the bookings dipping sequentially—how much of that is seasonal? And maybe you can give us some composition of traditional enterprise versus maybe chunky bits? And then secondly, the interconnection business—given the rapid tripling almost of the Fabric business, how is that playing into interconnection revenue growth overall? You mentioned network enhancements needed there, so I am wondering, how does that flow through? Does that mean in the future we see a greater pickup in the interconnection side? Thanks.",
+      "turn_index": 16
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Adaire Fox",
+      "text": "On the sequential nature of our annualized gross bookings, Q1 is seasonally a quarter that has traditionally been lower. That said, I am especially pleased with the performance that we had in Q1 given that we came off the back of such a large Q4. The team worked really hard to deliver what was our largest Q1 ever and to drive our largest backlog ever. I look forward to moving that into revenue in the future, and I am proud that the delivery of our bookings in Q1 is not just related to top line; we did it at growing margins and growing profitability too.\nAcross the Q1 booking profile, we saw strength across various industries, and we also saw very broad-based strength in our under-1 megawatt deal cohort. As it relates to interconnection revenue and interconnection revenue growth, we are very pleased by the performance we have seen here. Our interconnection revenue growth was 9% on a normalized and constant currency basis. Fabric revenue growth was 26%, and our Fabric bookings grew 74% year over year.\nThis kind of growth and the value proposition we are delivering to customers are really behind our investment strategy around our Distributed AI Hub and our Fabric Intelligence, which is in pre-preview with a number of customers and partners who are very positive about the outcomes that we are driving with this solution set.",
+      "turn_index": 17
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you. Our next caller is Jonathan Atkin with RBC. Your line is open, sir.",
+      "turn_index": 18
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Jonathan Atkin",
+      "text": "I wanted to just follow up on that last response and maybe ask you more directly. Is there a scenario over the next couple of years where interconnection growth would exceed growth that you are seeing and would represent a meaningfully increased percentage of your overall revenue composition?",
+      "turn_index": 19
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Adaire Fox",
+      "text": "In some ways, we are probably seeing that in our stabilized assets where our stabilized assets are growing at 6% and interconnection within that asset group is growing at 9%. I do believe that there is opportunity for us to continue to grow our footprint and the range of services that we are offering to our customers here because we fill a very specific niche in the market in terms of providing that neutral environment where the ecosystem around AI converges. There is potential for upside here, but that is not yet factored into our plans.",
+      "turn_index": 20
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you. Our next caller is Analyst with Evercore.",
+      "turn_index": 21
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Analyst",
+      "text": "Hi. Thank you for the question, and welcome, Unknown Speaker. I appreciate the color on energy hedging. Just given your exposure to the Middle East, I wanted to understand whether recent geopolitical crosscurrents in the region have had any impact on your operations, specifically related to your ability to sell and/or add IBX capacity? Thank you.",
+      "turn_index": 22
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Adaire Fox",
+      "text": "Thank you very much for the question. First, the most important thing for us is the safety of our employees, our customers, and our partners, and that was our most important priority as we navigated recent events in the Middle East. Thankfully, all of our people have remained safe and our facilities are fully operational. We do have a limited footprint across the region. We have a total of six data centers across the Middle East region, comprising about 1% of total revenues. We have one project underway in Dubai at our DX3 facility, which is a construction project, and we have seen the RFP stage of that project be impacted due to the conflict.\nSo, limited operational impact—we were able to keep our facilities up and running—but we are watching the situation very carefully. Our long-term view is that the region will continue to see growth and investment in digital infrastructure as the Middle East itself looks to position itself as a global AI hub.",
+      "turn_index": 23
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you. Our next caller is Nicholas Del Deo with MoffettNathanson. Your line is open.",
+      "turn_index": 24
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Nicholas Del Deo",
+      "text": "First, I want to congratulate Unknown Speaker on his appointment, and my question is also for him. I was wondering if you could elaborate—share with us your high-level capital allocation and operating philosophies, and whether your previous vantage point as a supplier to the data center industry provides any initial insights into areas where you think Equinix, Inc. might go to improve the business or things you will be focused on?",
+      "turn_index": 25
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Olivier Leonetti",
+      "text": "Thank you for your question, Nick. First, regarding capital allocation, we are going to keep the course that has worked pretty well for the organization. To fund our ambitious CapEx growth program, we want first to use debt as a way to finance our growth. We can do that based upon the leverage we have today—triple-B+—and the 3.8x I mentioned in my remarks. We will use equity on an opportunistic basis, but the key is going to be to use debt. Relative to impressions as a former supplier to Equinix, Inc., we were very impressed by what we had seen. We view Equinix, Inc. as a pioneer in this market.\nAfter two months here, I have been impressed by the quality of the team, the culture, and the rigor with which we run the operation. What we have said before, you see that play: we have high-quality data centers in top-tier markets, we are connecting the world, and we are ready to power the AI agentic workloads. We are very differentiated, and I look forward to helping Adaire and the team grow this business even more.",
+      "turn_index": 26
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Nicholas Del Deo",
+      "text": "Any particular areas where you are looking to drill down more? Or too soon to say?",
+      "turn_index": 27
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Olivier Leonetti",
+      "text": "We want to enable the strategy that Adaire has outlined—Build Bolder, Solve Smarter, Serve Better. I am going to be a tool among many others to enable this strategy, but no change today, not that there was a need to.",
+      "turn_index": 28
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you. Our next caller is Analyst with JPMorgan. Your line is open, sir.",
+      "turn_index": 29
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Analyst",
+      "text": "Hi. I just wanted to follow up on the churn—1.7% is super low, but I think you mentioned some of it is delayed. Should we go back into the range? Should 2Q be above range and/or the rest of the year at the higher end, or could we be seeing maybe the lower end for the full year?",
+      "turn_index": 30
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Adaire Fox",
+      "text": "As you saw, at 1.7% we were below the low end of our range. There were two elements as to why that was so. One was the timing of some churn, including in our Metal business, moving forward into this quarter, and the other is just the continued focus that we have had on the renewal process from our teams. We are very pleased with the performance in Q1. Notwithstanding that, we do not want to call victory too early. Therefore, to keep our churn in the range of 2% to 2.5% for the rest of the year is the right thing to do.\nWe do believe that our focus on our available-to-renew contracts—doing that much earlier in the cycle—is starting to have an impact. We will watch those trends closely over the next several quarters, and our aim is to bring churn down consistently over time. But for now, we are holding to the 2% to 2.5% range for the year.",
+      "turn_index": 31
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next caller is David Guarino with Green Street. Your line is open, sir.",
+      "turn_index": 32
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "David Guarino",
+      "text": "Thanks. As we think about modeling in these large one-time fees related to the ExScale leases, is there any framework you can provide us to estimate and forecast how large they might be? And then, tied in with that, we heard some rumors that the Manukau campus might have been pre-leased, but you did not comment on that at all. Could you give an update on what is happening with that project and how soon we could maybe expect another large ExScale leasing fee after the Hampton one?",
+      "turn_index": 33
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Adaire Fox",
+      "text": "These transactions are always very complex and multifaceted, particularly as we have very high-demand assets in locations that are energized within the right time frame and in great locations. As we look forward into the second half of next year in terms of Manukau, it is not timing that we have put into the short term. It is something that we are still working on. We have a very robust pipeline of interested parties, and we want to ensure that we are maximizing the outcome for our customers, our shareholders, and the company.\nAs we look forward into the second half of the year and into 2026, the guide assumes a total NRR of approximately 5.8% for the full year, and a portion of that is associated with ExScale leasing.",
+      "turn_index": 34
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Olivier Leonetti",
+      "text": "Additional comment, if I may, David. If you look at the balance of the year, with the exception of the ExScale deal we have mentioned many times now, the rest of the ExScale deals are qualitatively small in nature, and we believe that the risk is balanced for the rest of the year.",
+      "turn_index": 35
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you. Next, Analyst with Goldman Sachs, your line is open.",
+      "turn_index": 36
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Analyst",
+      "text": "Hey, good afternoon. Thanks for the question. Adaire, you talked about agents performing best when closer to the edge. Have you seen some customer workload repatriation or a shift in investment away from public cloud as a result? And then, when enterprises decide to do more at the edge, could you talk a little about the customer decision tree between co-located data centers versus on-prem today? Thank you.",
+      "turn_index": 37
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Adaire Fox",
+      "text": "The reality of the environment that our customers operate in is the environment that we have been describing on many of these calls, and that is a hybrid, multicloud environment where data sits across a plethora of platforms. That creates the opportunity for a neutral platform like Equinix, Inc. to serve customers who want to run agentic workflows across those environments but need to access information that sits in more than one location.\nI would say that customers have a multicloud environment and they are looking at the cost associated with their environments, as well as important considerations in locations like Europe around sovereignty and compliance to sovereignty legislation, which may mean that certain parts of their dataset need to move into a private environment or be repatriated from cloud. But I would not say that this is a broad-based conversation across our customer base. As we talk to CIOs, it is less about on-prem versus cloud and more about the journey from token management and token cost all the way through to sovereign data controls that ensure the organization is compliant with whatever set of data governance rules they have in place.\nThat is an important conversation because we can help customers navigate it by providing, through the Distributed AI Hub, access to all of the players as well as to private SLM models, which our customers have for smaller, less intense AI activity. So the conversation is really about how you navigate from token and training all the way through to that compliance conversation, often driven by sovereignty in some locations.",
+      "turn_index": 38
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you. Our next caller is Analyst with Bernstein. Your line is open.",
+      "turn_index": 39
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Analyst",
+      "text": "Thanks. You have talked about potentially building multiple incremental gigawatts with the Build Bolder program. With the full-year CapEx plan now around $4.1 billion, is this the kind of annual spend we should anticipate for the next couple of years? Is it more front-loaded? Do you think the intensity will ramp as you are moving into more large campuses? And a short follow-up: Are you anticipating maintaining the cash-on-cash return level throughout that build process?",
+      "turn_index": 40
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Adaire Fox",
+      "text": "Thank you for the questions. We have 3 gigawatts currently either in land under control or in development today at Equinix, Inc., so that is the broad base of the portfolio that we are working with. As Unknown Speaker mentioned in his prepared remarks, we are at the top end of the range that we mentioned for CapEx earlier at Analyst Day last year. We are continuing to meaningfully grow our pipeline for new powered land and capacity expansion opportunities to enhance what we see as the long-term growth prospects in key metros, which we know deliver very attractive returns.\nWe are excited to position ourselves for growth, but you can see that we are at the top end of our range as it relates to CapEx from the Analyst Day event when we provided that guide last year. Unknown Speaker will comment on the returns.",
+      "turn_index": 41
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Olivier Leonetti",
+      "text": "The diligence we have before we do deals and deploy new CapEx is very strong. The mid-20% to 25% is a target—that is not an aspiration. We are seeing that quarter after quarter, and we feel very comfortable with achieving that return target as we are in a market where demand exceeds supply. We can be very selective about the deals we take. We are very differentiated today, and interconnection is more and more an important part of the value proposition of the company. We feel very confident about this mid-20% to 25% target.",
+      "turn_index": 42
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you. Our next caller is Analyst with Stifel. Your line is open.",
+      "turn_index": 43
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Analyst",
+      "text": "Yes, thanks for taking the questions. Unknown Speaker, good luck and I look forward to working with you. You talked about Maersk in one of your customer highlights and they had a liquid cooling deployment in Frankfurt. Maybe overall, can you give us a sense of where customer demand is for liquid cooling activity today? How many active or signed deployments are using direct-to-chip or immersion cooling, and how quickly is that moving from pilot to maybe scale production? Thanks.",
+      "turn_index": 44
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Adaire Fox",
+      "text": "Thank you for the question. We had quite a significant quarter in Q1 as it relates to liquid cooling orders generally, of which Maersk was one. We saw approximately 50% growth in terms of our liquid cooling deployment. Today, we have 36 deployments across our footprint of customers using liquid cooling to facilitate the workload and density of the systems that they have put in place. It is active across all our regions, and it is something that we continue to evaluate and work closely on with our customers. In Q1 specifically, we had six deployments and seven orders across all of our regions, up 50% quarter on quarter.",
+      "turn_index": 45
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you. Our last question comes from Analyst with Guggenheim Partners. Your line is open.",
+      "turn_index": 46
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Analyst",
+      "text": "",
+      "turn_index": 47
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Wow, I made it. Thank you. Kind of a follow",
+      "text": "As you think about these fairly power-dense agentic workloads out at the edge of the network, are you encountering situations where either from a physical space or power, or just a thermal standpoint, you are running into constraints? I am just trying to understand how much of a challenge that is. Thank you.",
+      "turn_index": 48
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Adaire Fox",
+      "text": "The availability of power would be the largest constraint in our environment. As densification increases, we would often need to put some space on hold around that particular implementation in order to ensure that, at an IBX, we are meeting not only the obligations of the highly dense workload but also the service level agreements and obligations that we have with the other customers who are sharing that space and power.\nThat is one of the reasons why you see the yield on our MRR per cabinet grow so effectively, up to $2,524—up 7% year on year—partly due to the increase in densification and, of course, the association of value-added products like interconnection with every installation as one of the measures of that.",
+      "turn_index": 49
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "I just want to thank you all for joining us for our Q1 call. Have a great rest of your day. Thank you. This concludes today's conference call. You may disconnect at this time.",
+      "turn_index": 50
+    }
+  ]
+}

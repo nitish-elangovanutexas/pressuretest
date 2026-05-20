@@ -1,0 +1,28 @@
+{
+  "ticker": "WING",
+  "call_date": "2026-04-29",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.025368351858845558,
+  "cosine_distance": 0.07119604318033546,
+  "sentiment_shift": 0.005807505605799519,
+  "question_difficulty_mean": 0.1264652781514134,
+  "baseline_mean": 0.023437028097082632,
+  "baseline_std": 0.0075260179964765144,
+  "z_score": 0.2566196045062769,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5632326390757068,
+    "call_mean_answer_length": 224.41666666666666,
+    "call_hedge_density": 0.025713516889902237,
+    "call_pos_sentiment_mean": 0.4484669292966525,
+    "call_neu_sentiment_mean": 0.5115301071976622,
+    "call_neg_sentiment_mean": 0.04000296435939769,
+    "call_qa_similarity_mean": 0.4714050110577695,
+    "baseline_neg_sentiment_mean": 0.03419545875359817
+  },
+  "generated_at": "2026-05-20T07:31:46+00:00"
+}

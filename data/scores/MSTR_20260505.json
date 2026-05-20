@@ -1,0 +1,28 @@
+{
+  "ticker": "MSTR",
+  "call_date": "2026-05-05",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": -8.292065584252422e-17,
+  "cosine_distance": -2.220446049250313e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.244804782512364,
+  "baseline_mean": -8.292065584252422e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.622402391256182,
+    "call_mean_answer_length": 139.75,
+    "call_hedge_density": 0.016052833830293784,
+    "call_pos_sentiment_mean": 0.09178979974240065,
+    "call_neu_sentiment_mean": 0.8883914351463318,
+    "call_neg_sentiment_mean": 0.019818743458017707,
+    "call_qa_similarity_mean": 0.40583251115595065,
+    "baseline_neg_sentiment_mean": 0.019818743458017707
+  },
+  "generated_at": "2026-05-20T06:15:05+00:00"
+}

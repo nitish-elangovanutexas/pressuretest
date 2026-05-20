@@ -1,0 +1,28 @@
+{
+  "ticker": "VRNS",
+  "call_date": "2026-04-28",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.024382205700201377,
+  "cosine_distance": 0.06327020017716434,
+  "sentiment_shift": 0.009747939850178106,
+  "question_difficulty_mean": 0.16490448232625934,
+  "baseline_mean": 0.04049582786702302,
+  "baseline_std": 0.017647806055552946,
+  "z_score": -0.9130665940059691,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5824522411631297,
+    "call_mean_answer_length": 158.46153846153845,
+    "call_hedge_density": 0.0072252351076405995,
+    "call_pos_sentiment_mean": 0.15829131866876894,
+    "call_neu_sentiment_mean": 0.8001343126480396,
+    "call_neg_sentiment_mean": 0.041574362522134416,
+    "call_qa_similarity_mean": 0.36655779600703436,
+    "baseline_neg_sentiment_mean": 0.03182642267195631
+  },
+  "generated_at": "2026-05-20T07:23:28+00:00"
+}

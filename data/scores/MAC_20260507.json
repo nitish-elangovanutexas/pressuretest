@@ -1,0 +1,28 @@
+{
+  "ticker": "MAC",
+  "call_date": "2026-05-07",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.023688242138512727,
+  "cosine_distance": 0.06943604143068693,
+  "sentiment_shift": 0.0010957847948053073,
+  "question_difficulty_mean": 0.12533380461012175,
+  "baseline_mean": 0.01714856992509175,
+  "baseline_std": 0.009248493137694425,
+  "z_score": 0.7071067811865476,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5626669023050609,
+    "call_mean_answer_length": 187.1,
+    "call_hedge_density": 0.014378834519993786,
+    "call_pos_sentiment_mean": 0.21837546601891517,
+    "call_neu_sentiment_mean": 0.7577116161584854,
+    "call_neg_sentiment_mean": 0.023912903852760792,
+    "call_qa_similarity_mean": 0.36479893703999167,
+    "baseline_neg_sentiment_mean": 0.022817119057955484
+  },
+  "generated_at": "2026-05-20T06:05:16+00:00"
+}

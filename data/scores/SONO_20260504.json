@@ -1,0 +1,28 @@
+{
+  "ticker": "SONO",
+  "call_date": "2026-05-04",
+  "quarter": 2,
+  "year": 2026,
+  "pressure_score": 0.012562041389537879,
+  "cosine_distance": 0.034578246487147246,
+  "sentiment_shift": 0.0021347449704383816,
+  "question_difficulty_mean": 0.16310643194758198,
+  "baseline_mean": 0.018908732449267846,
+  "baseline_std": 0.008975576572862189,
+  "z_score": -0.7071067811865477,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.581553215973791,
+    "call_mean_answer_length": 139.0,
+    "call_hedge_density": 0.023889129908019557,
+    "call_pos_sentiment_mean": 0.45511764536301297,
+    "call_neu_sentiment_mean": 0.5305786406000456,
+    "call_neg_sentiment_mean": 0.014303704568495354,
+    "call_qa_similarity_mean": 0.4442913380129479,
+    "baseline_neg_sentiment_mean": 0.016438449538933735
+  },
+  "generated_at": "2026-05-20T06:58:22+00:00"
+}

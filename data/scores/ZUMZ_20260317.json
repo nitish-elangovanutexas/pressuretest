@@ -1,0 +1,28 @@
+{
+  "ticker": "ZUMZ",
+  "call_date": "2026-03-17",
+  "quarter": 4,
+  "year": 2025,
+  "pressure_score": 0.057557189466243344,
+  "cosine_distance": 0.11753093479233478,
+  "sentiment_shift": 0.06710795123750965,
+  "question_difficulty_mean": 0.18233689447422172,
+  "baseline_mean": 0.046701187088749915,
+  "baseline_std": 0.015352705795405767,
+  "z_score": 0.7071067811865478,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5911684472371108,
+    "call_mean_answer_length": 193.0,
+    "call_hedge_density": 0.03183764630808242,
+    "call_pos_sentiment_mean": 0.363182636598746,
+    "call_neu_sentiment_mean": 0.47529585162798565,
+    "call_neg_sentiment_mean": 0.16152150680621466,
+    "call_qa_similarity_mean": 0.5693377203545468,
+    "baseline_neg_sentiment_mean": 0.09441355556870501
+  },
+  "generated_at": "2026-05-20T07:39:28+00:00"
+}

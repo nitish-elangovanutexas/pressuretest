@@ -1,0 +1,616 @@
+{
+  "ticker": "HOOD",
+  "company_name": "Robinhood",
+  "call_date": "2026-02-10",
+  "quarter": 4,
+  "year": 2025,
+  "prepared_remarks": "Earnings Call Transcript\",\"datePublished\":\"2026-02-10T23:44:43.000Z\",\"dateModified\":\"2026-02-10T23:44:43.000Z\",\"author\":{\"@type\":\"Person\",\"name\":\"Motley Fool Transcribing\",\"url\":\"https://www.fool.com/author/20032/\",\"jobTitle\":\"Contributing Analyst\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://g.foolcdn.com/avatar/2041746765/large.ashx\",\"height\":\"80\",\"width\":\"80\"}},\"about\":[{\"@type\":\"Corporation\",\"tickerSymbol\":\"NASDAQ HOOD\"}],\"publisher\":{\"@type\":\"Organization\",\"@id\":\"https://www.fool.com/\",\"name\":\"The Motley Fool\",\"url\":\"https://www.fool.com/\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://g.foolcdn.com/misc-assets/logo-tmf-primary-7-magenta-royalpurple.svg\",\"width\":\"157\",\"height\":\"43\"},\"brand\":\"The Motley Fool\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"Media Inquiries\",\"email\":\"pr@fool.com\"},\"publishingPrinciples\":\"https://www.fool.com/about/\",\"sameAs\":[\"https://www.fool.com/about/\",\"https://en.wikipedia.org/wiki/The_Motley_Fool\",\"https://www.wikidata.org/wiki/Q7752442\",\"https://www.linkedin.com/company/the-motley-fool\",\"https://www.facebook.com/themotleyfool/\",\"https://x.com/themotleyfool\",\"https://www.instagram.com/themotleyfoolofficial/\",\"https://www.youtube.com/channel/UCpRQuynBX9Qy9tPrcswpPag\",\"https://www.pinterest.com/themotleyfool/\",\"https://www.tiktok.com/@themotleyfoolofficial\",\"https://www.google.com/search?kgmid=/m/0578mk\"]},\"description\":null,\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.content.foolcdn.com/images/1umn9qeh/production/b4204f36ed605fc54d4ba32e2cb31d1dd892afd6-800x450.jpg?w=800&q=75&fit=max&auto=format\",\"height\":\"630\",\"width\":\"1200\"}}\nEarnings Call Transcript\nRobinhood (HOOD) Q4 2025 Earnings Call Transcript\nBy\n\nMotley Fool Transcribing\n\n–\n\nUpdated Feb 10, 2026 at 6:44PM EST\n\n\n\n\nImage source: The Motley Fool.\n\n\nDate\nFeb. 10, 2026 at 5 p.m. ET\nCall participants\nChief Executive Officer — Vladimir Tenev\nChief Financial Officer — Shiv Verma\nHead of Investor Relations — Chris Koegel\nTakeaways\nTotal platform assets\n-- $324 billion, reflecting nearly 70% growth year over year.\nNet deposits\n-- $68 billion for the year, a 35% increase and a company record; $16 billion in Q4, the eighth consecutive quarter above $10 billion.\nRevenue\n-- $4.5 billion for the year, rising 52%; Q4 revenue reached a record $1.3 billion, up 27%.\nAdjusted EBITDA\n-- $2.5 billion for the year, increasing 76%; adjusted EBITDA margin at 56%, hitting a new high.\nIncremental adjusted EBITDA margins\n-- Exceeded 70% for the third consecutive year.\nEarnings per share (EPS)\n-- $2.05 for the fiscal year, marking a record high.\nGold subscribers\n-- 4.2 million, up nearly 60% year over year; Q4 growth was 58% for this subscriber base.\nInterest-earning assets\n-- Increased 39% in Q4, driven by growth in the cash sweep program, margin, and the credit card loan book.\nProduct expansion\n-- Prediction market volumes in 2025 exceeded 12 billion contracts, with over 4 billion contracts traded year-to-date in 2026; Robinhood Gold Card surpassed 600,000 customers, a fivefold increase, totaling $10 billion in annualized spend.\nCustomer asset mix\n-- Over 40% of total assets now reside in ETFs, advisory, retirement, and cash products.\nProfitability discipline\n-- Adjusted operating expense plus stock-based compensation in Q4 was $597 million, approximately $15 million below the most recent outlook.\nExpense outlook\n-- For the coming year, adjusted opex plus SBC is expected between $2.6 billion and $2.725 billion, representing 18% year-over-year growth at the midpoint.\nBusiness diversification\n-- Eleven businesses now generate more than $100 million in annualized revenue, with several more near that threshold.\nShare repurchase program\n-- Over $1 billion authorized for share buybacks, intended for use during periods of market volatility.\nAI operational efficiency\n-- More than 75% of customer service cases resolved by AI; internal AI-driven productivity savings estimated in the nine-figure range for 2025.\nInternational users\n-- Over 750,000 customers outside the US; recent rollout included ISAs in the UK and expansion into Indonesia.\nPrediction markets run rate\n-- Business now above a $300 million annualized run rate in its first full year of operation.\nBitstamp integration\n-- Volumes doubled since the June acquisition; institutional and retail adoption both addressed in Q4 strategy.\nBanking rollout\n-- Over 25,000 funded customers with more than $400 million in balances; over 50% of banking customers enrolled in direct deposit.\nExpense growth strategy\n-- More than half of projected expense growth allocated to new and scaling businesses, prioritizing product velocity and innovation.\nNeed a quote from a Motley Fool analyst? Email\n[email protected]\nRisks\nShiv Verma said, \"On the retail side, one big change we made last year is we moved to smart order exchange routing. Which really means we want to be competitive for all types of customers. What we had found out before is for the most competitive customers, we actually need to lower pricing, and so that's what we did, and now we have the volume tiers. And you saw a little bit of this in Q4 where there was less market volatility and the casual trader stepped away, but we saw really strong engagement from the more active traders. And because of that, they are on the higher tiers, and this pricing comes down a little bit. For us, we don't goal the teams on pricing. That's an output metric. We goal them on market share. We are continuing to win market share there. What we'd expect is during periods of lower market volatility, you'll probably see more traders engage, which will bring down their overall take rate. That's what we saw a little bit in Q4.\" This may indicate margin pressure due to lower pricing for more active traders.\nVladimir Tenev stated, \"as we have integrated, we have actually seen an increase in market share and increase in revenues and business performance, which I think is relatively rare for acquisitions.\" While positive, the comment highlights typical acquisition risks and integration challenges that may impact future results.\nManagement acknowledged that launching additional prediction markets related to company fundamentals \"need some regulatory relief,\" indicating potential regulatory hurdles to further product expansion.\nShiv Verma noted, \"those are also good investments. Your question on can we stay nimble, absolutely. We are.\" This signals possible exposure to risk from fixed costs if conditions change or revenue does not meet growth expectations.\nSummary\nRobinhood Markets\n\n(\nHOOD\n\n3.11%\n)\nreported significant acceleration in top-line growth, customer engagement, and platform diversification, underpinned by an expanding suite of active trading, advisory, and banking products. Management emphasized aggressive international expansion, product innovation—including AI-driven features, prediction markets, and tokenization—and the contribution of new business lines, now exceeding $100 million each in annualized revenues, to the platform’s evolving revenue mix. The company previewed substantial capital allocation into scaling novel offerings like Robinhood Social, family investing, private markets access, and DeFi integration while formally committing to sustaining profitable growth and operational discipline in 2026 amid an 18% targeted expense increase.\nTenev said, \"Olympics are going on right now. World Cup coming in the summer. Continued growth in the non-sports categories, and of course, our Rothera, which is our JV with Susquehanna coming online,\" highlighting event-driven upside potential for the prediction markets business.\nGrowth in Robinhood Gold Card was driven by customer adoption of features such as \"single-use cards and all the family features,\" establishing a foundation for future cross-selling and engagement beyond trading.\nTenev shared, \"We now have 2,000 stock tokens available to customers in Europe,\" and forecasted the introduction of \"permissionless twenty-four-seven tradable public company stock tokens\" to reinforce the company's tokenization leadership abroad.\nAI assistant Cortex and Robinhood Social products are nearing rollout, both seen as central to customer acquisition and retention by enhancing discovery, personalization, and streamlined trading experiences.\nDirect deposit adoption for Robinhood Banking exceeded 50% among funded customers—an early indicator of product-market fit and deeper wallet share.\nShiv Verma confirmed underwriting all new investments to standalone ROIs and long-term scalability, noting, \"It used to be, hey, a $10 million business moves the needle. Now it's can this be a $100 million business in a few years?\"\nIndustry glossary\nPrediction markets\n: Exchange markets offering contracts based on outcomes of real-world events, including sports, political, financial, or other occurrences, tradable on the Robinhood Markets platform.\nRothera\n: Joint venture between Robinhood Markets, Susquehanna, and Mayex, providing an internal prediction markets exchange with full monetization and vertical control.\nCortex\n: Robinhood Markets' proprietary AI assistant, integrated across the mobile app and Legend product, designed to augment trading, discovery, and advisory functions for customers and advisors.\nLegend\n: Robinhood Markets' advanced trading platform targeting active traders, incorporating AI/automation features.\nRobinhood Gold Card\n: Robinhood Markets’ proprietary credit card product offering 3% rewards and a suite of premium features to deepen ecosystem engagement.\nRobinhood Ventures\n: Initiative to provide customers access to private markets and alternative asset classes via registered funds.\nTokenization\n: Conversion of real or financial assets into digital tokens, allowing trading, settlement, and custody on blockchain or DeFi infrastructure.\nBitstamp\n: European-based crypto exchange acquired by Robinhood Markets, servicing institutional and retail cryptocurrency trading.\nDeFi\n: Decentralized finance—blockchain-based financial services removing intermediaries, underpinning initiatives like Robinhood Chain and stock token trading.\nTradePMR\n: Source of adviser/referral program infrastructure and part of Robinhood Markets’ toolkit to connect customers with registered investment advisers (RIAs).\nRobinhood Chain\n: Robinhood Markets’ proprietary layer-two blockchain focused on trading tokenized real-world assets and offering DeFi applications.\nFull Conference Call Transcript\nVladimir Tenev:\nWell, hello, everyone. It's great to speak to you today. We are back with a live audience, this time from our global headquarters in Menlo Park, and for the first time with Shiv as CFO, following in Jason's big footsteps. Welcome, Shiv.\nShiv Verma:\nThank you.\nVladimir Tenev:\nGreat to see all the shareholders and institutional analysts in the audience. So let's get right into it, shall we? As a reminder, we are focused on our three-part strategy: number one in active traders, number one in wallet share for the next generation, and our long-term mark, number one global financial ecosystem. Looking back on 2025, it was an incredible year with incredible product velocity across all three of our arcs. First, active traders. We want active traders to feel like they are at a disadvantage trading anywhere but Robinhood Markets, Inc. It's a big priority for us, and we are seeing big results.\nIn Q4, prediction market volumes doubled, more than doubled yet again, with over 12 billion contracts traded in 2025, which is the first full year of prediction markets. Customers have already traded over 4 billion so far in 2026, so we are seeing the momentum continue. We also expanded our equities offering with the launch of shorting. We love giving our customers more tools to navigate the markets, and we see them responding. Over 11 billion of equity notional volume in the first couple of months since shorting went out. Second, wallet share. We continue to make progress building out our financial super app and becoming our customer's primary and secondary financial account.\nSo a lot of attention typically goes to our active trading offerings, and it should, but we have also been making a ton of progress broadening our offering and attracting more long-term investing to the platform. Over 40% of our total assets are now across ETFs, advisory, retirement, and cash. So it's great to see customers trusting us with more of their financial lives. Robinhood Gold Card, up over five times in 2025 to 600,000 customers. It's reached over 10 billion in annualized spend. Customers love the product. They love the 3% rewards, but also the intuitive user experience, the metal card, and the solid gold card, and capabilities like single-use cards and all the family features.\nAs we have been rolling out the card, we built increasing confidence in the economics. So we plan to continue accelerating the rollout, more than doubling the number of customers with gold cards this year to well over a million by the end of the year. Robinhood banking. So we began the rollout of Robinhood banking in the past few months. Customers are really excited about this. We are building the kind of banking experience that was once limited to the ultra-wealthy. Strong early results with our initial over 25,000 funded customers who have brought in over 400 million in balances.\nAnd perhaps the thing that gets me most excited, over 50% of our funded customers using banking enrolled in direct deposit. So as we look at this, it makes us more confident that we are achieving product-market fit with this offering. Now, third arc, global financial ecosystem, our long-term arc. We are making good early progress as we expand to different markets across the world. Bitstamp continuing to scale volumes up two times since we closed in June. Bitstamp and engineering teams have been humming, so it's great to see so much progress here. We are also making progress expanding internationally. Now with three-quarters of a million customers outside the US.\nJust last week, we launched ISAs in the UK, which is the local tax-advantaged account in the UK. And this was actually the top request from our UK customer. So really excited to deliver it for them. I'm excited to watch these businesses scale as we launch in more and more new jurisdictions and we round out the product offerings. I think in a couple of years, we are going to look back, and we will really have underestimated how big our international business can be. Now taking all of this together, our relentless product velocity has driven another strong year of results. Strong double-digit year-over-year market share gains across equities, options, crypto, margin.\nBy the way, includes positive net transfers, positive inflows, from all of our major brokerage competitors, for the last eight quarters in a row, which is pretty amazing there. Think we have got a lot of headroom here. Our customers grow faster than the industry. We continue to deliver new products, new capabilities. We are seeing our customers continuing to trust us with more and more of their financial lives. So total platform assets grew nearly 70% year over year to 324 billion. Net deposits, a record 68 billion, which is a 35% growth rate. Gold subscribers grew nearly 60% year over year to 4.2 million.\nSo revenues, putting it all together, which were less than 3 billion a year ago, grew to 4.5 billion in 2025. So it's great to see that 50 plus percent revenue growth for the second straight year. So quite amazing. So before I get into our 2026 roadmap, which should be very fun, I'll turn it over to Shiv to walk through more of the business and financial results. Alright. Over to you, sir.\nShiv Verma:\nThank you, Vlad. So I'm excited to be here for my first earnings call. To get started, there are three key takeaways I want to get across. First, 2025 was a record year for Robinhood Markets, Inc. with strong growth and profitability. We had records across net deposits, gold subscribers, revenue, adjusted EBITDA, and EPS, just to name a few. All of this was driven by incredible product velocity and our relentless focus on efficiency. And we also finished the year strong with a record Q4. Revenues and adjusted EBITDA were both records, and 2026 is off to a good start. Now second, our business continues to diversify.\nWe are now up to 11 businesses with over $100 million in annualized revenue, and several more are making great progress, including Robinhood Legend, which is really close, and the gold card, which is on track for this year. Additionally, Trade PMR, futures, index options, and Robinhood banking are all scaling really nicely. And third, in 2026, we plan to ramp up our product velocity even faster while delivering another year of profitable growth. There is a massive opportunity in front of us, and we see the path to compound shareholder value for years to come. Alright. So let's review 2025 results, and this is all compared to last year.\nFirst, revenues were a record 4.5 billion, up 52% year over year as Vlad said, and up over three times in the past three years. Adjusted EBITDA was also a record of 2.5 billion, up 76%. And adjusted EBITDA margins were also a new high of 56%. We also delivered incremental adjusted EBITDA margins above 70% for the third straight year. At the same time, we managed our share count closely, leading to record EPS of $2.05. And our philosophy that the denominator matters. And over time, managing the share count closely should deliver value to shareholders. So let's look at Q4, and this is all compared to last year as well.\nFirst, revenues grew 27% to a record 1.3 billion. As our customers remain engaged and continue to trust Robinhood Markets, Inc. with even more of their assets. Net deposits continued to be robust with $16 billion of net deposits in Q4. That's our eighth straight quarter with over $10 billion of net deposits. And trading volumes grew to new highs across equities, options, futures, and event contracts, as we continue to win market share and saw record net buying from our customers. Interest-earning assets were also up 39% driven by strong growth in the cash sweep program, margin, and our credit card loan book. As we continue to win larger customers and deepen relationships with existing customers.\nMargin in particular has been great, up over 100% in the past year. And Robinhood Gold, that also grew 58% to a record 4.2 million subscribers. We think gold is the best deal in financial services, and we are going to keep adding to its value proposition. And on expenses, Q4 adjusted opex plus SBC was $597 million as we managed expenses to approximately $15 million below our latest outlook. Alright, so let's move to 2026. As we built our annual plan, there were three areas that we focused on. First, we want to continue accelerating our product velocity.\nCustomers are responding incredibly well to our new product initiatives, we are gaining market share, launching innovative products, and entering new markets. We believe shipping even more products and value to customers can deliver outsized growth for years to come. Second, we aim to deliver another year of 20% plus net deposit growth. This year, we reached nearly a third of a trillion dollars in assets across the platform, and we are well on our way to exceeding a trillion of assets in the coming years. With our rapid product velocity and the $100 trillion plus generational wealth transfer already underway. And third, we built our plan to deliver another year of profitable growth.\nEven as we invest for growth, much like the robust revenue growth we have seen over the past few years, we are staying lean and disciplined in the way we allocate capital and operate as a business. So to our expense outlook, 2026, our outlook for adjusted OPEX and SBC is in a range of 2.6 to 2.725 billion. This translates to an 18% year-over-year expense growth at the midpoint, which is below the 22% growth rate we managed to in 2025 on a comparable basis. So just to give you a little bit more color on how we built the plan, the 18% expense growth is in three areas.\nFirst, about five percentage points of that growth is going into our existing businesses, net of any productivity improvements. These businesses drove the vast majority of our $1.5 billion of revenue growth in 2025, and we want to keep scaling them and gaining market share. Second, about three percentage points are from the full-year cost effect of our 2025 acquisitions of Bitstamp and TradePMR. Now these expenses will also come with a full-year effect on revenue growth as well. And third, about 10 percentage points or more than half of the 18% growth is into new and scaling businesses. This is our biggest area of investment as we continue to accelerate product velocity.\nNow some of these investments include the Robinhood Gold Card, Robinhood Banking, strategies, prediction markets, Cortex, Robinhood Social, Robinhood Ventures, the Robinhood Chain, tokenized real-world assets, and continuing international expansion. It's a pretty long list. And as a reminder, we underwrite all investments to strong ROIs, and we'll stay nimble as we execute against our plan. And as I said at the outset, we'll continue to be lean and disciplined in the way we allocate and operate. Before turning it back to Vlad, I also just want to share a little bit on what we are seeing on the strong momentum into 2026.\nAs you saw in the release, in January, trading volumes were up over 50% year over year and options volumes were up 20%. We also had all-time highs in net buying, event contracts, futures, and margin. And while it's early, so far in February, the average daily trading volumes are up across all categories versus January levels. And Q1 net deposits are also off to a good start, with $7 billion plus so far in the quarter, including over $2 billion last week. So it's fantastic to see customers engage to start the year. Putting it all together, we are incredibly excited about our plan and momentum entering 2026. As we work to drive another year of profitable growth.\nThe team continues to ship for customers, and our financial north star remains the same. Maximize earnings per share and free cash flow per share for shareholders over time. Vlad, back to you.\nVladimir Tenev:\nThank you, Shiv. You are starting to get a taste of what this killer next to me can do in the CFO position, so very excited. We compromised, by the way, Shiv prefers to stand, so we decided to do half the earnings call seated and half standing. Just over a year ago, we shared with you our ten-year vision for Robinhood Markets, Inc. at our Investor Day in New York City. We were excited about it back then, felt it was very ambitious, but I think in hindsight, we realize we underestimated what we could do in one year, not to mention ten years. So today, I'm going to tell you what we have planned for 2026.\nAnd we are by no means complacent. This is going to be an ambitious plan. As we continue to execute, Robinhood Markets, Inc. will become increasingly synonymous with the financial service category, as the financial super app. So let's get right into it, starting with what we are doing for active traders. Now I'm not going to go into every little detail of the roadmap. I'm going to prefer to focus on areas that are particularly meaningful. And maybe surprising. So prediction markets. Fastest growing business in our history. $300 million plus run rate in its first year.\nI think we are just at the beginning of a prediction market super cycle that could drive trillions in annual volume over time. This year is going to be a big year. Olympics are going on right now. World Cup coming in the summer. Continued growth in the non-sports categories, and of course, our Rothera, which is our JV with Susquehanna coming online. Growth of prediction markets has also led to a greater focus on our app design and personalization. We have been adding so many new products, so many account types, lots more capabilities.\nThat it's becoming increasingly important to personalize and continue to chisel the user interface, making sure we are putting the right things in front of the right customers. Now many of you have already noticed the work that we have put in here in the past few months through changes to the home interface, search, and discover, as well as notifications. This year, should see this accelerate. With more personalization, better cross-asset linking between equities, crypto, and prediction markets, and us continuing to experiment to ensure that our user experience remains top-notch. Then Cortex. Two big things. Cortex Assistant in the main app, and the goal is to become the best AI for all of your financial needs.\nCortex for Legend to use an analogy, think of Cortex for Legend being to active traders what Cursor is to software engineers. We think it has the potential to completely transform trading. We are right at the frontier there. Both are rolling out in the coming weeks and months and scaling throughout the year. Robinhood Social. So Robinhood Social will start rolling out to the first customers very soon. We are really excited about how it will drive discovery and engagement. We are going through internal and we actually just added support for prediction markets into Robinhood Social, and it's looking really good.\nAs we progress throughout the year, I think it will be increasingly obvious that active traders are at a disadvantage using any other platform. Turning to wallet share. Now as a reminder, this is about transitioning from serving predominantly traders to serving all of our customers' financial needs. Two big strategic moves that we are making this year that I'm particularly excited about. The first one, we are calling it family investing. Robinhood Markets, Inc. should be better for you when more of your family members are on the platform. This year, it will really become a multigenerational platform. Now this vision really started with the credit card, was our first family product.\nIt continued with banking, which is also a first-class family experience. And in 2026, you'll see us bring it to our investing products. Our referral program for advisers is also going live this year. Which will connect our customers to high-quality RIAs, which are powered by TradePMR, to help them with their comprehensive financial needs. And we believe we can be the major beneficiary of the $100 trillion plus wealth transfer. We have got some really exciting things to unveil coming on this front at our big event next month in New York City. So stay tuned for that. Second big thing, private markets.\nNow you may have heard me say opening up private markets not only can resolve one of the greatest inequities in capital markets, but also can be a huge accelerant to our mission as well as our business. This begins with Robinhood Ventures. And Robinhood Ventures, for those of you unfamiliar, will invest in private assets that are often out of reach for retail investors, and these will be packaged and registered funds that we can offer to US retail investors. Think this will be a transformative offering. Outside of the US, our customers in Europe got a little taste last year of private company stock tokens with our OpenAI and SpaceX stock token giveaways.\nMore to come on that front soon. And now we think private markets could become even bigger than prediction markets. And I'm really excited about what we are building here. Finally, building the number one global financial ecosystem. So the big theme here is tokenization. And it's early in the tokenization industry, but we have built a leadership position already. We now have 2,000 stock tokens available to customers in Europe. Now a big part of 2026 will be seizing the tokenization opportunity, which we think is massive. And this means two things. Very specifically. One is permissionless twenty-four-seven tradable public company stock tokens. And two, private company stock tokens. Making them actually real and useful for customers.\nNow our tokenization work dovetails quite nicely with our work on DeFi, which continues to accelerate. Over this year, we'll be launching and scaling Robinhood Chain, which is our layer two, making it the best chain to trade real-world assets. More on this coming very soon. We'll be continuing to make improvements to Robinhood Wallet, which, of course, will also provide a first-class experience to Robinhood Chain. And we are also going to be bringing our centralized and DeFi products closer together. So that we can deliver the best of both worlds to our customers. You also see us continue to push into new geographies with several new international markets coming later this year.\nSo before we go to",
+  "qa_turns": [
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Chris Koegel",
+      "text": "Alright. Thank you, Vlad. Thank you, Shiv. For the Q&A session, we are going to start by answering shareholder questions from Say Technologies. After the Say questions, we'll turn to live questions from our audience. So I'll kick it off with our first question from Say. Coming from Matt S. Alright.",
+      "turn_index": 0
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Matt S.",
+      "text": "Hello, Vlad.",
+      "turn_index": 1
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Vladimir Tenev",
+      "text": "Good to see you. How are you doing?",
+      "turn_index": 2
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Matt S.",
+      "text": "Good. Good to see you. So my question is, any additional updates on Robinhood Social?",
+      "turn_index": 3
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Vladimir Tenev",
+      "text": "Yeah. Robinhood Social, very, very exciting. As I mentioned, we are testing it internally. We recently added prediction markets, which I think has made it clear, this is not just a tool for ideas, but also discovery of new assets. I think one of the reasons why these products have, like, not resonated super well when other companies have tried them is the diversity of content has been relatively low. But now you look at Robinhood Markets, Inc., you know, where we have so many customers have so many assets, the diversity of content is actually quite high. So I think we are building increasing confidence that this is going to be a great tool for discovery and engagement.\nSo marching towards public launch, I think you'll see that in the coming months, but we are pretty close.",
+      "turn_index": 4
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Chris Koegel",
+      "text": "Alright. Thank you, Vlad. The next question I'll read on his behalf from Rohit P. who asks, what could be the reasons for the more than 40% drop in Hood's share price? And how is leadership addressing the downslope?",
+      "turn_index": 5
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Vladimir Tenev",
+      "text": "Yeah, great question. I'll maybe I'll start. We are really focused on the inputs of our business. And we love the inputs that we are seeing. You saw, you heard from me and Shiv, last quarter and really last year was a year of continued market share gains across pretty much everything. Net deposits of $68 billion through the year, $16 billion in the quarter. Which means customers are increasingly trusting us with more and more of their assets.\nAnd as I look forward to the roadmap of the year, we have got a pipeline of new things that are either in relatively early stages of rollout, such as Robinhood banking, or have yet to rollout like Robinhood Social Cortex Assistant, I think could be transformative. So inputs are looking good and know, I've been through this old hat now as a public company founder and CEO for what, five plus years. And we have seen a couple of cycles up and down. We think that over the long run, the business performance tends to lead stock price. So focus is just on building for customers, making the product better.",
+      "turn_index": 6
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Shiv Verma",
+      "text": "Yeah. Couldn't agree more. We are focused on our customers. The one point I'll add is we also have over a billion-dollar share repurchase program. And during periods of market volatility, it's a really great time to lean into that program.",
+      "turn_index": 7
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Chris Koegel",
+      "text": "Alright. Well said. Thank you for that. And then the last question from Say is from Luke D. who asks, what is your guys' plan on navigating the rough sea during this crypto downturn and the end of football season? How can we see Robinhood Markets, Inc. extend its roots to not be so heavily affected by these things?",
+      "turn_index": 8
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Vladimir Tenev",
+      "text": "Yeah, I mean, I'll start with what we are seeing in the product. So crypto, we are moving toward a world where crypto is actually more than an asset class. And it's foundational technology that's going to underlie the trading of all assets and you are seeing that with our efforts with tokenization outside the US and of course, the Stablecoin partnership with Paxos on USDG. So my belief is that in the future, you'll see crypto and traditional financial services increasingly merge and of course, people will talk about and trade Bitcoin and other assets, and we continue to be long-term bullish on those.\nBut yeah, if we play our cards right, crypto will be a tool that is going to be important in giving customers what they need and it'll connect customers to assets that have real fundamental utility. So we are still executing upon that and you know, we are not getting distracted by short-term fluctuations and what Bitcoin or other assets are doing. Prediction markets, I think there were questions in this wide about what would happen as NFL season comes to a close. But what we are actually seeing is surprising us. So in January, for instance, NBA contracts surpassed NFL in trading activity on our platform. And you are also seeing relevant non-sports contracts generating significant volume.\nFor example, in the week after the NFL season ended, the government shutdown contract on our prediction markets platform was driving significant volume. So I think over the long run, what you are going to see is even though it's now largely sports, prediction markets is more than sports. As we continue to diversify the contracts offered on the platform and improve the customer experience and refine it, more and more contracts will continue to resonate with our traders. That's not to mention this year is going to be a big year for sports as well. We have got the Olympics, right now.\nGot the World Cup later, and that's in addition to March Madness, the NFL season, and so many more things. So yeah. I think we are just at the beginning with our prediction markets business.",
+      "turn_index": 9
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Shiv Verma",
+      "text": "Yeah. And on the business side, a couple of things I'll add. As I mentioned before, we now have 11 lines of businesses that are doing over $100 million of ARR. So we continue to diversify there. On the crypto front, as Vlad said, we are long-term bullish, but it's important to remember while we did close to a billion dollars of crypto revenue last year, it was only 18% of our overall revenue. So we love what we are seeing, but more than 80% still comes from outside of crypto. And on prediction markets, as Vlad said, it's growing. We are diversifying across sports and non-sports and different asset classes.\nWhile the growth rates are great, again, relative to our overall business, it's a smaller portion. So big picture, diversifying. We keep shipping for customers, and we love both these business lines.",
+      "turn_index": 10
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Chris Koegel",
+      "text": "Alright. Thank you. That concludes our shareholder questions from Say Technologies. Thank you again to Matt for joining us live. Now we'll move to Q&A from the in-person audience. So we ask that each person who's interested in asking a question raise your hand and limit yourself to one question. Alex, would you like to ask a question?",
+      "turn_index": 11
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Alex Markgraff",
+      "text": "Yeah. Thank you. Alex Markgraff from KeyBanc. Vlad, maybe on the prediction markets front, with the close of the JV, can you give us a sense as to what the team is working on and from a product standpoint outside of a greater list of contracts? What we might expect this year.",
+      "turn_index": 12
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Vladimir Tenev",
+      "text": "Yeah. So, thus far, if you have been watching closely, you have really seen us refine the down funnel trading experience, particularly with sports. So we have added more tools like combos and player contracts for traders that want to go deeper. We have also started increasingly leveraging our advantages, which are we have lots of assets on the platform. We can connect things together to show you related contracts contextually in the places where they matter most. We have also completely revamped search and discovery as well as home to make them multi-asset and include prediction markets. So one thing is, how are we going to show prediction markets?\nContextually where it's relevant to customers across all of our app services. Can we show relevant ones in the stock detail pages? So that, you know, if you are considering investing in an equity, you get the whole picture of, you know, not just the options contracts, but also the prediction markets that are connected. So I think you'll see more of that. You'll see first-time prediction market customers, which we are seeing an increasing number of people coming to Robinhood Markets, Inc. not because they want to trade equities or crypto, but because they have heard of our prediction markets offering, they want exposure to that.\nSo streamlining that, so if you are a first-time prediction markets customer, we not only make it easy for you to get into the product, but also make it so that we can easily cross-sell you to, you know, things like retirement or other products. I think that's an area where we have a unique advantage being a super app. And you mentioned Rothera. I think Rothera is particularly interesting because it gives us vertical control over the entire experience. We have control over what contracts we can list and also greater contracts list also control over the pricing and economics.\nAnd, you know, our philosophy really with all exchange partners is I think the exchange layer is increasingly going to get commoditized over time just as you have seen it in kind of other classes. And what we'd like to do is optimize for the outcome that's best for customers. So we want to make sure customers get the best price, the best economics, the best experience. And I think Rothera is a big critical part of us driving that.",
+      "turn_index": 13
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Chris Koegel",
+      "text": "Great. Thank you, Vlad. Other questions from our in-person audience? Okay. We'll now go to our Zoom queue. So for those on Zoom, please raise your hand to enter the queue. If you'd like to remove yourself from the queue, please lower your hand. Our first question comes from Ben Budish from Barclays.",
+      "turn_index": 14
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Ben Budish",
+      "text": "Hi, good evening. Can you all hear me okay?",
+      "turn_index": 15
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Vladimir Tenev",
+      "text": "Oh, yeah. We hear you.",
+      "turn_index": 16
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Shiv Verma",
+      "text": "Great. Thank you for taking the question.",
+      "turn_index": 17
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Ben Budish",
+      "text": "Maybe just following up on that last one on prediction markets. I'm curious, maybe a two-parter. Just curious, most recently, can you maybe talk about the mix between sports and non-sports? I appreciate you are quite optimistic on the outlook for non-sports over time, but most of the media would indicate that currently it's mostly sports. And along the same lines, just thinking about prediction markets, how are you thinking about incentivizing new users? It's been a successful strategy across the brokerage business, the IRA product. You definitely have some new competitors in this space that are advertising quite aggressively. So how are you thinking about that one as a way to attract people to that product? Thank you.",
+      "turn_index": 18
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Vladimir Tenev",
+      "text": "Yeah, absolutely. I think that recently, certainly our efforts have been on making the sports experience really good. But we have also diversified quite a bit. We have diversified into lots of non-sports offerings and we now have thousands of contracts available. And I think you'll see us continue to make the experience there better in two ways. So one is just the same way that we have done for sports, putting custom data and information and tools around some of these contracts so that customers can understand them. Then the second thing is surfacing them when customers need them and when they are the most relevant.\nAnd we saw, you know, particular success with that with the government shutdown and related contracts. So I think we feel really good about this actually progressing towards greater diversification. I think it'll be similar to the news. You know, sports are a big part of the news. They bring people together. But there's all sorts of events that are going on a regular basis that customers care about and offer active traders trading opportunities. So I think you'll see it continue to diversify as time goes on. You asked another question which I think was for you.",
+      "turn_index": 19
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Shiv Verma",
+      "text": "Yeah. It was how are we gaining customers and kind of activation. So a couple of ways there. First, our huge advantages, as Vlad mentioned, are 27 million customers. So when we can surface that are relevant to customers, that's a great way to onboard. The second is we are looking at new ways to activate customers. So you may have just seen we have referrals, for example. We have learn and earns where if you learn about the product, you can have a customer or your friend also join. So the team is continuing to experiment both at the top of the funnel and the mid-funnel to see how customers can onboard.\nBut as Vlad mentioned, going to improve the product, we are going to improve the onboarding funnel and what we are seeing thus far is really exciting.",
+      "turn_index": 20
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Vladimir Tenev",
+      "text": "Yeah. And to put on my Shiv hat, we are going to continue to be very ROI-driven and focused on the economics with promotions and marketing activities that we continue to do. I think when we enter new assets and new products, it's less of like just blowing out marketing right away. But making sure we get the product experience right, the economics work well. And then, you know, you have seen us get gradually but steadily more aggressive on the marketing front over time.",
+      "turn_index": 21
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Chris Koegel",
+      "text": "Alright. Great. Thank you. Thank you, Ben. The next question is from James Yaro from Goldman Sachs.",
+      "turn_index": 22
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "James Yaro",
+      "text": "Good afternoon and thanks for taking the question. You hear me?",
+      "turn_index": 23
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Vladimir Tenev",
+      "text": "We hear you and see you. Looking good.",
+      "turn_index": 24
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "James Yaro",
+      "text": "Thank you. So you recently added Indonesia as a new market. Hoping you might be able to expand a little bit on the international expansion. Where do you see or what are the best markets in which you plan to invest? How do you compare and contrast the attractiveness, the opportunity set in those markets? And also the go-to-market strategy? And perhaps if you could just sort of maybe differentiate between Europe versus Asia.",
+      "turn_index": 25
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Vladimir Tenev",
+      "text": "Yeah. I mean, I think this year is going to be a big year for international expansion. In the markets that we have already been live, namely the UK and EU, you are going to see us continue to round out the product suite. And respond to customer feedback and also introduce new platform-level capabilities that actually are more outside the US but can scale to every country. So wallets as an example there, which we recently introduced in the UK. The UK recently also added stock in shares, ISAs, which is the retirement wrapper there. So in that market, you are actually seeing us go deeper and start going into market-specific functionality. Leveraging our technology platform.\nIn the EU, the EU is interesting because it's a little bit different how we are thinking about it. The EU is a test case for what Robinhood Markets, Inc. could look like if it was built entirely on crypto technology, on crypto rails. So we don't have traditional stocks there, but we have stock tokens. So that's where we are really pushing hard on tokenization. And I think you should see that accelerate this year too because admittedly, the first version of our tokenization offering didn't have significant advantages over holding traditional stocks. But once we unlock the power of DeFi, then you get twenty-four-seven trading. You get the ability to self-custody your stock.\nSo you are actually seeing the introduction of advantages that are very difficult to replicate using the traditional rails. And some of the disadvantages like things that people care about, like protection and things like that. We are going to continue to remove. So I think by the end of this year, you'll get to a point where the tokenized offerings are better than the traditional offerings, which is going to be really exciting. And we are going to continue to close the gap with other offerings in the EU as well. And then turning to Southeast Asia and the rest of the world, you'll see us launching in several new markets.\nAnd with each new market, you should expect less time bringing up core features because we have spent time working with the regulator and also building these things with international in mind, it should be much quicker to ramp up in each market than the first few. Similar good example, we didn't launch retirement in the US until, what was it, 2022. Well, in the UK, it's much sooner to add the local retirement wrapper after launch. So you'll see that continue. So where we now have three-quarters of a million international customers, yeah. I think you'll see that getting into the millions relatively quickly, like I mentioned earlier, before too long, we'll be looking back and we'll say, wow.\nThis business scaled much faster than we predicted. So we feel good.",
+      "turn_index": 26
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Chris Koegel",
+      "text": "Awesome. That's really helpful. Thanks a lot. Alright. Thanks, James. The next question is from Dan Dolev at Mizuho.",
+      "turn_index": 27
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Dan Dolev",
+      "text": "Hey, Vlad. Hey, Shiv. Congrats. Good to see you, man.",
+      "turn_index": 28
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Vladimir Tenev",
+      "text": "Thank you. Thanks for having me. Great results as always.",
+      "turn_index": 29
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Dan Dolev",
+      "text": "You know, there's been some news today that have heard some of your competitors on the impact of AI and, like, I'm scratching my head. I'm thinking, isn't Robinhood Markets, Inc. sort of the best AI company out there? Why aren't these things actually huge tailwinds for you?",
+      "turn_index": 30
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Vladimir Tenev",
+      "text": "Well, I think they are. So if you look at and I think AI is going to completely transform all aspects of financial services. On the trading side, we have the bets that we are making with Cortex on Legend and also Cortex in the app. And we also think, and by the way, Cortex Assistant, which is the AI assistant that's integrated into Robinhood Markets, Inc. is rolling out in the coming weeks. So we are refining it internally and that's going to roll out to customers very soon. In terms of AI and advisory, two things there. I think you are going to see a lot of transformation in the industry.\nOne side of it is going to be amazing self-serve tools. Which is giving you an advisory-like experience where the individual user is calling the shots. The second is the workflows of an actual human advisor are going to be reimagined and streamlined and they'll be able to service more customers at dramatically lower cost. We have got efforts underway for both. You know. Actually in the first one, Cortex providing advice to customers. We have started having conversations with regulators about how to bring that safely to customers and we have got the technology to do it. Cortex has made tremendous progress.\nSo it's just a matter of making sure that rolls out safely and know, we think it has the potential to transform the wealth management industry.",
+      "turn_index": 31
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Dan Dolev",
+      "text": "Great stuff. Thank you so much. Great results.",
+      "turn_index": 32
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Vladimir Tenev",
+      "text": "Thanks.",
+      "turn_index": 33
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Chris Koegel",
+      "text": "Alright. Thank you, Dan. The next question is from Steven Chubak from Wolfe.",
+      "turn_index": 34
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Steven Chubak",
+      "text": "Hi, good afternoon. Thanks so much for taking my questions. So you had mentioned underwriting to strong ROIs when building your expense plan. Anything we should infer about the level of revenue growth that you are budgeting for when building the plan? And just how much flexibility you have in the model, given your commitment to achieving profitable growth and also significant inroads that you have made in embedding AI to drive greater efficiencies over time?",
+      "turn_index": 35
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Shiv Verma",
+      "text": "Yeah. Great, great question. Thank you, Steve. So a couple of things I'll point to. First, our mantra is still profitable growth. We are a growth company. We are going to invest for growth. We are seeing great things from our customers, so we are going to keep doing it profitably. So I think you can infer that for us, that means very simply, we expect revenue to grow faster than expenses, and that's how we build our plan. In terms of the ROI, we underwrite each thing to a good ROI on a standalone basis.\nSo if it's a new product, we look at what is the long-term IRR, what can the margins be, and now more importantly, can it scale. It used to be, hey, a $10 million business moves the needle. Now it's can this be a $100 million business in a few years? Those are just a couple of things we look at. But every time we do marketing, we look at both the payback periods and incrementality. And make sure that those are also good investments. Your question on can we stay nimble, absolutely. We are a technology company at heart. About 85 to 90% of our costs are fixed, so this gives us a lot of flexibility.\nBut big picture, we don't want to oversteer. And so what you are going to see us do is keep investing for growth. We love what we are seeing. If anything changes, we have our hands on the wheel, but otherwise, we feel great about the plan that we built.",
+      "turn_index": 36
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Steven Chubak",
+      "text": "That's great color. Thanks for taking my question.",
+      "turn_index": 37
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Chris Koegel",
+      "text": "Alright. Thanks, Steven. The next question is from Devin Ryan at Citizens. Okay, we'll go to the next question. Almost there. Yeah. Alright. Patrick Moley from Piper. You are up.",
+      "turn_index": 38
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Patrick Moley",
+      "text": "Yeah. Can you hear me?",
+      "turn_index": 39
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Vladimir Tenev",
+      "text": "We hear you.",
+      "turn_index": 40
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Patrick Moley",
+      "text": "Alright. Great. Thanks for taking the question. I had another one on prediction markets, but I was hoping you could put a little bit more meat on the bones around Rothera. You know, we estimate that you can see a 45% bump in economics if customers utilize contracts that are listed on your own venue. So could you just talk about some of the puts and takes there? You know, why not migrate all of your prediction market volume onto this JV over time? And what are the benefits that you see in continuing to partner with other prediction market venues? Thanks.",
+      "turn_index": 41
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Vladimir Tenev",
+      "text": "Yeah. Maybe I don't know if you have a comment on the economics, but I'll just tell you our primary North Star is how to deliver the best product experience to our customers. So we do anticipate that a significant portion of our volume will move over to Rothera. But that's not sort of our North Star. Our North Star is giving customers the best pricing, the best experience. And you know, on the brokerage side, you have seen it with crypto now that we have Bitstamp. You have seen it with how we route orders on equities that, you know, we prioritize execution quality, making sure customers get great execution.\nSo I don't think that's going to change depending on the asset.",
+      "turn_index": 42
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Shiv Verma",
+      "text": "On the economic side, so the way it works is customers today pay $0.02, 1¢ goes to Robinhood Markets, Inc. as the FCM, and then 1¢ goes to the exchange. When we have Rothera, we then control the full unit economics. I think your 45% number is referencing that we own 45% of the JV. Susquehanna owns 45% and Mayex owns the other 10%. But the nice part is, as Vlad said, we'll control the full product stack. And we'll control the full monetization. So there's a lot of levers you can do with that. You can give more value to customers. You can improve the unit economics.\nSo we are super excited to get it online, both for the product experience, but also for the monetization as well.",
+      "turn_index": 43
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Vladimir Tenev",
+      "text": "And by the way, we are also going to be open to other futures commissions, merchants, and other counterparties connecting. And be competing for that business, you know, not just providing an additional execution venue for our orders. But, you know, we'd like to build a compelling market for getting other firms access to our marketplace.",
+      "turn_index": 44
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Patrick Moley",
+      "text": "Alright. Great. Thanks for that.",
+      "turn_index": 45
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Chris Koegel",
+      "text": "Thank you, Patrick. The next question is from Evan from Stock Market News.",
+      "turn_index": 46
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Evan",
+      "text": "I appreciate you guys for letting me ask the question. Congrats on the fantastic quarter as always. I want to ask you guys a little bit more about Robinhood Social in 2026. And kind of how you guys view targets and stuff there this year. And, also, if you view that as, like, an international segment or something you are really focused on in the US first. Thank you.",
+      "turn_index": 47
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Vladimir Tenev",
+      "text": "Yeah. That's a great question. I think with this product, since it benefits so much from a dense network and we want to make sure that the product experience works really well and is integrated nicely into the rest of Robinhood Markets, Inc. You'll likely see us launching and scaling it in the US before international. But you know, over time, I think you'll see it coming international as well, particularly as the translation technologies get better and better and you can have international customers benefiting from, you know, English content in the US. So you'd expect it to come into international as well, but I'd expect for the first period of time to be iterated on in the US.",
+      "turn_index": 48
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Chris Koegel",
+      "text": "Alright. Thanks for your question, Evan. The next question is from David Smith with Truist.",
+      "turn_index": 49
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "David Smith",
+      "text": "Hi, good afternoon.",
+      "turn_index": 50
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Vladimir Tenev",
+      "text": "Hello.",
+      "turn_index": 51
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "David Smith",
+      "text": "Institutional volumes on Bitstamp saw a nice pickup in the fourth quarter even as retail volumes declined from the third quarter, like Robinhood Markets, Inc. app volumes. Could you comment about how you are expecting that institutional retail mix to evolve over time given your plans for the product offerings and any thoughts on pricing across both retail with the app and Bitstamp as well as the institutional pricing? Thank you.",
+      "turn_index": 52
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Vladimir Tenev",
+      "text": "Yeah. Maybe I'll talk about the exchange. You can hit pricing, Shiv. Yeah. We have been really excited about the growth in Bitstamp. I think that team has been cranking. And you know, as we have integrated, we have actually seen an increase in market share and increase in revenues and business performance, which I think is relatively rare for acquisitions. And I think what's going on there is when we first started talking to our institutional customers, remember I was at a lunch around the time of our Cannes event to catch a token and you know, they had some fairly basic complaints. They were like, you are dropping our packets on the exchange side.\nWell, our biggest request for an improvement is just making sure that all of our packets are properly processed. Things like that. So low-hanging fruit on just exchange resilience, reliability, how many transactions per second the matching engine can process has been huge. And of course, you know, we have got plenty more of that coming and one benefit we have to bear, which is all offerings. It's very attractive to institutions and we have a great recipe for bringing in the retail volume, which in turn makes it more attractive for institutions to quote and make markets on the exchange.\nAnd you know, this is before all of our efforts to bring our tokenized offerings, which of course Bitstamp will be a big part of.",
+      "turn_index": 53
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Shiv Verma",
+      "text": "On the pricing side, a couple of things I'll point you to. On the retail side, one big change we made last year is we moved to smart order exchange routing. Which really means we want to be competitive for all types of customers. What we had found out before is for the most competitive customers, we actually need to lower pricing, and so that's what we did, and now we have the volume tiers. And you saw a little bit of this in Q4 where there was less market volatility and the casual trader stepped away, but we saw really strong engagement from the more active traders.\nAnd because of that, they are on the higher tiers, and this pricing comes down a little bit. For us, we don't goal the teams on pricing. That's an output metric. We goal them on market share. We are continuing to win market share there. What we'd expect is during periods of lower market volatility, you'll probably see more traders engage, which will bring down their overall take rate. That's what we saw a little bit in Q4. Just to give you a little bit of color in January, to start the year, we are about five basis points lower relative to the average rebate rate we saw in Q4.\nAnd, again, that's just due to more active traders being engaged relative to the more casual trader.",
+      "turn_index": 54
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Vladimir Tenev",
+      "text": "Yeah. Another thing that I didn't mention, but which we are very excited about is the growth in scaling of our perpetual futures offerings outside the US. You know, we have really continued making that product better and better. Giving active traders access to better tools and more flexibility on the leverage. And we are getting really good feedback. So I think you should expect more things in the perpetual futures department this year.",
+      "turn_index": 55
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Chris Koegel",
+      "text": "Alright. Thank you very much, Vlad and Shiv. The next question is from Brian Bedell with Deutsche Bank.",
+      "turn_index": 56
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Brian Bedell",
+      "text": "Great. Thanks. Thanks very much. Can you hear me okay?",
+      "turn_index": 57
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Vladimir Tenev",
+      "text": "Yes.",
+      "turn_index": 58
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Brian Bedell",
+      "text": "Awesome. Great. Maybe just back to prediction markets. Vlad and Shiv, what is your appetite for launching contracts in fundamentals, so things like on KPIs and other earnings metrics that you could potentially link in with your equities trading business. So like an active trader experience that would also have a layer of fundamental investing as opposed to the, you know, the other. And then just on the timing of Rothera, any info on more, you know, sort of precise timing on when you might launch that?",
+      "turn_index": 59
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Vladimir Tenev",
+      "text": "Yes, sure. We are very interested in the potential to list more prediction markets around company KPIs and fundamentals. Because obviously people come to Robinhood Markets, Inc. and one of the big draws is we think we are the best place to invest in stocks. So the more we create an ecosystem of information and products around individual stocks, I think the more useful that'll be with customers. And we have some company-related prediction markets already. You can see, for example, Tesla deliveries and things of that nature. As far as, like, financial KPIs, I think that's an area where we need some regulatory relief. So we are continuing to have conversations about that.\nBut, yeah, right now, like, not to get into the gory details, but some of these could fall into securities-based swaps and be under SEC. So there is some ambiguity and relief needed in order for us to list those.",
+      "turn_index": 60
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Shiv Verma",
+      "text": "And then on the Rothera piece, our goal is to get it operational. Actually, it just closed last week, and we are targeting by the middle of this year, so stay tuned.",
+      "turn_index": 61
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Brian Bedell",
+      "text": "Great. Thank you.",
+      "turn_index": 62
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Chris Koegel",
+      "text": "Alright. Back for a second shot at this. Devin Ryan from Citizens. Alright.",
+      "turn_index": 63
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Devin Ryan",
+      "text": "Alright. You guys see me now?",
+      "turn_index": 64
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Vladimir Tenev",
+      "text": "Yes, we do.",
+      "turn_index": 65
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Devin Ryan",
+      "text": "Okay. Good. Hey, Vlad. Hey, Shiv. Hey, Devin. Another AI question and the question is really combining tokenization kind of instant settlement twenty-four-seven with AI. And I'm thinking like, the future agentic AI where it would seemingly allow for kind of exponential scaling of creating volume from here, maybe micro-lending, a lot of other applications. So it would be great to get thoughts on how you see tokenization and AI coming together. Do you think the timeframe for that to happen is? And what does that mean for Robinhood Markets, Inc.? Do you seem like you guys are really well-positioned, but I see it as something that could exponentially change transaction activity. We'd love to get your thoughts as well.",
+      "turn_index": 66
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Vladimir Tenev",
+      "text": "Yeah. I mean, what I'll tell you, one of the compelling reasons why we are interested in tokenization outside the US and actually unlocking access to DeFi for our stock tokens is that it makes it easier and more interoperable to write agents and have software that integrates with these offerings because there is a robust ecosystem of developers that are integrating with these blockchain protocols and actually, you know, you could argue the integration on the blockchain side is much easier and more streamlined than the typical API integrations with brokerages. I think that's going to be exciting to watch.\nI think it's a little bit early to proclaim that, like, a certain chain or a certain crypto will become, you know, the way that AI agents communicate and pay each other. But I think if that does happen to be the case with the tokenized stocks offerings, and also as we go live with our stablecoin partnership with Paxos, we'll actually be really well-positioned to do well and compete for the agents' business in that world.",
+      "turn_index": 67
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Devin Ryan",
+      "text": "Great, thank you.",
+      "turn_index": 68
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Chris Koegel",
+      "text": "Alright. Thanks, Devin. The next question is from Roy with Crossroads.",
+      "turn_index": 69
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Roy",
+      "text": "Hey, guys. Good to see you. Thanks for having me. My question was on international expansion as well as Rothera. So specifically as you are rolling out internationally, I'm kind of curious how you prioritize which products to initially launch. And is there a potential scenario or market where we see prediction markets being the first?",
+      "turn_index": 70
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Vladimir Tenev",
+      "text": "I thought you were going to ask me about that 50% direct deposit attach rate on our banking offering. You want to know about international prediction markets. Yeah. So right now, markets for us are US only. And I think, you know, we are in an interesting position because as I mentioned in the EU, we have like crypto-powered Robinhood Markets, Inc. on crypto rails, and we also have the ability to scale our traditional brokerage business outside the US. So in addition to like traditional prediction markets ex-US, there's also the possibility of rolling out on-chain versions. So that's something we are looking at.\nI think you should expect some movement, but we don't have anything concrete to announce there.",
+      "turn_index": 71
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Chris Koegel",
+      "text": "Thank you. Alright. The next question is from Ramsey El Assal from Cantor.",
+      "turn_index": 72
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Ramsey El Assal",
+      "text": "Hi, guys. Thank you for taking my question this evening. Was wondering if you could comment a little bit further on the push into private markets in terms of the asset types that will be available through your platform and also any color on sort of timeline and or regulatory or operational hurdles you need to get through to seal those products? Thanks.",
+      "turn_index": 73
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Vladimir Tenev",
+      "text": "Shiv has actually been running this product, in addition to being CFO. So I'll let him speak to it.",
+      "turn_index": 74
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Shiv Verma",
+      "text": "Yeah. No. Thank you. We are super excited about prediction markets. Big picture, we are in the quiet period for our first offering. Our N-2 is publicly on file with the SEC, so we can't say too much more than that. But we are really excited to get this out for customers. When you look at the vision, the goal is that any private assets that have not been traditionally offered to retail, you should be able to offer in these 40-act registered funds. Chairman Atkins came out recently and said, these are the best vehicles to offer access to retail and so you are going to see us continue to push there.\nIf you look at our filing, it gives us kind of broad capabilities to do that. But in general, these funds, if you look in the market, hold all types of assets. It can be private equities. It can be real estate. It can be credit. And so as we think about them, we think about what are our customers looking for, what are they most engaged in, but over time, you should see us be able to offer all of these asset classes. So stay tuned and we are super excited.",
+      "turn_index": 75
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Ramsey El Assal",
+      "text": "Thanks.",
+      "turn_index": 76
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Chris Koegel",
+      "text": "Alright. Thank you, Shiv. The next question is from Ed Engel from Compass Point.",
+      "turn_index": 77
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Ed Engel",
+      "text": "Hi. Thanks for taking my question. How are you thinking about the opportunity around Trump accounts and their launch this year? Have you heard anything about how these could be structured or whether Robinhood Markets, Inc. could play a special role here?",
+      "turn_index": 78
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Vladimir Tenev",
+      "text": "Unfortunately, I can't share too much of the details of what we heard but, you know, we have been involved in this effort from the very beginning. We were part of the first summit on Trump accounts at the White House. And you know, I've made it clear to the administration, to the president personally, that I think this is a game-changing initiative. It's really one of the few initiatives that pretty much everyone agrees on regardless of where you lie on the political spectrum. And is very in line with our mission of making sure everyone benefits from our financial markets.\nSo from the very beginning, we have said, you know, if we are fortunate enough to play a role, we will give our best people to make sure that, you know, the effort goes as smoothly and it's as high quality as possible. I think it being really high quality and being done with sort of like exceptional engineering is going to be a big part of its success. And I think the administration has done a really, really nice job with the rollout.\nThere was a nice Trump account summit just a couple of weeks ago and you can tell with, you know, all the folks making contributions and donating large amounts of money that I think the future of the program is incredibly bright.",
+      "turn_index": 79
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Ed Engel",
+      "text": "Great. Thank you.",
+      "turn_index": 80
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Chris Koegel",
+      "text": "Alright. Thanks, Ed. The next question is from Ken Worthington from JPMorgan.",
+      "turn_index": 81
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Ken Worthington",
+      "text": "Hi, good afternoon. Nice seeing you all. Can you talk about your use of promotions and how that's evolving or expected to evolve in 2026? Is the size of the promotion budget expected to be bigger or smaller this year than last year? And as we think about 2026, does asset growth remain your focus or are there other customer behaviors that you really want to prioritize?",
+      "turn_index": 82
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Shiv Verma",
+      "text": "Yeah. Hi. I can start with this one, Vlad. So first, on the promos, as we have said before, we really like the ROI that we are seeing, so we are going to continue to use them. One thing we are doing this year more than last year is we are making them more personalized. So the great thing about having phenomenal engineering is using AI and ML models, you can actually make it much more personalized over time. Which is great for customers, but it also is a great ROI.\nIn terms of the overall relative to last year, it was about 25% last year, and I would expect it to be roughly in that ZIP code for this year again. As we continue to make additional investments. Our top KPIs remain the same. It's market share for active traders. It's net deposits and gold subscribers for wallet share, and then its NFAs and institutional accounts for our third arc. One thing that we have been focusing a lot internally is in addition to growing net deposits 20% plus year over year, how do we reaccelerate top-of-funnel growth even faster as well? And we have a lot of great ideas there.\nSo our focus is going to remain the same, but we are going to keep investing. Vlad, anything you want to add?",
+      "turn_index": 83
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Vladimir Tenev",
+      "text": "The one thing that we didn't mention that just sort of flew under the radar is the market share growth. We have really had really strong results that have exceeded our expectations. Those of you who may be looking at the latest 606 reports probably noticed that the 606 reports show that it looks like we have become number one in options industry-wide. Which, you know, business goes on. But I thought it was just a good example of how the team's relentlessly making the experience better.",
+      "turn_index": 84
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Chris Koegel",
+      "text": "Thank you. Alright. Thanks, Ken. The next question is from Amit at Amit is Investing.",
+      "turn_index": 85
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Amit",
+      "text": "Hey, Vlad and Shiv. Can you guys hear me?",
+      "turn_index": 86
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Vladimir Tenev",
+      "text": "Yes. Hello, sir. How are you doing?",
+      "turn_index": 87
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Amit",
+      "text": "Okay. Congrats on a great quarter. Thanks for taking my question. My question is on banking. How do you guys see this expanding this year as you begin rolling it out? And, I guess, where do you think the flywheel takes place as more people bring more of their assets on? I know you guys are giving a very competitive rate on the savings APY. Can you speak to a little bit more of the business fundamentals and what it can do to further expand and diversify the business as banking rolls out?",
+      "turn_index": 88
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Vladimir Tenev",
+      "text": "Yeah. Absolutely. Yeah. So banking has gotten off to a very strong start. You have heard us say, you know, over $400 million in assets on the platform. More than half of the people that fund end up funding with their direct deposit. Which is a pretty amazing attach rate so early in the product's life cycle. And we recently rolled out an increase to the rate that we offer on deposits. So 3.5% APY. I think what customers really appreciate about this offering is customers that trust us with a significant portion of their assets. If you have $100,000 or more across all Robinhood Markets, Inc. products, the experience on banking, the intent is for it to be flawless.\nWhat people love is for those customers, we give you the APY not just on savings, but also on checking. So not having to worry about, you know, moving money around to optimize the yield and, you know, having enough in checking to pay your bills, I think has been a huge pain reliever for customers along with all the premium features. Like cash delivery in the markets that's gone live. Really, really positive feedback. In terms of ecosystem benefit, we always look for how to integrate our products together and I think we have been able to do that with the banking product even though it's actually in a separate app. Which has been pretty interesting.\nThe fact that you redeem to get the 3% cash back into brokerage has provided a very strong and durable link between the two products. And moreover, a bank account is actually the one prerequisite, well, more or less, there are other ways to fund your account, but by and large, everyone that opens up a Robinhood Markets, Inc. account has to have a preexisting bank account for them to move money in and out of. And so by sort of like offering them that experience in-house, we can make it even more seamless with the ability to budget better, set goals, move large amounts of money between the accounts seamlessly.\nAnd, you know, allowing customers to have access to the industry-leading APY without leaving the platform and bucketing it as a savings account separately, which I think is resonating. So you should see us continue to double down on that. The integration points will be thoughtful. And very, very clear. And, you know, the banking team's got some aggressive goals. We think we can grow this thing.",
+      "turn_index": 89
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Shiv Verma",
+      "text": "On the flywheel piece, it's super simple. The more net deposits you have with Robinhood Markets, Inc., the more assets, the better your experience is. So as Vlad mentioned, if you have the $100,000 tier, that's across all of your different assets, you get even more value. Customers bring even more assets, we continue to give them even more value. And we are seeing that across all of our products and in particular with banking, so super excited to give customers another way to trust us with their assets.",
+      "turn_index": 90
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Chris Koegel",
+      "text": "Alright. Thank you for your question, Amit. The next question is from Michael Cyprys from Morgan Stanley.",
+      "turn_index": 91
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Michael Cyprys",
+      "text": "Great. Thanks for taking my question. Just wanted to ask about tokenization. I was hoping you could update us on your partnership on the stablecoin side. How you see that ramping and contributing, what are some of the milestones here in '26? And then more broadly on tokenization of real-world assets, maybe you could speak to some of the steps you are taking, including across private markets. How you see that contributing, including the US to the business over the next twelve, twenty-four months versus, say, looking out over the next five years? And what do you see as some of the key hurdles to adoption?",
+      "turn_index": 92
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Vladimir Tenev",
+      "text": "Yeah. I'll field that one, Mike. Thank you. So I think we have pretty good confidence that tokenization of private markets is going to be very powerful and highly resonant outside the US. And it would clearly work very, very well inside the US as well pending the hurdles around accreditation and all the other things, crypto market structure. When we were running our token giveaway of OpenAI and SpaceX in the EU, we saw that it resonated with customers. And remember, this is just the giveaway. It was relatively small amounts of these companies. And they were not tradable.\nBut even so, you could tell that there's a hunger among the retail customer base for exposure to these private companies. So a big part of this year is figuring out the path to offering a compelling product for private markets both in the US with Robinhood Ventures and overseas through tokenization. And just making sure we work with our regulators to offer these products safely and in a form that resonates with customers. But, you know, early signs are that if we unlock it, such a differentiated offering, there's really no other place where you can get it at scale through a reputable trusted financial institution.\nSo if we can unlock that, it's going to be very differentiated and draw on a lot of assets.",
+      "turn_index": 93
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Chris Koegel",
+      "text": "Alright. Thank you, Mike. For our last question, last but certainly not least, Tanner from Future Investing.",
+      "turn_index": 94
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Tanner",
+      "text": "Hey, guys. Thanks for having me. My question was just regarding a broader capital allocation strategy for you guys for international expansion. Are you guys planning on essentially going after those licenses yourself as you enter new regions and countries, or do you want to acquire to enter and expand into new regions?",
+      "turn_index": 95
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Vladimir Tenev",
+      "text": "Gosh. I hate not answering Tanner's question, but it's capital allocations I think you have to take it.",
+      "turn_index": 96
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Shiv Verma",
+      "text": "No. We partner super closely in capital allocation. I think the main point is it'll be both. There will be some countries where we will do it organically. You saw that in the UK. You saw that in the EU. There will be some countries where we will accelerate by going non-organically. For example, Wonderfy, our Canadian acquisition, which hasn't closed yet. And there will be some companies where we'll do both. And so for us, we want to be able to serve customers in every single country. What we look for is what speed to market and what's the best ROI. Then we are kind of indifferent to which way we get there.",
+      "turn_index": 97
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Vladimir Tenev",
+      "text": "By the way, one of the first books Shiv recommended to me was The Outsiders, so if anyone is looking for a good book on capital allocation, that was a nice one. Yeah. I think what I've said in the past around this is we don't want to get into the business of stapling platforms and doing these, like, massive infrastructure integration projects. I think if you have seen what has happened in the past to our big competitors, that's sort of like what has ground them to a halt.\nNot to say we won't continue to make acquisitions, but I think the acquisitions you have seen us make currently, it's great assets, great teams with complementary technologies that we don't already offer in-house. Example being, you know, Bitstamp, which has gone smoothly. So I think where you get into trouble is if you just get like a duplicative stack and then you end up spending years integrating. So we are very cognizant of that. But yeah, otherwise, you know, we are going to continue to acquire, we are going to continue to make our core platform better and internationally scalable. And we'll have both paths available to eventually serve customers in every jurisdiction.",
+      "turn_index": 98
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Chris Koegel",
+      "text": "Alright. Well, that concludes the Q&A portion of our call. Before we end the call, I'd like to pass it back to Vlad or Shiv for any closing remarks.",
+      "turn_index": 99
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Vladimir Tenev",
+      "text": "Just want to welcome Shiv. And again, thank you for all the engagement from the entire community, you know, not just sell-side analysts, but also buy-side and our finance content creators. You know, 2025 was a big year. 2026, we are definitely not getting complacent. There's so much to do. The roadmap is full and the team is just cranking because we see a unique opportunity to become the primary beneficiary of the $100 trillion plus wealth transfer. So brick by brick, thank you for being with us on the journey.",
+      "turn_index": 100
+    }
+  ]
+}

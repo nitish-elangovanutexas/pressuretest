@@ -1,0 +1,28 @@
+{
+  "ticker": "NCLH",
+  "call_date": "2026-04-22",
+  "quarter": 1,
+  "year": 2025,
+  "pressure_score": 0.014018526229300195,
+  "cosine_distance": 0.030934418701368482,
+  "sentiment_shift": 0.012705654913888254,
+  "question_difficulty_mean": 0.1858543927131623,
+  "baseline_mean": 0.017671848260857277,
+  "baseline_std": 0.005166577564744453,
+  "z_score": -0.7071067811865477,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5929271963565812,
+    "call_mean_answer_length": 160.47058823529412,
+    "call_hedge_density": 0.019810230585397864,
+    "call_pos_sentiment_mean": 0.3222808090641218,
+    "call_neu_sentiment_mean": 0.6253388256711119,
+    "call_neg_sentiment_mean": 0.05238037907025393,
+    "call_qa_similarity_mean": 0.4001517427375317,
+    "baseline_neg_sentiment_mean": 0.03967472415636568
+  },
+  "generated_at": "2026-05-20T06:18:06+00:00"
+}

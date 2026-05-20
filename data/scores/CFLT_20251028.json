@@ -1,0 +1,28 @@
+{
+  "ticker": "CFLT",
+  "call_date": "2025-10-28",
+  "quarter": 3,
+  "year": 2025,
+  "pressure_score": 0.0,
+  "cosine_distance": 0.0,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.1564471869501522,
+  "baseline_mean": 0.0,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5782235934750761,
+    "call_mean_answer_length": 257.0,
+    "call_hedge_density": 0.03642712758781117,
+    "call_pos_sentiment_mean": 0.29138409191121656,
+    "call_neu_sentiment_mean": 0.6829690970480442,
+    "call_neg_sentiment_mean": 0.025646805219973128,
+    "call_qa_similarity_mean": 0.49729833716573907,
+    "baseline_neg_sentiment_mean": 0.025646805219973128
+  },
+  "generated_at": "2026-05-20T04:56:59+00:00"
+}

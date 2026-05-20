@@ -1,0 +1,28 @@
+{
+  "ticker": "ZTS",
+  "call_date": "2026-05-07",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.0,
+  "cosine_distance": 0.0,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.22024995617411228,
+  "baseline_mean": 0.0,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6101249780870561,
+    "call_mean_answer_length": 208.0,
+    "call_hedge_density": 0.018745307003233166,
+    "call_pos_sentiment_mean": 0.21642661839723587,
+    "call_neu_sentiment_mean": 0.7434631288051605,
+    "call_neg_sentiment_mean": 0.04011024162173271,
+    "call_qa_similarity_mean": 0.4942430715250938,
+    "baseline_neg_sentiment_mean": 0.04011024162173271
+  },
+  "generated_at": "2026-05-20T07:39:14+00:00"
+}

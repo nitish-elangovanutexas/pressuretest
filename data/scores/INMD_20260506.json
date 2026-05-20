@@ -1,0 +1,28 @@
+{
+  "ticker": "INMD",
+  "call_date": "2026-05-06",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.09232599454843841,
+  "cosine_distance": 0.23462950835157337,
+  "sentiment_shift": 0.02149636303319742,
+  "question_difficulty_mean": 0.23615359750765452,
+  "baseline_mean": 0.05369705444008092,
+  "baseline_std": 0.04092509051148857,
+  "z_score": 0.9438938222387927,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6180767987538273,
+    "call_mean_answer_length": 107.75,
+    "call_hedge_density": 0.0017064846416382253,
+    "call_pos_sentiment_mean": 0.20297227008268237,
+    "call_neu_sentiment_mean": 0.7505351454019547,
+    "call_neg_sentiment_mean": 0.04649259359575808,
+    "call_qa_similarity_mean": 0.44448027014146,
+    "baseline_neg_sentiment_mean": 0.0679889566289555
+  },
+  "generated_at": "2026-05-20T05:46:06+00:00"
+}

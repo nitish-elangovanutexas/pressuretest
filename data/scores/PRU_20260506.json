@@ -1,0 +1,28 @@
+{
+  "ticker": "PRU",
+  "call_date": "2026-05-06",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.027566038077201684,
+  "cosine_distance": 0.04088227319498061,
+  "sentiment_shift": 0.05447109905676312,
+  "question_difficulty_mean": 0.19029988343804058,
+  "baseline_mean": 0.024145486660406012,
+  "baseline_std": 0.0048373902044269446,
+  "z_score": 0.7071067811865475,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5951499417190202,
+    "call_mean_answer_length": 187.9090909090909,
+    "call_hedge_density": 0.010221623226801963,
+    "call_pos_sentiment_mean": 0.4218172634189779,
+    "call_neu_sentiment_mean": 0.44574972513047134,
+    "call_neg_sentiment_mean": 0.13243303143165328,
+    "call_qa_similarity_mean": 0.49935226208791317,
+    "baseline_neg_sentiment_mean": 0.07796193237489016
+  },
+  "generated_at": "2026-05-20T06:38:55+00:00"
+}

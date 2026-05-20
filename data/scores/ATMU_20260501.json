@@ -1,0 +1,28 @@
+{
+  "ticker": "ATMU",
+  "call_date": "2026-05-01",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.039705973716937,
+  "cosine_distance": 0.06391738095532595,
+  "sentiment_shift": 0.0702912840137492,
+  "question_difficulty_mean": 0.1947585496016399,
+  "baseline_mean": 0.04700779713733019,
+  "baseline_std": 0.027021932807638985,
+  "z_score": -0.27021839897140876,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.59737927480082,
+    "call_mean_answer_length": 208.0,
+    "call_hedge_density": 0.022061032746466338,
+    "call_pos_sentiment_mean": 0.5031041439090457,
+    "call_neu_sentiment_mean": 0.3021750620433262,
+    "call_neg_sentiment_mean": 0.19472077728382178,
+    "call_qa_similarity_mean": 0.6303303644947412,
+    "baseline_neg_sentiment_mean": 0.12442949327007258
+  },
+  "generated_at": "2026-05-20T04:41:00+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "OSPN",
+  "call_date": "2026-04-30",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.03452609815016969,
+  "cosine_distance": 0.06521497307926538,
+  "sentiment_shift": 0.047524992443592935,
+  "question_difficulty_mean": 0.18770909500792143,
+  "baseline_mean": 0.05846629353484234,
+  "baseline_std": 0.029546740475576126,
+  "z_score": -0.8102482710220457,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5938545475039607,
+    "call_mean_answer_length": 120.0,
+    "call_hedge_density": 0.019201130833265027,
+    "call_pos_sentiment_mean": 0.3200267194346948,
+    "call_neu_sentiment_mean": 0.5745502669702877,
+    "call_neg_sentiment_mean": 0.10542302002960985,
+    "call_qa_similarity_mean": 0.44554273042501874,
+    "baseline_neg_sentiment_mean": 0.05789802758601691
+  },
+  "generated_at": "2026-05-20T06:29:54+00:00"
+}

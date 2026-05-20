@@ -1,0 +1,28 @@
+{
+  "ticker": "PUBM",
+  "call_date": "2026-05-07",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.0,
+  "cosine_distance": 0.0,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.19929394435789363,
+  "baseline_mean": 0.0,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5996469721789468,
+    "call_mean_answer_length": 208.25,
+    "call_hedge_density": 0.008089352193116003,
+    "call_pos_sentiment_mean": 0.5548545606434345,
+    "call_neu_sentiment_mean": 0.43142258934676647,
+    "call_neg_sentiment_mean": 0.013722856878302991,
+    "call_qa_similarity_mean": 0.48912072241919596,
+    "baseline_neg_sentiment_mean": 0.013722856878302991
+  },
+  "generated_at": "2026-05-20T06:41:04+00:00"
+}

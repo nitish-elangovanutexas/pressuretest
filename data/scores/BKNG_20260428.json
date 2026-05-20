@@ -1,0 +1,28 @@
+{
+  "ticker": "BKNG",
+  "call_date": "2026-04-28",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.021185562275498553,
+  "cosine_distance": 0.059656836942199254,
+  "sentiment_shift": 0.0020682941456990588,
+  "question_difficulty_mean": 0.1570038724629886,
+  "baseline_mean": 0.024605854274221114,
+  "baseline_std": 0.0048370233318696275,
+  "z_score": -0.7071067811865476,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5785019362314943,
+    "call_mean_answer_length": 275.0,
+    "call_hedge_density": 0.013185330159525707,
+    "call_pos_sentiment_mean": 0.2879555746912956,
+    "call_neu_sentiment_mean": 0.6957864495260375,
+    "call_neg_sentiment_mean": 0.016257976314851215,
+    "call_qa_similarity_mean": 0.44091084124622243,
+    "baseline_neg_sentiment_mean": 0.018326270460550274
+  },
+  "generated_at": "2026-05-20T04:47:48+00:00"
+}

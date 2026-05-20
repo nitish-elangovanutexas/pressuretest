@@ -1,0 +1,28 @@
+{
+  "ticker": "DPZ",
+  "call_date": "2026-04-27",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.017734834797180448,
+  "cosine_distance": 0.036293646644905864,
+  "sentiment_shift": 0.01785548507080724,
+  "question_difficulty_mean": 0.22654405684370468,
+  "baseline_mean": 0.016017303001369183,
+  "baseline_std": 0.002805430872574103,
+  "z_score": 0.6122167587880561,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6132720284218524,
+    "call_mean_answer_length": 172.625,
+    "call_hedge_density": 0.03889939648124464,
+    "call_pos_sentiment_mean": 0.19741315045394003,
+    "call_neu_sentiment_mean": 0.7163582630455494,
+    "call_neg_sentiment_mean": 0.08622859214665368,
+    "call_qa_similarity_mean": 0.5410057556679583,
+    "baseline_neg_sentiment_mean": 0.06837310707584644
+  },
+  "generated_at": "2026-05-20T05:15:55+00:00"
+}

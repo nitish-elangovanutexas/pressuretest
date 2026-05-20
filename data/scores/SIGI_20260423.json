@@ -1,0 +1,28 @@
+{
+  "ticker": "SIGI",
+  "call_date": "2026-04-23",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.028781229708386313,
+  "cosine_distance": 0.06898791134285065,
+  "sentiment_shift": 0.015255210428641967,
+  "question_difficulty_mean": 0.2119731396548269,
+  "baseline_mean": 0.020041252907746627,
+  "baseline_std": 0.01236019372629086,
+  "z_score": 0.7071067811865474,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6059865698274134,
+    "call_mean_answer_length": 174.5,
+    "call_hedge_density": 0.0428761066746809,
+    "call_pos_sentiment_mean": 0.3111767373047769,
+    "call_neu_sentiment_mean": 0.6516645634546876,
+    "call_neg_sentiment_mean": 0.037158705992624164,
+    "call_qa_similarity_mean": 0.46947150090948486,
+    "baseline_neg_sentiment_mean": 0.05241391642126613
+  },
+  "generated_at": "2026-05-20T06:53:16+00:00"
+}

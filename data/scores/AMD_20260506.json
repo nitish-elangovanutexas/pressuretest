@@ -1,0 +1,28 @@
+{
+  "ticker": "AMD",
+  "call_date": "2026-05-06",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.040610429298697896,
+  "cosine_distance": 0.10181347660061069,
+  "sentiment_shift": 0.022792673942013755,
+  "question_difficulty_mean": 0.15690732362798257,
+  "baseline_mean": 0.030462545512814482,
+  "baseline_std": 0.01344256614967089,
+  "z_score": 0.7549067397471473,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5784536618139913,
+    "call_mean_answer_length": 231.8181818181818,
+    "call_hedge_density": 0.030139430730244963,
+    "call_pos_sentiment_mean": 0.29340515014800156,
+    "call_neu_sentiment_mean": 0.6758476956324144,
+    "call_neg_sentiment_mean": 0.030747161077504807,
+    "call_qa_similarity_mean": 0.5541999316429179,
+    "baseline_neg_sentiment_mean": 0.05353983501951856
+  },
+  "generated_at": "2026-05-20T04:32:27+00:00"
+}

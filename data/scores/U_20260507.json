@@ -1,0 +1,28 @@
+{
+  "ticker": "U",
+  "call_date": "2026-05-07",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.020024542319419636,
+  "cosine_distance": 0.03545099773334848,
+  "sentiment_shift": 0.03304958356699596,
+  "question_difficulty_mean": 0.16116506053808696,
+  "baseline_mean": 0.02871537036624961,
+  "baseline_std": 0.012290686892079426,
+  "z_score": -0.7071067811865476,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5805825302690435,
+    "call_mean_answer_length": 172.4,
+    "call_hedge_density": 0.017400641259812607,
+    "call_pos_sentiment_mean": 0.2301193829625845,
+    "call_neu_sentiment_mean": 0.6886671918133894,
+    "call_neg_sentiment_mean": 0.08121342168500026,
+    "call_qa_similarity_mean": 0.4388440239541102,
+    "baseline_neg_sentiment_mean": 0.0481638381180043
+  },
+  "generated_at": "2026-05-20T07:16:25+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "PERI",
+  "call_date": "2026-02-18",
+  "quarter": 4,
+  "year": 2025,
+  "pressure_score": 0.0,
+  "cosine_distance": 0.0,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.17103842396261817,
+  "baseline_mean": 0.0,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5855192119813091,
+    "call_mean_answer_length": 102.57142857142857,
+    "call_hedge_density": 0.01937935340273548,
+    "call_pos_sentiment_mean": 0.22114599070378713,
+    "call_neu_sentiment_mean": 0.74059026156153,
+    "call_neg_sentiment_mean": 0.03826373642576592,
+    "call_qa_similarity_mean": 0.4397795539016281,
+    "baseline_neg_sentiment_mean": 0.03826373642576592
+  },
+  "generated_at": "2026-05-20T06:32:39+00:00"
+}

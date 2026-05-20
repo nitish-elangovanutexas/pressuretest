@@ -1,0 +1,28 @@
+{
+  "ticker": "WM",
+  "call_date": "2026-04-29",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.03343833225990706,
+  "cosine_distance": 0.047315643261793494,
+  "sentiment_shift": 0.074752797871562,
+  "question_difficulty_mean": 0.1472994512321269,
+  "baseline_mean": 0.03229948590933033,
+  "baseline_std": 0.0016105719544447182,
+  "z_score": 0.7071067811865486,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5736497256160634,
+    "call_mean_answer_length": 125.6923076923077,
+    "call_hedge_density": 0.017377836354109482,
+    "call_pos_sentiment_mean": 0.36239653840087926,
+    "call_neu_sentiment_mean": 0.42738823564006734,
+    "call_neg_sentiment_mean": 0.2102152118459344,
+    "call_qa_similarity_mean": 0.467674589641895,
+    "baseline_neg_sentiment_mean": 0.1354624139743724
+  },
+  "generated_at": "2026-05-20T07:32:24+00:00"
+}

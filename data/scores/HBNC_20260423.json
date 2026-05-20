@@ -1,0 +1,28 @@
+{
+  "ticker": "HBNC",
+  "call_date": "2026-04-23",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.03285975278690846,
+  "cosine_distance": 0.0681883438094697,
+  "sentiment_shift": 0.040913777490560375,
+  "question_difficulty_mean": 0.1473674370858308,
+  "baseline_mean": 0.04157599553209018,
+  "baseline_std": 0.008947307090962602,
+  "z_score": -0.9741749843353122,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5736837185429154,
+    "call_mean_answer_length": 130.0,
+    "call_hedge_density": 0.023936353238425214,
+    "call_pos_sentiment_mean": 0.5009465180337429,
+    "call_neu_sentiment_mean": 0.42427124083042145,
+    "call_neg_sentiment_mean": 0.07478222095717986,
+    "call_qa_similarity_mean": 0.4868849489414098,
+    "baseline_neg_sentiment_mean": 0.033868443466619484
+  },
+  "generated_at": "2026-05-20T05:39:34+00:00"
+}

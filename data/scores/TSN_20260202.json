@@ -1,0 +1,28 @@
+{
+  "ticker": "TSN",
+  "call_date": "2026-02-02",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.0,
+  "cosine_distance": 0.0,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.17270647937231406,
+  "baseline_mean": 0.0,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.586353239686157,
+    "call_mean_answer_length": 49.675,
+    "call_hedge_density": 0.02223832020038525,
+    "call_pos_sentiment_mean": 0.35687133432365953,
+    "call_neu_sentiment_mean": 0.5938784876838327,
+    "call_neg_sentiment_mean": 0.04925017422065139,
+    "call_qa_similarity_mean": 0.19472985706760162,
+    "baseline_neg_sentiment_mean": 0.04925017422065139
+  },
+  "generated_at": "2026-05-20T07:13:38+00:00"
+}

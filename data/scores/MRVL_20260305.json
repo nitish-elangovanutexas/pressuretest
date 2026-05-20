@@ -1,0 +1,28 @@
+{
+  "ticker": "MRVL",
+  "call_date": "2026-03-05",
+  "quarter": 4,
+  "year": 2026,
+  "pressure_score": 3.8873759212636055e-17,
+  "cosine_distance": 1.1102230246251565e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.16714565003012094,
+  "baseline_mean": 3.8873759212636055e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5835728250150605,
+    "call_mean_answer_length": 295.8125,
+    "call_hedge_density": 0.032735747189033236,
+    "call_pos_sentiment_mean": 0.26482896879315376,
+    "call_neu_sentiment_mean": 0.7087326138280332,
+    "call_neg_sentiment_mean": 0.0264384028268978,
+    "call_qa_similarity_mean": 0.4176278213712393,
+    "baseline_neg_sentiment_mean": 0.0264384028268978
+  },
+  "generated_at": "2026-05-20T06:13:46+00:00"
+}

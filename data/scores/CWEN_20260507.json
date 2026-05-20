@@ -1,0 +1,28 @@
+{
+  "ticker": "CWEN",
+  "call_date": "2026-05-07",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.021502542165163945,
+  "cosine_distance": 0.06095499545284777,
+  "sentiment_shift": 0.0009363803367775231,
+  "question_difficulty_mean": 0.1639495723322782,
+  "baseline_mean": 0.013581619428722842,
+  "baseline_std": 0.011201876360384416,
+  "z_score": 0.7071067811865476,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5819747861661391,
+    "call_mean_answer_length": 285.8333333333333,
+    "call_hedge_density": 0.020341950660522398,
+    "call_pos_sentiment_mean": 0.17300372694929442,
+    "call_neu_sentiment_mean": 0.8143463333447775,
+    "call_neg_sentiment_mean": 0.01264994591474533,
+    "call_qa_similarity_mean": 0.5900021650510024,
+    "baseline_neg_sentiment_mean": 0.013586326251522854
+  },
+  "generated_at": "2026-05-20T05:09:45+00:00"
+}

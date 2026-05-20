@@ -1,0 +1,28 @@
+{
+  "ticker": "MSCI",
+  "call_date": "2026-04-21",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.03244325443730459,
+  "cosine_distance": 0.03743111432556567,
+  "sentiment_shift": 0.08224930226526878,
+  "question_difficulty_mean": 0.17211699001672076,
+  "baseline_mean": 0.03925042081780154,
+  "baseline_std": 0.006155937969366226,
+  "z_score": -1.1057886571260838,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5860584950083604,
+    "call_mean_answer_length": 246.44444444444446,
+    "call_hedge_density": 0.008099431430329197,
+    "call_pos_sentiment_mean": 0.29156982857320046,
+    "call_neu_sentiment_mean": 0.5641331093178855,
+    "call_neg_sentiment_mean": 0.14429709242863786,
+    "call_qa_similarity_mean": 0.5265470017905749,
+    "baseline_neg_sentiment_mean": 0.06204779016336909
+  },
+  "generated_at": "2026-05-20T06:14:12+00:00"
+}

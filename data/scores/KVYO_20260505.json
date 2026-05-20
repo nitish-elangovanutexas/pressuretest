@@ -1,0 +1,28 @@
+{
+  "ticker": "KVYO",
+  "call_date": "2026-05-05",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.03948803596390362,
+  "cosine_distance": 0.10946444028614721,
+  "sentiment_shift": 0.0029396041296422502,
+  "question_difficulty_mean": 0.1813126273980021,
+  "baseline_mean": 0.021491824008133834,
+  "baseline_std": 0.01571828501373465,
+  "z_score": 1.144922104418178,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5906563136990011,
+    "call_mean_answer_length": 345.2,
+    "call_hedge_density": 0.007862622478437173,
+    "call_pos_sentiment_mean": 0.2689563617110252,
+    "call_neu_sentiment_mean": 0.7128723472356796,
+    "call_neg_sentiment_mean": 0.018171305768191814,
+    "call_qa_similarity_mean": 0.5504096522919103,
+    "baseline_neg_sentiment_mean": 0.021110909897834065
+  },
+  "generated_at": "2026-05-20T05:55:51+00:00"
+}

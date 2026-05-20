@@ -1,0 +1,28 @@
+{
+  "ticker": "UVSP",
+  "call_date": "2026-04-23",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.030253309634095716,
+  "cosine_distance": 0.07380152084641023,
+  "sentiment_shift": 0.02484703731412689,
+  "question_difficulty_mean": 0.115952110648393,
+  "baseline_mean": 0.07715875950904023,
+  "baseline_std": 0.04560200093133232,
+  "z_score": -1.028583152427345,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5579760553241965,
+    "call_mean_answer_length": 104.5,
+    "call_hedge_density": 0.029362168040219905,
+    "call_pos_sentiment_mean": 0.3736394504085183,
+    "call_neu_sentiment_mean": 0.575924951583147,
+    "call_neg_sentiment_mean": 0.050435581943020225,
+    "call_qa_similarity_mean": 0.40530041440836634,
+    "baseline_neg_sentiment_mean": 0.025588544628893335
+  },
+  "generated_at": "2026-05-20T07:20:25+00:00"
+}

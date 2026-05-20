@@ -1,0 +1,28 @@
+{
+  "ticker": "CROX",
+  "call_date": "2026-04-30",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.0,
+  "cosine_distance": 0.0,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.18632789291603447,
+  "baseline_mean": 0.0,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5931639464580172,
+    "call_mean_answer_length": 227.25,
+    "call_hedge_density": 0.03687626257722822,
+    "call_pos_sentiment_mean": 0.38353130128234625,
+    "call_neu_sentiment_mean": 0.5198359712958336,
+    "call_neg_sentiment_mean": 0.09663273114711046,
+    "call_qa_similarity_mean": 0.5788672432893718,
+    "baseline_neg_sentiment_mean": 0.09663273114711046
+  },
+  "generated_at": "2026-05-20T05:06:48+00:00"
+}

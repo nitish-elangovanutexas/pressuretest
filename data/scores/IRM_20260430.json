@@ -1,0 +1,28 @@
+{
+  "ticker": "IRM",
+  "call_date": "2026-04-30",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.039519883908186115,
+  "cosine_distance": 0.11636051411066195,
+  "sentiment_shift": 6.870839537845633e-05,
+  "question_difficulty_mean": 0.13166490179863785,
+  "baseline_mean": 0.030858965795711735,
+  "baseline_std": 0.00766311345483888,
+  "z_score": 1.130208780480137,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5658324508993189,
+    "call_mean_answer_length": 234.8,
+    "call_hedge_density": 0.033178124192411576,
+    "call_pos_sentiment_mean": 0.24976513683795928,
+    "call_neu_sentiment_mean": 0.7325741648674011,
+    "call_neg_sentiment_mean": 0.017660711146891116,
+    "call_qa_similarity_mean": 0.5279078746131854,
+    "baseline_neg_sentiment_mean": 0.01759200275151266
+  },
+  "generated_at": "2026-05-20T05:48:48+00:00"
+}

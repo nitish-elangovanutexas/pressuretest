@@ -1,0 +1,28 @@
+{
+  "ticker": "GE",
+  "call_date": "2026-04-21",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.05036488981198917,
+  "cosine_distance": 0.105483791750284,
+  "sentiment_shift": 0.04689289398698343,
+  "question_difficulty_mean": 0.22770178635396152,
+  "baseline_mean": 0.04020244329643252,
+  "baseline_std": 0.01437186968919142,
+  "z_score": 0.7071067811865475,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6138508931769807,
+    "call_mean_answer_length": 171.77777777777777,
+    "call_hedge_density": 0.01752545360176486,
+    "call_pos_sentiment_mean": 0.41893645375967026,
+    "call_neu_sentiment_mean": 0.45140693253941006,
+    "call_neg_sentiment_mean": 0.12965660956170824,
+    "call_qa_similarity_mean": 0.48230478367277674,
+    "baseline_neg_sentiment_mean": 0.08276371557472481
+  },
+  "generated_at": "2026-05-20T05:33:54+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "RELY",
+  "call_date": "2026-05-06",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.022860869747224438,
+  "cosine_distance": 0.05668373904109747,
+  "sentiment_shift": 0.012536285320917766,
+  "question_difficulty_mean": 0.17160854701848294,
+  "baseline_mean": 0.03696295584657391,
+  "baseline_std": 0.01994336141945312,
+  "z_score": -0.7071067811865474,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5858042735092415,
+    "call_mean_answer_length": 219.0,
+    "call_hedge_density": 0.00961972996644737,
+    "call_pos_sentiment_mean": 0.16633381694555283,
+    "call_neu_sentiment_mean": 0.7947463750839233,
+    "call_neg_sentiment_mean": 0.03891980685293674,
+    "call_qa_similarity_mean": 0.6093592906210054,
+    "baseline_neg_sentiment_mean": 0.026383521532018978
+  },
+  "generated_at": "2026-05-20T06:45:01+00:00"
+}

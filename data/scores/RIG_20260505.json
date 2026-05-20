@@ -1,0 +1,28 @@
+{
+  "ticker": "RIG",
+  "call_date": "2026-05-05",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.05018629312235282,
+  "cosine_distance": 0.12847044545571695,
+  "sentiment_shift": 0.017209104879478382,
+  "question_difficulty_mean": 0.1953968839362717,
+  "baseline_mean": 0.05136091924280225,
+  "baseline_std": 0.029271252038218412,
+  "z_score": -0.04012900161960136,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5976984419681358,
+    "call_mean_answer_length": 144.85714285714286,
+    "call_hedge_density": 0.01956679147159726,
+    "call_pos_sentiment_mean": 0.3949517586401531,
+    "call_neu_sentiment_mean": 0.5926347481352943,
+    "call_neg_sentiment_mean": 0.012413494022829192,
+    "call_qa_similarity_mean": 0.5464950613995103,
+    "baseline_neg_sentiment_mean": 0.029622598902307572
+  },
+  "generated_at": "2026-05-20T06:45:40+00:00"
+}

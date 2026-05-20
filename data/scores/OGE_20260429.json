@@ -1,0 +1,28 @@
+{
+  "ticker": "OGE",
+  "call_date": "2026-04-29",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.1793402042015008,
+  "cosine_distance": 0.4604173741837827,
+  "sentiment_shift": 0.01132783905736038,
+  "question_difficulty_mean": 0.2774357697593443,
+  "baseline_mean": 0.07290407615333425,
+  "baseline_std": 0.09227944802932538,
+  "z_score": 1.1534109741785878,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6387178848796722,
+    "call_mean_answer_length": 150.0,
+    "call_hedge_density": 0.04,
+    "call_pos_sentiment_mean": 0.20838336646556854,
+    "call_neu_sentiment_mean": 0.7668340802192688,
+    "call_neg_sentiment_mean": 0.024782611057162285,
+    "call_qa_similarity_mean": 0.21770735699698432,
+    "baseline_neg_sentiment_mean": 0.036110450114522664
+  },
+  "generated_at": "2026-05-20T06:27:39+00:00"
+}

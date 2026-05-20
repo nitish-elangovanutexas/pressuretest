@@ -1,0 +1,28 @@
+{
+  "ticker": "RTX",
+  "call_date": "2026-04-21",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.02837330593530411,
+  "cosine_distance": 0.08143959064690942,
+  "sentiment_shift": 0.002989063955222568,
+  "question_difficulty_mean": 0.13358599136365196,
+  "baseline_mean": 0.02713711426733174,
+  "baseline_std": 0.0013771534544007719,
+  "z_score": 0.8976426439784535,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.566792995681826,
+    "call_mean_answer_length": 289.875,
+    "call_hedge_density": 0.02594118462714005,
+    "call_pos_sentiment_mean": 0.3641867823898792,
+    "call_neu_sentiment_mean": 0.6122744288295507,
+    "call_neg_sentiment_mean": 0.023538782028481364,
+    "call_qa_similarity_mean": 0.5495926951607998,
+    "baseline_neg_sentiment_mean": 0.026527845983703932
+  },
+  "generated_at": "2026-05-20T06:48:54+00:00"
+}

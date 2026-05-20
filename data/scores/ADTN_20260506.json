@@ -1,0 +1,28 @@
+{
+  "ticker": "ADTN",
+  "call_date": "2026-05-06",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 7.521556920941982e-17,
+  "cosine_distance": 2.220446049250313e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.12913603154667622,
+  "baseline_mean": 7.521556920941982e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5645680157733381,
+    "call_mean_answer_length": 83.7,
+    "call_hedge_density": 0.030382303027700057,
+    "call_pos_sentiment_mean": 0.2771689279936254,
+    "call_neu_sentiment_mean": 0.5472035780549049,
+    "call_neg_sentiment_mean": 0.17562750210054218,
+    "call_qa_similarity_mean": 0.44061603827646,
+    "baseline_neg_sentiment_mean": 0.17562750210054218
+  },
+  "generated_at": "2026-05-20T14:44:02+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "GPC",
+  "call_date": "2026-04-21",
+  "quarter": 3,
+  "year": 2025,
+  "pressure_score": 0.024630175490985555,
+  "cosine_distance": 0.048536478232670266,
+  "sentiment_shift": 0.03222399471893108,
+  "question_difficulty_mean": 0.17254486920937584,
+  "baseline_mean": 0.024462926093306026,
+  "baseline_std": 0.0002365263664971218,
+  "z_score": 0.7071067811865476,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5862724346046879,
+    "call_mean_answer_length": 104.14285714285714,
+    "call_hedge_density": 0.040166040114604985,
+    "call_pos_sentiment_mean": 0.3857159273965018,
+    "call_neu_sentiment_mean": 0.5242650774972779,
+    "call_neg_sentiment_mean": 0.09001899497317416,
+    "call_qa_similarity_mean": 0.5539040284719473,
+    "baseline_neg_sentiment_mean": 0.05779500025424308
+  },
+  "generated_at": "2026-05-20T05:38:16+00:00"
+}

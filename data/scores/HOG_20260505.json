@@ -1,0 +1,28 @@
+{
+  "ticker": "HOG",
+  "call_date": "2026-05-05",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.2291424385236447,
+  "cosine_distance": 0.6658204933842011,
+  "sentiment_shift": 0.001159413407246273,
+  "question_difficulty_mean": 0.14583805893741597,
+  "baseline_mean": 0.0,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.572919029468708,
+    "call_mean_answer_length": 44.0,
+    "call_hedge_density": 0.022727272727272728,
+    "call_pos_sentiment_mean": 0.0623757466673851,
+    "call_neu_sentiment_mean": 0.9209275841712952,
+    "call_neg_sentiment_mean": 0.016696691513061523,
+    "call_qa_similarity_mean": 0.5038386730095236,
+    "baseline_neg_sentiment_mean": 0.017856104920307796
+  },
+  "generated_at": "2026-05-20T05:41:38+00:00"
+}

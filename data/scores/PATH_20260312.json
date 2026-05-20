@@ -1,0 +1,28 @@
+{
+  "ticker": "PATH",
+  "call_date": "2026-03-12",
+  "quarter": 4,
+  "year": 2026,
+  "pressure_score": -7.83770510217925e-17,
+  "cosine_distance": -2.220446049250313e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.17659619258714343,
+  "baseline_mean": -7.83770510217925e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5882980962935718,
+    "call_mean_answer_length": 95.55555555555556,
+    "call_hedge_density": 0.02130132557504075,
+    "call_pos_sentiment_mean": 0.23678755718800756,
+    "call_neu_sentiment_mean": 0.7469126540753577,
+    "call_neg_sentiment_mean": 0.016299780147771042,
+    "call_qa_similarity_mean": 0.5103899076546841,
+    "baseline_neg_sentiment_mean": 0.016299780147771042
+  },
+  "generated_at": "2026-05-20T06:32:09+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "LOVE",
+  "call_date": "2025-12-11",
+  "quarter": 3,
+  "year": 2026,
+  "pressure_score": 0.03430516078732451,
+  "cosine_distance": 0.046159708867297033,
+  "sentiment_shift": 0.07395912637002766,
+  "question_difficulty_mean": 0.19781685384647282,
+  "baseline_mean": 0.03208966784180369,
+  "baseline_std": 0.0031331801708974587,
+  "z_score": 0.7071067811865481,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5989084269232364,
+    "call_mean_answer_length": 284.5,
+    "call_hedge_density": 0.008818998291015534,
+    "call_pos_sentiment_mean": 0.41165142475316924,
+    "call_neu_sentiment_mean": 0.4231624696403742,
+    "call_neg_sentiment_mean": 0.1651860922574997,
+    "call_qa_similarity_mean": 0.4878090853148165,
+    "baseline_neg_sentiment_mean": 0.09122696588747203
+  },
+  "generated_at": "2026-05-20T05:59:34+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "RDWR",
+  "call_date": "2025-12-23",
+  "quarter": 4,
+  "year": 2024,
+  "pressure_score": 0.009309172619288012,
+  "cosine_distance": 0.02625261428023451,
+  "sentiment_shift": 0.0009237394875122439,
+  "question_difficulty_mean": 0.15490794026847665,
+  "baseline_mean": 0.0318068331107785,
+  "baseline_std": 0.03181649658873119,
+  "z_score": -0.7071067811865476,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5774539701342383,
+    "call_mean_answer_length": 141.0,
+    "call_hedge_density": 0.016306321607448892,
+    "call_pos_sentiment_mean": 0.3826337887181176,
+    "call_neu_sentiment_mean": 0.6034819483757019,
+    "call_neg_sentiment_mean": 0.013884267562793361,
+    "call_qa_similarity_mean": 0.4199556158135619,
+    "baseline_neg_sentiment_mean": 0.012960528075281117
+  },
+  "generated_at": "2026-05-20T06:44:30+00:00"
+}

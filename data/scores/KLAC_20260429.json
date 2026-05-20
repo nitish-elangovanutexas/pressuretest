@@ -1,0 +1,28 @@
+{
+  "ticker": "KLAC",
+  "call_date": "2026-04-29",
+  "quarter": 3,
+  "year": 2026,
+  "pressure_score": 0.011818777381600105,
+  "cosine_distance": 0.01751595194185196,
+  "sentiment_shift": 0.023619087156839663,
+  "question_difficulty_mean": 0.18441202291632602,
+  "baseline_mean": 0.022563639304340584,
+  "baseline_std": 0.015195529456965834,
+  "z_score": -0.7071067811865477,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.592206011458163,
+    "call_mean_answer_length": 208.9,
+    "call_hedge_density": 0.035482414350336874,
+    "call_pos_sentiment_mean": 0.4572163999080658,
+    "call_neu_sentiment_mean": 0.46583327306434513,
+    "call_neg_sentiment_mean": 0.07695033899508416,
+    "call_qa_similarity_mean": 0.5008580799422063,
+    "baseline_neg_sentiment_mean": 0.0533312518382445
+  },
+  "generated_at": "2026-05-20T05:53:01+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "CCOI",
+  "call_date": "2026-05-04",
+  "quarter": 3,
+  "year": 2025,
+  "pressure_score": 0.0,
+  "cosine_distance": 0.0,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.15798365962522345,
+  "baseline_mean": 0.0,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5789918298126118,
+    "call_mean_answer_length": 166.83333333333334,
+    "call_hedge_density": 0.017005303413935625,
+    "call_pos_sentiment_mean": 0.29784623673185706,
+    "call_neu_sentiment_mean": 0.5422992440354493,
+    "call_neg_sentiment_mean": 0.15985449072387484,
+    "call_qa_similarity_mean": 0.5103342152075986,
+    "baseline_neg_sentiment_mean": 0.15985449072387484
+  },
+  "generated_at": "2026-05-20T04:55:45+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "BMBL",
+  "call_date": "2026-05-05",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.06019962466887185,
+  "cosine_distance": 0.15118682486066215,
+  "sentiment_shift": 0.028118930640630424,
+  "question_difficulty_mean": 0.1808517296733648,
+  "baseline_mean": 0.03800096924179895,
+  "baseline_std": 0.020615698531791595,
+  "z_score": 1.0767840533193775,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5904258648366824,
+    "call_mean_answer_length": 415.3333333333333,
+    "call_hedge_density": 0.009227339303261212,
+    "call_pos_sentiment_mean": 0.06507774939139684,
+    "call_neu_sentiment_mean": 0.8693477511405945,
+    "call_neg_sentiment_mean": 0.0655745081603527,
+    "call_qa_similarity_mean": 0.5430030538191796,
+    "baseline_neg_sentiment_mean": 0.03745557751972228
+  },
+  "generated_at": "2026-05-20T04:49:00+00:00"
+}

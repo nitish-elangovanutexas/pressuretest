@@ -1,0 +1,28 @@
+{
+  "ticker": "LOB",
+  "call_date": "2026-04-23",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.13251743810236424,
+  "cosine_distance": 0.35700419332736766,
+  "sentiment_shift": 0.008007613631586231,
+  "question_difficulty_mean": 0.21908047999422697,
+  "baseline_mean": 0.09856819510926917,
+  "baseline_std": 0.054884422817000594,
+  "z_score": 0.6185588050418416,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6095402399971135,
+    "call_mean_answer_length": 34.5,
+    "call_hedge_density": 0.0,
+    "call_pos_sentiment_mean": 0.19764269143342972,
+    "call_neu_sentiment_mean": 0.7771748602390289,
+    "call_neg_sentiment_mean": 0.025182420387864113,
+    "call_qa_similarity_mean": 0.21673992616811802,
+    "baseline_neg_sentiment_mean": 0.033190034019450344
+  },
+  "generated_at": "2026-05-20T05:59:09+00:00"
+}

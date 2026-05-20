@@ -1,0 +1,28 @@
+{
+  "ticker": "ANET",
+  "call_date": "2026-05-05",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.015310435922952772,
+  "cosine_distance": 0.0423693124983594,
+  "sentiment_shift": 0.001468603998301135,
+  "question_difficulty_mean": 0.1773169898089156,
+  "baseline_mean": 0.0157180889560167,
+  "baseline_std": 0.0005765084481015376,
+  "z_score": -0.707106781186546,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5886584949044578,
+    "call_mean_answer_length": 150.75,
+    "call_hedge_density": 0.02919009805228325,
+    "call_pos_sentiment_mean": 0.1780201337300241,
+    "call_neu_sentiment_mean": 0.7603023260831833,
+    "call_neg_sentiment_mean": 0.061677542002871635,
+    "call_qa_similarity_mean": 0.4553442168417564,
+    "baseline_neg_sentiment_mean": 0.06314614600117277
+  },
+  "generated_at": "2026-05-20T04:35:57+00:00"
+}

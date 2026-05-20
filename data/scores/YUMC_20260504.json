@@ -1,0 +1,28 @@
+{
+  "ticker": "YUMC",
+  "call_date": "2026-05-04",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.027279951198796455,
+  "cosine_distance": 0.07012004162581853,
+  "sentiment_shift": 0.005250563565641641,
+  "question_difficulty_mean": 0.23516239044579262,
+  "baseline_mean": 0.02124443648406833,
+  "baseline_std": 0.008535506765470897,
+  "z_score": 0.7071067811865476,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6175811952228963,
+    "call_mean_answer_length": 191.0,
+    "call_hedge_density": 0.022553539143224985,
+    "call_pos_sentiment_mean": 0.48630380630493164,
+    "call_neu_sentiment_mean": 0.494194233417511,
+    "call_neg_sentiment_mean": 0.01950197909027338,
+    "call_qa_similarity_mean": 0.4906606647754307,
+    "baseline_neg_sentiment_mean": 0.024752542655915023
+  },
+  "generated_at": "2026-05-20T07:37:06+00:00"
+}

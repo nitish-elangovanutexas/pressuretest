@@ -1,0 +1,28 @@
+{
+  "ticker": "AEHR",
+  "call_date": "2026-04-08",
+  "quarter": 3,
+  "year": 2026,
+  "pressure_score": 0.027856937071696806,
+  "cosine_distance": 0.07307546884581106,
+  "sentiment_shift": 0.010240072158113532,
+  "question_difficulty_mean": 0.16212664912538555,
+  "baseline_mean": 0.01974965179198291,
+  "baseline_std": 0.011465432796599142,
+  "z_score": 0.7071067811865477,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5810633245626928,
+    "call_mean_answer_length": 217.77777777777777,
+    "call_hedge_density": 0.03729838328956767,
+    "call_pos_sentiment_mean": 0.15634280029270384,
+    "call_neu_sentiment_mean": 0.81698120964898,
+    "call_neg_sentiment_mean": 0.026675983435577817,
+    "call_qa_similarity_mean": 0.3897900933385996,
+    "baseline_neg_sentiment_mean": 0.03691605559369135
+  },
+  "generated_at": "2026-05-20T14:44:21+00:00"
+}

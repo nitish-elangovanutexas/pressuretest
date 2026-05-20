@@ -1,0 +1,28 @@
+{
+  "ticker": "BOH",
+  "call_date": "2026-04-20",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": -7.768281674134207e-17,
+  "cosine_distance": -2.220446049250313e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.16617434843132892,
+  "baseline_mean": -7.768281674134207e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5830871742156645,
+    "call_mean_answer_length": 34.0,
+    "call_hedge_density": 0.0,
+    "call_pos_sentiment_mean": 0.10275865346193314,
+    "call_neu_sentiment_mean": 0.8842686414718628,
+    "call_neg_sentiment_mean": 0.012972730211913586,
+    "call_qa_similarity_mean": 0.27335773339815805,
+    "baseline_neg_sentiment_mean": 0.012972730211913586
+  },
+  "generated_at": "2026-05-20T04:49:44+00:00"
+}

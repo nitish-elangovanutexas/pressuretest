@@ -1,0 +1,28 @@
+{
+  "ticker": "CME",
+  "call_date": "2026-04-22",
+  "quarter": 4,
+  "year": 2024,
+  "pressure_score": -7.715270178399412e-17,
+  "cosine_distance": -2.220446049250313e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.15821626335007657,
+  "baseline_mean": -7.715270178399412e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5791081316750383,
+    "call_mean_answer_length": 83.37931034482759,
+    "call_hedge_density": 0.012833384874191616,
+    "call_pos_sentiment_mean": 0.24777158362598256,
+    "call_neu_sentiment_mean": 0.7102690806676601,
+    "call_neg_sentiment_mean": 0.041959337055169306,
+    "call_qa_similarity_mean": 0.3354251498674644,
+    "baseline_neg_sentiment_mean": 0.041959337055169306
+  },
+  "generated_at": "2026-05-20T05:00:26+00:00"
+}

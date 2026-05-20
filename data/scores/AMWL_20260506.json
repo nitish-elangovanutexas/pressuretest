@@ -1,0 +1,28 @@
+{
+  "ticker": "AMWL",
+  "call_date": "2026-05-06",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.04916759759585902,
+  "cosine_distance": 0.10977881092473118,
+  "sentiment_shift": 0.04853792426874862,
+  "question_difficulty_mean": 0.15305303694851663,
+  "baseline_mean": 0.03979043591853951,
+  "baseline_std": 0.013261309220630502,
+  "z_score": 0.7071067811865474,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5765265184742583,
+    "call_mean_answer_length": 199.4,
+    "call_hedge_density": 0.008036780785416323,
+    "call_pos_sentiment_mean": 0.3873193606734276,
+    "call_neu_sentiment_mean": 0.5992942810058594,
+    "call_neg_sentiment_mean": 0.013386375457048415,
+    "call_qa_similarity_mean": 0.4463060016856074,
+    "baseline_neg_sentiment_mean": 0.06192429972579703
+  },
+  "generated_at": "2026-05-20T04:35:05+00:00"
+}

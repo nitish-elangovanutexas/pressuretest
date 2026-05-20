@@ -1,0 +1,28 @@
+{
+  "ticker": "AZZ",
+  "call_date": "2026-04-23",
+  "quarter": 4,
+  "year": 2026,
+  "pressure_score": 0.057597359372341325,
+  "cosine_distance": 0.15053854542060674,
+  "sentiment_shift": 0.009782678339785578,
+  "question_difficulty_mean": 0.22240413419022756,
+  "baseline_mean": 0.033897586535009905,
+  "baseline_std": 0.02120069602543587,
+  "z_score": 1.1178771116239412,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6112020670951138,
+    "call_mean_answer_length": 163.6,
+    "call_hedge_density": 0.026764026996799566,
+    "call_pos_sentiment_mean": 0.11948617696762084,
+    "call_neu_sentiment_mean": 0.7579508006572724,
+    "call_neg_sentiment_mean": 0.12256304621696472,
+    "call_qa_similarity_mean": 0.481558321598747,
+    "baseline_neg_sentiment_mean": 0.11278036787717914
+  },
+  "generated_at": "2026-05-20T04:44:05+00:00"
+}

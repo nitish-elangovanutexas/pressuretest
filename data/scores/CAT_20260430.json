@@ -1,0 +1,28 @@
+{
+  "ticker": "CAT",
+  "call_date": "2026-04-30",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.025790373980179776,
+  "cosine_distance": 0.06556887043575421,
+  "sentiment_shift": 0.01176090681858893,
+  "question_difficulty_mean": 0.17107380605778771,
+  "baseline_mean": 0.029778748123907784,
+  "baseline_std": 0.004118928104811296,
+  "z_score": -0.9683038990336372,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5855369030288938,
+    "call_mean_answer_length": 252.85714285714286,
+    "call_hedge_density": 0.019240901311388,
+    "call_pos_sentiment_mean": 0.37439925968647003,
+    "call_neu_sentiment_mean": 0.5963181640420642,
+    "call_neg_sentiment_mean": 0.029282580528940474,
+    "call_qa_similarity_mean": 0.5435069521099463,
+    "baseline_neg_sentiment_mean": 0.041043487347529405
+  },
+  "generated_at": "2026-05-20T04:53:54+00:00"
+}

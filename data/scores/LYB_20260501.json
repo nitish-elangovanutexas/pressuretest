@@ -1,0 +1,28 @@
+{
+  "ticker": "LYB",
+  "call_date": "2026-05-01",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.032487963335527496,
+  "cosine_distance": 0.05557184836915807,
+  "sentiment_shift": 0.05332186867511182,
+  "question_difficulty_mean": 0.18847119598197581,
+  "baseline_mean": 0.03455757678145534,
+  "baseline_std": 0.002926875404100864,
+  "z_score": -0.7071067811865488,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5942355979909879,
+    "call_mean_answer_length": 132.27272727272728,
+    "call_hedge_density": 0.06385671123618247,
+    "call_pos_sentiment_mean": 0.13018244166265835,
+    "call_neu_sentiment_mean": 0.6391705870628357,
+    "call_neg_sentiment_mean": 0.23064698160371996,
+    "call_qa_similarity_mean": 0.40173773264552276,
+    "baseline_neg_sentiment_mean": 0.17732511292860814
+  },
+  "generated_at": "2026-05-20T06:03:40+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "SUI",
+  "call_date": "2026-02-25",
+  "quarter": 4,
+  "year": 2025,
+  "pressure_score": 0.0427247453750385,
+  "cosine_distance": 0.1252448543095459,
+  "sentiment_shift": 0.004213053733110428,
+  "question_difficulty_mean": 0.11215823658168808,
+  "baseline_mean": 0.034036473260349295,
+  "baseline_std": 0.012287072258181445,
+  "z_score": 0.7071067811865477,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.556079118290844,
+    "call_mean_answer_length": 212.6,
+    "call_hedge_density": 0.015035206476859317,
+    "call_pos_sentiment_mean": 0.328325030207634,
+    "call_neu_sentiment_mean": 0.6604313462972641,
+    "call_neg_sentiment_mean": 0.011243633925914764,
+    "call_qa_similarity_mean": 0.40819719923118064,
+    "baseline_neg_sentiment_mean": 0.015456687659025192
+  },
+  "generated_at": "2026-05-20T07:03:21+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "META",
+  "call_date": "2026-04-29",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.02373603045950426,
+  "cosine_distance": 0.06512948256972717,
+  "sentiment_shift": 0.0031586190142358327,
+  "question_difficulty_mean": 0.17676556179860625,
+  "baseline_mean": 0.02050920448809815,
+  "baseline_std": 0.005711911877921523,
+  "z_score": 0.5649292286666551,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5883827808993032,
+    "call_mean_answer_length": 376.8,
+    "call_hedge_density": 0.025177358230256564,
+    "call_pos_sentiment_mean": 0.11316823437809945,
+    "call_neu_sentiment_mean": 0.8656506061553955,
+    "call_neg_sentiment_mean": 0.021181181073188782,
+    "call_qa_similarity_mean": 0.48466169637475326,
+    "baseline_neg_sentiment_mean": 0.01802256205895295
+  },
+  "generated_at": "2026-05-20T06:07:47+00:00"
+}

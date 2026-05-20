@@ -1,0 +1,28 @@
+{
+  "ticker": "MTCH",
+  "call_date": "2026-05-05",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.023423039417663563,
+  "cosine_distance": 0.04070112257687497,
+  "sentiment_shift": 0.038457920267764054,
+  "question_difficulty_mean": 0.17692355535549067,
+  "baseline_mean": 0.024789615973521868,
+  "baseline_std": 0.0019326310993159261,
+  "z_score": -0.7071067811865485,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5884617776777453,
+    "call_mean_answer_length": 237.4,
+    "call_hedge_density": 0.012511550123309258,
+    "call_pos_sentiment_mean": 0.2933965167030692,
+    "call_neu_sentiment_mean": 0.6064839035272598,
+    "call_neg_sentiment_mean": 0.10011959839612246,
+    "call_qa_similarity_mean": 0.5119154820315985,
+    "baseline_neg_sentiment_mean": 0.1385775186638865
+  },
+  "generated_at": "2026-05-20T06:15:33+00:00"
+}

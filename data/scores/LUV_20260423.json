@@ -1,0 +1,28 @@
+{
+  "ticker": "LUV",
+  "call_date": "2026-04-23",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.047891877922381136,
+  "cosine_distance": 0.10270548827798465,
+  "sentiment_shift": 0.04328462292870319,
+  "question_difficulty_mean": 0.21341808494891362,
+  "baseline_mean": 0.04187610497296779,
+  "baseline_std": 0.008100350403233971,
+  "z_score": 0.7426558914058361,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6067090424744568,
+    "call_mean_answer_length": 227.44444444444446,
+    "call_hedge_density": 0.025399989337036966,
+    "call_pos_sentiment_mean": 0.1786211844947603,
+    "call_neu_sentiment_mean": 0.6451019214259254,
+    "call_neg_sentiment_mean": 0.17627690587606695,
+    "call_qa_similarity_mean": 0.502364467593884,
+    "baseline_neg_sentiment_mean": 0.13299228294736376
+  },
+  "generated_at": "2026-05-20T06:02:51+00:00"
+}

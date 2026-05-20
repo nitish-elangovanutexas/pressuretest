@@ -1,0 +1,28 @@
+{
+  "ticker": "COP",
+  "call_date": "2026-04-30",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.07457484238925978,
+  "cosine_distance": 0.15255057188366916,
+  "sentiment_shift": 0.07128992458297448,
+  "question_difficulty_mean": 0.24243453294565992,
+  "baseline_mean": 0.051137384728800264,
+  "baseline_std": 0.033145570490967044,
+  "z_score": 0.7071067811865474,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6212172664728299,
+    "call_mean_answer_length": 253.2,
+    "call_hedge_density": 0.031460439488775256,
+    "call_pos_sentiment_mean": 0.14235290437936782,
+    "call_neu_sentiment_mean": 0.686619246006012,
+    "call_neg_sentiment_mean": 0.1710278432816267,
+    "call_qa_similarity_mean": 0.45426169173496894,
+    "baseline_neg_sentiment_mean": 0.09973791869865223
+  },
+  "generated_at": "2026-05-20T05:04:59+00:00"
+}

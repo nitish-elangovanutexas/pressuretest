@@ -1,0 +1,28 @@
+{
+  "ticker": "OHI",
+  "call_date": "2026-04-29",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.14974926745522443,
+  "cosine_distance": 0.4096453159622019,
+  "sentiment_shift": 0.013574259169399739,
+  "question_difficulty_mean": 0.19219106263791522,
+  "baseline_mean": 0.0819469838604075,
+  "baseline_std": 0.09588690901965692,
+  "z_score": 0.7071067811865476,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5960955313189576,
+    "call_mean_answer_length": 20.0,
+    "call_hedge_density": 0.0,
+    "call_pos_sentiment_mean": 0.2194826304912567,
+    "call_neu_sentiment_mean": 0.7673123478889465,
+    "call_neg_sentiment_mean": 0.013204971328377724,
+    "call_qa_similarity_mean": 0.13058296218711934,
+    "baseline_neg_sentiment_mean": 0.026779230497777463
+  },
+  "generated_at": "2026-05-20T06:27:47+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "AVT",
+  "call_date": "2026-04-29",
+  "quarter": 3,
+  "year": 2026,
+  "pressure_score": 0.03622562026488993,
+  "cosine_distance": 0.0949112313756878,
+  "sentiment_shift": 0.014324700087308885,
+  "question_difficulty_mean": 0.1559532381800085,
+  "baseline_mean": 0.08504514164498943,
+  "baseline_std": 0.08595839602432385,
+  "z_score": -0.5679436057215972,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5779766190900042,
+    "call_mean_answer_length": 153.0,
+    "call_hedge_density": 0.02360686533450296,
+    "call_pos_sentiment_mean": 0.44981426124771434,
+    "call_neu_sentiment_mean": 0.5211036068697771,
+    "call_neg_sentiment_mean": 0.029082126915454865,
+    "call_qa_similarity_mean": 0.47497840013093146,
+    "baseline_neg_sentiment_mean": 0.04340682700276375
+  },
+  "generated_at": "2026-05-20T04:42:17+00:00"
+}

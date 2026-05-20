@@ -1,0 +1,28 @@
+{
+  "ticker": "SLQT",
+  "call_date": "2026-05-05",
+  "quarter": 3,
+  "year": 2026,
+  "pressure_score": 0.027901763350666263,
+  "cosine_distance": 0.07838890677294685,
+  "sentiment_shift": 0.0036856798320687167,
+  "question_difficulty_mean": 0.15040752992785641,
+  "baseline_mean": 0.03017309720066482,
+  "baseline_std": 0.006439756498374403,
+  "z_score": -0.352704927674193,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5752037649639282,
+    "call_mean_answer_length": 163.0,
+    "call_hedge_density": 0.03071703642108629,
+    "call_pos_sentiment_mean": 0.7030281325181326,
+    "call_neu_sentiment_mean": 0.2712791468948126,
+    "call_neg_sentiment_mean": 0.02569270816942056,
+    "call_qa_similarity_mean": 0.48567423788417013,
+    "baseline_neg_sentiment_mean": 0.029378388001489276
+  },
+  "generated_at": "2026-05-20T06:55:46+00:00"
+}

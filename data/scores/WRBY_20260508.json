@@ -1,0 +1,28 @@
+{
+  "ticker": "WRBY",
+  "call_date": "2026-05-08",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": -8.123577048596509e-17,
+  "cosine_distance": -2.220446049250313e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.21951128563249175,
+  "baseline_mean": -8.123577048596509e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6097556428162458,
+    "call_mean_answer_length": 144.22222222222223,
+    "call_hedge_density": 0.025035109565670035,
+    "call_pos_sentiment_mean": 0.41750719708700973,
+    "call_neu_sentiment_mean": 0.40347953720225227,
+    "call_neg_sentiment_mean": 0.1790132662281394,
+    "call_qa_similarity_mean": 0.4927342285145755,
+    "baseline_neg_sentiment_mean": 0.1790132662281394
+  },
+  "generated_at": "2026-05-20T07:33:09+00:00"
+}

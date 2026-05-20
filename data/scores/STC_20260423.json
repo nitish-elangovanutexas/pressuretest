@@ -1,0 +1,28 @@
+{
+  "ticker": "STC",
+  "call_date": "2026-04-23",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.005395818494695176,
+  "cosine_distance": 0.014497728129538201,
+  "sentiment_shift": 0.0016074974888137424,
+  "question_difficulty_mean": 0.15521918599870646,
+  "baseline_mean": 0.02827532331946717,
+  "baseline_std": 0.03235650602357321,
+  "z_score": -0.7071067811865477,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5776095929993532,
+    "call_mean_answer_length": 250.28571428571428,
+    "call_hedge_density": 0.033847173753789865,
+    "call_pos_sentiment_mean": 0.43081738480499815,
+    "call_neu_sentiment_mean": 0.5463956637041909,
+    "call_neg_sentiment_mean": 0.022786955748285567,
+    "call_qa_similarity_mean": 0.46212952872123286,
+    "baseline_neg_sentiment_mean": 0.02439445323709931
+  },
+  "generated_at": "2026-05-20T07:01:25+00:00"
+}

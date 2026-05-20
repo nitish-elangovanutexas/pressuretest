@@ -1,0 +1,28 @@
+{
+  "ticker": "ALB",
+  "call_date": "2026-05-07",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.0,
+  "cosine_distance": 0.0,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.1651973178870822,
+  "baseline_mean": 0.0,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5825986589435411,
+    "call_mean_answer_length": 109.80952380952381,
+    "call_hedge_density": 0.04453177063544014,
+    "call_pos_sentiment_mean": 0.1531975483965306,
+    "call_neu_sentiment_mean": 0.788808157046636,
+    "call_neg_sentiment_mean": 0.05799430005607151,
+    "call_qa_similarity_mean": 0.4603163770186499,
+    "baseline_neg_sentiment_mean": 0.05799430005607151
+  },
+  "generated_at": "2026-05-20T04:29:48+00:00"
+}

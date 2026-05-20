@@ -1,0 +1,442 @@
+{
+  "ticker": "UPST",
+  "company_name": "Upstart",
+  "call_date": "2026-05-05",
+  "quarter": 1,
+  "year": 2026,
+  "prepared_remarks": "Earnings Call Transcript\nUpstart (UPST) Q1 2026 Earnings Transcript\nBy\n\nMotley Fool Transcribing\n\n–\n\nUpdated May 5, 2026 at 6:16PM EST\n\n\n\n\nImage source: The Motley Fool.\n\n\nDATE\nMay 5, 2026 at 4:30 p.m. ET\nCALL PARTICIPANTS\nChief Executive Officer — Paul Gu\nChief Financial Officer — Andrea Blankmeyer\nNeed a quote from a Motley Fool analyst? Email\n[email protected]\nTAKEAWAYS\nLoan Originations\n-- $3.4 billion, rising 61% year over year and 8% sequentially, with more than 425,000 loans originated.\nTotal Revenue\n-- $308 million, increasing 44% year over year and 4% sequentially, including $277 million in fee revenue, up 49%.\nContribution Margin\n-- 50%, down three percentage points from the prior quarter due to product mix, seasonality, and increased marketing investment.\nGAAP Operating Expenses\n-- $316 million, up 45% year over year and 14% sequentially, led by a 68% rise in variable costs and a 31% jump in fixed costs.\nNet Loss\n-- $7 million, translating to GAAP EPS of negative $0.07 on 97 million diluted shares.\nAdjusted EBITDA\n-- roughly $40 million and a 13% margin for the quarter.\nFull-Year Guidance Reiterated\n-- Management maintained its 2026 outlook for $1.4 billion in revenue, $1.3 billion in fee revenue, and $294 million in adjusted EBITDA, representing a 21% margin.\nCore Personal Loans Performance\n-- Originations were flat versus fiscal Q4 2025 against a historical fiscal Q1 sequential decline of roughly 10%, indicating \"better-than-typical seasonal performance.\"\nAuto Product Growth\n-- Originations grew over 300% year over year and 30% sequentially; retail auto originations up 13x year over year and nearly doubled sequentially, aided by new features and expanded dealer network.\nHome Product Growth\n-- Home originations increased 250% year over year and 16% sequentially; over 25% of home loans fully automated, with an average time to close of six days.\nAI and Technology Updates\n-- Underwriting model accuracy lead expanded by 1.4 percentage points to 173.6% above benchmark, while \"87.4% of the total inaccuracy remains to be solved.\"\nCapital and Funding\n-- Over $4 billion in new committed capital secured year to date, including a \"24-month commitment\" and renewals from key partners; $1 billion in securitizations that were multiple times oversubscribed.\nShare Repurchases\n-- 3.2 million shares repurchased for $100 million in fiscal Q1 2026, with $122 million remaining under the current authorization.\nBank Charter Application\n-- Application submitted for a national bank charter, with management emphasizing expected regulatory and operational benefits but maintaining the third-party funding strategy.\nSUMMARY\nUpstart Holdings\n\n(\nUPST\n\n2.89%\n)\ndelivered strong origination and revenue growth across its product suite in fiscal Q1 2026 (period ended March 31, 2026), with rapid expansion in auto and home products and continued strength in core personal loans. Management confirmed that profitability was temporarily impacted by front-loaded expenses, product mix, and seasonality, but projected sequential margin improvement through 2026. Key strategic initiatives included a national bank charter application and the successful launch of the Cashline revolving credit product, both seen as important for future market reach and technology differentiation.\nThe average return on the last 12 quarterly loan vintages surpassed treasuries by 651 basis points, with each vintage exceeding treasuries by at least 385 basis points.\nCEO Gu said, \"Originations grew 61% year over year and revenue grew 44%, while profit declined marginally.\"\nIn fiscal Q1 2026, more than 20 million unique users checked their rate on the platform, reflecting substantial brand penetration.\nCFO Blankmeyer explained that fiscal Q1 2026 operating expenses were \"front-loaded\" and future OpEx growth is expected to moderate; contribution margin in fiscal Q1 2026 is considered \"the low point for the year.\"\nManagement described the new 24-month funding commitment as the company’s \"longest deal term yet,\" specifically highlighting its importance for weathering market cycles.\nGu indicated that the bank charter will enable the company to address \"missed opportunity on the revenue line\" and access to new geographies, while also reducing operational complexity and direct costs.\nGrowth in both bank partner and institutional investor funding demand remained \"very healthy and growing,\" according to Gu.\nManagement characterized Cashline as having \"the best first day we have ever had for a new product launch.\"\nServicing revenue increased 52% year over year and 22% sequentially, largely due to higher origination volumes and expanded fee structures with loan sales.\nFixed cost investments were front-loaded in fiscal Q1 2026, and the company expects \"more modest sequential growth for the remainder of 2026.\"\nINDUSTRY GLOSSARY\nForward flow\n: Pre-arranged agreement by which a buyer regularly purchases newly-originated loans from the platform, commonly used to secure stable, committed funding.\nHELOC\n: Home Equity Line of Credit, a revolving credit facility secured by the borrower's equity in their home.\nContribution margin\n: A non-GAAP metric defined by Upstart Holdings as revenue from fees minus variable costs for borrower acquisition, verification, and servicing.\nAuto retail originations\n: Loans originated directly through dealer partnerships for vehicle purchases, as opposed to refinancing.\nTake rate\n: The percentage of gross originations or loan volume captured as revenue, either from fees or margins.\nCashline\n: The company's unsecured revolving line of credit product, designed for frequent, smaller dollar borrowing.\nFull Conference Call Transcript\nPaul Gu:\nThank you, Sonya, and thank you everyone for joining us today. I want to start my first official earnings call as CEO by stating simply that the Upstart leadership team and I are here to build a high-growth and high-return business. I am the founder at 20 to start something, and now after 14 years, I would not be doing this if I did not believe the upside ahead for Upstart Holdings, Inc. was as good as that of any startup. In recent decades, there has been a growing trend for the fastest-growing companies to stay private, and as a result, public companies are typically past their high-growth years. We believe Upstart Holdings, Inc. is not.\nAs reflected in our three-year outlook of 35% annualized revenue growth, we expect to be one of the fastest multiyear compounders at our scale. Consumer credit is arguably the oldest, most economically foundational business there is, and today is the perfect time to reimagine it. Unlike in some areas, the application of AI to credit is an unambiguous good for the consumer, saving them time and money to use on the parts of life that really matter. For lenders, AI will transform credit from a structurally commodity-like business to one where the player who wins the technology and modeling race wins the market. With a decade-long head start, we believe that race is ours to lose.\nCapitalizing on this enormous market opportunity will require some investment. Fortunately, we have just the right business to fund it: core personal loans—unsecured installment loans to consumers not conventionally considered super prime. Our significant and growing lead in technology built up over that decade plus gives our product there the best rates and best process in the market, making room for unusually high margins while still delivering the best product to the customer. You are going to hear me talk a lot more about this as CEO. Our core personal loan business makes a lot of money and my first priority is to do a lot more of it.\nBusinesses in today's world, especially in lending, can too easily put up big numbers that depend on even bigger equity bases. At Upstart Holdings, Inc., we have always treated equity as a real cost, and I intend to double down on that rigor. Our operating strategy is to reinvest the profits from core personal loans into building the best product and most trusted brand across every category of consumer credit. This approach allows us to simultaneously maximize earnings over the long run, while running an extremely capital-efficient business. Similarly, our funding strategy for loans will continue to be one that relies primarily on third-party capital.\nAs they say, the market is a weighing machine in the long run, and my bet is that the businesses with the most profits and the least dilution will weigh the most. Now I would like to turn to Q1 and where we stand today. Originations grew 61% year over year and revenue grew 44%, while profit declined marginally. These are strong results and put us comfortably on track to our full-year guidance on both the top and bottom lines. These numbers reflect a mix of four factors: secular improvements to technology and marketing; strong momentum in newer products in the super prime segment; the usual Q1 seasonal headwinds in borrower demand and annual employee-related expenses; and some planned investments.\nI will focus on our platform and product strategy and then turn it over to Andrea for the numbers. As always, our most important growth lever is improving our underwriting model. In Q1, we increased the accuracy lead of our personal loans model over benchmark by 1.4 percentage points. Our model’s advantage now stands at 173.6%, while 87.4% of the total inaccuracy remains to be solved. This quarter, we extended the scope of our models to predict post-default recoveries, replacing the assumptions we had used historically with the full strength of our AI models.\nThis fuller view of loan economics lets us serve more creditworthy borrowers, which drove approximately 3.5% more originations at equivalent risk levels relative to our prior model. Simply put, our lead over traditional credit scoring continues to grow. We are also moving quickly to maximize use of AI across every part of the business. In servicing and collections, we doubled daily AI-assisted borrower conversation volume, brought that capability to our mobile app, and expanded our AI-powered payment features. We also deployed AI-driven quality assurance tools to review customer service calls, giving us a scalable, consistent way to continuously improve the borrower experience. Across our platform, we originated more than 425 thousand loans in Q1.\nWe believe more Americans are choosing to borrow from us than any pure fintech platform. With well over 20 million unique consumers having created accounts to check their rate with Upstart Holdings, Inc., we are rapidly building towards being the most trusted brand in consumer credit. In auto, originations grew more than 300% year over year, and 30% sequentially. Auto retail was a standout, with originations up roughly 13 times year over year and nearly doubling sequentially, driven by a rapidly expanding active dealer network. Our work to reduce friction for dealers is paying off. About a quarter of retail transactions in Q1 used the remote signature capability we launched late last year.\nWe also rolled out a new feature that lets dealers generate firm AI-powered offers across multiple vehicles from a single customer application, and we deepened integrations with dealers' existing compliance and CRM tools. In home, originations grew 250% year over year and 16% sequentially, driven by better marketing reach and efficiency. In Q1, more than one quarter of these loans were fully automated, and we achieved an average time to close of just six days from application to signing, a new record for us and a fraction of the industry average of roughly 40 days.\nIn early April, we also added richer bank account data to our HELOC income verification process, improving accuracy and the salability of these loans to capital markets partners. This progress in auto and home has set us well on our way to serving the full range of consumer credit needs. With growth strong and technology advancing rapidly, the time is now right for both products to begin shifting some of their focus from pure growth to unit economics. Last month, we also launched Cashline, our first unsecured revolving credit product. This is an important step toward our vision of always-on credit for every borrower, and we are thrilled by the early results.\nLooking forward, the next area we are focusing our product and growth efforts on is none other than core personal loans. I said earlier that the profits from this business are central to our strategy, and we have already begun taking action to grow it. While we would normally expect originations to decline sequentially in Q1, core personal loans were flat to Q4. That stronger-than-seasonal performance signals the early stages of the reacceleration we expect to continue through the rest of the year. I want to turn to the capital side of the business. Funding supply for loans is strong. Thanks to the pioneering work Sanjay and the capital team have done, well over half of our capital is committed.\nYear to date, we have expanded and deepened our forward flow relationships, securing over $4 billion in new committed capital. That includes about $2 billion in new commitments from Altura, Centerbridge, and Wafra, alongside renewals from Fortress and Blue Owl. Notably, we closed a 24-month commitment, which is our longest deal term yet, designed to provide durable capital through market cycles. I am also proud to share that this continues our track record of a 100% renewal rate with every partner since our first deal in 2022. Additionally, our recent securitizations totaling approximately $1 billion were multiple times oversubscribed, with the most recent transaction upsized. This reflects strong secondary liquidity for our loans, even amid broader market volatility.\nWe also included auto secured personal loans in a securitization for the first time, an important milestone when it comes to new product funding. These results, happening against the backdrop of market volatility in other areas of credit, are a clear vote of confidence in our platform. We take the trust our capital partners have given us seriously and always treat credit performance as an uncompromising first priority. The average return of our last 12 quarterly vintages of loans exceeds treasuries by 651 basis points, with every individual vintage exceeding treasuries by at least 385 basis points. Finally, the bank charter. In March, we announced our application for a national bank charter.\nAs I said earlier, our strategy for funding loans is to rely primarily on third-party capital, and the bank charter does not change that. We expect banks, credit unions, and institutional investors to continue to purchase the vast majority of loans originated on our platform. A bank charter will, however, bring significant regulatory benefits to Upstart Holdings, Inc., including by expanding our addressable market across all 50 states, reducing the operational and financial cost of originating loans, and accelerating our technology velocity by enabling us to interface with regulators directly. These benefits directly support our growth and profit goals and will show up over the next few years.\nNow I want to close by welcoming Andrea, who joined us as CFO in March. Andrea is an incredibly talented finance leader, with a background in complex, novel business models. She is learning the ropes here faster than I could have hoped for and is already making an impact on how we plan, prioritize, and execute. It is now my great privilege to turn the call over to her for a discussion of our financial results.\nAndrea Blankmeyer:\nThank you, Paul. I appreciate the warm welcome. And good afternoon, everyone. I look forward to spending more time with many of you in the coming weeks and months. It is a privilege to take my first earnings call as CFO. The Upstart Holdings, Inc. team has built a highly differentiated AI-powered credit platform, and the runway in front of us is enormous. I take seriously my responsibility as the financial steward of this platform, including the discipline Paul described around treating equity as a real cost and running a capital-efficient business. I spent my first weeks here digging into the business and the plan, and Paul and I are fully aligned on our financial priorities.\nI look forward to updating you on our progress each quarter. Turning to Q1. Before I review the numbers, I will provide some color around some of the factors Paul mentioned that were specific to the quarter and an expected part of our trajectory for the year. Starting with newer products, we continue to make progress growing our auto and home businesses, and saw strong growth in super prime personal loan originations as well. This drove a sequential dip in our overall take rate and our contribution margin. Next is seasonality. At the top of the funnel, we typically see consumer demand for personal loans soften in Q1 as tax refunds reduce borrowing needs.\nThis soft demand typically translates into lower conversion and a modest step down in contribution margin in Q1 versus Q4. Additionally, our business has OpEx seasonality in the first quarter of the year, with a step up in corporate costs associated with our compensation and benefit cycle and the timing of our annual company-wide gathering. Finally, we made deliberate investments in talent in Q1. This sets us up to achieve our objectives for 2026 and beyond. Each of these factors—mix, seasonality, and investment—in addition to the platform and product gains Paul mentioned, was contemplated in the team's planning for the year. We are on track to deliver on our full-year guidance. Now I will walk through our Q1 results.\nOriginations were $3.4 billion, up 61% from the prior year and 8% sequentially. Within this, total personal loan originations grew 6% relative to Q4, reflecting 26% sequential growth in super prime and better-than-typical seasonal performance in our core business, which was roughly flat sequentially relative to the historical Q1 step down. Our newer secured products continue to scale, with auto originations up 32% sequentially and home up 16%. Taken together, these results demonstrate the strength of our core business and the growing contribution of our newer products to overall platform growth. Total revenue came in at approximately $308 million, up 44% year on year and 4% sequentially.\nThis included revenue from fees of roughly $277 million, up 49% year on year and 4% sequentially, driven by growth in platform originations. Within fee revenues, servicing revenue continued to show solid growth, up 52% year over year and 22% sequentially, driven primarily by higher origination volumes along with an increase in fees connected with the sale of loans. Net interest income and fair value adjustments totaled approximately $31 million, up modestly year on year and roughly flat with Q4.\nOur contribution profits, a non-GAAP metric defined as revenue from fees minus variable costs for borrower acquisition, verification, and servicing, was $137 million, up 34% year over year but down 2% sequentially, primarily as a result of increased marketing investment to optimize digital channels and support new product growth. Contribution margin came in at 50%, down three percentage points from the prior quarter, reflecting the mix, seasonality, and marketing investment dynamics. We expect contribution margin in Q1 will be the low point for the year, barring any changes to the macroeconomic environment. In total, GAAP operating expenses were $316 million in Q1, up 45% year on year and 14% sequentially.\nVariable expenses—borrower acquisition, verification, and servicing—rose 68% year on year and 12% sequentially, with the step up versus Q4 reflecting marketing investments. Fixed expenses were up 31% year over year and 15% sequentially, reflecting the beginning-of-year investment and seasonal step-up in corporate costs I discussed earlier. I will note that our fixed cost investments for the year were front-loaded into Q1, and we expect more modest sequential growth for the remainder of 2026. This sets us up for the adjusted EBITDA margin acceleration we have guided to as the year progresses. In Q1, we had a net loss of approximately $7 million. GAAP earnings per share was negative $0.07 based on a diluted weighted average share count of 97 million.\nAdjusted EBITDA was roughly $40 million with a margin of 13%. With this quarter's results, we are on track to deliver on our adjusted EBITDA outlook of $294 million for the year and to be solidly profitable on a GAAP basis. We ended Q1 with just over $1 billion in loans held on our balance sheet, up approximately $30 million from Q4. It continues to be our strategy to primarily rely on third-party capital to fund our growing originations. Notably, our secured products and other R&D loan balance declined modestly quarter over quarter, even as auto and home originations accelerated. More broadly speaking, as Paul mentioned, and supported by consistent credit performance, we have continued to enhance our capital platform.\nSo far this year, we have signed more than $4 billion in committed capital partnerships, completed two securitizations for $1 billion in total collateral, and increased the proportion of home and auto loans funded by a third party. Additionally, in February, we bought back 3.2 million shares of Upstart Holdings, Inc. stock for $100 million, and we have about $122 million remaining under our current authorization. Looking ahead, we are reiterating our full-year guidance. This means that for full-year 2026, we continue to expect total revenues of approximately $1.4 billion, revenue from fees of approximately $1.3 billion, and adjusted EBITDA of approximately $294 million, which equates to approximately 21% of total revenues, consistent with our prior guidance.\nOur guidance assumes a stable macroeconomic backdrop. Additionally, I will share some color on the drivers and the shape of the year. First, for the full year, we continue to expect growth in absolute contribution profit dollars to be within at least five percentage points of fee revenue growth. We plan to deliver this profit growth using two complementary levers: growing our core personal loan business, where margins are already strong, and continuing to improve unit economics on auto and home as they scale. Second, marketing and OpEx growth should moderate in the remainder of the year relative to what we saw sequentially in Q1.\nThird, we continue to expect adjusted EBITDA to be weighted toward the second half of the year, driven by originations growth, improved contribution margin, and OpEx leverage as we progress through the year. To close, our performance in Q1 was right on track. We entered Q2 with momentum across our core business and our newer products, with consistent credit performance, and with a reinforced capital base. I also want to thank Paul, Sanjay, and the whole team for their support and partnership as I come up to speed. With that, I would like to turn it over to the operator to begin Q&A.\nOperator:\nThank you. We will now",
+  "qa_turns": [
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Mihir Bhatia",
+      "text": "Hi. Good afternoon. Thank you for taking my question and congratulations to both of you on the new role. So just, I guess, in Q1, you called this out a little bit. Originations were up 60%, revenues up 40%, but profitability declined. You highlighted some of the OpEx headwinds during the quarter. You are reinforcing the full-year guide. So maybe just take a step back since you are both newer to the role, and just elaborate on how you are thinking about balancing near-term profit versus reinvestment and growth? Specifically, is there a framework guiding that trade-off, or are you just comfortable prioritizing reinvestment at the expense of margins given the opportunity that you are pursuing?",
+      "turn_index": 0
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Paul Gu",
+      "text": "I think the first thing I would say is that we are very much on track for our full-year guidance. We are reiterating the guidance on the year, and so a lot of what you are seeing in Q1 is very specific to Q1, which are some seasonal effects and some front-loaded investment. But I would not say necessarily that as a matter of strategy, we have decided to make any changes to how profitable the business is going to be. We are very much on track for the annual guide, which does have $294 million of adjusted EBITDA there and net income positive, so we feel really good about that.\nI would say taking a step back and thinking about the business on a go-forward basis, we do think there is an enormous amount of growth ahead of us. We think we can keep compounding revenue at a high rate for a long time here, and we certainly intend to do that. I think the math is just really clear that in the long run, this business is going to throw off the most profits and be worth the most if we capture that growth and that market share, and so we definitely want to be reinvesting. But as you heard me say, we want to reinvest in a way that is capital efficient.\nA big part of the way we intend to do that is by growing in segments where we have high contribution margins and take those margins and reinvest those into growing the business. Some of that is, from an accounting perspective, going to show up as cost, and some of that is going to show up in ways that will decrease the near-term profitability, but they are investment choices that we think we can make in a capital-efficient way to grow the total long-term profits of the business.",
+      "turn_index": 1
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Mihir Bhatia",
+      "text": "Thanks. And then if I could start to follow up on the revolving product some more. Talk about the availability of that. Is it broadly available? And discuss the economics, funding partners, how you are thinking about that product. It seems like a little bit of a credit card replacement. Is that the right way to think about it? Anything more on the revolving product. Thank you.",
+      "turn_index": 2
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Paul Gu",
+      "text": "We do not have too much to share on that product yet other than, yes, it is out broadly. It is called Cashline. We are really excited about it. It had probably the best first day we have ever had for a new product launch. I think there is an enormous opportunity, an enormous need in the market. It is a revolving-like product, and as it grows and reaches scale, we will naturally, just like with our other products, figure out the right third-party partners to work with on the capital side. But for now, it is early days. We are getting the product right, and we are very optimistic about it.",
+      "turn_index": 3
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "We will now take our next question from Kyle David Peterson with Needham.",
+      "turn_index": 4
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Kyle David Peterson",
+      "text": "Great. Good afternoon. Thank you. I wanted to follow up on the prior questions on expenses. I guess both in sales and marketing and G&A were a little higher than we expected. I know you called out some of the seasonality. So I just wanted to see geographically where did some of the seasonal expenses fall and were there any costs related to the announcement you are pursuing the bank application? And how should we think about that expense load moving forward as you go through the process?",
+      "turn_index": 5
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Andrea Blankmeyer",
+      "text": "Great, thanks for the question, Kyle. The expenses from a seasonality perspective are largely showing up in two places. One is on the payroll expense with respect to our people. That is really related to the annual reset of our compensation and our benefit cycle. Additionally, I would say primarily in G&A is where we see costs associated with our annual company-wide gathering, which happens here in Q1 and represents a seasonal uptick.\nAs we mentioned on the call, as we look out over the remainder of the year, our expectation is both on the marketing and the more fixed OpEx side for the business that we will see more moderated sequential quarter-on-quarter OpEx growth relative to what we saw here in Q1.",
+      "turn_index": 6
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Kyle David Peterson",
+      "text": "Okay. I guess, were there any material expenses from the bank application this quarter or nothing worth calling out?",
+      "turn_index": 7
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Andrea Blankmeyer",
+      "text": "Great point. There is nothing material this quarter. We have contemplated the expenses with implementing and launching the bank and that application throughout the remainder of the year in the guide.",
+      "turn_index": 8
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Kyle David Peterson",
+      "text": "Thank you. And then a follow-up on funding. It has been great to see the volume hold up. I know there have been a lot of concerns about private credit. Could you give at least at a high level an update on where your funding comes from in terms of stickier institutional money with more permanent forms of capital versus some of these either interval funds or BDCs that probably are suffering a little more with redemptions and such? If you could size up the relative nature of those and how you feel about and feedback you are getting from your partners, that would be really helpful.",
+      "turn_index": 9
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Paul Gu",
+      "text": "Great question, and one I am excited to talk about. Funding has been a real area of strength for us. It has been an area of strength because I think fundamentally in the markets, capital is going to flow to the places with the best performance. The performance that we have had on the credit side and that our partners have been able to see over the last couple of years has been exceedingly strong. Earlier in the prepared remarks, I shared about the performance over the last 12 quarters and the spread to treasuries being very consistently high. Our partners have been able to see that.\nAs a result, year to date, we have been able to add over $4 billion of additional capacity, and most of that capacity is coming in the form of committed capital deals. These are deals that have commitments over an extended period of time. I mentioned that we now have our first 24-month deal—that is a new high for us in terms of how long these deals are committed.\nThat is so important to us because, fundamentally, we can have a lot of confidence in how our credit is going to perform, but we do not have a lot of control over what happens in the outside world with market volatility, market perception, what is going on in other categories of credit. From our perspective, it is a huge de-risking to be able to do deals with partners that believe in the credit and want to sign up for a commitment over an extended period of time that can get us through any potential market cycle that arises.\nWe think of that as a real win, and we have been able to get a lot of partnerships going that have that extended commitment in place. We feel very good about where we are on loan funding.",
+      "turn_index": 10
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "We will take our next question from Simon Alistair Clinch with Rothschild and Company Redburn.",
+      "turn_index": 11
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Simon Alistair Clinch",
+      "text": "Hi. Thanks for taking my question. I was wondering, on the point about funding and the long-term capital commitments, when we think about the signings you have had recently, could you perhaps describe whether the economics of the sharing of risk have changed in any way or how that is evolving as these newer deals are being renewed?",
+      "turn_index": 12
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Paul Gu",
+      "text": "Sure. We do have risk sharing as a component in many of these deals, and investors can see some of the details about that in our earnings presentation. I would say those deal terms have largely stayed consistent to improving over time. Certainly, like anything, as we do more of these and we do them at greater scale and we prove how they work, we expect over the long run that the terms will get better and better for us. They have been consistent and improving. There is a risk-sharing piece of these deals that is capital we think is well spent.\nIt is a very small percentage of all the capital that funds these loans, and increasingly, that is capital that, from our perspective, is expected to earn a quite healthy, strong return. So capital well spent and certainly fits within the framework of running a capital-efficient business that we talked about.",
+      "turn_index": 13
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Simon Alistair Clinch",
+      "text": "Great. And just as a follow-up, going back to the balance sheet loans, they were up marginally sequentially. Usually when we see a lot of new funding commitments coming through, sometimes they come with upfront purchases of loans off the balance sheet. It does not look like we have seen that. Could you talk about the dynamics of that, please, and is $1 billion really the level that we should be expecting on a go-forward basis?",
+      "turn_index": 14
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Andrea Blankmeyer",
+      "text": "Sure, Simon. I am happy to take that one. We expect to see some degree of normal-course fluctuation on the balance sheet size on a quarter-on-quarter basis, driven by the timing of sales, and that is largely what we saw here in Q1. It is our expectation, as we look out over the remainder of the year, to see some step down in that overall balance in the rest of the year relative to Q1. With respect to the dynamic of back-book sales versus forward flow, we saw a mix of both on the balance sheet in the quarter.\nWhat was very good to see, when it comes to the strength of the capital platform, is in Q1 we did see a higher proportion of our originations on auto and home sold directly through to third parties versus what we saw in Q4 and in 2025. We are making very good progress on that front on the secured products. Otherwise, there is just this timing dynamic on the balance sheet that we do expect to see from time to time.",
+      "turn_index": 15
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "We will now take a question from Dan Dolev from Mizuho.",
+      "turn_index": 16
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Dan Dolev",
+      "text": "Oh, hey, guys. Congrats on the quarter. Got two quick questions. I am looking at, I think, slide 22, and that is the expected cash flow versus the upside/downside. It looks like the trend is widening there. Maybe can you explain some of the dynamics? And then I have a quick follow-up. Thank you.",
+      "turn_index": 17
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Andrea Blankmeyer",
+      "text": "Sure. I am happy to speak to that, and then Sanjay can chime in as helpful. We see it widening out really reflective of just the increased capital co-investment amount. You see the max upside and max downside widen; it is really reflective of the total dollars that are at stake and co-invested here. Does that answer your question?",
+      "turn_index": 18
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Dan Dolev",
+      "text": "Yes, it does. I do have a quick follow-up. Can you give some comments about the overall health of the consumer that you are seeing? I think it will be helpful for investors, and congrats again.",
+      "turn_index": 19
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Paul Gu",
+      "text": "Certainly. We see the American consumer as largely stable over the period. In fact, we have seen the consumer largely stable since late last year, and we have been in a pretty tight range of what we call the Upstart macro index. From our perspective, stability is a really good thing. That is all we ever ask. Certainly, an improving consumer could be a tailwind, but a stable consumer is a good one from our perspective, and that is what we have seen. We, like everybody else, watch developments, but where we are unique is that we are very committed to being a model-first, model-led company.\nWe let our models detect what is going on in terms of consumer repayment patterns, both in the aggregate and at the segment level. We have not seen any of the factors in the news come into play in a significant way yet, and so consumer stable.",
+      "turn_index": 20
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question will come from Peter Corwin Christiansen with Citi.",
+      "turn_index": 21
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Peter Corwin Christiansen",
+      "text": "Good evening. Thanks for the question. Congrats on the committed levels. That is great to hear. I would love to hear your take on demand on the at-will side from some of your bank partners. Then I have a follow-up.",
+      "turn_index": 22
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Paul Gu",
+      "text": "Feel free to follow up if this is not what you are asking about. We have been announcing and signing deals with partners both at our traditional financial institutions—banks and credit unions—as well as with institutional investors that are private credit or another form of institutional capital. On both sides, the demand for loans has been very healthy and growing. That is against the market backdrop where there have been concerns in other categories of credit, in particular in software and some other areas. But for us, because of the strong performance, the demand from both types of institutions has been very strong, and we have been doing deals in both places.",
+      "turn_index": 23
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Peter Corwin Christiansen",
+      "text": "That is helpful. I want to dig into conversion rate seasonality a little bit. You did have a little bit of a step down last year in Q1 as well, maybe a little bit more profound this year. Generally, as we look at the conversion rate and how it progressed last year, it peaked in Q2 and then leveled off and stayed fairly flat in 2025. Should we think about that progression being the same or at least expectations right now for the remainder of 2026? And on the Q1 sequential step down, which is seasonal, it seems like it was a bit more than in previous years. Any additional comments on that?",
+      "turn_index": 24
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Paul Gu",
+      "text": "It is a good observation. You are right about that. There are two different effects going on with conversion rate. The first is a seasonal effect, and that happens every Q1. Every Q1, there is a noticeable reduction in borrower demand for loans related to tax season and tax refunds. That happened this year just like it happens every year and is an important part of the story. With respect to the conversion rate metric specifically, this particular metric has a lot going on in it. It used to be a much simpler metric when we really just had one product, one segment—what we now call core personal loans.\nNow, because we have a mix of products that serve consumers up and down the spectrum, there are significant mix effects going on. This metric in recent quarters has become increasingly affected by our small-dollar product, which is still a relatively new, not totally mature product. Small-dollar products, because they are very small loans, do not have a big impact on the origination dollars or the financials of the business, but they have an outsized impact on the unit-count conversion rate—just how many loans in the numerator converted. We did have a decline in the small-dollar product in Q1, and that had an outsized impact on the conversion rate metric that we cite.\nThis is something we will think about how to improve from a metric perspective. From a core personal loan perspective, that business actually had very stable conversion rates, unseasonably strong conversion rates, and unseasonably strong volumes as we talked about earlier.",
+      "turn_index": 25
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Peter Corwin Christiansen",
+      "text": "That is super helpful, Paul. I appreciate it. Sorry, just one follow-up. Considering the Upstart market macro index is doing marginally better at least on a trailing basis, should we expect some of that small-dollar mix shift impact perhaps bleeding a little bit into Q2?",
+      "turn_index": 26
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Paul Gu",
+      "text": "We do not have any specific guidance on the small-dollar product volumes at this time. The seasonal effects, of course, will run off as we get further into Q2 and past tax season, so that will no longer be a factor. You are right that there is an effect where small-dollar can sometimes move inversely with core personal loans, because it fits after core personal loans in most of the approval funnel. That can be a dynamic, but we do not have any specific guidance on the small-dollar numbers. They are not a very large part of the overall financials right now.",
+      "turn_index": 27
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question will come from James Eugene Faucette with Morgan Stanley.",
+      "turn_index": 28
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "James Eugene Faucette",
+      "text": "Good afternoon. Thank you very much. A follow-up on forward flow agreements and then a more strategic question. On the forward flow details, you have been really active there, but are you seeing any change from those partners with respect to target gross yields or return on equity—any internal metrics that are changing at all, especially given the environment that people have pointed to?",
+      "turn_index": 29
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Paul Gu",
+      "text": "As I said earlier, we have been able to do these deals against a challenging macro backdrop, and we have been able to do them largely consistent to improving deal terms. That includes the kinds of spreads that people are looking for above benchmark rates. Ultimately, it is all downstream of credit performance. If credit performance was not good, that would not be true—we might not even be doing some of these deals. But because credit performance is strong, everything else is downstream of that. The amount of spread you need is a function of how much risk you perceive there to be and underperformance and all of that.\nWe have been really happy with the way we have been able to do these deals, and we expect to continue doing them.",
+      "turn_index": 30
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "James Eugene Faucette",
+      "text": "Got it. And then on the HELOC product—really good growth, the highlight of a six-day process versus up to 40 days as being the industry norm. Where are you seeing, at least in these early days, that speed advantage show up? Higher conversion, lower CAC, loss selection, partner appetite, take rates, anything like that? And where is that mix coming from or what is driving that you like? Is it cross-sell from personal loans or direct to consumer?",
+      "turn_index": 31
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Paul Gu",
+      "text": "You are absolutely right that being able to run a six-day process is huge in HELOC. It manifests in all of those places you listed. You get better conversion, which necessarily means lower CAC. Another place that is really impactful for HELOC is the operational cost of originating one of these products. Every time you can move a loan from one that has a heavy dose of manual work to one that can either be fully automated or just require a tiny bit of manual work, there are very significant ops savings.\nI talked earlier about how we are now turning our attention towards optimizing the margin profile on these new products, and a big part of that is getting the process right and getting the cost down. Technology and getting that six-day process are a huge part of making that happen. From a customer acquisition perspective, we do a wide range of things, but compared to our personal loans product, we have a heavier dosage of cross-sell from the existing customer base, and that will be an increasingly important part of our strategy. Over 20 million people have created accounts at some point to check their rate. That means we have a lot of information and a relationship with them.\nAs we get more offerings across credit needs, that is going to be powerful, and it is already showing up in HELOC and our ability to cross-sell.",
+      "turn_index": 32
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "We will now take a question from Analyst with Goldman Sachs.",
+      "turn_index": 33
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Analyst",
+      "text": "I appreciate you taking the question. I wanted to follow up on the commentary around the 5% spread between contribution profit and revenue from fees. Can you talk about the framework for thinking about that, particularly in light of the ramp of new products, which I understand put some pressure on that spread but maybe is not something you want to artificially throttle? What would cause you to come in above or below that level?",
+      "turn_index": 34
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Andrea Blankmeyer",
+      "text": "Thanks. You are hitting the nail on the head. We are looking to grow contribution profit within five points of fee revenue growth this year. The lag on contribution profit dollar growth relative to revenue is primarily driven by mix and the strong growth in our newer secured products, as well as in prime personal loans. It still represents very substantial contribution profit dollar growth against the platform throughout the year. The things that are going to drive that contribution dollar growth are twofold. First is continuing to lean into the strength of our core personal loan product and drive growth of originations there, which are quite accretive from a margin perspective.\nSecond is driving the continued growth of these secured products alongside continued improvement in the unit economic performance of those products. As those products grow in scale, that will contribute to improved contribution margin as we continue to drive more automation and reduce friction in the process. That will help improve unit economics. As we continue to increase the sell-through of the product off the balance sheet, that will also help drive unit economic performance, representing a tailwind to contribution profit dollar expansion throughout the course of this year. We are looking to hit that number on a contribution profit dollar basis, and those two levers are going to drive it.",
+      "turn_index": 35
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Analyst",
+      "text": "Got it. Appreciate that. You mentioned early signs of acceleration—unseasonally stronger contribution margins and better than seasonality performance in the core personal products. What are you seeing that is allowing you to outperform seasonality, and why do you expect to accelerate that over the course of the year?",
+      "turn_index": 36
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Paul Gu",
+      "text": "These comments were in reference to the core personal loan business. Core personal loans are our historic personal loan product offered to consumers that are not conventionally defined as super prime. These borrowers have long been the place that our business has had the largest competitive advantage. We have a very large amount of differentiation in our ability to underwrite these borrowers compared to what the market offers, and as a result, we have had very strong pricing power historically in this segment.\nOver the last year, we have been very focused on growing and establishing our foothold in new products, especially in home and auto, and also balancing out the platform by getting very competitive and having a set of great rates to offer on very prime customers. With the success we have had in home and auto, we have been able to redirect more focus back to the core. Growth is driven by investment in technology, improvements in that funnel, and improvements in marketing directed towards that customer. We have been doing those things. Those are durable improvements that compound. We are starting to see some of those benefits in the Q1 results.\nThat is why it was able to beat its seasonal expectation. We expect that to continue through the year as we keep reinvesting back into this product, widen the technology lead, and improve marketing to reach more people. By doing those things, we will see this product grow more, which in turn will generate more contribution profits for the rest of the business to use and reinvest.",
+      "turn_index": 37
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Andrea Blankmeyer",
+      "text": "And just to put some numbers on what we are seeing here in Q1 versus previous years: in Q1 2025 and Q1 2024, core personal loans saw about a 10% quarter-on-quarter decline. This year, we are seeing flat originations, and that speaks to the better-than-seasonal performance.",
+      "turn_index": 38
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Next question will come from John Douglas Hecht with Jefferies.",
+      "turn_index": 39
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "John Douglas Hecht",
+      "text": "Afternoon, guys. Thanks very much. You talked about some of the seasonal factors and product shift changes with customer acquisition costs, but is there anything going on at the unit level? Have you seen any changes to origination fee structures in various products, and are you exploring different channels of customer acquisition? Anything going on there to talk about that piece of the business?",
+      "turn_index": 40
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Paul Gu",
+      "text": "No large fundamental changes there. We still use the full range of marketing channels that we used before. We made improvements across many of those, leading to some of the wins and better-than-seasonal numbers. We talked last quarter about our intentional strategy not to max out on take rates from borrowers, and we have stuck to our strategy. We are very intentionally not maximizing short-term profitability. If that was our north star, we could have a lot more of it by squeezing more out of take rates and fees, especially in certain segments. That is not our strategy because we do not think that is the best way to maximize long-term value.\nThere is incredible value in winning over customers and building relationships with them, and leaving a little bit extra on the other side of the table. We have stuck to that strategy with respect to how we think about origination fees. When we go out and do marketing, we keep in mind that it is valuable to win over a customer, and it is not all about maximizing the profit on day one.",
+      "turn_index": 41
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "John Douglas Hecht",
+      "text": "With that in mind, any comments on whether it is recurring customer activity or direct-to-customer activity or cross-sell—any signals you are seeing there?",
+      "turn_index": 42
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Paul Gu",
+      "text": "We certainly do both. We think it is really important to have a lot of repeat customer activity. We are increasingly focused on what we think of as returning user activity. These are not necessarily people that got loans with us before, but those 20 million-plus who have checked their rate with Upstart Holdings, Inc. at some point. Maybe they could not get approved the first time, or maybe they did not get the type or size of loan they were looking for, so they did not accept. These are perfect candidates as we have more and better products to go back to. We are doing more and more of that, and that is something we want to maximize.\nWe are also still early in our growth journey. 20 million is just a fraction of the U.S. population. As the player in the market that we think can serve the entire spectrum—from great rates for very prime to great offers for the other end—we can be a full-spectrum offering. We think our addressable market is a lot more than 20 million Americans, so we want to keep adding new people into the database and keep marketing to do that. Put those together, and in the long run, you are going to have a very valuable business.",
+      "turn_index": 43
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question will be from Patrick Moley with Piper Sandler.",
+      "turn_index": 44
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Patrick Moley",
+      "text": "Yes, good afternoon. Thanks for taking the question. I wanted to go back to the bank charter. Could you walk us through some of the key regulatory milestones ahead and the expected timeline before you start realizing some of the operational and financial benefits you talked about? Thanks.",
+      "turn_index": 45
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Paul Gu",
+      "text": "We are excited about the bank charter. As you mentioned, the benefits are primarily regulatory. To clarify, we expect nice improvements that are both operational and financial out of doing the bank, but it is not a balance sheet strategy. It is not something we are doing to change how we fund loans or how much capital the business needs to operate. In terms of process, we have submitted our application with the OCC for a national bank charter, and we are working with the OCC on pieces of that application. We do not have specific guidance on exact timing.\nThat is going to come in our work with the regulator, but we are very motivated, and the regulators have been really constructive in how they have worked with us and other companies.",
+      "turn_index": 46
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Patrick Moley",
+      "text": "Great. Then a quick one. You bought back $100 million of stock in the first quarter. I think you have a little over $100 million left on the authorization. How are you thinking about the pace of buybacks throughout the rest of the year, and how do you balance that with some of the balance sheet co-investment and new product funding needs?",
+      "turn_index": 47
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Paul Gu",
+      "text": "I will go back to saying that we think capital efficiency is really important. We want to think of equity capital as a real cost. We want to think about metrics in per-share terms as often as we can. In the long run, we are going to be thinking about how to maximize earnings and minimize dilution. Whenever there are opportunities afforded by a combination of available cash and liquidity, financial outlook, and the price is right, we will be looking at opportunities to use stock buyback dollars.\nHaving said that, the reason we are not always buying back all the time is that we have so much growth ahead of us that the threshold for doing that is really high. We know there are many growth opportunities we can invest in operationally, so our threshold for using cash for any other purpose is going to be really high. But once in a while, we will have that opportunity in the market, and whenever that is, we will certainly consider doing it.",
+      "turn_index": 48
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "We will now move to Analyst with BTIG.",
+      "turn_index": 49
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Analyst",
+      "text": "Hey, good afternoon. Thanks for taking my questions. I wanted to follow up on the bank question and focus on the economic implications of becoming a bank. On Upstart’s blog post you highlighted about $200 million of annual frictional costs and also the lack of being able to be in certain geographies or serve certain customers. Could you elaborate on that? How difficult is it, and could you really remove $200 million of annual frictional costs? That would be big versus your EBITDA guidance of $294 million. Do we see that in EBITDA, or does it come from higher transaction volumes, or some combination?",
+      "turn_index": 50
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Paul Gu",
+      "text": "A lot of that $200 million number is really in missed opportunity on the revenue line. It might show up in a different place than if you were just thinking about these as true friction costs. The way it manifests is a few things. First, we have a number of states and segments of the market where we cannot operate or are limited in how much we can operate because of state-level regulatory issues, and having a national bank charter to operate through resolves most of those and gives us access to the full market up to the 36% rate limit.\nThat is a big deal—that is TAM we are missing out on today that directly gets solved by having access to the national bank charter. Second are direct operational and financial costs associated with the way we operate today. We originate loans through a large network of many financial institutions, and that comes with both direct financial costs—paid or earned by the financial institutions instead of us—and the cost and friction in managing that complex system of many players originating. Those are the really concrete costs that go into that $200 million number. Then there is a separate, more intangible benefit that does not go in that number but is as important.\nWe are in a decade where there will be substantial advances in AI that will transform consumer credit. Every regulator will naturally be asking questions about that, wanting to understand it, and wanting to work with the leading frontier companies. From our position as the company that has been doing this longest, we should have a direct relationship with the regulators in helping them understand what it means to apply AI in lending, and do that directly as opposed to through a large number of intermediary financial institutions.",
+      "turn_index": 51
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Analyst",
+      "text": "Great. That is super helpful. Thank you. Switching topics, going back to take rate. Transaction volumes grew 61% year over year and overall revenues grew 44% year over year. How should we expect that dynamic going forward? When you talk about improving the unit economics of auto and home, I know you said you did not want to maximize profit, but does part of improving the unit economics involve the revenue side, or is that primarily on the cost side?",
+      "turn_index": 52
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Andrea Blankmeyer",
+      "text": "Great question. The take rates we are seeing in Q1 are largely a reflection of the dynamics we have spoken about previously: growth of our newer secured products as well as mix shift to prime in personal loans. All of those have been growing very well and have manifested in take rate that has come down year on year, as expected. In addition, seasonality typically brings some softness in take rate in Q1 relative to Q4 associated with the softness in demand—all of which is expected. Stepping back for the remainder of the year, take rate is an output metric for us, not an input metric.\nAs take rate moves in the business, it will be reflective of changing product mix. That said, a key driver of the platform’s ability to deliver contribution profit dollar growth this year is improving unit economics on our auto and home products throughout the course of the year. We have already seen meaningful progress over the last year, and we expect that progress to continue. To your question, that should show up and down the P&L. It will come from improvement and efficiency on the cost side—driven by increasing automation—as well as the benefits of scale.\nWe also expect it to show up in improving take rates on average across the secured product set as we look through the remainder of the year, driven primarily by increased sell-through of loans off the balance sheet to third parties.",
+      "turn_index": 53
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question will be from Giuliano Bologna with Compass Point.",
+      "turn_index": 54
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Giuliano Bologna",
+      "text": "Good afternoon and congrats on the results. As a first question, last quarter you mapped out an expectation of around $100 million of revenue from HELOC and auto between a ballpark 4% upfront take rate and 2% servicing. Is that still the rough expectation? And then I noticed within the servicing line item there was a step up in other fees historically driven by this. It is closer to $3.9 million. Is that anything related to servicing some of those HELOC or auto loans? And how should we think about that going forward?",
+      "turn_index": 55
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Andrea Blankmeyer",
+      "text": "Thanks for the questions, Giuliano. On the first point, the roughly $100 million of fee revenue from auto and secured continues to be in the right ballpark in terms of what we expect. The take plus servicing that Sanjay spoke to last quarter represents more of the medium-term take rate for that product set in aggregate. We may or may not fully achieve that inside of 2026, but over a one- to two-year time horizon as those products grow and scale, that is the target. On your second question on the other fees in servicing, I might need to follow up with you on that one, but I can certainly do that.",
+      "turn_index": 56
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Giuliano Bologna",
+      "text": "That is very helpful. From an execution perspective, as you sell more of those loans through, should we expect servicing fee revenue to be an incremental driver, especially on the margin side, because you are probably spending disproportionately on marketing and other expenses on the front end, but then a lot of the revenue from the growth of those new products is really deferred and realized over time?",
+      "turn_index": 57
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Andrea Blankmeyer",
+      "text": "I think I understand your question, and yes, that would be the case. As we sell these loans through, in terms of how it impacts revenue, we will recognize take rate upfront upon the sale of those loans. Especially on our auto products, where we expect to have a higher proportion of the compensation come from servicing, we will also be generating servicing revenue that we will recognize over time and that will offset the servicing costs that we bear.",
+      "turn_index": 58
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "We will now take a question from Robert Henry Wildhack with Autonomous Research.",
+      "turn_index": 59
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Robert Henry Wildhack",
+      "text": "Hi, everyone. I wanted to follow up on the comment around medium-term take rate and servicing rate for HELOC and auto. In your experience, or do you have any sense for how long a new product takes to reach mature unit economics? Andrea, you mentioned maybe not 12 months, but 12 to 24 months. Will they be mature by then, or is there scope to improve beyond that time frame?",
+      "turn_index": 60
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Paul Gu",
+      "text": "Great question. The beauty of our business is that there is not really any moment where we deem a product mature, because the margins are driven by the level of differentiation created by our technology. It was a lot of years before our core personal loans product reached current levels of take rates and contribution margins—probably seven or eight years—because year after year the models kept getting better and the level of automation kept getting better. That is what allows pricing power when the next best offer is far away and you can increase take rates and still have the best product.\nWe are very much in a position today where these products have found a great fit in the market. We are ready to start optimizing their margin profiles. It is not like they will be done optimizing this year or next year or probably even the year after. They are going to keep getting better as we create more space for differentiation and therefore more space for pricing power. We view that as a fundamentally very good dynamic where we can keep improving the technology, which keeps creating more differentiation, which then allows more pricing power. We do expect these products to get meaningfully better in their margin profiles in the near term.",
+      "turn_index": 61
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Robert Henry Wildhack",
+      "text": "Thanks. And on the Cashline product, can you talk a little bit more about who the target user is? Is it a complement to personal loans or a substitute for someone who does not need or want $15,000 to $20,000? And what about the economics—origination fees—and do you expect those balances and loans will sit on your own balance sheet?",
+      "turn_index": 62
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Paul Gu",
+      "text": "Cashline is designed for someone who has a need for a smaller amount of credit but on a more regular basis. If you think of personal loans as a one-shot $10,000 loan, a cash line is hundreds of dollars but something you might access multiple times a month or quarter. The design of the product needs to be very different, but it is a really valuable customer because it is accessed so frequently over time. In terms of funding, as that product grows, it is going to have its own dedicated funding partners that are the right home for it.\nBecause the product is so short term and the loans are so small, it is not a major factor in the balance sheet today, and it is not something we are particularly worried about.",
+      "turn_index": 63
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "We will now take our next question from David Scharf with Citizens Capital Markets.",
+      "turn_index": 64
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "David Scharf",
+      "text": "Yes, good afternoon. Thanks. Paul, I had a couple of questions related to how we ought to be thinking about the impact of the shifting origination mix—specifically more prime personal loans and HELOC, which by definition is going to be a more prime borrower. First, focusing on capital. It looks like a third of your retained risk on the balance sheet is the beneficial interest—the co-investing. Should that relationship or percentage drop over time as a bigger part of your business becomes prime focused? It seems like the investor part of the marketplace is going to require risk retention to a greater extent the lower-rated the credit.\nCan you walk us through if the balance sheet is going to change as the mix of your originations changes?",
+      "turn_index": 65
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Paul Gu",
+      "text": "It is a good question. I want to start by correcting a misconception about the required level of risk sharing. When we looked at our business over the last few years, one of our fundamental convictions was that we had confidence in our credit, but we did not have control over what happens in the outside market. There would be market environments where funding was less available and others where it was more available, much of it outside our control even if our credit was performing well. We thought it was strategically critical, in our desire to build the largest provider of consumer credit, to have capital arrangements and partnerships that could endure through market cycles.\nOur putting in a small portion of risk sharing into some of these deals was fundamentally in exchange for having committed capital over multiyear windows. We do not view that as a requirement. It is not a bad thing—we view it as something pretty innovative that allows us to solve one of the most important challenges in a fast-scaling business like ours. Coming back to your question on newer products and prime mix and how that will affect it, you are right that the primer products will tend to have a lower level of capital required from a risk-sharing perspective.\nI would not leap to the conclusion that the ultimate mix will be any particular mix of primeness, because we have so much growth in multiple product categories right now. We are putting a lot of focus on growing that core personal loan segment, which is an extremely strong and very profitable segment for us. We have a lot of growth in the auto product, which is a product that every American across the economic spectrum needs. HELOC tends to be a more prime product. Depending on the exact rate at which each of these products grows, you could end up with any particular mix of primeness.",
+      "turn_index": 66
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "David Scharf",
+      "text": "Got it. Understood. That is helpful. Applying the same rubric to the medium term—the three-year guidance—the 35% revenue CAGR is significant, and margins going from 21% to 25% is material as well. But the margin increase is possibly not as much of a pickup as we would expect with revenue increasing two and a half times. Is that related to product mix, or should we interpret that as three years from now you still anticipate being in growth mode and in an above-trend period of investment spending?",
+      "turn_index": 67
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Paul Gu",
+      "text": "More the latter. We are expecting the business to grow a significant amount for a long time. We gave three-year guidance of 35% CAGR, and interestingly, 35% was approximately the same amount of growth we guided to in the first year as the later years. You might infer from that it is not heavily front-loaded like it might be for a business that you expect to grow a lot and then taper off. The market opportunity here is so large across so many categories of credit that we hope to be doing this for a very long time. It is our working expectation that there will be great opportunities to reinvest profit into continuing to grow the business over time.\nI could not tell you today what will happen in year four, five, or six, but if I had to guess, I would guess there will be great opportunities to reinvest for some time. That is what is in our plan today.",
+      "turn_index": 68
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "And it appears there are no further telephone questions. I would like to turn the conference back to Paul Gu for closing comments.",
+      "turn_index": 69
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Paul Gu",
+      "text": "Great. Thank you everyone for your questions and for your time today. I want to leave you with a few things I hope you can take away from our conversation. First, Q1 was strong and puts us comfortably on track to deliver our full-year outlook on both revenue and profit. Second, core personal loans is our superpower. It has great margins, and we are going to do a lot more of it. Third, home and auto have found their places in the market, and it is time to make them profitable. Finally, the opportunity ahead for AI to remake consumer credit is enormous, and we intend to go after it while making every dollar of capital count.\nThank you to our team, our capital partners, and our shareholders. We look forward to seeing you next quarter.",
+      "turn_index": 70
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Once again, that does conclude today's conference. We thank you all for your participation. You may now disconnect.",
+      "turn_index": 71
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "TEVA",
+  "call_date": "2026-02-05",
+  "quarter": 4,
+  "year": 2024,
+  "pressure_score": 0.012819627804651288,
+  "cosine_distance": 0.033003992841663665,
+  "sentiment_shift": 0.0021015204622277205,
+  "question_difficulty_mean": 0.24203123470128296,
+  "baseline_mean": 0.016329051335906408,
+  "baseline_std": 0.00496307435401227,
+  "z_score": -0.7071067811865475,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6210156173506415,
+    "call_mean_answer_length": 178.78571428571428,
+    "call_hedge_density": 0.02739691610476954,
+    "call_pos_sentiment_mean": 0.22507928498089314,
+    "call_neu_sentiment_mean": 0.7524759194680622,
+    "call_neg_sentiment_mean": 0.022444783643420254,
+    "call_qa_similarity_mean": 0.39029667765377535,
+    "baseline_neg_sentiment_mean": 0.020343263181192534
+  },
+  "generated_at": "2026-05-20T07:07:46+00:00"
+}

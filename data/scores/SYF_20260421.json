@@ -1,0 +1,28 @@
+{
+  "ticker": "SYF",
+  "call_date": "2026-04-21",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.0621698282102846,
+  "cosine_distance": 0.18074795792165677,
+  "sentiment_shift": 0.006887791945476722,
+  "question_difficulty_mean": 0.11812324828309458,
+  "baseline_mean": 0.03912837653159095,
+  "baseline_std": 0.020602712503034484,
+  "z_score": 1.1183698105431492,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5590616241415473,
+    "call_mean_answer_length": 294.6666666666667,
+    "call_hedge_density": 0.02832375160822213,
+    "call_pos_sentiment_mean": 0.4550347725550334,
+    "call_neu_sentiment_mean": 0.5225877165794373,
+    "call_neg_sentiment_mean": 0.022377532596389454,
+    "call_qa_similarity_mean": 0.54585167951145,
+    "baseline_neg_sentiment_mean": 0.029265324541866176
+  },
+  "generated_at": "2026-05-20T07:04:28+00:00"
+}

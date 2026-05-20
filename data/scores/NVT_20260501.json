@@ -1,0 +1,28 @@
+{
+  "ticker": "NVT",
+  "call_date": "2026-05-01",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.014449902663858536,
+  "cosine_distance": 0.035941996508201846,
+  "sentiment_shift": 0.007427448480569334,
+  "question_difficulty_mean": 0.17784465679889314,
+  "baseline_mean": 0.01499560442701968,
+  "baseline_std": 0.0007717388344734,
+  "z_score": -0.7071067811865464,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5889223283994466,
+    "call_mean_answer_length": 80.9047619047619,
+    "call_hedge_density": 0.006710411284617791,
+    "call_pos_sentiment_mean": 0.7434640977354277,
+    "call_neu_sentiment_mean": 0.2443865305256276,
+    "call_neg_sentiment_mean": 0.01214939628594688,
+    "call_qa_similarity_mean": 0.5144843762182396,
+    "baseline_neg_sentiment_mean": 0.019576844766516215
+  },
+  "generated_at": "2026-05-20T06:25:40+00:00"
+}

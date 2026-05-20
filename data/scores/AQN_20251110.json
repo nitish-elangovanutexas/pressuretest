@@ -1,0 +1,28 @@
+{
+  "ticker": "AQN",
+  "call_date": "2025-11-10",
+  "quarter": 3,
+  "year": 2025,
+  "pressure_score": -7.797997188422457e-17,
+  "cosine_distance": -2.220446049250313e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.17063524106718525,
+  "baseline_mean": -7.797997188422457e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5853176205335926,
+    "call_mean_answer_length": 137.85714285714286,
+    "call_hedge_density": 0.023218001018672857,
+    "call_pos_sentiment_mean": 0.2268742679485253,
+    "call_neu_sentiment_mean": 0.7502599443708148,
+    "call_neg_sentiment_mean": 0.022865761736673967,
+    "call_qa_similarity_mean": 0.4503696882074219,
+    "baseline_neg_sentiment_mean": 0.022865761736673967
+  },
+  "generated_at": "2026-05-20T04:38:18+00:00"
+}

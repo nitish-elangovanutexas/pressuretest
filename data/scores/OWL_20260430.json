@@ -1,0 +1,28 @@
+{
+  "ticker": "OWL",
+  "call_date": "2026-04-30",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 8.008445576855002e-17,
+  "cosine_distance": 2.220446049250313e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.20222775052470277,
+  "baseline_mean": 8.008445576855002e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6011138752623514,
+    "call_mean_answer_length": 342.0,
+    "call_hedge_density": 0.01974784641085143,
+    "call_pos_sentiment_mean": 0.3267165782550971,
+    "call_neu_sentiment_mean": 0.5847284446159998,
+    "call_neg_sentiment_mean": 0.08855499715233843,
+    "call_qa_similarity_mean": 0.4707628079863242,
+    "baseline_neg_sentiment_mean": 0.08855499715233843
+  },
+  "generated_at": "2026-05-20T06:30:34+00:00"
+}

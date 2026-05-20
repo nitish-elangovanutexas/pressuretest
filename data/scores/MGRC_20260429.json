@@ -1,0 +1,28 @@
+{
+  "ticker": "MGRC",
+  "call_date": "2026-04-29",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.036505151504164945,
+  "cosine_distance": 0.06330018696545514,
+  "sentiment_shift": 0.0564328531335507,
+  "question_difficulty_mean": 0.20572056610439407,
+  "baseline_mean": 0.0301942934937676,
+  "baseline_std": 0.008924900988514813,
+  "z_score": 0.7071067811865475,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6028602830521971,
+    "call_mean_answer_length": 116.7,
+    "call_hedge_density": 0.02828747433229406,
+    "call_pos_sentiment_mean": 0.33353045098483564,
+    "call_neu_sentiment_mean": 0.5238651111721992,
+    "call_neg_sentiment_mean": 0.14260445032268762,
+    "call_qa_similarity_mean": 0.5783854256654914,
+    "baseline_neg_sentiment_mean": 0.08617159718913692
+  },
+  "generated_at": "2026-05-20T06:08:49+00:00"
+}

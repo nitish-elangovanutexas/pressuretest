@@ -1,0 +1,28 @@
+{
+  "ticker": "SIRI",
+  "call_date": "2026-04-30",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.01173653075379704,
+  "cosine_distance": 0.031580775508270764,
+  "sentiment_shift": 0.004214840484339566,
+  "question_difficulty_mean": 0.13756929218784822,
+  "baseline_mean": 0.018443477004158444,
+  "baseline_std": 0.008826068898917142,
+  "z_score": -0.7599018687905631,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5687846460939241,
+    "call_mean_answer_length": 168.85714285714286,
+    "call_hedge_density": 0.03214024318984698,
+    "call_pos_sentiment_mean": 0.4111739852066551,
+    "call_neu_sentiment_mean": 0.5686924915228572,
+    "call_neg_sentiment_mean": 0.020133536042911664,
+    "call_qa_similarity_mean": 0.48203740091743363,
+    "baseline_neg_sentiment_mean": 0.0159186955585721
+  },
+  "generated_at": "2026-05-20T06:54:22+00:00"
+}

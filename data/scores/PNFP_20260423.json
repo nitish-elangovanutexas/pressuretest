@@ -1,0 +1,28 @@
+{
+  "ticker": "PNFP",
+  "call_date": "2026-04-23",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.009258290329228147,
+  "cosine_distance": 0.017131755679504868,
+  "sentiment_shift": 0.014215910308665099,
+  "question_difficulty_mean": 0.15979307289062453,
+  "baseline_mean": 0.02683035964096677,
+  "baseline_std": 0.02485065873962082,
+  "z_score": -0.7071067811865475,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5798965364453122,
+    "call_mean_answer_length": 165.36363636363637,
+    "call_hedge_density": 0.02747667253079192,
+    "call_pos_sentiment_mean": 0.3560453423044898,
+    "call_neu_sentiment_mean": 0.585637631741437,
+    "call_neg_sentiment_mean": 0.058317029679363426,
+    "call_qa_similarity_mean": 0.467160143025724,
+    "baseline_neg_sentiment_mean": 0.04410111937069833
+  },
+  "generated_at": "2026-05-20T06:36:58+00:00"
+}

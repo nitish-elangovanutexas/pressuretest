@@ -1,0 +1,28 @@
+{
+  "ticker": "ACB",
+  "call_date": "2026-02-04",
+  "quarter": 3,
+  "year": 2026,
+  "pressure_score": 7.641148914747575e-17,
+  "cosine_distance": 2.220446049250313e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.1470891801713217,
+  "baseline_mean": 7.641148914747575e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5735445900856608,
+    "call_mean_answer_length": 117.625,
+    "call_hedge_density": 0.015485983135837846,
+    "call_pos_sentiment_mean": 0.34472180251032114,
+    "call_neu_sentiment_mean": 0.6343987006694078,
+    "call_neg_sentiment_mean": 0.020879489951767027,
+    "call_qa_similarity_mean": 0.4856495805503901,
+    "baseline_neg_sentiment_mean": 0.020879489951767027
+  },
+  "generated_at": "2026-05-20T14:43:18+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "NLY",
+  "call_date": "2026-04-22",
+  "quarter": 3,
+  "year": 2024,
+  "pressure_score": 0.018280441971214225,
+  "cosine_distance": 0.051149163578814605,
+  "sentiment_shift": 0.004450974919434109,
+  "question_difficulty_mean": 0.12599353015535267,
+  "baseline_mean": 0.016945851469668708,
+  "baseline_std": 0.0018873959874999824,
+  "z_score": 0.707106781186547,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5629967650776764,
+    "call_mean_answer_length": 152.8181818181818,
+    "call_hedge_density": 0.025392777774343036,
+    "call_pos_sentiment_mean": 0.41984130001880904,
+    "call_neu_sentiment_mean": 0.4656692059202628,
+    "call_neg_sentiment_mean": 0.11448950786143541,
+    "call_qa_similarity_mean": 0.4810686552017383,
+    "baseline_neg_sentiment_mean": 0.11894048278086952
+  },
+  "generated_at": "2026-05-20T06:22:50+00:00"
+}

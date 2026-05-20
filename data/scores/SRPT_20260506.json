@@ -1,0 +1,28 @@
+{
+  "ticker": "SRPT",
+  "call_date": "2026-05-06",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": -7.845532126041828e-17,
+  "cosine_distance": -2.220446049250313e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.17777118531217428,
+  "baseline_mean": -7.845532126041828e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5888855926560872,
+    "call_mean_answer_length": 80.25,
+    "call_hedge_density": 0.009775346148685807,
+    "call_pos_sentiment_mean": 0.1565632512792945,
+    "call_neu_sentiment_mean": 0.807173932592074,
+    "call_neg_sentiment_mean": 0.036262815818190575,
+    "call_qa_similarity_mean": 0.2985941146945118,
+    "baseline_neg_sentiment_mean": 0.036262815818190575
+  },
+  "generated_at": "2026-05-20T07:00:15+00:00"
+}

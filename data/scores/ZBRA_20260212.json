@@ -1,0 +1,28 @@
+{
+  "ticker": "ZBRA",
+  "call_date": "2026-02-12",
+  "quarter": 4,
+  "year": 2025,
+  "pressure_score": 0.023743927754785874,
+  "cosine_distance": 0.05019409036501521,
+  "sentiment_shift": 0.029644805842378573,
+  "question_difficulty_mean": 0.13135344479174293,
+  "baseline_mean": 0.024362967612351127,
+  "baseline_std": 0.0008754545622182902,
+  "z_score": -0.7071067811865475,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5656767223958714,
+    "call_mean_answer_length": 64.80952380952381,
+    "call_hedge_density": 0.040238715348409684,
+    "call_pos_sentiment_mean": 0.3498369531617278,
+    "call_neu_sentiment_mean": 0.6244687473490125,
+    "call_neg_sentiment_mean": 0.025694287049451044,
+    "call_qa_similarity_mean": 0.3191558877057478,
+    "baseline_neg_sentiment_mean": 0.05533909289182962
+  },
+  "generated_at": "2026-05-20T07:37:36+00:00"
+}

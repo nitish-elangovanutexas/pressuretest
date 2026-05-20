@@ -1,0 +1,28 @@
+{
+  "ticker": "SWKS",
+  "call_date": "2026-05-05",
+  "quarter": 2,
+  "year": 2026,
+  "pressure_score": 0.019597811824169798,
+  "cosine_distance": 0.044998677167129686,
+  "sentiment_shift": 0.02011459559601332,
+  "question_difficulty_mean": 0.11843554957035371,
+  "baseline_mean": 0.016380893011779123,
+  "baseline_std": 0.004549410213536043,
+  "z_score": 0.7071067811865474,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5592177747851769,
+    "call_mean_answer_length": 113.0,
+    "call_hedge_density": 0.028809832834381283,
+    "call_pos_sentiment_mean": 0.2919914223253727,
+    "call_neu_sentiment_mean": 0.6218641258776187,
+    "call_neg_sentiment_mean": 0.0861444391310215,
+    "call_qa_similarity_mean": 0.5026827207765833,
+    "baseline_neg_sentiment_mean": 0.06602984353500818
+  },
+  "generated_at": "2026-05-20T07:03:47+00:00"
+}

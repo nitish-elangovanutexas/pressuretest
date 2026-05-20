@@ -1,0 +1,28 @@
+{
+  "ticker": "HOOD",
+  "call_date": "2026-04-28",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.016568703171561953,
+  "cosine_distance": 0.04684998009832153,
+  "sentiment_shift": 0.0021883323566122756,
+  "question_difficulty_mean": 0.14324786471233017,
+  "baseline_mean": 0.02378839490681169,
+  "baseline_std": 0.015127487726702617,
+  "z_score": -0.4772564926630705,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.571623932356165,
+    "call_mean_answer_length": 184.6086956521739,
+    "call_hedge_density": 0.021739901466406558,
+    "call_pos_sentiment_mean": 0.1457413375053717,
+    "call_neu_sentiment_mean": 0.8238258193368497,
+    "call_neg_sentiment_mean": 0.030432837772304596,
+    "call_qa_similarity_mean": 0.4328432794215335,
+    "baseline_neg_sentiment_mean": 0.02824450541569232
+  },
+  "generated_at": "2026-05-20T05:43:05+00:00"
+}

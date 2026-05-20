@@ -1,0 +1,28 @@
+{
+  "ticker": "TASK",
+  "call_date": "2026-05-07",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 8.126864271235011e-17,
+  "cosine_distance": 2.220446049250313e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.2200047634541531,
+  "baseline_mean": 8.126864271235011e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6100023817270765,
+    "call_mean_answer_length": 190.66666666666666,
+    "call_hedge_density": 0.008631898005461802,
+    "call_pos_sentiment_mean": 0.4227123229453961,
+    "call_neu_sentiment_mean": 0.393783758704861,
+    "call_neg_sentiment_mean": 0.1835038992576301,
+    "call_qa_similarity_mean": 0.5978513688221393,
+    "baseline_neg_sentiment_mean": 0.1835038992576301
+  },
+  "generated_at": "2026-05-20T07:05:34+00:00"
+}

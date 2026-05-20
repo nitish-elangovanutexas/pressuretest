@@ -1,0 +1,28 @@
+{
+  "ticker": "MO",
+  "call_date": "2026-04-30",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.03774992896355323,
+  "cosine_distance": 0.09632795472545874,
+  "sentiment_shift": 0.02005703358074904,
+  "question_difficulty_mean": 0.14707281234158193,
+  "baseline_mean": 0.05534531808968683,
+  "baseline_std": 0.016463376218602374,
+  "z_score": -1.068759462974073,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5735364061707909,
+    "call_mean_answer_length": 106.5,
+    "call_hedge_density": 0.02086227515143243,
+    "call_pos_sentiment_mean": 0.18301370227709413,
+    "call_neu_sentiment_mean": 0.7940584532916546,
+    "call_neg_sentiment_mean": 0.022927827085368335,
+    "call_qa_similarity_mean": 0.5417105758993297,
+    "baseline_neg_sentiment_mean": 0.042984860666117376
+  },
+  "generated_at": "2026-05-20T06:11:50+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "XOM",
+  "call_date": "2026-05-01",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.04469184299813611,
+  "cosine_distance": 0.12092399891079175,
+  "sentiment_shift": 0.00492654476577464,
+  "question_difficulty_mean": 0.19937826640264317,
+  "baseline_mean": 0.026088478424051504,
+  "baseline_std": 0.01614230888785681,
+  "z_score": 1.152459954974542,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5996891332013216,
+    "call_mean_answer_length": 309.53846153846155,
+    "call_hedge_density": 0.01060206418781446,
+    "call_pos_sentiment_mean": 0.37254351979264844,
+    "call_neu_sentiment_mean": 0.5940965528671558,
+    "call_neg_sentiment_mean": 0.0333599101465482,
+    "call_qa_similarity_mean": 0.489812127526867,
+    "baseline_neg_sentiment_mean": 0.028433365380773557
+  },
+  "generated_at": "2026-05-20T07:34:54+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "KALU",
+  "call_date": "2026-04-23",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.024815493140814115,
+  "cosine_distance": 0.06851266393036437,
+  "sentiment_shift": 0.0021017410326749086,
+  "question_difficulty_mean": 0.18314669409632456,
+  "baseline_mean": 0.030598353715409962,
+  "baseline_std": 0.008178199853906115,
+  "z_score": -0.7071067811865477,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5915733470481623,
+    "call_mean_answer_length": 144.5,
+    "call_hedge_density": 0.014171892612817498,
+    "call_pos_sentiment_mean": 0.6737462480862936,
+    "call_neu_sentiment_mean": 0.3023476830373208,
+    "call_neg_sentiment_mean": 0.023906083622326452,
+    "call_qa_similarity_mean": 0.5085616248095777,
+    "baseline_neg_sentiment_mean": 0.02600782465500136
+  },
+  "generated_at": "2026-05-20T05:52:21+00:00"
+}

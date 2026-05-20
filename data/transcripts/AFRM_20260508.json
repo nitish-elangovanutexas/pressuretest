@@ -1,0 +1,478 @@
+{
+  "ticker": "AFRM",
+  "company_name": "Affirm",
+  "call_date": "2026-05-08",
+  "quarter": 3,
+  "year": 2026,
+  "prepared_remarks": "Earnings Call Transcript\",\"datePublished\":\"2026-05-08T16:51:28.000Z\",\"dateModified\":\"2026-05-08T16:51:28.000Z\",\"author\":{\"@type\":\"Person\",\"name\":\"Motley Fool Transcribing\",\"url\":\"https://www.fool.com/author/20032/\",\"jobTitle\":\"Contributing Analyst\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://g.foolcdn.com/avatar/2041746765/large.ashx\",\"height\":\"80\",\"width\":\"80\"}},\"about\":[{\"@type\":\"Corporation\",\"tickerSymbol\":\"NASDAQ AFRM\"}],\"publisher\":{\"@type\":\"Organization\",\"@id\":\"https://www.fool.com/\",\"name\":\"The Motley Fool\",\"url\":\"https://www.fool.com/\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://g.foolcdn.com/misc-assets/logo-tmf-primary-7-magenta-royalpurple.svg\",\"width\":\"157\",\"height\":\"43\"},\"brand\":\"The Motley Fool\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"Media Inquiries\",\"email\":\"pr@fool.com\"},\"publishingPrinciples\":\"https://www.fool.com/about/\",\"sameAs\":[\"https://www.fool.com/about/\",\"https://en.wikipedia.org/wiki/The_Motley_Fool\",\"https://www.wikidata.org/wiki/Q7752442\",\"https://www.linkedin.com/company/the-motley-fool\",\"https://www.facebook.com/themotleyfool/\",\"https://x.com/themotleyfool\",\"https://www.instagram.com/themotleyfoolofficial/\",\"https://www.youtube.com/channel/UCpRQuynBX9Qy9tPrcswpPag\",\"https://www.pinterest.com/themotleyfool/\",\"https://www.tiktok.com/@themotleyfoolofficial\",\"https://www.google.com/search?kgmid=/m/0578mk\"]},\"description\":null,\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.content.foolcdn.com/images/1umn9qeh/production/b4204f36ed605fc54d4ba32e2cb31d1dd892afd6-800x450.jpg?w=800&q=75&fit=max&auto=format\",\"height\":\"630\",\"width\":\"1200\"}}\nEarnings Call Transcript\nAffirm (AFRM) Q3 2026 Earnings Call Transcript\nBy\n\nMotley Fool Transcribing\n\n–\n\nMay 8, 2026 at 12:51PM EST\n\n\n\n\nImage source: The Motley Fool.\n\n\nDate\nThursday, May 7, 2026 at 5 p.m. ET\nCall participants\nFounder and Chief Executive Officer — Max Levchin\nChief Operating Officer — Michael Linford\nChief Financial Officer — Robert O'Hare\nInvestor Relations — Zane Keller\nNeed a quote from a Motley Fool analyst? Email\n[email protected]\nTakeaways\nDelinquencies\n-- Affirm reported \"very stable\" performance among the consumers it underwrites, with no signs of deterioration or disturbance in credit quality.\nFunding costs\n-- Michael Linford stated funding costs declined by approximately 125 basis points year over year, driven by both lower benchmark rates and tightening credit spreads.\nABS market execution\n-- Affirm completed three asset-backed securitization (ABS) deals so far in the year, including two revolving structures and one static deal, all with \"significant oversubscription,\" and continued spread tightening.\nActive merchant count\n-- The number of active merchants increased by 44%, with large platform partnerships such as Shopify, and a new program with Intuit, cited as key drivers.\nPay in X growth\n-- Pay in X became Affirm's fastest-growing segment, primarily due to a large program moving to an evergreen 0% Pay in 4 offer, and the continuing growth of the Shopify channel.\nArtificial intelligence development\n-- Levchin described the use of AI and agentic code as \"unequivocally accretive to the bottom line,\" with development costs in \"very low single-digit millions per quarter,\" according to O'Hare.\nAffirm Card growth\n-- Cardholders reached 4.4 million; Levchin noted the Card is the company's fastest-growing and most profitable product, with strong network-driven engagement and no reliance on external performance marketing.\n0% APR loan mix\n-- Increased 0% APR loan volume lowered certain margin rates but was described as beneficial for both merchants and Affirm's economics due to lower credit costs and broad adoption among major merchants.\nForward flow funding mix\n-- Linford reported Affirm's forward flow buyer base skews toward large pension funds, insurance complexes, and a joint venture with Sixth Street, reducing exposure to highly liquid or volatile funding vehicles.\nInternational expansion investment\n-- Management confirmed ongoing investment in international market entry, with anticipated minimal short-term drag on revenue less transaction costs due to the current size of U.S., and Canadian, operations.\nNo AI-related layoffs\n-- Levchin explicitly stated, \"We are not planning AI-related layoffs, full stop,\" attributing Affirm's efficiency to existing operational discipline rather than headcount reduction.\nSummary\nAffirm\n\n(\nAFRM\n\n1.53%\n)\nemphasized deep, stable funding markets and resilient credit among its borrower base, directly countering sector concerns about credit or capital market volatility. Management highlighted the strategic acceleration in merchant and cardholder growth, driven by large platform partnerships and increased 0% APR program adoption, without increased marketing spend. The call detailed significant progress in scaling artificial intelligence-driven development, directly attributing efficiency gains and product expansion velocity to these internal investments. Affirm also outlined continued investment in international expansion, disclosing that the resulting cost impact is currently minimal relative to core operations.\n\"Affirm app was deliberately designed to make sure that there is more value to be had there than just sort of in passing, setting up, or checking up on your AutoPay,\" according to Levchin, pointing to growing engagement features and event-driven consumer education within the product.\nO'Hare explained that a quarter-over-quarter increase in allowance rate was attributed to both seasonality and \"favorable prepayments from tax season,\" which reduced outstanding loan balances.\nManagement described network effects as central to rising consumer engagement, citing that more than 90% of transactions now come from returning users, and emphasizing the flywheel of increased merchant count, and higher usage per customer.\nLinford clarified that Affirm \"don't do performance marketing\" for acquiring Card customers, instead focusing on product-led network growth and internal optimization to drive cardholder adoption and usage.\nSelect forward-looking comments on the company's roadmap, international markets, and feature launches were reserved for disclosure at the upcoming Affirm Investor Forum, which may bring further material insights.\nIndustry glossary\nPay in X\n: An installment offering that enables consumers to pay for purchases in a specified number of scheduled payments, typically with 0% or low APR.\nRLTC (Revenue Less Transaction Costs)\n: Affirm's profitability metric defined as revenue generated minus transaction-related costs, including funding and credit losses.\nABS (Asset-Backed Securitization)\n: The process by which pools of Affirm's consumer loans are packaged and sold as securities to investors, providing funding and balance sheet management.\nBNPL (Buy Now, Pay Later)\n: An industry term referring to short-term financing solutions allowing consumers to purchase goods and pay for them over time, commonly used at point-of-sale.\nForward flow\n: Long-term, typically committed agreements with institutional investors that enable ongoing sales of whole loans originated by Affirm as a source of funding.\nFull Conference Call Transcript\nMax Levchin, Affirm's Founder and Chief Executive Officer; Michael Linford, Affirm's Chief Operating Officer; and Rob O'Hare, Affirm's Chief Financial Officer. In line with our practice in prior quarters, we will begin with brief opening remarks from Max before proceeding immediately into questions and answers. Before we begin the call, as a reminder, we will be hosting our 2026 Affirm Investor Forum next week on Tuesday, May 12, from 2 until approximately 5:\n00 p.m. Eastern Time. The event will be available to the public via live cast on our Investor Relations website. We will also publish a replay on our website after the event ends. With that, I'll turn the call over to Max to begin.\nMax Levchin:\nThank you, Zane. Fiscal Q3 was another one for the record books. Given this streak, one could be forgiven if one thought it is actually pretty easy. That's all because the fantastic Affirm team is starting to make it look that way. It is not, in fact, easy, and we're very proud of this particular quarter. As Zane said, I look forward to seeing many of you in person at the industry forum next week. On that note, back to you, Zane.\nZane Keller:\nThanks, Max. Okay. Let's get to your questions. Operator, please begin the Q&A session.\nOperator:\n\n[Operator Instructions]\nOur first question comes from Jason Kupferberg with Bank of America.\nJinli Chan:\nThis is Cassie Chan on for Jason. Great quarter. I just wanted to ask, I guess, first on the private credit side and in general on credit. It seems like the delinquencies were pretty stable this quarter. I guess, is there anything that you're seeing in terms of changes or slowdowns in credit? And obviously, unease in private credit seems to be a theme, but are you guys seeing any issues or changes on the funding side of the business?\nMax Levchin:\nI'll start with the credit side, Michael will pick up the funding side. No, we are not. At this point, I think we earned the right to say the Affirm consumer. And so these are not comments on the universe or even North America or United States consumer, but people that we choose to underwrite and lend to, we are not seeing deterioration. We're not seeing any disturbances in the course, which naturally translated to a very stable and pleasant funding environment for us. Michael, can you tell any more?\nMichael Linford:\nYes. The funding market broadly remains exceptionally constructive for us. We're kind of out of adjectives to describe just how great the execution has been. I know a lot of ink is being spilled elsewhere about what's going on in the capital markets. But from our perspective, we see a market that's very deep. We see it sustained and reducing spreads, and we see deals with significant oversubscription along with forward flow partners who are, if anything, still clamoring for a bigger allocation of our portfolio. So we see the market as being very constructive to us and a key part of the reason why our -- we feel there's so much tailwind in the business.",
+  "qa_turns": [
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from Nate Svensson with Deutsche Bank.",
+      "turn_index": 0
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Christopher Svensson",
+      "text": "Congrats on the record number of Lebowski references in the letter. I just want to ask -- Sorry, I wanted to ask on the upcoming Big Nothing. But going through the transcript last quarter, Max, you were obviously pretty effusive about all the first order and derivative benefits from that event, things like cardholder sign-ups. I assume directionally, you're expecting a lot of the same things. But on the call last quarter, you also talked about getting better and smarter as you do more of these.\nSo I guess the question is around what ways you think you got better and smarter and maybe what are some of the incremental changes or initiatives we should be on the lookout for, for the event next week?",
+      "turn_index": 1
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Max Levchin",
+      "text": "I don't really want to reveal all the surprises to be completely honest, but I appreciate the kind words, and we did get smarter. I think probably if you want to sort of look for bread crumbs, we got smarter about targeting, that's certainly -- and it's less about sort of sitting down in the lab somewhere and trying to come up with ideas, much more about looking at the data we gathered and the last Big Nothing and just using all the same ML AI techniques we have here to ask the question, what's the least costly highest probability of conversion for any one SKU, any one consumer, any one merchant, et cetera. So it will get more efficient.\nThat's certainly the case. We got smarter, kind of, qualitatively. I think we really underplayed the event itself in the early hours and kind of had to play a little bit of a catch-up on the marketing side of things. And this won't happen this time. So we will hit the ground running with just promoting it correctly to all the right people, again, maximizing the effective per dollar yield for our merchant partners. So we expect to be even more satisfying to those who are paying for these deals.",
+      "turn_index": 2
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from Bryan Keane with Citi.",
+      "turn_index": 3
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Bryan Keane",
+      "text": "Can you give us some insights on the ABS market, the deal in March, and then the recent deal, what's going on with spreads and demand for you guys?",
+      "turn_index": 4
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Michael Linford",
+      "text": "Yes. Thanks for the question. I think we've executed 3 deals so far this year, 2 revolving deals in the quarter, and then we just priced a static deal we haven't yet closed on. And the trend really across all 3 is incredible depth, lots of oversubscription in these deals and continued and sustained tightening of spreads and a key part of the reason why you see funding costs down on the order of 125 basis points year-on-year. Obviously, benchmark rates are down as part of that, but you're also seeing spreads coming in at the same time. It's just really a reflection of the capital markets demand for our asset and our team's ability to execute.\nDespite quite a bit of economic volatility and headlines out there, we feel like the market is just extremely constructive for earning.",
+      "turn_index": 5
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Bryan Keane",
+      "text": "Yes. And it just feels like they're starting to recognize maybe the differences between what you guys -- your credit versus others and the short duration and obviously, the quick turn. But it looks like the market is starting to recognize that. So it's good to see.",
+      "turn_index": 6
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Michael Linford",
+      "text": "The short duration of our asset is a huge advantage, and it's taken us a long time to earn that. We've also done a really good job, I think, in engaging the investor base and bringing on board, over the years, a wider set of investors. That's really important for the depth of the market we play in. It's a key channel for our long-term growth. But also the more broad of the investor base you bring on, the better you could get on pricing.",
+      "turn_index": 7
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from Rob Wildhack with Autonomous Research. Our next question comes from Moshe Orenbuch with TD Cowen.",
+      "turn_index": 8
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Moshe Orenbuch",
+      "text": "I noticed that growth in the Pay in X has -- is your fastest-growing segment now. Is there -- are there different either programs or kind of merchant partnerships or anything that is kind of driving that? And do we think that's going to continue into fiscal Q4?",
+      "turn_index": 9
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Robert O'Hare",
+      "text": "Moshe, this is Rob. We do expect that trend to continue into fiscal Q4. And I think the answer was largely in your question. We did have one large -- one very large program move to having an evergreen 0% via Pay in 4 offer. So that definitely drove a bit of the uptick. And then we also continue to see most of our Pay in 4, Pay in X volume coming from the Shopify program, which continues to grow nicely. So a bit of sort of business as usual there, and then we did have one large program make a change to their financing program, which we think is real positive.",
+      "turn_index": 10
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "And our next question comes from Ramsey El-Assal with Cantor Fitzgerald.",
+      "turn_index": 11
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Unknown Analyst",
+      "text": "This is Ryan on for Ramsey. I wanted to ask about the active merchant count, which went up by 44%, accelerating beyond a strong Q2. Where or what is the largest opportunity for -- to add more merchants? And how penetrated is the market, not in terms of consumer usage, but in terms of merchant presentment for BNPL?",
+      "turn_index": 12
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Max Levchin",
+      "text": "I mean, I think in terms of merchant count, we're still looking at some of our largest platform partners as the biggest accelerant to growing our current merchant base. So some of the big PSPs where we have relationships as well as large merchant platforms, like Shopify, those have been really additive to our merchant base overall. I think in terms of presentment, we still feel like it's really, really early innings in terms of presentment. Obviously, we have a brand-new program with Intuit, and there's lots of optimizations to do within that merchant base. That's an enormous universe of merchants that we're just scratching the surface on, and it's very early days in that program.\nSo there's countless other examples across our portfolio. But I think in terms of the partnerships that drive some of these big merchant counts, I think we're still -- we still have plenty of room to optimize how we show up on the end merchant site.",
+      "turn_index": 13
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from Harry Bartlett with Rothschild & Co Redburn.",
+      "turn_index": 14
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Harry Bartlett",
+      "text": "I just wanted to touch on the kind of agentic code development point in the shareholder letter. You cited the kind of notable ramp in agentic written code, and it looks like you're kind of doing double the amount of requests that you were doing previously. So I guess, could you kind of talk about this broadly in terms of how you're thinking maybe costs will develop versus how they developed historically or whether you kind of see this more as a vehicle for more rapid product development, I guess?",
+      "turn_index": 15
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Max Levchin",
+      "text": "So this is very tempting to turn this into a 15-minute answer in the finer point of software development, which I am personally invested and involved in. So the shorthand, first of all, and I will rely on Rob in a second to maybe try to even quantify it, but it's unequivocally accretive to the bottom line to use AI the way we are. So this is a net strongly positive, the fact that we are increasing our development velocity is just incredibly strong for our bottom line and then some. The actual mechanics of development using agentic processes and et cetera, pretty unique, and we feel pretty great about where we are and where we're headed.\nIf you ever read the fine print of the likes of ChatGPT, Gemini, there's a little thing in the bottom that says AI makes mistakes. Basically, you're on your own. We don't really have the luxury of putting that in our code. If we make an underwriting mistake, if our engine somehow treats some consumer unfairly or if we're off by a penny here and there, like none of that is okay. And so as much as we can and do use these tools, there are still many unique-to-Affirm checks and balances and processes that ensure that what we ship is of the same or higher quality than what we did before these tools came around.\nAnd we spent quite a lot of time getting there, getting the confidence, testing it. And so the reason we have this sort of uncork it moment early in the year is because we felt that we were ready to mass deploy it internally and have, so far, been very pleased with what's transpired. And we'll definitely do more. I think, I'm sure our engineering leadership is listening/reading these letters, and I don't think anybody is begrudging me the right to say we think we can 10x this productivity further. So it's very early days. We're very excited about it.\nWe have no shortage of things we want to build and therefore, humans that are both the creators of ideas, the arbiters of good taste and the ultimate responsibility carriers for this no errors, no fineprint, no bugs are still very necessary. So we don't anticipate any sort of a decimation of the engineering team, but we are certainly very excited to give each one of our engineers basically superpowers. And Rob has any additional cost points to make?",
+      "turn_index": 16
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Robert O'Hare",
+      "text": "In terms of the costs, I mean, they did obviously show up in the P&L this quarter. They'll continue into Q4 as well. I wouldn't say it's a material impact to the P&L overall, it sort of very low single-digit millions per quarter in terms of spend. So to Max's point, I mean, we're seeing a lot of efficiency spending money on developer tools is something we've always done. So we're just thinking about ways to make sure that on a holistic basis, that all-in budget makes sense for us and that we're seeing efficiency and lift from the entire portfolio of tools that we're employing.",
+      "turn_index": 17
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from Rob Wildhack with Autonomous Research.",
+      "turn_index": 18
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Robert Wildhack",
+      "text": "Can you guys hear me?",
+      "turn_index": 19
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Max Levchin",
+      "text": "Yes.",
+      "turn_index": 20
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Robert Wildhack",
+      "text": "I wanted to ask about the different Affirm services, namely the app. You've highlighted in the past the GMV lift there, that's intuitive. I'm curious where consumer awareness is on that. Like are consumers still opening up their home app to make a payment and going, oh, can we hear this great offer? Or have they become more attuned to the fact that this is a place where they can start looking for products and shopping via the app first?",
+      "turn_index": 21
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Max Levchin",
+      "text": "You're front running like half of my speech next week. So I'm not going to answer -- I'm not going to gratify this one [indiscernible]. The short answer is it is trending in the very direction you described. So Affirm app was deliberately designed to make sure that there is more value to be had there than just sort of in passing, setting up or checking up on your AutoPay. So all the different components in the first 3 and the fifth tabs of the app are all designed to create engagement to expose consumers to various merchant promotions. It is not an accident that The Big Nothing days are basically organized around the app.\nWe're trying to teach consumers that this is where you go. There's always 0% offers in the app. The B&D is just a nexus of many of them concurrently, but at any given time, there's a lot to begin with. We have a really nice number. I won't spoil the eventual report on that one, number of searches that consumers run in our app. We're watching that grow. And it's all in the service of teaching consumers that the best experience of Affirm is the app plus the card. And so I'm deliberately obscuring some of the maybe more interesting portions, but you'll have to wait 6 more days before we start really doing some fun reveal.\nBut directionally, you're exactly right. Like we are motivated to make the app experience excellent, both as a product and as a financial service to our consumers, and there's a bunch of things to show and many more that we're probably not going to show up necessarily next week, but it shapes the road map for years in our minds.",
+      "turn_index": 22
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Robert Wildhack",
+      "text": "Got it. And then a quick one for Rob, if I may. This was up quarter-over-quarter. Can you just call out the drivers there?",
+      "turn_index": 23
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Robert O'Hare",
+      "text": "I'm sorry, could you repeat the question?",
+      "turn_index": 24
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Robert Wildhack",
+      "text": "The allowance was up quarter-over-quarter. Just wondering the drivers there.",
+      "turn_index": 25
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Robert O'Hare",
+      "text": "Yes. I mean it's, of course, partly a function of just seasonality. The allowance rate typically is elevated in Q3, just given we have the sequential downtick from holiday volumes in Q2 down to a lower base in fiscal Q3. So that's part of it. Another driver, which I think Max called out in his portion of the letter was just that we did see elevated prepayments on the platform. It's a little bit of a counterintuitive point, but that's a really positive credit signal, and it has the effect of reducing the overall loan balance, which obviously, the good loans are being paid off early. And so you're left with more delinquencies off of a lower base.\nSo that was -- that contributed to a higher allowance rate all in, but we think it's a really positive credit signal across our users at large. So those are sort of the 2 biggest drivers, seasonality and then a bit of favorable prepayments from tax season.",
+      "turn_index": 26
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Unknown Executive",
+      "text": "This tax season was understandably refund maxed. Is that what...",
+      "turn_index": 27
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "And our next question comes from Dan Dolev with Mizuho.",
+      "turn_index": 28
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Dan Dolev",
+      "text": "As always, very impressive results. Just wanted to ask you, Max -- can you hear me well?",
+      "turn_index": 29
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Max Levchin",
+      "text": "We're just -- we're silent waiting.",
+      "turn_index": 30
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Dan Dolev",
+      "text": "I just wanted to ask really quickly, some of your competitors have done some significant layoffs because of AI. I just wanted to know what the official Affirm stance is on this topic.",
+      "turn_index": 31
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Max Levchin",
+      "text": "We are not planning AI-related layoffs, full stop. I don't mean to belittle anyone out there making the right or what they believe to be the right decisions for their company. So strictly Affirm-centric view of the world from us. If you look at our revenue per employee, it is already hanging out in like NVIDIA territory. I don't remember the last time I looked at it, but it's a very high number of dollars per employee. So we, today, operate as a very lean machine. If you look at our overall headcount, it hasn't grown very much.\nIf you look at the revenue per employee, you'll see that we're just highly efficient, if you look at overall operating leverage, it's done really well. So we -- long before AI tools came along, we had tooled ourselves up to be very efficient. These tools are giving us rocket boosters, wings, whatever metaphor you want, and we're very happy for it. But at least for now and as far as the -- as far as eye can see anyway, it is just a thing we're going to keep using to ship more. The list of things we want to ship is very long.\nAnd until very recently, a lot of our conversations were, well, we don't know when we're going to prioritize this thing that you went back because we have so much more to build. Blissfully, these conversations are now like, wow, we can just have a hackathon and 48 hours later, we'll have a working prototype. We just wrapped up one here where our product team literally delivered dozens of shippable features, which is just impossible to imagine 12 months ago. So we know all the people we got. We think we have fantastic people, and we like them all.",
+      "turn_index": 32
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from Dan Perlin with RBC Capital Markets.",
+      "turn_index": 33
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Daniel Perlin",
+      "text": "I'm wondering, can you just speak, I think, maybe holistically to your expansion plans outside of North America? I know you talked about it a little bit embedded in the guidance here for the product and go-to-market initiatives and not being material in '26. But I'm just trying to think contemplating in terms of investments as we start to think about next year, and also, I guess, in the context, although it's a little bit of a different driver, but the RLTC margins continue to run above long-term targets. I'm just wondering as you go into the international markets, how that might impact it.",
+      "turn_index": 34
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Max Levchin",
+      "text": "Sure. I'll take them in order. I think we're going to spend a bit of time talking about our expansion plans with a bit more specificity in terms of markets. So I'll leave the deep dive on the international markets for next week's investor forum, if that's okay. In terms of the investment portfolio for those launches, some of that work is already underway today. So it's definitely been an area that we've been investing in ahead of those markets coming live. And as you've seen from the results, we've been able to drive, really nice operating leverage despite that investment.\nSo I think we would expect to do more of the same in fiscal '27, but I'll stop short of giving any sort of outlook or guidance for '27 today. In terms of unit-level economics, I mean, I think as we ramp in new countries, we would expect potentially that there is a bit of an investment period where we're meeting new consumers and coming down the curve in terms of underwriting prowess. So there could be a small drag on revenue less transaction costs as we enter these new markets. But given the size of the U.S. and Canadian businesses today, we think any headwinds there would be pretty minimal.",
+      "turn_index": 35
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from Andrew Bauch with BMO Capital Markets.",
+      "turn_index": 36
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Andrew Bauch",
+      "text": "I wanted to talk about Affirm Card and the level of ads you continue to stack up here. The 700,000 users is pretty impressive, especially coming off of the 900,000 last quarter. So is there anything that's working differently or stronger than it has been in the past as far as Card customer acquisition goes? And then my follow-up would be, now that we've doubled the base at [ 4.4 ], are you starting to see more and more benefits of scale coming through the pike?",
+      "turn_index": 37
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Max Levchin",
+      "text": "I think the first part -- there's a long list of things we have done and continue to do to just increase adoption. We've said it before and remains true that Card are, by far, fastest growing and also our most profitable product. So there's absolutely no reason not to try to grow it. That said, we have not been, in any way, fuel -- choosing the growth. It's natural. There's not a secret game somewhere being played or anything like that. So it's growing about as fast as we can make it grow without tilting anything in a weird direction. Still primarily remains a repeat product.\nWe've never tried to advertise or promote it outside of existing Affirm user base. It's still roughly in the 20% of the actives, plus or minus. So it's -- we have a lot of road to cover before we start asking where can we get more cardholders. They are our favorite users in a sense that they transact most frequently. They tend to be least lossy just because we get to know them a lot quicker, a lot more frequently. And so there's -- it's all goodness, nothing sort of -- nothing hidden or regrettable there.\nAnd the economies of scale, I think -- to be completely honest, I haven't thought it through very carefully if we're finding benefits of scale that are sort of truly unique. The one thing that is true in a software development context, which is a little maybe a glimpse into the resource allocation, your fastest-growing product is typically your smallest product. So no matter how much you love your youngest child, you can't really allocate the greatest number of resources towards it because it's just too small. The Card is now in the billions of dollars of volume.\nIt's no longer a small product, which means that it deserves and gets the software engineering attention and the risk attention is all the various pieces that we would perhaps wonder if they're worth allocating from other parts. And so you can expect it to get more features sooner, more -- maybe even more growth sooner, although that is not a forecast or forward-looking statement, is just sort of hitting its stride in every dimension, including internal resource allocation.",
+      "turn_index": 38
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from Matt O'Neill with Bank of America.",
+      "turn_index": 39
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Matthew O'Neill",
+      "text": "Being cognizant of the upcoming forum, I'll try not to get too long-term focused. But maybe we can talk a little bit about the Card and what that sort of portends to the longer-term banking idea. Obviously, there's application put in this past quarter. Respecting that I expect a lot more of this next week, are there any sort of points you can kind of hint at as far as the focus around things like sort of pay now, direct deposit, the dynamics to contemplate as you guys proceed down that path?",
+      "turn_index": 40
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Max Levchin",
+      "text": "It's definitely worth separating the bank application and the product road map. Like they move in complete different time horizons. We are excited to continue the conversation with our regulatory friends and it may take a little time, it may take a long time. We don't know, and that's part of the process. And certainly have nothing to share on that front at the moment. On the feature set of where the product road map is headed, we'll cover some of that next week. So I definitely don't want to take Vishal's talking points away from him. But we definitely have aspirations in a variety of consumer financial services.\nFor the longest time, we said we see ourselves -- our mission states it pretty clearly, we're trying to build honest financial products to improve lives. We're not trying to build short-term loans at the point of sale to improve lives. And so there's plenty of opportunity, we think, to write the wrongs of some of the poorly made products in the industry and also just invent our owns and do interesting things there. So I'm getting a little bit of a word salad here, but we have aspirations in just about everything that you can possibly imagine in consumer financial services. More to come.\nI'm also cognizant that sometimes we announce things and take 3 years to get them to the point where they're good enough to launch. And so I'm extra cautious not to say, oh, here's something we're going to do, and we'll definitely do it, but it may take us a year or 2.",
+      "turn_index": 41
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Matthew O'Neill",
+      "text": "I appreciate that and the delineation between the regulatory process and the business build-out.",
+      "turn_index": 42
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from Darrin Peller with Wolfe Research.",
+      "turn_index": 43
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Darrin Peller",
+      "text": "Can we just touch base again on the strength of the GMV side for a moment and the sustainability? Number one is just making sure there was nothing unusual or unsustainable about the quarter, but -- which I'm sure you'll say probably not. I just -- I guess I'm trying to figure out what's to stop this type of growth rate from being sustainable from your perspective. And then more importantly, I mean -- and on that note, we've heard a lot from competitors about trying to do more in the space, but it seems to have very little impact on your growth potential.\nSo I mean, anything you're seeing from the competitive landscape that's changed worth sharing over the past quarter or 2 would be great.",
+      "turn_index": 44
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Max Levchin",
+      "text": "Thank you. I'll start. I suspect Michael, who is doing a small victory dance right next to me, will have something to add. But you're totally right. We don't see a reason. And again, I don't want to front-run our promises and storytelling next week. But no, there's nothing unnatural about this one. We move up and down with the economy, but we are -- we believe we've hit a product market fit quite some time ago. But we're still tiny relative to the massive payment volume in the U.S. alone. On e-commerce alone, we're really, really small. So taking share. It's not that hard yet.\nIn terms of competitive, and I really will let my colleagues speak, it's hard to tell. One of our long-tenured executives here has this line. They're never retreating. They're just reloading, so it's a fantastic space. The NPL overall is just a very compelling product. We don't have a monopoly in the idea. And so it's always going to be a competitive space. There are really no monopolies in payments to begin with. So it's just not a thing we can expect to eventually own entirely to ourselves. We do -- or anyway, very biased view of the world are the best at it. We do have some really great economies of scale.\nCapital markets, are now very familiar with our product. They understand exactly what we manufacture. They understand that we are entirely noncompromising in our view of what is and isn't fit to sell into forward flow or securitizations. And so we have a lot of trust with our counterparties, and we tend to take them very seriously. On the consumer side, we're not really heavy advertisers, certainly not heavy brand advertisers, and yet we do have a brand. We just ran a bunch of studies that show that we're really well recognized. People trust us.\nThey understand after 15 years that when we say no late fees, we meet it, never charges a penny, don't have a plan to ever charge a penny of late fees. So that's been slowly but surely building up in our favor. And then just on a pure sort of competitive front, I think speaking of maybe the most important and least understood advantage that we have, we have been at it for a very long time. We have built some very, very sophisticated underwriting capabilities. We'll definitely talk a lot about that next week.\nSo I'm going to bite my tongue right there, but we have some very, very cool stuff that we've done, not just recently, but over the years in underwriting. And a great percentage maybe the totality of our competitors that have raised their hand and said, sure, underwriting is not that hard, we can do it. One by one found out that it is. It is actually very, very difficult. And by showing our results, we may have fooled the world by just print a good result quarter after quarter after quarter, and we get a yield that, gosh, why don't you guys already admit that it's always going to be over 4%.\nIt is a difficult balance to strike to print these unit economics day in and day out. And all of that -- or a lot of that comes from our AI team and the research that they do, and it's hard work. And so I think we make it very easy to believe that just isn't that hard, and it really is. And the longer this show goes, the more it becomes obvious that we are pretty good at math and are very serious about it, and the rest of the competitors are not.",
+      "turn_index": 45
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Robert O'Hare",
+      "text": "{And then, Darrin, just to your question on the growth rate, obviously, we're really happy with the growth rate that we posted in Q3, and we are incrementally more positive on the Q4 growth rate in the updated guide. I will just remind everyone that we did sunset a top 3 merchant in Q1 of this year. So we are comping against -- there is a difficult comp in the prior year period, and that comp did step up a little bit from Q3 to Q4. So it's a little bit more of a headwind to growth. We're talking sort of a few points of growth in terms of headwind.\nAnd as we get into fiscal '27, the comps get a lot easier for us. It's more of a same-store comp for us. So we do -- we don't think that the Q4 growth rate will necessarily be a ceiling as we look ahead into fiscal '27.",
+      "turn_index": 46
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from Connor Allen with JPMorgan.",
+      "turn_index": 47
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Connor Allen",
+      "text": "I wanted to ask about transactions per active. It's been growing above 20% for quite a while. And I was curious, maybe this quarter or somewhat recently, you could just kind of decompose that a little bit for us. And maybe it's a bit duplicative with some of your other comments about just broader engagement. But I don't know anything you could share around cohorts and their behaviors around this engagement or how broad versus targeted the improving engagement is? Maybe just a double-click deeper dive on the engagement side.",
+      "turn_index": 48
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Max Levchin",
+      "text": "All of the above. It's really good. There's definitely a few good lines on that one next week, so I won't feel that [indiscernible]. But there's actually a really, really good example of network effect. So I will -- I'll give you like a super brief preview. So even if we did absolutely nothing to improve product usability and just converted more and more consumers to cardholders, you would see increase of transactions per user with absolutely no effort on our part beyond that.\nBut we don't just do that, we also signed new merchants, which means that we are visible with our logo, at the very least at checkouts, but also in other forms of merchant communications, including, but not limited to, their own advertising. So that creates another push towards the flywheel where more consumers are aware of us, more consumers know that we are, in fact, real that our promises of no late fees, et cetera, are showing up in more and more places. That pushes consumer flywheel along, more consumers sign up, more consumer trust is available.\nConsumers get to their second or third loan quicker just because of more checkout counters available, which makes them eligible for the Card, which we, of course, let them know as soon as they qualify, which drives the flywheel of cards. And so the acceleration across the usage, a.k.a. transactions per user in the business is a function of both the merchant side of the network increasing through sales and the consumer side of the network increasing through sign-ups because of the increased merchant reach, but also sign-ups from the occasional use of the Card, which is much more frequently used. So those are just the 2 vectors.\nAt investor forum, we'll really break it down into all the various drivers.",
+      "turn_index": 49
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from James Faucette with Morgan Stanley.",
+      "turn_index": 50
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "James Faucette",
+      "text": "Just wanted to ask on -- this goes back a little bit to RLTC, and Max, I appreciate it's hard to -- it may seem easy to stay above where your targets are, but it's really hard. But along those lines, just trying to think about how the 0% APR mix ceiling can affect that and just how you're thinking about how high that can go? You call out that typically has lower RLTC margin. And along those lines, I guess I wonder if as merchants become more informed and see the benefits of working with the firm for 0%, if you can actually close that 0% RLTC margin gap with the rest of the business.",
+      "turn_index": 51
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Max Levchin",
+      "text": "It's a great question, actually. In reverse order, I think it's another example of the network effects playing out. So to answer it directly, I think, yes, I think over time, more and more merchants -- and part of why we stage these Big Nothing events and we'll do more is because they act as teaching aids, if you will, sort of the white papers write themselves. If you fund these [indiscernible] deals, you will sell more and you'll sell more predictably and there will not be a pull forward because these are actual sales events that work.\nAnd so all of that adds up to a product that we think is increasing the value, in part, because the size of our consumer audience is increasing as well, and we're able to serve -- shine a concentrated spotlight onto a merchant that wants to fund these deals, et cetera. And we have a lot of really interesting stuff in works for that. I've been monopolizing the airwaves, so I'll let Rob or Michael answer the economic breakdown. But it does remain true that 0% are slightly lighter on an RLTC basis. We are not fussed by that.",
+      "turn_index": 52
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Michael Linford",
+      "text": "Yes. No, I mean I think we love all our loan products equally. There's a lot to like about our interest-bearing loans. But to your point, James, I mean, there is slightly less revenue content today. And I think as we look ahead as well within the 0% program. But the good news is there's less in terms of credit costs typically as well. So we really like that trade, and we think it's a really good complement to the strong and profitable and high-growth interest-bearing book that we have as well. And so yes, I mean, again, we're really here to drive conversion for merchants, and we think 0% should be an ingredient in every merchant's financing program.\nAnd as we look at the portfolio today, our largest programs are all utilizing 0%, which we think is a really good sign. We're definitely leaning into it within the Affirm Card as well on our own surfaces. So we're doing everything we can to get as much out there and to continue to push that product.",
+      "turn_index": 53
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from David Scharf with Citizens Capital Markets.",
+      "turn_index": 54
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Zachary Oster",
+      "text": "This is Zach on for David. Congratulations on another great quarter. I wanted to dig in a little bit on the Card side of that. Sorry, I don't know if you guys can hear me, there's little bit of echo. But yes, I want to see what the profile of the average Card user is. Obviously, I think there was kind of a medium-term target of $10 billion of GMV and about 7.5 million active Card users, and we're kind of approaching that level at about 60% of the Card user level.\nSo kind of wondering if we can get an update on kind of what the profile is and kind of what the use cases are for those Card customers.",
+      "turn_index": 55
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Max Levchin",
+      "text": "Super general terms. It skews a little bit higher credit quality than the average Affirm consumer by no other -- for no other reason than we make it that way. We're still at the limit, slightly more conservative as to who gets the Card offers and approvals. It's really converging towards this is just the average Affirm consumer. But right now, I think the credit quality is slightly better on the Card or somewhat better on the Card. The usage patterns are broader, more frequent, obviously, than sort of the more casual Affirm consumer that uses us 4 or 5 times a year or 6 times a year now.\nCard customers start out, I think it's like a 40% higher and goes up from there. The maybe most useful thing is the category usage is more even. But typically, it takes a little while for an Affirm consumer to realize that if they found us or got exposed to us in category X, it takes them some number of months to discover us -- rediscover us again at another retailer and say, \"oh wait a second, it also works for fashion, not just travel.\" When you get the Card, you have a muscle memory for, this is a general purpose tool that works everywhere. And so the category dispersion begins a little bit sooner and just stays fairly wide.\nIt still skews more considered purchases than kind of your typical low AOV spend, which is fine with us. That is a much easier value point to drive to merchants. They understand that they wouldn't have sold a $700 thing or a $500 thing unless Affirm was involved for this particular consumer given their preferences and the Card highlights that much better. And so sort of a quick sketch. I think at the investor forum, we'll say a lot about the Card as well. We have some nice little surprises there.",
+      "turn_index": 56
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from Jacob Haggarty with Baird.",
+      "turn_index": 57
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Jacob Haggarty",
+      "text": "So I was just looking at the loan loss on purchase commitment, and it looks like that came down as a percentage of -- like lower than it's been in the last few quarters. Is there anything to that why you're getting maybe better economics from your purchasing partners or something along those lines?",
+      "turn_index": 58
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Max Levchin",
+      "text": "Yes. That's really driven by the 0% volume in the business. It's not necessarily due to the economics with a single vendor or originating bank or anything in that ecosystem. It's just a function of the sort of discount rate that we apply to 0% loans. So yes, no economic changes there. It's really a function of mix and term length.",
+      "turn_index": 59
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from Kyle Peterson with Needham & Company.",
+      "turn_index": 60
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Kyle Peterson",
+      "text": "I want to go back on funding, specifically on the forward flow side, see if you guys could give us whether it's a rank order kind of relative sizing of some of these forward flow buyers kind of as to what they look like under the hood. I understand everyone could be a lot different here, but I think some of the stress seems to be worse than some of these kind of semi liquid retail vehicles versus kind of larger, more permanent forms of capital. So I guess like if you could just give us any relative sizing or color on what the forward flow channel looks like, that would be extremely helpful.",
+      "turn_index": 61
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Michael Linford",
+      "text": "Without getting too specific, we're heavily, heavily, heavily weighted away from things that are very liquid and subject to those kind of volatility that you're referring to. Our largest forward flow counterparties is our joint venture with Sixth Street. We have large pension funds and large insurance complexes, which obviously don't fit that description. And even among the funds who do participate in our program, they are -- they tend to be, again, overwhelmingly not of the kind that, I think, people are talking about. And that's why we see such a strong renewal and repeat rate.\nWhile demand continues to be very high for the asset amongst whole loan buyers, they really do like the ability for a firm to generate consistent credit outcomes that they can underwrite to and generate returns for their funds. And we like the capital efficiency of those partnerships, and so we grow together and have done a really good job of that over the past 3 years.",
+      "turn_index": 62
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from Jamie Friedman with Susquehanna.",
+      "turn_index": 63
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "James Friedman",
+      "text": "I wanted to ask about Adaptive Checkout. I don't mean to front run the conversation next week, but if you might have any perspective on how that's evolving. It seems like a real opportunity to serve merchants and consumers alike. So any perspective on Adaptive Checkout would be helpful.",
+      "turn_index": 64
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Max Levchin",
+      "text": "[indiscernible] well. Definitely don't mistake my lack of name checking it in this particular letter for any sort of backing away from the strategy, quite the opposite. We are -- at this point, we're basically selling Adapt and Boost together as a single thing. One of the -- we have a tendency to be overly literal -- we tend to be overly literal in our description of our products, and so we're trying to learn how to package and market better. And so very soon, you'll just hear strictly about Affirm Checkout, something like that. But it's doing really well. It's becoming more and more understood by our merchant base, and that is what you want.\nI think, hopefully, very soon, it will just be the thing you turn on and you don't try to play with the knobs yourself, our AI will find the optimal setting in real time for every new incremental consumer. So, well, I think we do have a bunch of content on it at the investor forum, so I'd rather not drop any stats on that here.",
+      "turn_index": 65
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from John Hecht with Jefferies.",
+      "turn_index": 66
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "John Hecht",
+      "text": "A lot of questions have been asked and answered, but I'm wondering, Max, what do you -- this is obviously a competitive industry, not only with other buy now, pay later companies, but the general consumer credit spectrum. And clearly, you guys are taking share in a competitive and maybe even increasingly competitive industry. And I'm wondering, obviously, size, scale, brand, all that stuff matters. That's stuff that's been around for a while for you guys. What do you think is -- is there anything new, or what do you think is changing in terms of competitive positioning as the industry, even though it's not mature, but as it generally matures?",
+      "turn_index": 67
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Max Levchin",
+      "text": "I will invite Michael and Rob to comment in a second because I'm going to scrape the bottom of my brain for something incrementally new. But we're very focused internally. I guess, the reason I'm struggling to come up with something particularly clever is I can tell you a lot about what's changing here. It's really hard to see what the outside world is doing when you're that focused on internal efforts. It's a little bit easier to do what we do, to be completely transparent. The consumer knows who we are.\nThe one thing that is true, and we can see this when we do just consumer surveys as well as sort of more mechanical understanding of consumer preferences, there are people that have decided Affirm is their jam, and that's what they're going to use. And it's really compelling. We can tell consumers, hey, you should go and get yourself an Affirm Card because brand X is not yet integrated with Affirm directly, but it's okay. It's accessible. And at some point in the past that felt like maybe they will, maybe they won't. We now have data that shows that they will.\nConsumers believe -- some percentage of our consumers believe that Affirm is a general purpose tool that works anywhere. You just have to have the Affirm Card or the Affirm virtual Card on your app screen. And more and more of them understand how it's done, so long as we treat them right and we handle our post-transactional relationship as well as we do in the transaction, they come back. And that just makes repeats a little bit easier. We continue to maintain 90-plus percent of our transactions come from returning users to Affirm, which is great. It's a lot easier to get the second and third transaction than the first.\nSo all of that, it's a little bit easier to grow today than it was 6 months ago and 12 months ago, and every passing quarter or year makes our growth actually feel a little bit easier. There's a great cycling expression. It doesn't get any easier, you just go faster. And we still work just as hard as we've ever done, but the results are escalating, if you will.",
+      "turn_index": 68
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Michael Linford",
+      "text": "This is Michael. I think for a complicated business with a lot of moving parts, I think about our position in the market a little -- it's actually quite simple. This is what you get when you compound results like this over the course of many years without pivots, without changing your identity to who you are. We show up to the capital market the same way we did when [indiscernible] merchants the same way, offering to drive better conversion, better outcomes. The promises we make to consumers, we kept over the years. And when you compound all that and stay really focused on doing the thing that matters, you end up building a pretty big lead.\nI think some of our -- other players in the space have changed who they are, want to try to enter new spaces and become something that they're not, and it shows with their footfalls and doubling on results. And ours is just the benefit of compounding the same awesome thing over and over and over again.",
+      "turn_index": 69
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Max Levchin",
+      "text": "That is very well said.",
+      "turn_index": 70
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from Jeff Cantwell with Seaport Research.",
+      "turn_index": 71
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Jeffrey Cantwell",
+      "text": "I wanted just to follow up on that earlier question on the Affirm Card. You said there's a long list of things you've done and continue to do to increase adoption. I was just hoping to better understand what exactly is on that list of things you're doing, is driving another increase in Card holders to 4.4 million. Can you maybe help us understand the work you're putting in to increase the number of cards in your customers' hands? And then as you look ahead, what are going to be some of the biggest drivers to increase that number by even more?\nI imagine you would expect to see that 17% attach rate increase further over time, but what would you say are going to be the biggest drivers to increase the number of Affirm cardholders? Is it marketing of the product or opening new geographies or other new TAM opportunities? Just curious if you can help us understand the outlook for the Affirm Card better.",
+      "turn_index": 72
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Michael Linford",
+      "text": "Yes. We don't do performance marketing at Affirm. We don't have a business model to pay to acquire users. I think maybe that's a bit of a misconception that some people who are less excited about the Card than we are have about it. We're not out buying ads, not mailing cards to mailing advertisers to people in the mail. That's how the business works. The reason why the Card is such a compelling business for us is it's the best way to reengage consumers who we already know and have had successful transactions with. And that's really the strategy.\nThe strategy is to continue to scale the network and ensure that the consumers who know us know us best, get access to the Card and that we build the Card that they can understand and they can use as many transactions as possible to continue to take a big share of their spend from other payment devices. And that's the focus, and it's really that simple.",
+      "turn_index": 73
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Max Levchin",
+      "text": "Yes. And just to give you some flavor of the things we do internally, some of these will sound very unglamorous, but given our scale and our attention to numerical detail, I assure you these are very meaningful. So every pixel in the app is, at any given time, being A/B tested by which I mean A, B, C, D, E, F, like multi-legged, extremely high-density multi-variant testing. And the outcome of that is, we just shave down the friction. So if you -- it's not super easy to replicate because we're fairly good at keeping our cohort separate.\nBut if you got enough people together and they open their app and none of them had the Card, they would see a slightly different experience in very several ways. And in some number of weeks or days, we will know which one of them is most compelling when someone signs up for the Card. But not just signs up for the Card, actually uses the Card and sticks to it and becomes a no more compelling or no less compelling credit risk. And so there's a lot of downstream effects of any form of internal product change that we have to contend with, like we can't just say, oh, go do that.\nIt's not like you got a loan, everybody gets loan. Like you got a loan and then we have to make sure that the loan you got actually got paid off. And it was a good idea to give you the Card based on whatever you in this thought experiment is. And so there's an incredible number of just optimization that happens on our own surfaces. And every time we think we've hit plateau, we find that there's another single or double-digit percentage gain to be had, and we're very far from running out of ideas.\nTo give you a totally different flavor of what we might do at some point, there's painful little going on in store for any of the BNPL players, and we think we're the best. We think we're the farthest ahead in terms of how to use our product inside of a physical retail, but boy, we have some really interesting ideas, and we're getting them as quickly as we can. And so that's another reason to use our Card. As much as we love our online e-commerce domination, we definitely want the remaining 80% of commerce or 75% of commerce, whatever it is. And so there's just a lot to do with the product.\nI'll end where Michael started, it is not a matter of external marketing, it's a matter of just making sure the product is as accessible as easy to understand. We have a running tally of every possible declination when the Card does not approve a transaction. And every day, someone's job is to ask the question, was this decline intelligent as and this was a bad credit decision, the consumer should not have been approved? Or is it a mistake of the user, a mistake of a firm, mistake of our underwriting engine, et cetera, et cetera. And so all of that is an enormous volume of work.\nIt can move as quickly as my agents can code it, but it still has to be tested in the real world and validated and made significance. And there's very little doubt in my mind that we will not run out of things to do there for years.",
+      "turn_index": 74
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "There are no further questions at this time, so I'd like to turn the call back over to Zane Keller for closing comments.",
+      "turn_index": 75
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Zane Keller",
+      "text": "Okay. Thank you for joining the call this afternoon. We appreciate your time. We look forward to seeing many of you at the Investor Forum next week. See you there.",
+      "turn_index": 76
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Max Levchin",
+      "text": "Bye.",
+      "turn_index": 77
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "INTU",
+  "call_date": "2026-02-26",
+  "quarter": 2,
+  "year": 2026,
+  "pressure_score": -7.939210500306258e-17,
+  "cosine_distance": -2.220446049250313e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.19183418169317298,
+  "baseline_mean": -7.939210500306258e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5959170908465865,
+    "call_mean_answer_length": 370.7,
+    "call_hedge_density": 0.013554154827161134,
+    "call_pos_sentiment_mean": 0.2601408466696739,
+    "call_neu_sentiment_mean": 0.7213488683104515,
+    "call_neg_sentiment_mean": 0.018510261829942466,
+    "call_qa_similarity_mean": 0.39464922287059545,
+    "baseline_neg_sentiment_mean": 0.018510261829942466
+  },
+  "generated_at": "2026-05-20T05:47:14+00:00"
+}

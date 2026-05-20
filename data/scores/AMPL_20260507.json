@@ -1,0 +1,28 @@
+{
+  "ticker": "AMPL",
+  "call_date": "2026-05-07",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.0149151303460131,
+  "cosine_distance": 0.03936355457458285,
+  "sentiment_shift": 0.004608697216998744,
+  "question_difficulty_mean": 0.17157786882052073,
+  "baseline_mean": 0.0842552750150124,
+  "baseline_std": 0.11814899556487866,
+  "z_score": -0.5868872971579587,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5857889344102604,
+    "call_mean_answer_length": 254.42857142857142,
+    "call_hedge_density": 0.01759312731742647,
+    "call_pos_sentiment_mean": 0.1631659548729658,
+    "call_neu_sentiment_mean": 0.8156131080218724,
+    "call_neg_sentiment_mean": 0.021220924000122716,
+    "call_qa_similarity_mean": 0.44874500587977556,
+    "baseline_neg_sentiment_mean": 0.02582962121712146
+  },
+  "generated_at": "2026-05-20T04:33:16+00:00"
+}

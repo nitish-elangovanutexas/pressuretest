@@ -1,0 +1,28 @@
+{
+  "ticker": "KPTI",
+  "call_date": "2026-05-04",
+  "quarter": 2,
+  "year": 2025,
+  "pressure_score": 0.09455456127860432,
+  "cosine_distance": 0.26475723192110845,
+  "sentiment_shift": 0.0031270806211978197,
+  "question_difficulty_mean": 0.18115561728730745,
+  "baseline_mean": 0.054863898264078594,
+  "baseline_std": 0.05613107393472247,
+  "z_score": 0.7071067811865475,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5905778086436537,
+    "call_mean_answer_length": 95.0,
+    "call_hedge_density": 0.03391702383637867,
+    "call_pos_sentiment_mean": 0.5913274933894476,
+    "call_neu_sentiment_mean": 0.38486514488856,
+    "call_neg_sentiment_mean": 0.023807361721992493,
+    "call_qa_similarity_mean": 0.5144088264170147,
+    "baseline_neg_sentiment_mean": 0.020680281100794673
+  },
+  "generated_at": "2026-05-20T05:54:45+00:00"
+}

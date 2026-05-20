@@ -1,0 +1,28 @@
+{
+  "ticker": "LRN",
+  "call_date": "2026-04-28",
+  "quarter": 3,
+  "year": 2026,
+  "pressure_score": 0.05443712895252006,
+  "cosine_distance": 0.1333549386270202,
+  "sentiment_shift": 0.012155517605153515,
+  "question_difficulty_mean": 0.28275746163510646,
+  "baseline_mean": 0.04805354315764415,
+  "baseline_std": 0.006066207286661294,
+  "z_score": 1.0523191004225128,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6413787308175533,
+    "call_mean_answer_length": 134.75,
+    "call_hedge_density": 0.049273654565859484,
+    "call_pos_sentiment_mean": 0.17692874930799007,
+    "call_neu_sentiment_mean": 0.7313074991106987,
+    "call_neg_sentiment_mean": 0.09176374529488385,
+    "call_qa_similarity_mean": 0.4212961422560622,
+    "baseline_neg_sentiment_mean": 0.07960822768973033
+  },
+  "generated_at": "2026-05-20T06:00:52+00:00"
+}

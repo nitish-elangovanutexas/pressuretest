@@ -1,0 +1,28 @@
+{
+  "ticker": "ARM",
+  "call_date": "2026-05-07",
+  "quarter": 4,
+  "year": 2026,
+  "pressure_score": 0.04036192412783744,
+  "cosine_distance": 0.11304313570375246,
+  "sentiment_shift": 0.0020741471951758426,
+  "question_difficulty_mean": 0.17578054010735844,
+  "baseline_mean": 0.03042418861552614,
+  "baseline_std": 0.008687928827491427,
+  "z_score": 1.1438555390630138,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5878902700536792,
+    "call_mean_answer_length": 315.3333333333333,
+    "call_hedge_density": 0.0288286275432213,
+    "call_pos_sentiment_mean": 0.20001235231757164,
+    "call_neu_sentiment_mean": 0.768169234196345,
+    "call_neg_sentiment_mean": 0.0318184153487285,
+    "call_qa_similarity_mean": 0.5980343988680034,
+    "baseline_neg_sentiment_mean": 0.029744268153552657
+  },
+  "generated_at": "2026-05-20T04:39:11+00:00"
+}

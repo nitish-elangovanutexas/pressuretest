@@ -1,0 +1,28 @@
+{
+  "ticker": "FRBA",
+  "call_date": "2026-04-28",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.0,
+  "cosine_distance": 0.0,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.16310588249169733,
+  "baseline_mean": 0.0,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5815529412458487,
+    "call_mean_answer_length": 98.93333333333334,
+    "call_hedge_density": 0.014062791747054493,
+    "call_pos_sentiment_mean": 0.32245237231254575,
+    "call_neu_sentiment_mean": 0.5813178072373072,
+    "call_neg_sentiment_mean": 0.09622981181989114,
+    "call_qa_similarity_mean": 0.46940954443969557,
+    "baseline_neg_sentiment_mean": 0.09622981181989114
+  },
+  "generated_at": "2026-05-20T05:30:03+00:00"
+}

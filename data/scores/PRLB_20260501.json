@@ -1,0 +1,28 @@
+{
+  "ticker": "PRLB",
+  "call_date": "2026-05-01",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.09323749930534556,
+  "cosine_distance": 0.23790680000959785,
+  "sentiment_shift": 0.016803765449427313,
+  "question_difficulty_mean": 0.24761159655321724,
+  "baseline_mean": 0.026632305977138768,
+  "baseline_std": 0.015206016740478107,
+  "z_score": 4.380186768498362,
+  "flagged": true,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6238057982766086,
+    "call_mean_answer_length": 83.4,
+    "call_hedge_density": 0.005053435114503816,
+    "call_pos_sentiment_mean": 0.5021276235580444,
+    "call_neu_sentiment_mean": 0.4643090322613716,
+    "call_neg_sentiment_mean": 0.03356335870921612,
+    "call_qa_similarity_mean": 0.4119209388885551,
+    "baseline_neg_sentiment_mean": 0.016759593259788805
+  },
+  "generated_at": "2026-05-20T06:38:23+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "DV",
+  "call_date": "2026-05-06",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.03344342105645105,
+  "cosine_distance": 0.07653082639523423,
+  "sentiment_shift": 0.028642468561884016,
+  "question_difficulty_mean": 0.1657739213732238,
+  "baseline_mean": 0.027302672694920788,
+  "baseline_std": 0.008684329615996467,
+  "z_score": 0.7071067811865472,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5828869606866119,
+    "call_mean_answer_length": 120.75,
+    "call_hedge_density": 0.0035014005602240893,
+    "call_pos_sentiment_mean": 0.3622626466676593,
+    "call_neu_sentiment_mean": 0.6270492263138294,
+    "call_neg_sentiment_mean": 0.010688144830055535,
+    "call_qa_similarity_mean": 0.6181585179818276,
+    "baseline_neg_sentiment_mean": 0.03933061339193955
+  },
+  "generated_at": "2026-05-20T05:18:05+00:00"
+}

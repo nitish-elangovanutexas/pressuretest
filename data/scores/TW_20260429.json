@@ -1,0 +1,28 @@
+{
+  "ticker": "TW",
+  "call_date": "2026-04-29",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.03491056969697904,
+  "cosine_distance": 0.09668412103591228,
+  "sentiment_shift": 0.0018203329450140401,
+  "question_difficulty_mean": 0.1886754621351505,
+  "baseline_mean": 0.02714910178171669,
+  "baseline_std": 0.010976373189687647,
+  "z_score": 0.7071067811865476,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5943377310675753,
+    "call_mean_answer_length": 164.0,
+    "call_hedge_density": 0.011357036520180934,
+    "call_pos_sentiment_mean": 0.541534224152565,
+    "call_neu_sentiment_mean": 0.44651142954826356,
+    "call_neg_sentiment_mean": 0.01195432860404253,
+    "call_qa_similarity_mean": 0.5306433084538745,
+    "baseline_neg_sentiment_mean": 0.01377466154905657
+  },
+  "generated_at": "2026-05-20T07:14:57+00:00"
+}

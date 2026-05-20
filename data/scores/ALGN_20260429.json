@@ -1,0 +1,28 @@
+{
+  "ticker": "ALGN",
+  "call_date": "2026-04-29",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.044029913870061776,
+  "cosine_distance": 0.11398208555004008,
+  "sentiment_shift": 0.013980990275740623,
+  "question_difficulty_mean": 0.19029287379900378,
+  "baseline_mean": 0.031597016566633655,
+  "baseline_std": 0.017582771986099928,
+  "z_score": 0.7071067811865477,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5951464368995019,
+    "call_mean_answer_length": 116.0,
+    "call_hedge_density": 0.01592517431348292,
+    "call_pos_sentiment_mean": 0.2878658347763121,
+    "call_neu_sentiment_mean": 0.6519564725458622,
+    "call_neg_sentiment_mean": 0.06017768965102732,
+    "call_qa_similarity_mean": 0.38494969071686974,
+    "baseline_neg_sentiment_mean": 0.0461966993752867
+  },
+  "generated_at": "2026-05-20T04:30:20+00:00"
+}

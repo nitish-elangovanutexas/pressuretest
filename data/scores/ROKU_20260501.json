@@ -1,0 +1,28 @@
+{
+  "ticker": "ROKU",
+  "call_date": "2026-05-01",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.018531229102398412,
+  "cosine_distance": 0.0505961415030054,
+  "sentiment_shift": 0.0002439413309240565,
+  "question_difficulty_mean": 0.21694762939090195,
+  "baseline_mean": 0.01711924315452771,
+  "baseline_std": 0.0019968496773589807,
+  "z_score": 0.7071067811865467,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6084738146954509,
+    "call_mean_answer_length": 85.23076923076923,
+    "call_hedge_density": 0.013192524051040535,
+    "call_pos_sentiment_mean": 0.24224541193017593,
+    "call_neu_sentiment_mean": 0.740531787276268,
+    "call_neg_sentiment_mean": 0.017222798644350126,
+    "call_qa_similarity_mean": 0.3234659157192822,
+    "baseline_neg_sentiment_mean": 0.017466739975274183
+  },
+  "generated_at": "2026-05-20T06:47:12+00:00"
+}

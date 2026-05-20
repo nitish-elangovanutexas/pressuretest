@@ -1,0 +1,28 @@
+{
+  "ticker": "WAB",
+  "call_date": "2026-04-22",
+  "quarter": 3,
+  "year": 2024,
+  "pressure_score": 0.04378714896737277,
+  "cosine_distance": 0.09984865896854145,
+  "sentiment_shift": 0.035038842718675564,
+  "question_difficulty_mean": 0.1846413914578465,
+  "baseline_mean": 0.02730334903985894,
+  "baseline_std": 0.01625838149568526,
+  "z_score": 1.0138647522749047,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5923206957289232,
+    "call_mean_answer_length": 98.17647058823529,
+    "call_hedge_density": 0.01875585641909965,
+    "call_pos_sentiment_mean": 0.48645445441498475,
+    "call_neu_sentiment_mean": 0.49527723933844003,
+    "call_neg_sentiment_mean": 0.018268320106846446,
+    "call_qa_similarity_mean": 0.5326692865584429,
+    "baseline_neg_sentiment_mean": 0.05330716282552201
+  },
+  "generated_at": "2026-05-20T07:27:18+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "EPR",
+  "call_date": "2026-05-07",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.019901073112206492,
+  "cosine_distance": 0.048871591466112974,
+  "sentiment_shift": 0.016039048864816628,
+  "question_difficulty_mean": 0.11370268300093123,
+  "baseline_mean": 0.03163413320579782,
+  "baseline_std": 0.01659305271249539,
+  "z_score": -0.7071067811865475,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5568513415004657,
+    "call_mean_answer_length": 98.875,
+    "call_hedge_density": 0.05010164826520471,
+    "call_pos_sentiment_mean": 0.4432552889920771,
+    "call_neu_sentiment_mean": 0.5003606528043747,
+    "call_neg_sentiment_mean": 0.05638405028730631,
+    "call_qa_similarity_mean": 0.40427467704178366,
+    "baseline_neg_sentiment_mean": 0.04034500142248968
+  },
+  "generated_at": "2026-05-20T05:23:35+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "DVA",
+  "call_date": "2026-05-06",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.06490697024426186,
+  "cosine_distance": 0.19110626932271468,
+  "sentiment_shift": 0.00630092853680253,
+  "question_difficulty_mean": 0.10777745378953292,
+  "baseline_mean": 0.03534395116865653,
+  "baseline_std": 0.041808422521415575,
+  "z_score": 0.7071067811865474,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5538887268947664,
+    "call_mean_answer_length": 107.0,
+    "call_hedge_density": 0.017819148936170214,
+    "call_pos_sentiment_mean": 0.22656085342168808,
+    "call_neu_sentiment_mean": 0.7425727546215057,
+    "call_neg_sentiment_mean": 0.030866368673741817,
+    "call_qa_similarity_mean": 0.5345807723346054,
+    "baseline_neg_sentiment_mean": 0.03716729721054435
+  },
+  "generated_at": "2026-05-20T05:18:16+00:00"
+}

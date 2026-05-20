@@ -1,0 +1,28 @@
+{
+  "ticker": "OTIS",
+  "call_date": "2026-04-22",
+  "quarter": 3,
+  "year": 2025,
+  "pressure_score": -7.748828260679234e-17,
+  "cosine_distance": -2.220446049250313e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.16325400224509903,
+  "baseline_mean": -7.748828260679234e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5816270011225495,
+    "call_mean_answer_length": 182.5,
+    "call_hedge_density": 0.011626066986301581,
+    "call_pos_sentiment_mean": 0.42347067858402926,
+    "call_neu_sentiment_mean": 0.4682088860621055,
+    "call_neg_sentiment_mean": 0.1083204267391314,
+    "call_qa_similarity_mean": 0.5332726676949399,
+    "baseline_neg_sentiment_mean": 0.1083204267391314
+  },
+  "generated_at": "2026-05-20T06:30:14+00:00"
+}

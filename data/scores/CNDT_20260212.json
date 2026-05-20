@@ -1,0 +1,28 @@
+{
+  "ticker": "CNDT",
+  "call_date": "2026-02-12",
+  "quarter": 4,
+  "year": 2025,
+  "pressure_score": -7.907847209721345e-17,
+  "cosine_distance": -2.220446049250313e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.18712592490012891,
+  "baseline_mean": -7.907847209721345e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5935629624500645,
+    "call_mean_answer_length": 72.04166666666667,
+    "call_hedge_density": 0.016412749705514307,
+    "call_pos_sentiment_mean": 0.20658073822657266,
+    "call_neu_sentiment_mean": 0.7635915987193584,
+    "call_neg_sentiment_mean": 0.029827655331852537,
+    "call_qa_similarity_mean": 0.3238464546997583,
+    "baseline_neg_sentiment_mean": 0.029827655331852537
+  },
+  "generated_at": "2026-05-20T05:02:19+00:00"
+}

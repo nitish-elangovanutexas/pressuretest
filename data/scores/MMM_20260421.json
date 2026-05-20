@@ -1,0 +1,28 @@
+{
+  "ticker": "MMM",
+  "call_date": "2026-04-21",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.023879077711665725,
+  "cosine_distance": 0.03328277099044963,
+  "sentiment_shift": 0.05008957702321587,
+  "question_difficulty_mean": 0.19378993633624775,
+  "baseline_mean": 0.032258011619630045,
+  "baseline_std": 0.026775290051397484,
+  "z_score": -0.3129353180443697,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5968949681681239,
+    "call_mean_answer_length": 126.45,
+    "call_hedge_density": 0.03348505435388342,
+    "call_pos_sentiment_mean": 0.4252043219283223,
+    "call_neu_sentiment_mean": 0.43317502122372387,
+    "call_neg_sentiment_mean": 0.14162065437994897,
+    "call_qa_similarity_mean": 0.5129099440506328,
+    "baseline_neg_sentiment_mean": 0.0915310773567331
+  },
+  "generated_at": "2026-05-20T06:10:53+00:00"
+}

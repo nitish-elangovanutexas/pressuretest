@@ -1,0 +1,28 @@
+{
+  "ticker": "CPNG",
+  "call_date": "2026-05-05",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": -8.279830947764307e-17,
+  "cosine_distance": -2.220446049250313e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.24296811903473467,
+  "baseline_mean": -8.279830947764307e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6214840595173673,
+    "call_mean_answer_length": 406.6666666666667,
+    "call_hedge_density": 0.016883116883116885,
+    "call_pos_sentiment_mean": 0.2294139564037323,
+    "call_neu_sentiment_mean": 0.6936511596043905,
+    "call_neg_sentiment_mean": 0.07693488957981269,
+    "call_qa_similarity_mean": 0.5332537958154503,
+    "baseline_neg_sentiment_mean": 0.07693488957981269
+  },
+  "generated_at": "2026-05-20T05:05:45+00:00"
+}

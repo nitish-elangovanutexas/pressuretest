@@ -1,0 +1,28 @@
+{
+  "ticker": "ETSY",
+  "call_date": "2026-04-29",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.02657125529024507,
+  "cosine_distance": 0.07495033295787334,
+  "sentiment_shift": 0.0037292484105342916,
+  "question_difficulty_mean": 0.14378687839631793,
+  "baseline_mean": 0.03196584862937525,
+  "baseline_std": 0.0055307586163623485,
+  "z_score": -0.9753803615964487,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5718934391981589,
+    "call_mean_answer_length": 215.875,
+    "call_hedge_density": 0.026749149736914543,
+    "call_pos_sentiment_mean": 0.26400745660066605,
+    "call_neu_sentiment_mean": 0.7210174947977066,
+    "call_neg_sentiment_mean": 0.014975045341998339,
+    "call_qa_similarity_mean": 0.5214727935888062,
+    "baseline_neg_sentiment_mean": 0.01870429375253263
+  },
+  "generated_at": "2026-05-20T05:25:23+00:00"
+}

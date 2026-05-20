@@ -1,0 +1,28 @@
+{
+  "ticker": "ATOM",
+  "call_date": "2026-05-05",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 7.741364130348209e-17,
+  "cosine_distance": 2.220446049250313e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.1621334870925172,
+  "baseline_mean": 7.741364130348209e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5810667435462586,
+    "call_mean_answer_length": 92.2,
+    "call_hedge_density": 0.017144412401030026,
+    "call_pos_sentiment_mean": 0.2668148435652256,
+    "call_neu_sentiment_mean": 0.7093670691053072,
+    "call_neg_sentiment_mean": 0.023818096642692885,
+    "call_qa_similarity_mean": 0.3966389266063392,
+    "baseline_neg_sentiment_mean": 0.023818096642692885
+  },
+  "generated_at": "2026-05-20T04:41:17+00:00"
+}

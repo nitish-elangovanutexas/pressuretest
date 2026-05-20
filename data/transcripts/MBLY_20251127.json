@@ -1,0 +1,364 @@
+{
+  "ticker": "MBLY",
+  "company_name": "Mobileye",
+  "call_date": "2025-11-27",
+  "quarter": 3,
+  "year": 2025,
+  "prepared_remarks": "Earnings Call Transcript\",\"datePublished\":\"2025-11-27T22:46:05.000Z\",\"dateModified\":\"2025-11-27T22:46:05.000Z\",\"author\":{\"@type\":\"Person\",\"name\":\"Motley Fool Transcribing\",\"url\":\"https://www.fool.com/author/20032/\",\"jobTitle\":\"Contributing Analyst\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://g.foolcdn.com/avatar/2041746765/large.ashx\",\"height\":\"80\",\"width\":\"80\"}},\"about\":[{\"@type\":\"Corporation\",\"tickerSymbol\":\"NASDAQ MBLY\"}],\"publisher\":{\"@type\":\"Organization\",\"@id\":\"https://www.fool.com/\",\"name\":\"The Motley Fool\",\"url\":\"https://www.fool.com/\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://g.foolcdn.com/misc-assets/logo-tmf-primary-7-magenta-royalpurple.svg\",\"width\":\"157\",\"height\":\"43\"},\"brand\":\"The Motley Fool\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"Media Inquiries\",\"email\":\"pr@fool.com\"},\"publishingPrinciples\":\"https://www.fool.com/about/\",\"sameAs\":[\"https://www.fool.com/about/\",\"https://en.wikipedia.org/wiki/The_Motley_Fool\",\"https://www.wikidata.org/wiki/Q7752442\",\"https://www.linkedin.com/company/the-motley-fool\",\"https://www.facebook.com/themotleyfool/\",\"https://x.com/themotleyfool\",\"https://www.instagram.com/themotleyfoolofficial/\",\"https://www.youtube.com/channel/UCpRQuynBX9Qy9tPrcswpPag\",\"https://www.pinterest.com/themotleyfool/\",\"https://www.tiktok.com/@themotleyfoolofficial\",\"https://www.google.com/search?kgmid=/m/0578mk\"]},\"description\":null,\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.content.foolcdn.com/images/1umn9qeh/production/b4204f36ed605fc54d4ba32e2cb31d1dd892afd6-800x450.jpg?w=800&h=450\",\"height\":\"630\",\"width\":\"1200\"}}\nEarnings Call Transcript\nMobileye (MBLY) Q3 2025 Earnings Call Transcript\nBy\n\nMotley Fool Transcribing\n\n–\n\nNov 27, 2025 at 5:46PM EST\n\n\n\n\nImage source: The Motley Fool.\n\n\nDATE\nOct. 23, 2025, 1:00 a.m. ET\nCALL PARTICIPANTS\nChief Executive Officer — Amnon Shashua\nChief Financial Officer — Moran Rojansky\nExecutive Vice President, Strategy and Business Development — Nimrod Nehushtan\nChief Communications Officer — Daniel Galves\nNeed a quote from a Motley Fool analyst? Email\n[email protected]\nRISKS\nGross Margin Pressure\n— CFO Moran Rojansky said, \"EyeQ ASP was down about $0.50 year-over-year. This was primarily due to higher volume of Chinese OEMs, where pricing remains a significant headwind, as we've discussed before.\"\nEyeQ5 Margin Impact\n— CFO Moran Rojansky stated, EyeQ5 currently represents about 10% of volume and is expected to peak to around 15% next year, creating some continued pressure.\nOperating Expense Growth\n— CFO Moran Rojansky noted, \"Operating expenses were up 4% year-over-year, which was a bit higher than what we expected due to timing of engineering reimbursement.\"\nTAKEAWAYS\nRevenue\n-- $504 million in Q3, a 4% increase year-over-year, driven by 8% EyeQ volume growth against 1% growth in vehicle production among top 10 customers.\nEyeQ Unit Volume\n-- 9.2 million units in Q3, above the outlook midpoint; full-year expected at 35 million to 35.5 million, up from earlier guidance of 33.5 million to 35.5 million.\nOperating Cash Flow\n-- $167 million in Q3 and $489 million in 2025 year-to-date, up roughly 150% compared to 2024 for the same period; working capital discipline contributed to performance.\nGross Margin\n-- Gross margin declined just over 100 basis points year-over-year in Q3 due to product mix and price pressure from Chinese OEMs; full year gross margin is expected at approximately 68%, up about 30 basis points year-over-year.\nSuperVision Volume\n-- Exceeded 20,000 units in the quarter, a sequential uptick; full-year volume outlook raised to low 50,000 units at the midpoint, from previous \"around 40,000\" and well above initial low 20,000 range.\nAdjusted Operating Income Guidance\n-- Midpoint increased by 11% from last guidance; versus initial 2025 guidance, revenue midpoint up 7% and adjusted operating income up 27%.\nInventory Management\n-- Balance sheet inventory down by about $100 million year-to-date, aligning with the company’s 6-month inventory target.\nOEM Nominations\n-- Confirmation of a second surround ADAS program nomination for a leading Western OEM, covering mass market vehicles, with specific launch details pending.\nADAS Program Adoption\n-- EyeQ6 Lite is noted for generating high rates of ADAS program wins, with Volvo added as a new customer and growing potential in India.\nRobotaxi Progress\n-- Driver-out testing for ID.Buzz scheduled to begin in the first half of 2026 in one U.S. city, with European debut planned in Germany (Munich, Hamburg, Berlin); 100 U.S. and equivalent European test vehicles currently operational.\nSurround ADAS Customer Upgrade\n-- Recent nomination reflects OEM decision to upgrade from EyeQ6 Lite to EyeQ6 High, consolidating multiple sensors and enabling richer features at minimal added cost.\nREM Expansion\n-- Adoption expanded as a major OEM signed on for global data harvesting; more than 7 million vehicles globally, more than 2 million in the U.S. alone, and a similar number in Europe now upload REM data.\nSUMMARY\nMobileye\n\n(\nMBLY\n\n0.11%\n)\nraised its full-year revenue and adjusted operating income guidance following a quarter of industry-outperforming EyeQ volume growth and stronger-than-expected program launches, notably in China. The company secured a significant second surround ADAS nomination from a leading Western OEM, representing broader customer upgrades to more advanced, consolidated architectures. Operating cash flow and inventory discipline highlighted core business resilience, while increased SuperVision and ADAS adoption, especially by new entrants like Volvo and in emerging markets, indicated expanding market reach and technology traction.\nCEO Amnon Shashua described the opportunity set as \"larger, broader and more urgent than it was when we went public in 2022. Near-term volumes remained strong.\"\nTesting milestones for robotaxi commercialization are on track, with performance against MTBF KPIs required for removing safety drivers in 2026 progressing as planned.\nSuperVision and Chauffeur platforms are targeted for near production-readiness in the first half of 2026, following major imminent software releases incorporating advanced AI.\nPower efficiency and cost discipline of EyeQ6 High cited as competitive advantages, supporting OEM adoption for high-volume vehicles where system cost is critical.\nEuropean robotaxi launch benefits from government engagement and Volkswagen partnership, reinforcing first-mover advantage and raising barriers to competitors.\nINDUSTRY GLOSSARY\nADAS\n: Advanced Driver Assistance Systems—technology to assist drivers in vehicle control and improve safety via features such as emergency braking and lane keeping.\nEyeQ (Lite/High)\n: Mobileye’s proprietary system-on-chip (SoC) family deployed in driver-assistance and autonomous platforms; \"Lite\" and \"High\" refer to performance tiers.\nSuperVision\n: Mobileye’s operational point-to-point assisted driving solution using multiple cameras and sensors for higher-function ADAS features, including hands-free driving.\nChauffeur\n: Mobileye’s next-generation partial-automation platform targeting eyes-off capability for consumer vehicles.\nDrive\n: Mobileye’s Level 4 autonomous self-driving system designed for robotaxi and mobility-as-a-service deployments.\nREM\n: Road Experience Management—Mobileye’s real-time mapping and crowdsourced driving intelligence platform collecting vehicular data for ADAS/autonomous use and AI training.\nMTBF\n: Mean Time Between Failures—a reliability performance metric, here referring to safety incident intervals for autonomous driving systems.\nOEM\n: Original Equipment Manufacturer—typically refers to car manufacturers utilizing supplied technology in vehicle platforms.\nSoC\n: System on Chip—integrated circuits combining components of a computer or electronic system onto a single chip, providing processing for ADAS and autonomous driving.\nFull Conference Call Transcript\nAmnon Shashua:\nHello, everyone, and thanks for joining our earnings call. Starting with the results. Q3 revenue of $504 million was up 4% year-over-year. The driving force was 8% EyeQ volume growth significantly outpacing the 1% growth in overall vehicle production among our top 10 customers in Q3. Operating cash flow was again a highlight. We generated $167 million of operating cash flow in Q3, well above net income. On a year-to-date basis, we have generated nearly $500 million of operating cash flow, up around 150% year-over-year. This reflects the cash generative nature of our business and our continued discipline in managing working capital.\nThe core ADAS business is performing well, with volumes in very healthy range for the last 5 quarters and expected to do so again in Q4 based on our updated guidance. We again raised the midpoint of our full year outlook this time by 2% in terms of revenue and 11% in terms of adjusted operating income. Compared to our initial 2025 guidance, these increases are even more pronounced, 7% for revenue and 27% for operating income at the midpoint. Overall, we expect volumes to come in about 2 million units higher than our original guidance.\nThis outperformance reflects a combination of stronger-than-expected launch activity, ADAS adoption growth and better than accepted results in China both from our shipments to Chinese OEMs and from the performance of our top 10 Western OEM customers in China. If we adjust our inventory digested in 2024, our 2025 volume growth is expected to outperform the production of our top 10 OEM customers globally by about 5 percentage points. We see continued momentum as EyeQ6 light is generating ADAS program wins at a high rate. So far this year, we already have been nominated for programs with future expected volumes well above our full year 2025 volume. We have added a new customer in Volvo.\nThe growth potential in India is becoming increasingly clear as strengthening adoption trends and supportive regulatory environment. Additionally, we are seeing continued traction in adding REM to front-facing camera programs further reinforcing our base business. On the advanced product side, our position is differentiated in the fact that we are an OEM neutral platform that is cost-efficient and scalable with a credible technology path to eyes-off autonomy in both privately owned vehicles and robotaxis.\nAll 4 of our advanced products surround ADAS, SuperVision, Chauffeur and Drive share common building blocks including the EyeQ6 high inference chip, substantial portions of our perception policy AI stacks and the REM crowded crowdsourcing driving intelligence and robust safety frameworks and the company's comprehensive data and validation infrastructure. The EyeQ6 high-based surround ADAS systems continue to develop as the next generation of standardized driving assist on high-volume vehicle platforms. This system addresses multiple objectives in a cost-efficient package. It's designed to meet stricter late-decade safety standards enables highway hands-free performance for lower cost and current systems and supports OEM goals to consolidate ECUs and to integrate technology on a single SoC.\nWe have meaningful traction with a number of OEMs and very recently, received confirmation from a leading Western OEM that were nominated for a high-volume EyeQ6 high-based surround ADAS program across mass market vehicles. We continue to pursue a number of promising SuperVision and Chauffeur opportunities, although timing remains difficult to predict. The best way to ensure eventual new customers is to focus on execution of the SuperVision and Chauffeur production programs with Volkswagen Group, where we are first movers. Near-term execution includes major software drops in the coming few months that embodies significant innovation in AI.\nA few weeks ago, we received the first silicon sample of our next-generation SoC, the EyeQ7 high and all initial tests have been successful. EyeQ7 and its successor EyeQ8 now in design stages are designed for upgrading eyes-off autonomy to minds-off autonomy. Eyes-off systems is what Mobileye is bringing into production in early 2027 and also describes the current technological state of robotaxis. In both cases, there is a human either the driver or a teleoperator, that can resolve issues when needed. In the minds-off system, which we are targeting for 2029 and beyond, there is no human to resolve issues, and therefore, the driver can sleep and the robotaxi no longer needs teleoperators to intervene.\nThis transition from eyes-off to minds-off is where EyeQ7 is going to play a meaningful role. More details will follow in the coming months. Turning to robotaxi. Our engagements are expanding through both Volkswagen and Holon, a division of Benteler. Once we remove safety drivers in our first U.S. city in 2026 and secure type approval for self-driving vehicles, the Volkswagen ID.Buzz and Holon urban shuttle in Europe, we anticipate geographic expansion. VW and Uber in Los Angeles, Lyft and Holon in the U.S. and multiple commercialization initiatives with Volkswagen and public transport operators across Europe. Additionally, we continue to get closer to naming an automaker and vehicle platform to complete the Lyft Marubeni value chain.\nThat will enable preparations for commercialization in Dallas and other cities to accelerate. On the robotaxi technology front, we continued to outfit more of the ID.Buzz test fleet with a full EyeQ6 high-based production hardware and have successfully completed the first closed-loop testing with the Holon production vehicle. The MTBF performance is tracking well against the KPIs that are required to remove safety drivers in 2026 and begin commercialization. Everything continues on track. In summary, the opportunity set in front of us today is larger, broader and more urgent than it was when we went public in 2022. Near-term volumes remained strong.\nThe demand for higher performance at lower cost is intensifying and eyes-off capability whether for personal cars or robotaxi is no longer seen as an experimental science project, but as an achievable and commercially viable reality. This is exactly where Mobileye excels. I'll now turn the call over to Moran.\nMoran Rojansky:\nThank you, Amnon, and thanks for joining the call, everyone. Before I begin, please be aware that all my comments on profitability may refer to non-GAAP measurements. The primary exclusion in Mobileye's non-GAAP numbers is amortization of intangible assets, which is mainly related to Intel's acquisition of Mobileye in 2017. We also exclude stock-based compensation. Our Q3 results exceeded the color we provided on the Q2 2025 earnings call in July, with revenue up 4% year-over-year versus our prior outlook of roughly flat.\nThe upside was a combination of EyeQ volume, which came in at 9.2 million units compared to the outlook of 8.7 million to 9.3 million and SuperVision volume, which was higher than 20,000 units in the quarter, a meaningful uptick versus Q2. Just a quick note on SuperVision. Volumes were higher than prior quarters, but should not be viewed as establishing a new higher run rate. We now expect around 50,000 units this year. This full year number is significantly higher than our original expectations and a good reflection on what we see as a sustainable run rate heading into next year for the current first generation programs applied to ZEEKR export volume and Polestar 4.\nThese programs remain relatively small within our overall business and quarterly volumes can fluctuate as they have this year. Our gross margin declined by just over 100 basis points year-over-year basis. EyeQ ASP was down about $0.50 year-over-year. This was primarily due to higher volume of Chinese OEMs, where pricing remains a significant headwind, as we've discussed before. Another factor was higher volume of ADAS program based on EyeQ5 which carry lower gross margin due to higher costs. EyeQ5 currently represents about 10% of volume and is expected to peak to around 15% next year, creating some continued pressure.\nBeginning in 2027 and the more profitable EyeQ6 Lite significantly ramps up EyeQ5 share will go down, providing a tailwind to margins. Operating expenses were up 4% year-over-year, which was a bit higher than what we expected due to timing of engineering reimbursement. We continue to expect overall non-GAAP operating expenses in 2025 to be up about 7% to just below $1 billion. As Amnon mentioned, operating cash flow was $489 million through the first 3 quarters of the year. This is primarily due to strong cash flow from the core business. However, we've also managed tight control over the working capital accounts, particularly our balance sheet inventory which came down by about $100 million year-to-date.\nWe are now well aligned with our 6-month target for balance sheet inventory, and we expect working capital to be more cash natural going forward. Turning to full year guidance. We are increasing the revenue midpoint by 2% and the adjusted operating income midpoint by 11%. Our full year outlook is based on EyeQ volumes of 35 million to 35.5 million, up from 33.5 million to 35.5 million. Earlier in the year, we maintained an unusually wide range to reflect macro uncertainty and ensure conservatism. Without condition now better clarified, we have greater confidence in narrowing the range and increasing the midpoint. Giving 27.3 million units year-to-date, the implied outlook for Q4 is 7.7 million to 8.2 million.\nAt this point in the year, we expect that Q4 volume will end at the higher end of the guidance. We retained a small buffer to account for any unforeseen year-end logistical issues or OEM production constraints to stay cautious. In terms of understanding the current run rate of volume, we think it is best to look at the full year. This is particularly the case in 2025 where normal seasonality was affected somewhat by tariff timing and expectations. Typically, global production is stronger in the second half than the first, but that pattern did not hold this year. Bottom line is the lower Q4 volume compared to Q3 and Q2 should not be interpreted as a trend.\nIt simply reflects an alignment of supply and demand across the full year to ensure customers enter 2026 with lean inventories. As noted earlier, SuperVision volumes are tracking ahead of expectations, and we are modestly raising the outlook to low 50,000 units at the midpoint versus prior outlook of around 40,000 and original outlook in the low 20,000. We expect full year gross margin to be right around 68%, implying a slight uptick in Q4 versus Q3. The full year is expected to be up about 30 basis points year-over-year, pretty consistent with our July commentary. Operating expenses, as noted earlier, are expected to be up 7% year-over-year to just below $1 billion, in line with our original outlook.\nThank you, and we will now take your questions.\nOperator:\n\n[Operator Instructions]\nOur first question comes from the line of Aaron Rakers with Wells Fargo.\nAaron Rakers:\nI guess the first question is, you mentioned a Western OEM design win that you've achieved. Can you just remind us again, is that additive to the prior kind of development engagement status that you've outlined previously? Is that reflective of the prior Western OEM that was on that list? And just anything around timing of volume contributions? And then I have a quick follow-up.\nNimrod Nehushtan:\nSo to be clear, the confirmation for a nomination that Amnon referred to in his remarks is for a second surround ADAS program. We have announced previously in the year our first surround ADAS program. This is the second from a second OEM, a leading Western OEM with significant volumes with multiple vehicle models, and we expect this to be a significant portion of that OEM's vehicle lineup in the future. And we will disclose more details on this in the next few weeks.\nDaniel Galves:\nYes. And Aaron, this is Dan. You might be referring to the IR Day, the Investor Day slide from last year. It is one of the OEMs that was on that chart for surround ADAS.\nAaron Rakers:\nYes. I appreciate that. And then talk a little bit about gross margin. You highlighted the fact that EyeQ5 volumes at 10% would go to 15%, and that would continue to be a headwind to gross margin. As the EyeQ6 volumes start to ramp, how do we think about the delta or the gross margin inflection as we think about 2026 between those platforms?\nMoran Rojansky:\nYes. So just to highlight that EyeQ5 volume doesn't have a lot of running programs or production programs, and we don't anticipate any new programs with EyeQ5. So all the new launches we have with EyeQ6 Lite. The profitability is not that different between them. It's just that it has a bit lower profitability than our EyeQ4. As for EyeQ6 that, again, is launching for our new programs, the profitability is, of course, the gross margin is higher than EyeQ5 and very similar to EyeQ4 that we are currently selling. So it's not some significant headwind.\nIt's just a matter of platforms or specific of vehicle launches, mix between products, sometimes some of the projects ramp more, some of -- it's not something you can anticipate, but it's not very dramatic in terms of gross margin fluctuations.\nDaniel Galves:\nExactly. Yes. I don't think we're going to specify like the impact, but the bottom line is EyeQ5 like percentage of total will be the highest next year, around 15%, so not too meaningful versus this year and then start to go down.",
+  "qa_turns": [
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from the line of Edison Yu with Deutsche Bank.",
+      "turn_index": 0
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Yan Dong",
+      "text": "This is Winnie on for Edison. My first question is on the 4Q expectations. Just curious if there's any other factors that you're factoring into the market or recently, we've heard about the chip issue, whether you're baking that into the outlook? And then the second question is wondering if you can provide a bit more details around the Lyft and demo program, the launch time, the economics, et cetera.",
+      "turn_index": 1
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Daniel Galves",
+      "text": "Yes. So I think on the Q4 volume, I think the point we're trying to make in the script is that you should look at the full year volume of kind of around 35.5% as the right number. Like when we're looking at '26, we are -- the starting point is 35.5%. It's not Q4 volume times 4. So there's really nothing going on specifically besides seasonality was different this year due to really, we think, because of the tariffs and trying to pull ahead some production into Q2 and Q3. So this is kind of exactly within expectations for us, shouldn't be seen as a trend.\nAnd I think that we see the trend of around $9 million a quarter. And that's -- there's -- in terms of [ Nexar ] we have not received any indications of request to reduce production, reduce shipments at all. In fact, if anything, it's the opposite. It's a very new situation. We don't -- in talking to customers, we don't expect any material impact in Q4, but we do have a bit of margin in the guidance versus the high end to account for that if there's a bit of lower production, but we don't expect it to affect Q4.",
+      "turn_index": 2
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Amnon Shashua",
+      "text": "What was the second question, if you can repeat it?",
+      "turn_index": 3
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Yan Dong",
+      "text": "It was on the Lyft and demo program, you can talk about the evolution to that win, the launch time and the economics.",
+      "turn_index": 4
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Nimrod Nehushtan",
+      "text": "So if you refer to the Lyft robotaxi program, so we are working with Lyft and Marubeni and a vehicle producer on a robotaxi program in the U.S. We disclosed that the first city will be in Dallas-Fort Worth. We are now in advanced testing stages of this program, and it follows the leading program we have with Volkswagen Group for robotaxi activities in the U.S., and it's been tracking well. And the launch date will be disclosed in the near future.",
+      "turn_index": 5
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from the line of Joshua Buchalter with TD Cowen.",
+      "turn_index": 6
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Joshua Buchalter",
+      "text": "I wanted to ask about the metric you gave about normalizing for inventory. I think you said you grew volumes 5% more than your top 10 customers. Is this sort of a rule of thumb we should be using of your expectations for sort of normalized unit growth in '26 and beyond as you see ADAS market and attach rates develop and then we layer in ASPs more. I'd just be curious to hear if that's like sort of a normalized growth rate you think is the right level for us to benchmark to on a unit basis?",
+      "turn_index": 7
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Daniel Galves",
+      "text": "Yes. I think the key here is that investors and analysts should focus on kind of the expected volume of our top 10 customers, which are mostly legacy OEMs and has been a bit below kind of the overall vehicle production for the last few years, not meaningfully, but a bit below. And then we would expect to grow faster than in volume and revenue, we would expect to grow faster than that level because of things like ADAS adoption growth because of things like growing share within some of those customers because of things like emerging markets like India. So this year, we consider the performance pretty good.\nWe grew about 5 percentage points faster than the top 10 OEMs, which were down 2% to 3%. And we're not going to put a precise number on what we think it should be going forward, but something in that range is probably fair.",
+      "turn_index": 8
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Joshua Buchalter",
+      "text": "Got it. Dan, I appreciate the color there. And for my follow-up, so it sounds like you're speaking to engagements for eyes-off continuing to move forward. And it does seem like there is a good amount of momentum across the industry from both the robotaxi side and in consumer passenger vehicles for eyes-off features. I guess what do you think the OEMs need to see that gets them across the line in these engagements and I guess, any time line you would expect to be able to -- a reasonable time line to expect where you think you will be able to announce some additional Chauffeur or even SuperVision wins?",
+      "turn_index": 9
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Amnon Shashua",
+      "text": "I think the focus now is execution. We are with the SuperVision, the hardware is on the C sample stage, which is very advanced from a production level. We have a number of meaningful software drops in the coming 6 months. So I believe that somewhere in the first half of 2026, we'll be in a very good position of being very close to production ready with the platforms of SuperVision and Chauffeur. And that should enable us to get more exposures to new program -- new program wins. So the focus of the company in that area is execution also in the robotaxi with a driver is execution.\nSo really 2026 is an execution year and not necessarily focusing on bringing new business, at least not in the first half of the year.",
+      "turn_index": 10
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Nimrod Nehushtan",
+      "text": "If I can add color to what Amnon said, in the last 1.5 years, we've been working simultaneously on SuperVision, Chauffeur robotaxi for execution in the past, let's say, 8 months, we've added also surround ADAS production program that execution process. Right now, we are on track with the original time lines of all of these programs, and we are in B sample or C sample hardware and stable platforms, which is an important achievement in order to maintain the original time line. And now we're focusing on software iterations, AI innovation and integrating the latest AI stack into these platforms. Doing so simultaneously is a significant achievement for us.\nAnd we believe that now within the next few months of showing a very mature production platform that uses production hardware with the latest AI technologies that shows meaningful performance improvement compared to what exists today in the industry is the next big thing for us to show in general to our customers and also for new engagements, and that's expected within months from today.",
+      "turn_index": 11
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from the line of Chris McNally with Evercore ISI.",
+      "turn_index": 12
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Chris McNally",
+      "text": "Amnon, I wanted to dive in on the Surround and congratulations on the big win. It sounds like there's a different technology path that maybe you and the industry had thought a couple of years ago where supervision would sort of be the kind of a walkway to higher forms of Chauffeur and eyes-off and it sounds like given the industry has been a little bit slower on that front, maybe how much they would charge for it, et cetera, it seems like Surround is now that technology gateway.\nAnd I just would love to understand from your standpoint, is it sounds like a must for the OEM to hit 2029 regs, meaning they really can't do this with an internal solution or even the solution that you've been providing them originally with the $50 chip. So is this sort of -- is this one of the reasons you're seeing so much traction this is the logical step up of your Level 2 customers to Surround?",
+      "turn_index": 13
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Amnon Shashua",
+      "text": "Okay. So I'll let Nimrod first answer and then I'll complete if necessary.",
+      "turn_index": 14
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Nimrod Nehushtan",
+      "text": "Chris, so I think Surround ADAS is a very important category for OEMs because it's not just about new user experiences, but also adhering to emerging regulation in developed markets. And it's a very, very cost-optimized product segment. because it's designed for high-volume vehicles and for pretty much $20,000, $30,000 vehicles and above, it requires very, very efficient design and a close software hardware integration. Mobileye is known to have a very efficient chip and very efficient software, and we can achieve pretty much, we think, the most competitive price point for this product category.\nAnd from an OEM standpoint, thinking about whether you want to buy or build a product in that category, it's not just about understanding AI or different software technologies, can you get to such a level of efficiency on vehicles that are in tens of millions per year, if you fail, you may jeopardize your core business. And so forcing an existing available solution that is very mature is the safe choice. And maybe if you're into in-house development, you can focus this on the higher end of applications and smaller volumes, maybe 1% of your cars and then if it fails or is significantly delayed, there is no damage done to the core cash cow of the company.\nAnd that's where we see their interest just yesterday, GM announced their Level 3 eyes-off development. That is designed for a very specific vehicle category. I think they disclosed the type of vehicle, and it's a very high price point. As you all know, GM sells cars in $30,000, $40,000 also. Obviously, that solution is not appropriate for these vehicle price points. And it may make sense for them to find a proven, reliable, trustworthy high-performing, cost-efficient solution for the vast majority of volumes, while they focus on the high end.",
+      "turn_index": 15
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Amnon Shashua",
+      "text": "And I think I'll continue. I think likewise going into Level 2 plus with 11 cameras, our SuperVision, we are working very diligently on very innovative cost reduction schemes. So looking into 2028 time frames and beyond, we can offer significant price reduction on SuperVision. The next level that OEMs are considering are eyes-off systems. And there, as I said before, execution is the key. If we launch an eyes-off system, and that's what we are planning to do in 2027 with Audi, that will be kind of an inflection point.\nSeeing such a product at work passing through all the regulation, the sub certification and regulatory approvals, passing the MTBF bar that is needed to have eyes-off, this is a significant achievement. Once we pass that bar, I think that will be a big inflection point.",
+      "turn_index": 16
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Nimrod Nehushtan",
+      "text": "Yes. I think that there is no question beyond or about the fact that eyes-off driving and later mind-off driving is the ultimate value proposition for consumers. And we think that most OEMs are very interested and very bullish on this sort of proposition. The question is, is now the right time given the maturity of the technology and the available system is what costs for them to go all in with a partner.\nToday in the industry outside of China, there is no other technology provider that is working closely on the entire system, hardware, software, silicon, AI -- receiving approvals for testing and going through the ropes of homologation and all the necessary check boxes other than Mobileye with Audi. And all eyes are on us. And hopefully, within months, we'll show more and more evidence of the maturity of the technology getting there. And as Amnon said, we believe that will be a significant inflection point for that product.",
+      "turn_index": 17
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Chris McNally",
+      "text": "Nimrod, my only clarification or a summary of what you said is super helpful. So is it logical then to think like your first customer, which is VW, that basically your target audience it's not going to be 100%. But your target audience for Surround is existing basic ADAS customers that now need to convert for 2029 and so your second customer, as an example, upgrades ADAS into Surround. And then there's a future path beyond that to eyes-off?",
+      "turn_index": 18
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Nimrod Nehushtan",
+      "text": "That's exactly the case in that nomination we disclosed. It's an upgrade from EyeQ6 Lite to EyeQ6 High. That's -- that's essentially the decision that OEM made. And so that's the right summary of how we see things.",
+      "turn_index": 19
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from the line of Mark Delaney with Goldman Sachs.",
+      "turn_index": 20
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Mark Delaney",
+      "text": "I hope you can double-click on the DRIVE opportunity with Lyft and Marubeni. I believe the company said today, I think it can name the OEM partner for that engagement soon. So should investors assume that the OEM partner is already effectively finalized? Or is there still uncertainty as to which OEM Mobileye is going to partner with? And if there is still uncertainty, what would the time frame need to be to line up the OEM partner in order to meet the 2026 start of operations objective?",
+      "turn_index": 21
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Amnon Shashua",
+      "text": "So there's no uncertainty who that OEM is, but it's not finalized yet. So I cannot say with 100% guarantee that it will be finalized, but it looks on track and it looks good. I would say that this is in parallel to our existing activity with Volkswagen of the ID.Buzz and with the Holon platform with Benteler. So we have quite a lot of scale opportunity with the existing relationships. We have -- this is why I mentioned before that it really focuses execution. Scale and business will come once execution is there. Nimrod you want to add something?",
+      "turn_index": 22
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Nimrod Nehushtan",
+      "text": "Just one more clarification, Mark. That vehicle provider, it's not that we will just start working with that vehicle OEM once we will finalize the agreement. In the past almost 18 months, we've been working closely between Marubeni, that vehicle OEM and Mobileye on creating multiple prototype vehicles and then working on the actual vehicle platform itself, integrating our self-driving system with the sensors, and it's all pretty much -- we have numerous vehicles that are equipped with all the sensors and all the compute infrastructure needed as if it's like an ID.Buzz we do in our leading program, and so we are starting -- we're hitting the ground running once it will be finalized and disclosed.\nIt's a natural transition into serious development towards commercial launch.",
+      "turn_index": 23
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Daniel Galves",
+      "text": "Yes. And I would just add one more point here is that if there's a bit of wait and see on consumer-owned high-end eyes-on and eyes-off technology, robotaxi is exactly the opposite. There's so much activity, but the key is removing the safety driver and starting to commercialize. And that's our main priority right now. And the core technology is the same, no matter what the vehicle platform is. There's integration work to be done, but it's the core technology that's being worked on. And once we kind of can remove the safety driver, then we can start to commercialize and scale.",
+      "turn_index": 24
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Mark Delaney",
+      "text": "That's all very helpful. My follow-up question is also on Drive with VW and the ID.Buzz, you mentioned you're tracking to be driver out next year. Could you just speak a bit more on what still needs to happen in order to take the driver out next year? And any sense of when within the year that milestone may occur?",
+      "turn_index": 25
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Amnon Shashua",
+      "text": "Well, there are a number of milestones. One is the readiness of the vehicle that should be ready in the next weeks or a few months. And second is the MTBF KPIs, which we are tracking, that are on track. And we believe that in the first half of 2026 we can start removing the safety driver in one city in the U.S. and to prepare for a commercial deployment later in the year and beginning of 2027.",
+      "turn_index": 26
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from the line of Joe Spak with UBS.",
+      "turn_index": 27
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Joseph Spak",
+      "text": "Just going back to the surround ADAS nomination. I was wondering if you guys could provide a little bit of color as to sort of what got the customer over the line, maybe a little bit of detail on the level of integration that you were doing versus maybe the automaker is DXP involved? And then just in terms of the rollout, is this a case where we need to wait for new model launches? Or can this product be placed on refreshes?",
+      "turn_index": 28
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Nimrod Nehushtan",
+      "text": "I will take this, Joe. So we think the driving forces behind this decision to upgrade from EyeQ6 Lite to EyeQ6 High was about basically, the standard sensor set for that OEM is at minimum 5 cameras and 5 radars. And in the older days, these -- some of these cameras was used just for top tier visualization when you do parking, for example, for the human driver. And just the front camera was used for ADAS and the radars were used for ADAS and that created a very inefficient design.\nAnd that OEM decided to create a more consolidated ECU architecture in which you can think of this as somewhat of a -- like simplifying the architecture and then routing all the sensors to the EyeQ, the EyeQ6 High is powerful to process all of these sensors and creates a much richer sensing state, a much richer user offering. For example, hands-free driving in highways, supporting all of the most cutting-edge advanced ADAS requirements in NCAP and so on, as we've mentioned. So it's about system simplification consolidating efforts and routing all sensors that already exist in the car to a more powerful chip, they can process them more intelligently and offer better user experience.\nThe added cost for that OEM was very reasonable compared to the added value as evidenced by their decision. So it's not like a 10x more expensive chip in order to get that value, it's as we've disclosed in the past, it's 2 to 3x more expensive for that silicon component generally speaking. So I think it makes -- as they said it, it makes too much sense not to make this transition.\nWe are also discussing about potential future -- that's with other OEMs but potential future consolidations like with parking applications and driver monitoring system and ADAS and hands-free driving all can be processed and provided by Mobileye on the EyeQ6 High chip with a very attractive cost and I think that's a compelling proposition for OEMs. And regarding your question about vehicle launches, it's a new architecture. And in parallel, we work on other, let's say, more existing architectures as well. So it's a combination of the two.",
+      "turn_index": 29
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Joseph Spak",
+      "text": "And then I guess just as a follow-up, I think in the prior update there were maybe 3 or 4 other sort of advanced engagements about Surround. I was wondering if you could just get an update there. And maybe going off of some of the commentary on Chris' question, like have you seen sort of more initial maybe SuperVision move more towards surround in the near term?",
+      "turn_index": 30
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Nimrod Nehushtan",
+      "text": "So I wouldn't say it's SuperVision engagements moving towards around. It's more about base ADAS engagement expanding to Surround from what we're seeing. The first 2 design wins we have for Surround ADAS are examples of OEMs with high volumes, the sell cars at relatively low vehicle price points that have, in the past, sourced a front camera solution and these examples decided to source Surround ADAS solution for the same vehicle category. So I think that's the evidence that we're basing our assessment on. And yes, we have a lot of engagement. Mobileye works with pretty much all of the OEMs on a recurring basis on what we have to offer, and we see a lot of interest.\nAnd I think we will -- we prefer to disclose when we have nominations and it's concrete like we did today. But we remain confident in the strength of our outlook.",
+      "turn_index": 31
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from the line of Shreyas Patil with Wolfe Research.",
+      "turn_index": 32
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Shreyas Patil",
+      "text": "Maybe just to follow up on the earlier one. How do you think about the competitive landscape when it comes to Surround ADAS? I think there are 3 or 4 other major suppliers that are trying to win awards here as well. And maybe just to give a little bit of background on the bidding process that went into securing this award, the second award that you just announced.",
+      "turn_index": 33
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Amnon Shashua",
+      "text": "We're talking about a very highly competitive in terms of cost, cost optimized product. So all the high-performance chips that you hear the price point is not relevant for such a product. Our chip, the EyeQ6 High is both the core chip for our AV, for example, in SuperVision, we have 2 of those chips and in Drive we have 4 of those chips and in Chauffeur 3. But one chip is highly cost optimized, and we can meet the cost desires of OEMs with our system on chip that can process all those multiple sensors, 5, 6 or 7 cameras and 5 radars and ultrasonic and so forth.\nSo we're talking about the game in which cost is highly, highly critical. So we have first mover advantage. So we were the first to receive nomination with the Volkswagen Group on Surround ADAS. And the new win of today shows that we are successful in leveraging our first-mover advantage. So it's all about here cost and performance, but cost is critical because we're talking about high-volume vehicle categories. And so it's not that there is no competition, but we do have first-mover advantage, and we are showing that we can leverage that. Yes, Nimrod go ahead.",
+      "turn_index": 34
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Nimrod Nehushtan",
+      "text": "Another aspect of efficiency that we are -- should be considered beyond just the price, our EyeQ6 High chip does not have any limitation in deploying pretty much all of the state-of-the-art AI architectures while being very efficient in power consumption. This offers us -- this allows us to offer a solution that is passive cooled, for example, and does not require liquid cooling. So this is a small technical detail, but for the OEMs, it's a big difference in overall system cost in the complexity of the system, combustion engine vehicles may not have liquid cooling available, for example.\nOther competitors are trying to rely on more -- because the underlying product requires sophisticated processing of sensors and using some of the AI technologies, other competitors may try to use a high-performance chip for that product category. And beyond just the price disadvantage, it also complicates the overall system. So this is another element that is hard to compete with the low power consumption of our chip without compromising performance.",
+      "turn_index": 35
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Amnon Shashua",
+      "text": "Yes, I'll just give a color in terms of performance of the EyeQ6 High. Our internal benchmarks running on both convolutional METs and vision transformers show that we are on par and in many cases, better than the Orin-X, which is now the choice of competition when OEMs are considering the Level 2+ systems. But at a price point, which is less than 25% of it. So this gives us a great advantage. On one hand, we have a high-performance chip, which is on par with the latest high-performing chips in the automotive industry. On the other hand with a cost structure and power consumption constraints that are way, way more appealing.",
+      "turn_index": 36
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Shreyas Patil",
+      "text": "Okay. That's really helpful. And then maybe, Amnon, I think last quarter, you talked about Drive potentially becoming a more material revenue contributor by 2027. Wondering if maybe you can expand on that a little bit. And you've talked about in the past at a relatively high upfront revenue stream, maybe $40,000 to $45,000? How should we think about the rate at which you can bring that down, especially as robotaxi operators are looking to bring down vehicle costs to improve overall unit economics?",
+      "turn_index": 37
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Amnon Shashua",
+      "text": "Our economics from every robotaxi is comprised of both onetime fee and revenue sharing on price per mile. And over time, we will kind of change the equation, maybe reduce the onetime fee, increase the cost per mile. So we both will have a recurring revenue and also the onetime fee of the system. With the robotaxi, it's really just execution because the current contracts that we have with the existing partners they talk about many tens of thousands of vehicles in the end of the decade. Just to give you a proportion, today's very, very successful Waymo is based on 3,000 vehicles. So it's really just a matter of execution.\nIf we execute, we execute our plans of removing the driver during the first half of 2026 prepare this for commercialization beginning of 2027, the volume is there and in very, very big numbers.",
+      "turn_index": 38
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Daniel Galves",
+      "text": "And in terms of the upfront cost, we have we have the room to switch around upfront cost versus recurring revenue because we have low costs in general. So we can stay profitable on the upfront cost down quite a bit and kind of replace that with more recurring revenue.",
+      "turn_index": 39
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from the line of Luke Junk with Baird.",
+      "turn_index": 40
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Luke Junk",
+      "text": "I want to stick with robotaxi. We've talked a lot about U.S. robotaxi and Driver Out this morning. Hoping we could get an update on progress towards Driver Out in Europe as well, especially relative to the different regulatory homologation there and just maybe Europe versus U.S. dynamics in general right now for Mobileye.",
+      "turn_index": 41
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Amnon Shashua",
+      "text": "Yes. So there are differences between Europe and the U.S. U.S. is mostly a self-certification process which we're doing. And we have today, close to 100 vehicles driving in the 3 locations in the U.S. for testing and working with additional carmakers or additional robotaxi platforms as mentioned, expanding that further. In Europe, we have an equivalent, let's say, volume of vehicles. The process for launching commercially is around -- is more about homologation and engaging with regulatory bodies in advance before you can commercially launch. We are doing this process alongside Volkswagen Group that are directly engaging with the German government.\nJust to add color on this, in the last IAA conference in Munich, we had a chance to meet the German chancellor who visited the Mobileye booth, and he also participated in a test trial with our ID.Buzz vehicle in Hamburg, and he was very impressed, he made remarks. It was covered all over the German media, and he made a very interesting remark about how Germany wants to be the leading country in Europe for autonomous driving, that he believes the time is now that our funds by the German government that should be allocated to accelerate this as much as possible.\nAnd he was very happy to see the successful collaboration between Volkswagen and Mobileye on this, and it's all covered in the German news so there is nothing confidential in what it I just said. And we think that we have good tailwinds to engage with the German government, specifically, and we plan to launch first in Germany. In Munich, in Hamburg and Berlin are the first 3 cities and we have good support, good alignment working with Volkswagen on that. We think it raises the entry barrier for other competitors when they want to enter the European market.\nSo it's -- I think, again, as the first mover advantage by collaborating with an OEM at Volkswagen that has good ties with the German government, which really helps us in this situation.",
+      "turn_index": 42
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Luke Junk",
+      "text": "And then for my follow-up, Amnon, you mentioned just a wrinkle in terms of more OEMs adding REM to front-facing programs, just curious your thoughts on that. Is it mainly around increasing the data collection? Could it be maybe a precursor of something in terms of future advanced product engagements with those customers as well?",
+      "turn_index": 43
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Amnon Shashua",
+      "text": "So it's both for data collection, what we call harvesting. We have more OEMs using REM for harvesting and that's a precursor to also using REM for hands-free driving. Maybe Nimrod, do you want to add more?",
+      "turn_index": 44
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Nimrod Nehushtan",
+      "text": "Yes. We recently signed with a new OEM for one of the bigger OEMs in the world that has significant volumes, and that's designed to provide significant volumes for harvesting globally and also use the REM database to improve the performance of the front-facing camera. It is for us today, the strategic value is mostly about expanding the OEM pool that uploads data. This data is important for us not just to use REM database explicitly as one of our moats, as we mentioned many times in the past, but also it's -- we use this very elegantly in our AI training and development. And that's something that maybe we'll share more details on in the future.\nBut it is a very significant competitive advantage and expanding by being able to offer much better performance with not significant price increase OEMs of for front cameras, getting more data from multiple OEMs in millions. I think today, we have more than 7 million vehicles globally uploading data, more than 2 million vehicles in the U.S. alone. Europe is a similar number, also in Japan and Korea and soon in India and so on. So it's really a good global coverage but it is also diverse in terms of the type of OEM, type of vehicles, a number of OEMs. So we feel very comfortable with the strength of harvesting.",
+      "turn_index": 45
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from the line of Dan Levy with Barclays.",
+      "turn_index": 46
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Dan Levy",
+      "text": "I wanted to just follow up on the prior question first and on the driver out, specifically in the U.S. for some of the programs you had, I know you said it was a self-certification process, maybe you can just go into maybe what are some of the gating factors that you need to see from a technical side to get comfortable to actually pull the driver? And what is the expected timing on driver out?",
+      "turn_index": 47
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Amnon Shashua",
+      "text": "In terms of expected timing, we said it's going to be the first half of 2026 in one city in the U.S. In terms of the technical milestones, now we have a very elaborated safety program. It's called the PGF that we talked about in the past IR meetings and at the CES and we made that public also in terms of an academic paper that we published around it. And also in terms of mileage driven in order to prove to ourselves what is the MTBF. So together with ADMT which is the daughter company of Volkswagen, who was responsible for this program, we have agreed on MTBF milestones per type of accident. So it's not just one number.\nThere are a number of different types of accidents. What is the MTBF, and we're tracking those numbers. And the trajectory that we see gives us confidence that we can achieve that by the first half of 2026.",
+      "turn_index": 48
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Dan Levy",
+      "text": "Great. As a follow-up, on Tesla's call last night, Elon talked quite a bit about efforts with AI, their AI5 chip and all of the efforts in design and the strength of the performance, really emphasizing this, I think, is a key advantage. So -- and I think you've talked about this on the call here and more broadly. But as it relates to EyeQ6 and eventually EyeQ7, can you maybe just remind us to what extent the engagements with customers are looking at the strength of your SoC design, how that stacks up versus some of the other players?\nAnd for those that are maybe SoC agnostic, bring your own silicon, to what extent you're seeing customers actually leaning into your solution because of the SoC?",
+      "turn_index": 49
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Amnon Shashua",
+      "text": "Well, I think the first question that you need to ask is why do you need more compute? And Tesla's approach and Mobileye's approach are different. Tesla is relying on a single sensor modality, which is cameras, omni cameras. And therefore, there are this bias variance in machine learning, you want to lower the variance, you need more and more data and more and more compute in order to bring the variance down to a point in which the MTBF is high enough. And the MTBF of Tesla's FSDs, just based on the public record of the FSD tracker, is orders of magnitude away from the bar that you need to pass in order to be unsupervised.\nTherefore, the requirement of significant more compute and significant more data is very, very intense and hence, the AI fight. Mobileye's approach relies also on redundancy. So we are doubling down on computer vision, on cameras and bringing the camera processing MTBF to be very high, but we are also relying on imaging radars, relying also on a front-facing LiDAR for eyes-off. So when you have redundancy, it's a different equation. And this is our PGF framework for creating profusing redundant subsystems. So then in our context, the question is, if with the EyeQ6 High, we are going to launch eyes-off at a very, very cost-optimized platform, right?\nThe Chauffeur has 3 EyeQ6, and it's very, very -- it's highly cost optimized. The Drive 4 EyeQ6 is highly cost optimized, especially compared to platforms of robotaxis of today. So then the question is, why do we need more compute? Right, we replaced the EyeQ6 with EyeQ7. Is that going to reduce -- for what purpose? Is this to reduce price, not necessarily. So in our view, you need more compute to move from eyes-off to minds-off, and this is something that the industry are not talking about at all. All the targets around eyes-off, what is the bar to reach an eyes-off system. We are thinking of 0.29 and above on mind-off.\nAnd mind-off means that you need an AI that has very, very strong see understanding capabilities maybe it can work at lower frame rates. It doesn't have to be, let's say, 10 frames per second. Maybe it can be slower frame rate doesn't have to be doesn't have to replace the safety mechanism. So in our view, the EyeQ7 and EyeQ8 and all the additional compute comes on top of EyeQ6 and does not replace it. So it's a different concept.\nIt's not that we have an EyeQ6 generation, and now we're replacing the EyeQ6 with EyeQ7 generation and then we'll replace EyeQ7 generation with EyeQ8, actually does not make sense when you are thinking about eyes-off systems because the validation process that is required to remove the driver is huge, is huge, right? So now you did all this validation process and now you are replacing your chip, and you have to do all those validation process again, doesn't make sense. So we have a completely different view of where compute is needed, where the added compute is needed.",
+      "turn_index": 50
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Daniel Galves",
+      "text": "This will be our last question.",
+      "turn_index": 51
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Okay. Our final question is coming from Colin Rusch with Oppenheimer & Company.",
+      "turn_index": 52
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Colin Rusch",
+      "text": "I just have a quick one around the cadence of your own chip design. Given some of the tools that we're seeing out there and the potential for accelerated time frames, are you seeing meaningful opportunities in terms of accelerating some of those development time lines and really being able to validate some of these more simplified designs that you guys are talking about?",
+      "turn_index": 53
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Amnon Shashua",
+      "text": "Our chip portfolio covers both the very, very low end, like EyeQ6 Lite and the very high end. So EyeQ6 High, which is in production, is equivalent to, say, Orin-X in terms of looking at running programs like convolutional net ResNet, Vision net transformers, and the like. And EyeQ7 would compare to Thor in terms of its strength. And EyeQ8 is going to be -- which is now in the design stages and will be ready for 2029 production, is going to be 3, 4x stronger. And again, the EyeQ7 and EyeQ8 are responsible for the minds-off. It's not -- for the eyes-off we are set. We have the EyeQ6.\nWe don't need to replace EyeQ6 with a more powerful chip to reach eyes-off capability or to reach a robotaxi -- robotaxi with teleoperators in the back office. The idea in robotaxi is to remove the teleoperators. This is why we want minds-off and the idea with consumer operated cars is to enable the driver to sleep while using the system. This is where we need more compute. And the cadence is once every 2 years. So this is the cadence and which is sufficient for the speed of where the industry is going and where technology is going.",
+      "turn_index": 54
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Daniel Galves",
+      "text": "Colin, thanks for the question. I don't think we have time for a follow-up. I want to respect everyone's time.",
+      "turn_index": 55
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you. This now concludes our question-and-answer session. I would like to turn the floor back over to management, Dan Galves for closing comments.",
+      "turn_index": 56
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Daniel Galves",
+      "text": "Thanks, everyone, and looking forward to the Q4 call in January. Thank you. Have a good day.",
+      "turn_index": 57
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Ladies and gentlemen, thank you for your participation. This does conclude today's teleconference. You may disconnect your lines, and have a wonderful day.",
+      "turn_index": 58
+    }
+  ]
+}

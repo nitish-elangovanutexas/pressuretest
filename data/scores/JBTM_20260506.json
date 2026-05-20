@@ -1,0 +1,28 @@
+{
+  "ticker": "JBTM",
+  "call_date": "2026-05-06",
+  "quarter": 4,
+  "year": 2025,
+  "pressure_score": 0.03680616516424135,
+  "cosine_distance": 0.10875854155155795,
+  "sentiment_shift": 0.000181799498386679,
+  "question_difficulty_mean": 0.12681400453966213,
+  "baseline_mean": 0.03642775614539846,
+  "baseline_std": 0.018872785761327202,
+  "z_score": 0.020050512077464375,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5634070022698311,
+    "call_mean_answer_length": 82.6,
+    "call_hedge_density": 0.016651478074186692,
+    "call_pos_sentiment_mean": 0.30583375245332717,
+    "call_neu_sentiment_mean": 0.6678626656532287,
+    "call_neg_sentiment_mean": 0.02630359437316656,
+    "call_qa_similarity_mean": 0.4095613368732717,
+    "baseline_neg_sentiment_mean": 0.02612179487477988
+  },
+  "generated_at": "2026-05-20T05:49:43+00:00"
+}

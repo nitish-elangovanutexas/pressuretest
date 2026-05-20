@@ -1,0 +1,28 @@
+{
+  "ticker": "SNAP",
+  "call_date": "2026-05-07",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.011880528246522262,
+  "cosine_distance": 0.0332518921253907,
+  "sentiment_shift": 0.0006902773775869925,
+  "question_difficulty_mean": 0.17470545556448172,
+  "baseline_mean": 0.020977959784082404,
+  "baseline_std": 0.008679461034384281,
+  "z_score": -1.0481562739345267,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5873527277822409,
+    "call_mean_answer_length": 218.85714285714286,
+    "call_hedge_density": 0.029720060104163806,
+    "call_pos_sentiment_mean": 0.5207537231700761,
+    "call_neu_sentiment_mean": 0.4630869360906737,
+    "call_neg_sentiment_mean": 0.01615932464067425,
+    "call_qa_similarity_mean": 0.6303445737729898,
+    "baseline_neg_sentiment_mean": 0.01684960201826124
+  },
+  "generated_at": "2026-05-20T06:56:09+00:00"
+}

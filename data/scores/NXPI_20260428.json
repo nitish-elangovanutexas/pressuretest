@@ -1,0 +1,28 @@
+{
+  "ticker": "NXPI",
+  "call_date": "2026-04-28",
+  "quarter": 3,
+  "year": 2025,
+  "pressure_score": -7.69381909054501e-17,
+  "cosine_distance": -2.220446049250313e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.1549960263078172,
+  "baseline_mean": -7.69381909054501e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5774980131539086,
+    "call_mean_answer_length": 123.4375,
+    "call_hedge_density": 0.046981557801591474,
+    "call_pos_sentiment_mean": 0.2181583233177662,
+    "call_neu_sentiment_mean": 0.693135092034936,
+    "call_neg_sentiment_mean": 0.08870657620718703,
+    "call_qa_similarity_mean": 0.46239299037644216,
+    "baseline_neg_sentiment_mean": 0.08870657620718703
+  },
+  "generated_at": "2026-05-20T06:26:24+00:00"
+}

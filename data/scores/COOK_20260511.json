@@ -1,0 +1,28 @@
+{
+  "ticker": "COOK",
+  "call_date": "2026-05-11",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.11489387463297755,
+  "cosine_distance": 0.24017091299739823,
+  "sentiment_shift": 0.14988275402122075,
+  "question_difficulty_mean": 0.1261033445230079,
+  "baseline_mean": 0.0787412945292227,
+  "baseline_std": 0.05303008961982752,
+  "z_score": 0.6817371111935232,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.563051672261504,
+    "call_mean_answer_length": 144.0,
+    "call_hedge_density": 0.0040650406504065045,
+    "call_pos_sentiment_mean": 0.4533636172612508,
+    "call_neu_sentiment_mean": 0.5225848952929179,
+    "call_neg_sentiment_mean": 0.02405148061613242,
+    "call_qa_similarity_mean": 0.41834173329643604,
+    "baseline_neg_sentiment_mean": 0.17393423463735316
+  },
+  "generated_at": "2026-05-20T05:04:34+00:00"
+}

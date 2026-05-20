@@ -1,0 +1,28 @@
+{
+  "ticker": "FIGS",
+  "call_date": "2026-05-08",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.028137271098391245,
+  "cosine_distance": 0.04856841248670263,
+  "sentiment_shift": 0.048752584933702436,
+  "question_difficulty_mean": 0.15691065228557188,
+  "baseline_mean": 0.038693945397305585,
+  "baseline_std": 0.014929391967080149,
+  "z_score": -0.7071067811865474,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5784553261427859,
+    "call_mean_answer_length": 220.71428571428572,
+    "call_hedge_density": 0.015548797390092767,
+    "call_pos_sentiment_mean": 0.14558447524905205,
+    "call_neu_sentiment_mean": 0.7384010383061,
+    "call_neg_sentiment_mean": 0.1160144695479955,
+    "call_qa_similarity_mean": 0.5065455348983942,
+    "baseline_neg_sentiment_mean": 0.06726188461429307
+  },
+  "generated_at": "2026-05-20T05:28:30+00:00"
+}

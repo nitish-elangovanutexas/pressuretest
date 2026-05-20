@@ -1,0 +1,28 @@
+{
+  "ticker": "SE",
+  "call_date": "2025-12-23",
+  "quarter": 4,
+  "year": 2024,
+  "pressure_score": 0.0,
+  "cosine_distance": 0.0,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.2216352853850991,
+  "baseline_mean": 0.0,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6108176426925496,
+    "call_mean_answer_length": 503.5,
+    "call_hedge_density": 0.023766897912159864,
+    "call_pos_sentiment_mean": 0.27755969017744064,
+    "call_neu_sentiment_mean": 0.7093711197376251,
+    "call_neg_sentiment_mean": 0.01306919427588582,
+    "call_qa_similarity_mean": 0.5901932785484444,
+    "baseline_neg_sentiment_mean": 0.01306919427588582
+  },
+  "generated_at": "2026-05-20T06:51:28+00:00"
+}

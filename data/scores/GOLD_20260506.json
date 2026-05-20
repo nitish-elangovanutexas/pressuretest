@@ -1,0 +1,28 @@
+{
+  "ticker": "GOLD",
+  "call_date": "2026-05-06",
+  "quarter": 3,
+  "year": 2026,
+  "pressure_score": 0.0,
+  "cosine_distance": 0.0,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.1811048244081034,
+  "baseline_mean": 0.0,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5905524122040517,
+    "call_mean_answer_length": 223.0,
+    "call_hedge_density": 0.026872434412668,
+    "call_pos_sentiment_mean": 0.44660767912864685,
+    "call_neu_sentiment_mean": 0.44437234186463886,
+    "call_neg_sentiment_mean": 0.10901996876216596,
+    "call_qa_similarity_mean": 0.5174609135285098,
+    "baseline_neg_sentiment_mean": 0.10901996876216596
+  },
+  "generated_at": "2026-05-20T05:37:45+00:00"
+}

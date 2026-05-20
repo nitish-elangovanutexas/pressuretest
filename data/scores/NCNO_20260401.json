@@ -1,0 +1,28 @@
+{
+  "ticker": "NCNO",
+  "call_date": "2026-04-01",
+  "quarter": 4,
+  "year": 2026,
+  "pressure_score": 0.015510349316324338,
+  "cosine_distance": 0.04432385222628721,
+  "sentiment_shift": 6.507833798727325e-06,
+  "question_difficulty_mean": 0.16632696880927525,
+  "baseline_mean": 0.014417647898685215,
+  "baseline_std": 0.001545313164449556,
+  "z_score": 0.707106781186547,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5831634844046376,
+    "call_mean_answer_length": 219.8181818181818,
+    "call_hedge_density": 0.01903067333440176,
+    "call_pos_sentiment_mean": 0.2962610111995177,
+    "call_neu_sentiment_mean": 0.6860588843172247,
+    "call_neg_sentiment_mean": 0.0176800936460495,
+    "call_qa_similarity_mean": 0.5863736226584311,
+    "baseline_neg_sentiment_mean": 0.017673585812250772
+  },
+  "generated_at": "2026-05-20T06:18:33+00:00"
+}

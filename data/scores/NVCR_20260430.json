@@ -1,0 +1,28 @@
+{
+  "ticker": "NVCR",
+  "call_date": "2026-04-30",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.021592203302878754,
+  "cosine_distance": 0.059778442455420744,
+  "sentiment_shift": 0.004283786730633843,
+  "question_difficulty_mean": 0.14911495287119325,
+  "baseline_mean": 0.03936849133647815,
+  "baseline_std": 0.01729183793524168,
+  "z_score": -1.0280161137394412,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5745574764355966,
+    "call_mean_answer_length": 164.3,
+    "call_hedge_density": 0.022707616049193143,
+    "call_pos_sentiment_mean": 0.3862589057534933,
+    "call_neu_sentiment_mean": 0.5929366841912269,
+    "call_neg_sentiment_mean": 0.020804412476718426,
+    "call_qa_similarity_mean": 0.6099222066304751,
+    "baseline_neg_sentiment_mean": 0.016520625746084584
+  },
+  "generated_at": "2026-05-20T06:24:17+00:00"
+}

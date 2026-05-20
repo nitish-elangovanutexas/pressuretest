@@ -1,0 +1,28 @@
+{
+  "ticker": "AON",
+  "call_date": "2026-05-01",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.011435248992156163,
+  "cosine_distance": 0.0323716849529756,
+  "sentiment_shift": 0.0007099279217303717,
+  "question_difficulty_mean": 0.16052766584372452,
+  "baseline_mean": 0.01522497301029304,
+  "baseline_std": 0.005359479104100231,
+  "z_score": -0.7071067811865477,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5802638329218622,
+    "call_mean_answer_length": 293.22222222222223,
+    "call_hedge_density": 0.02712351723993183,
+    "call_pos_sentiment_mean": 0.14660868628157508,
+    "call_neu_sentiment_mean": 0.8316858675744798,
+    "call_neg_sentiment_mean": 0.02170543269150787,
+    "call_qa_similarity_mean": 0.4521498913480888,
+    "baseline_neg_sentiment_mean": 0.020995504769777497
+  },
+  "generated_at": "2026-05-20T04:36:25+00:00"
+}

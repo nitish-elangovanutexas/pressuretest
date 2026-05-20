@@ -1,0 +1,28 @@
+{
+  "ticker": "SPGI",
+  "call_date": "2026-04-28",
+  "quarter": 3,
+  "year": 2025,
+  "pressure_score": 0.010327849418058394,
+  "cosine_distance": 0.028593055583625127,
+  "sentiment_shift": 0.0010538603046110692,
+  "question_difficulty_mean": 0.175129729619649,
+  "baseline_mean": 0.008260222008534405,
+  "baseline_std": 0.0029240667244831734,
+  "z_score": 0.7071067811865476,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5875648648098245,
+    "call_mean_answer_length": 269.7,
+    "call_hedge_density": 0.020754525681829453,
+    "call_pos_sentiment_mean": 0.29579735845327376,
+    "call_neu_sentiment_mean": 0.6863211631774903,
+    "call_neg_sentiment_mean": 0.017881472408771516,
+    "call_qa_similarity_mean": 0.6007272733304665,
+    "baseline_neg_sentiment_mean": 0.018935332713382585
+  },
+  "generated_at": "2026-05-20T06:59:21+00:00"
+}

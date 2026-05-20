@@ -1,0 +1,28 @@
+{
+  "ticker": "OTLY",
+  "call_date": "2026-04-30",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.32790092774066537,
+  "cosine_distance": 0.9424293177577875,
+  "sentiment_shift": 0.0035059144720435143,
+  "question_difficulty_mean": 0.15690277294566232,
+  "baseline_mean": -8.011837021982e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5784513864728311,
+    "call_mean_answer_length": 14.0,
+    "call_hedge_density": 0.0,
+    "call_pos_sentiment_mean": 0.629322350025177,
+    "call_neu_sentiment_mean": 0.35225796699523926,
+    "call_neg_sentiment_mean": 0.018419690430164337,
+    "call_qa_similarity_mean": 0.37666402809682853,
+    "baseline_neg_sentiment_mean": 0.014913775958120823
+  },
+  "generated_at": "2026-05-20T06:30:20+00:00"
+}

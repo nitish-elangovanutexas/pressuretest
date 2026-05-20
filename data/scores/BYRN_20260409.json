@@ -1,0 +1,28 @@
+{
+  "ticker": "BYRN",
+  "call_date": "2026-04-09",
+  "quarter": 4,
+  "year": 2024,
+  "pressure_score": 0.059995144550706536,
+  "cosine_distance": 0.15634834690245047,
+  "sentiment_shift": 0.027721157060349694,
+  "question_difficulty_mean": 0.14388162075662436,
+  "baseline_mean": 0.05432605414952927,
+  "baseline_std": 0.015551464484364315,
+  "z_score": 0.36453739819018705,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5719408103783121,
+    "call_mean_answer_length": 158.55555555555554,
+    "call_hedge_density": 0.008879390763148138,
+    "call_pos_sentiment_mean": 0.31913366665442783,
+    "call_neu_sentiment_mean": 0.595137937201394,
+    "call_neg_sentiment_mean": 0.08572839986946848,
+    "call_qa_similarity_mean": 0.4871554682543961,
+    "baseline_neg_sentiment_mean": 0.11344955692981817
+  },
+  "generated_at": "2026-05-20T04:51:16+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "MIND",
+  "call_date": "2026-04-22",
+  "quarter": 2,
+  "year": 2025,
+  "pressure_score": 0.027009055446138318,
+  "cosine_distance": 0.06143543556921982,
+  "sentiment_shift": 0.02341206207845567,
+  "question_difficulty_mean": 0.16856336680149572,
+  "baseline_mean": 0.03749001897073738,
+  "baseline_std": 0.010450897486766843,
+  "z_score": -1.0028768857287413,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5842816834007478,
+    "call_mean_answer_length": 48.68,
+    "call_hedge_density": 0.06250420866705297,
+    "call_pos_sentiment_mean": 0.3086559856683016,
+    "call_neu_sentiment_mean": 0.5874307936429978,
+    "call_neg_sentiment_mean": 0.10391321230679751,
+    "call_qa_similarity_mean": 0.3065566921881631,
+    "baseline_neg_sentiment_mean": 0.08050115022834184
+  },
+  "generated_at": "2026-05-20T06:09:26+00:00"
+}

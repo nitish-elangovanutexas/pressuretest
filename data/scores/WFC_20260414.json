@@ -1,0 +1,28 @@
+{
+  "ticker": "WFC",
+  "call_date": "2026-04-14",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.03857226792742915,
+  "cosine_distance": 0.10072984410310404,
+  "sentiment_shift": 0.014606871155596612,
+  "question_difficulty_mean": 0.16390726590130433,
+  "baseline_mean": 0.03109159585061372,
+  "baseline_std": 0.0083926094836038,
+  "z_score": 0.8913404217639367,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5819536329506522,
+    "call_mean_answer_length": 124.14285714285714,
+    "call_hedge_density": 0.026831880999005717,
+    "call_pos_sentiment_mean": 0.24089351828609193,
+    "call_neu_sentiment_mean": 0.7101985769612449,
+    "call_neg_sentiment_mean": 0.048907882400921414,
+    "call_qa_similarity_mean": 0.453600987761689,
+    "baseline_neg_sentiment_mean": 0.0343010112453248
+  },
+  "generated_at": "2026-05-20T07:30:07+00:00"
+}

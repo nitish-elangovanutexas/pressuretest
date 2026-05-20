@@ -1,0 +1,28 @@
+{
+  "ticker": "MTH",
+  "call_date": "2026-04-23",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.07736176252360667,
+  "cosine_distance": 0.1712549665398443,
+  "sentiment_shift": 0.04841489066154911,
+  "question_difficulty_mean": 0.2669904428937411,
+  "baseline_mean": 0.03761054033072069,
+  "baseline_std": 0.03456204707233947,
+  "z_score": 1.1501408498659063,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6334952214468705,
+    "call_mean_answer_length": 126.75,
+    "call_hedge_density": 0.01856862694212193,
+    "call_pos_sentiment_mean": 0.3706321809440851,
+    "call_neu_sentiment_mean": 0.5464848056435585,
+    "call_neg_sentiment_mean": 0.08288301527500153,
+    "call_qa_similarity_mean": 0.5124626656897037,
+    "baseline_neg_sentiment_mean": 0.13129790593655064
+  },
+  "generated_at": "2026-05-20T06:15:57+00:00"
+}

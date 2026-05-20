@@ -1,0 +1,568 @@
+{
+  "ticker": "VEEV",
+  "company_name": "Veeva",
+  "call_date": "2026-03-04",
+  "quarter": 4,
+  "year": 2026,
+  "prepared_remarks": "Earnings Call Transcript\",\"datePublished\":\"2026-03-04T23:40:49.000Z\",\"dateModified\":\"2026-03-04T23:40:49.000Z\",\"author\":{\"@type\":\"Person\",\"name\":\"Motley Fool Transcribing\",\"url\":\"https://www.fool.com/author/20032/\",\"jobTitle\":\"Contributing Analyst\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://g.foolcdn.com/avatar/2041746765/large.ashx\",\"height\":\"80\",\"width\":\"80\"}},\"about\":[{\"@type\":\"Corporation\",\"tickerSymbol\":\"NYSE VEEV\"}],\"publisher\":{\"@type\":\"Organization\",\"@id\":\"https://www.fool.com/\",\"name\":\"The Motley Fool\",\"url\":\"https://www.fool.com/\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://g.foolcdn.com/misc-assets/logo-tmf-primary-7-magenta-royalpurple.svg\",\"width\":\"157\",\"height\":\"43\"},\"brand\":\"The Motley Fool\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"Media Inquiries\",\"email\":\"pr@fool.com\"},\"publishingPrinciples\":\"https://www.fool.com/about/\",\"sameAs\":[\"https://www.fool.com/about/\",\"https://en.wikipedia.org/wiki/The_Motley_Fool\",\"https://www.wikidata.org/wiki/Q7752442\",\"https://www.linkedin.com/company/the-motley-fool\",\"https://www.facebook.com/themotleyfool/\",\"https://x.com/themotleyfool\",\"https://www.instagram.com/themotleyfoolofficial/\",\"https://www.youtube.com/channel/UCpRQuynBX9Qy9tPrcswpPag\",\"https://www.pinterest.com/themotleyfool/\",\"https://www.tiktok.com/@themotleyfoolofficial\",\"https://www.google.com/search?kgmid=/m/0578mk\"]},\"description\":null,\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.content.foolcdn.com/images/1umn9qeh/production/b4204f36ed605fc54d4ba32e2cb31d1dd892afd6-800x450.jpg?rect=175,0,450,450&w=384&h=384&q=75&fit=crop&auto=format\",\"height\":\"630\",\"width\":\"1200\"}}\nEarnings Call Transcript\nVeeva (VEEV) Q4 2026 Earnings Call Transcript\nBy\n\nMotley Fool Transcribing\n\n–\n\nMar 4, 2026 at 6:40PM EST\n\n\n\n\nImage source: The Motley Fool.\n\n\nDATE\nMarch 4, 2026, 5 p.m. ET\nCALL PARTICIPANTS\nChief Executive Officer — Peter Gassner\nChief Financial Officer — Brian Van Wagener\nExecutive Vice President, Strategy — Paul Shawah\nHead of Investor Relations — Gunnar Hansen\nNeed a quote from a Motley Fool analyst? Email\n[email protected]\nTAKEAWAYS\nQuarterly Revenue\n-- $836 million, representing performance ahead of management's most recent guidance.\nQuarterly Non-GAAP Operating Income\n-- $366 million, as reported for the period.\nAnnual Revenue\n-- $3.195 billion, with the company exceeding its $3 billion run-rate objective.\nAnnual Non-GAAP Operating Income\n-- $1.434 billion, reflecting operational efficiency over the year.\nCRM Segment\n-- Currently represents approximately 20% of total revenue, targeted to decline to around 10% by 2030, primarily due to expansion of other business lines; management noted stability within CRM and inclusion of add-on products in long-term planning.\nVault CRM Live Customers\n-- Nearly 140 customers live at quarter-end, including two top 20 pharmaceutical companies deployed globally; migrations are ongoing across all company sizes and regions.\nCustomer Count Growth\n-- 5% increase in the customer base attributed to strong performance in the Basics segment focused on smaller and emerging biotechs.\nCrossix Business\n-- Delivered a major driver of outperformance in the prior year, with management anticipating continued healthy growth, though quarterly comps are tougher in the upcoming periods.\nR&D Segment Growth Mix\n-- Management described a mix shift toward large, newer products such as RTSM, EDC, Safety, and LIMS, while acknowledging slowing growth from legacy products like eTMF.\nProfessional Services\n-- Business Consulting led growth in services, with R&D, Digital Events, and Commercial also contributing; hiring has occurred to address increased CRM migration activity in the pipeline.\nTop 20 Pharma Adoptions\n-- Fourteen of the top 20 pharma firms are expected to move to Vault CRM, with decisions on remaining customers anticipated within the year; company leadership expresses high confidence in current commitments.\nCRM End-of-Support Date\n-- Moved forward to December 2029, reflecting migration momentum and absence of customers planning into 2030; royalty payments to Salesforce will gradually cease as migrations complete.\nAI and Automation in Safety\n-- Management cited use cases for AI in Safety, such as automation of case intake and narrative generation, identifying labor cost reductions as a primary value driver.\nNormalized Billings Guidance\n-- The company will provide annual, but not quarterly, normalized billings guidance going forward, with management emphasizing seasonality similar to recent years.\nRTSM Win\n-- A top 20 pharmaceutical company standardized on\nVeeva Systems\n\n(\nVEEV\n\n+0.14%\n)\n's RTSM; RTSM deployments operate on a long-term, study- and therapeutic-area basis, differing from other product ramps.\nAI Agent Development\n-- Management is rolling out agents in every product area during the current year; most current customer adoption is with\nVeeva Systems\n-designed agents, with custom agent use seen in lighter cases.\nCRO Channel Opportunity\n-- The company is increasing focus on enabling contract research organizations (CROs) to sell its technology in study-by-study business, which may scale meaningfully over time given the breadth of eligible products.\nPricing Model for AI Offerings\n-- A token-based pricing model is in use for agentic AI solutions, with little expected near-term impact on margin or revenue.\nServices Revenue Guidance\n-- Guidance includes service revenues from top 20 projects at various stages, and management asserts these are incorporated into fiscal year expectations.\nSUMMARY\nManagement outlined a continued focus on expansion beyond CRM, highlighting ongoing momentum in Vault CRM migrations, new R&D product adoption, and services demand from top pharmaceutical companies. Leadership confirmed that Vault CRM commitments among the largest customers are considered secure, with all active projects proceeding toward go-live. The company is rapidly deploying AI agents across multiple product lines, focusing on Commercial Content and Safety as key early use cases, while maintaining a token-based revenue model that is not expected to materially impact financials this fiscal year. Annual normalized billings guidance remains the preferred measure of business momentum, with no short-term changes in approach or outperformance expectations relative to the prior year.\nManagement described a major focus on the CRO channel, noting that bundling\nVeeva Systems\ntechnology for study-by-study deployments with contract research organizations is an incremental revenue source not historically prioritized.\nPeter Gassner said, \"AI is not going to replace things like Windows, iOS, Excel, or core systems of record like SAP, Workday, or Veeva Systems. These core systems are essential.\"\nManagement expects that AI may improve the development of core\nVeeva Systems\nofferings, but does not anticipate material acceleration to clinical trial timelines, citing human biology and recruitment as main constraints.\nAnnual guidance is constructed based mainly on projected customer activity and less on changes in macroeconomic trends, with project planning cycles cited as a key determinant.\nTop 20 customer migrations to Vault CRM are considered low risk for reversal, and executives emphasized increased risk for competitors relying on custom builds with third-party integrators.\nINDUSTRY GLOSSARY\nVault CRM\n:\nVeeva Systems\n' next-generation customer relationship management platform for life sciences, enabling migration from legacy CRM systems with expanded features and agentic automation capabilities.\nRTSM\n: Randomization and Trial Supply Management, software supporting randomization of patients and management of drug supply logistics in clinical trials.\nCrossix\n:\nVeeva Systems\n' data analytics product suite enabling measurement and optimization of healthcare marketing effectiveness.\nAgentic CRM\n: CRM capabilities enhanced with AI agents to automate customer workflows and decision-making processes.\nCRO\n: Contract Research Organization, a service provider conducting clinical trials and related services on behalf of pharmaceutical and biotechnology companies.\neTMF\n: Electronic Trial Master File, a digital solution for organizing and managing essential clinical trial documentation and compliance records.\nLIMS\n: Laboratory Information Management System, managing laboratory data, workflow, and sample tracking within R&D environments.\nEDC\n: Electronic Data Capture, software for collecting and managing patient data in clinical trials.\nSafety (Pharmacovigilance)\n: Software offerings for adverse event case management and regulatory reporting in drug safety and pharmacovigilance departments.\nSignal and MVR\n: Advanced Safety modules from\nVeeva Systems\n; \"Signal\" for signal detection in pharmacovigilance, \"MVR\" for Medical and Vigilance Reporting.\nFull Conference Call Transcript\nGunnar Hansen:\nGood afternoon and welcome to Veeva Systems Inc.'s fiscal 2026 fourth quarter and full year earnings conference call for the quarter and year ended 01/31/2026. As a reminder, we posted prepared remarks on Veeva Systems Inc.'s Investor Relations website just after 1:00 PM Pacific today. We hope you have had a chance to read them before the call. Today's call will be used primarily for Q&A. With me today for Q&A are Peter Gassner, our Chief Executive Officer, Paul Shawah, EVP, Strategy, and Brian Van Wagener, our Chief Financial Officer. During this call, we may make forward-looking statements regarding trends, our strategies, and the anticipated performance of the business, including guidance regarding future financial results.\nThese forward-looking statements will be based on our current views and expectations and are subject to various risks and uncertainties. Our actual results may differ materially. Please refer to the risks listed in our earnings release and the risk factors included in our most recent filing on Form 10-Q. Forward-looking statements made during the call are being made as of today, 03/04/2026, based on the facts available to us today. If this call is replayed or viewed after today, the information presented during the call may not contain current or accurate information. Veeva Systems Inc. disclaims any obligation to update or revise any forward-looking statement.\nWe may discuss our guidance on today's call, but we will not provide any further guidance on our performance during the quarter unless we do so in a public forum. On the call, we may also discuss certain non-GAAP metrics that we believe aid in the understanding of our financial results. A reconciliation to comparable GAAP metrics can be found in today's earnings release and in the supplemental investor presentation, both of which are available on our website. With that, thank you for joining us. I will now turn the call over to Peter Gassner.\nPeter Gassner:\nThank you, Gunnar, and welcome everyone to the call. We had a strong finish to the year, delivering results ahead of our guidance. Total revenue in the quarter was $836 million with non-GAAP operating income of $366 million. For the year, total revenue was $3.195 billion and non-GAAP operating income was $1.434 billion. 2025 was an outstanding year for Veeva Systems Inc. We surpassed our $3 billion revenue run rate goal and deepened our strategic partnerships across the life sciences industry through innovation and customer success. We will now open up for your questions.\nOperator:\nWe will now begin the",
+  "qa_turns": [
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Joe Vruwink",
+      "text": "Great. Thank you for the time tonight. I wanted to ask if Veeva Systems Inc. is starting to see some programs funded maybe in the name of AI readiness. I would imagine for a top 20 to commit to Veeva Systems Inc. in any of the R&D areas, RTSM, quality, safety, it would seem you are going eyes wide open into really doing Veeva Systems Inc. as a future foundation for everything AI related that is to come. And so I am wondering if there is an AI influence that you are starting to see that is contributing to the strong demand here at year end.",
+      "turn_index": 0
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Peter Gassner",
+      "text": "I would not say that is a broad thing. There are cases, and it varies by area. More of the theme is, hey, we need core systems that will scale. Either their existing systems are aging, so we talked about a top 20 safety win. Their existing system, because they were doing other things over the past years and just lots of deferred maintenance, and that was going to become a critical risk for the company. So they have to get that in. There are some times where it will help our data business. They are trying to clean up their clean reference data because they know AI is not going to work because, okay, garbage in, garbage out.\nSo there is a little bit of that, but it is more it is just modernizing, getting rid of legacy, and looking for increased automation. AI, you know, it is really the goal there is automation. Right? That is the goal. But AI is not the only way you do automation. Part of it is you do automation through a system to have clean workflow. So it is a driver, but I would not say it is a major driver.",
+      "turn_index": 1
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Joe Vruwink",
+      "text": "Okay. Great. Thanks, Peter. On CRM, Brian made, I thought, interesting comments in January around how that business is going to become about 10% of Veeva Systems Inc. in 2030, so call it a $600 million run rate. I think that is a bigger number than many would have penciled in at the start of events and transitions happening there. Are there things like Service Center or Campaign Manager that are adding incrementally to the forecast? And how would you think about those increments rolling in versus the timing of what you know will roll off in probably that 2028–2029 time frame?",
+      "turn_index": 2
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Brian Van Wagener",
+      "text": "That is right. We did talk about CRM being roughly 20% of our total revenue today, going to about 10% by the 2030 time frame, and that is primarily driven by a lot of the growth that you are going to see. We have a broad, diverse business that is growing along multiple dimensions, and CRM is relatively stable. So we project CRM will be a nice stable business for us over the long term. That includes, to your question, some of the add-on products that you have mentioned, like Campaign Manager and additional revenue from Service Center, and other things that we may develop over time. Think about that as the total kind of CRM, seat-based, revenue in 2030.",
+      "turn_index": 3
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Peter Gassner",
+      "text": "I will just put a few puts and takes on that. The add-on products, you know, patient CRMs, Service Center, Campaign Manager, those can grow. Also, there are some puts and takes in the core CRM. So, you know, a couple of the large top 20s, for example, were on IQVIA. Those are going on over to Veeva Systems Inc. We did not have those before. Some med tech companies. Yes. And Salesforce is getting a few of those as well. So there are puts and takes in that area, and then the add-ons will grow.",
+      "turn_index": 4
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question is from Saket Kalia with Barclays. Please go ahead.",
+      "turn_index": 5
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Saket Kalia",
+      "text": "Okay. Great. Can you hear me okay?",
+      "turn_index": 6
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Peter Gassner",
+      "text": "Yes.",
+      "turn_index": 7
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Saket Kalia",
+      "text": "Okay. Excellent. Yes. Awesome. Hey, guys. Thanks for taking my questions here, and nice finish to the year. Peter, maybe if I could start with you. You know, just to stay on the AI theme a little bit. You spend a lot of time with customers on both the R&D and commercial sides of the house. What are they saying about AI adoption right now within the life sciences industry? Maybe what role do they see the big LLM providers playing and what role do they see Veeva Systems Inc. playing? If that makes sense?",
+      "turn_index": 8
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Peter Gassner",
+      "text": "Exactly right. I do spend a lot of time with customers. I was just reflecting when you asked that. It is one of the best parts of my day, and every day, at least, I am talking to one customer or another. It might be an individual person by text or a conference call or email or whatever it is. First of all, there is extreme interest in AI because they are getting pressured by their bosses and their peers to be, okay, how do we get more efficient with AI? Because it is a new competing paradigm. I would say they bucket into three maybe four types of people that might be able to help them.\nOne is the infrastructure providers, the LLM providers themselves, Anthropic, OpenAI, Microsoft, Amazon, Nvidia, those types of things. How can they be leveraged there? Then they would look for point solution providers. There is a specialized group of people who in the specialized department can do this proof of concept, or maybe you scale it for me here. Then there is their own employees doing custom software, and then there are system integrators. Then you get the core application people like Veeva Systems Inc., like Workday, like SAP.\nWhen they are generally talking to us, they want us to provide more AI solutions that are tightly integrated with their core systems because they trust Veeva Systems Inc., and they know we deliver quality and really know when we say something is going to work, it is going to work. Because our reputation is on the line versus a small startup can just say whatever they want. It does not really matter. So they want us to get in there and make it work, and they want us always to go faster. I feel our customers really want us to win in AI applications. We have a right to win. We just have to execute. It is exciting.\nSome of them have projects going with us, for example, in the promotional materials management area. They are pretty excited that they can have a winning AI that really works and is really durable and is from Veeva Systems Inc. Because a lot of them have been burned on a lot of experiments, but it is not easy for customers to admit failed experiments. Because that is just the dynamics. You do not like to admit that. Failed is too hard of a word. Sometimes the experiment does not work out, it is not a failure. You got a lot of learning.\nBut the experiments that can actually scale, they are rare so far, and they know Veeva Systems Inc. will not do things unless we can scale.",
+      "turn_index": 9
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Saket Kalia",
+      "text": "That is great and very helpful perspective, Peter. Brian, maybe for my follow-up for you. I was wondering if we could talk about the Crossix business here a little bit in fiscal 2027. Obviously, you had a fantastic year in 2026. So should we think about this year as a tough comp year? Do you see some of the same trends continuing into 2027?",
+      "turn_index": 10
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Brian Van Wagener",
+      "text": "I think both of those can be true. Crossix had an outstanding year last year, and it certainly exceeded our expectations. We are starting to lap some of those in Q4 and certainly into Q1. You will recall that was the major driver of outperformance in Q1 of last year. So compares do get tougher, but that is a business that is executing really well with a long runway for growth. We continue to expect very healthy growth from the Crossix team.",
+      "turn_index": 11
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question is from Brian Peterson with Raymond James. Please go ahead.",
+      "turn_index": 12
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Brian Peterson",
+      "text": "Congrats, gentlemen. Very strong quarter. So, Brian, I wanted to start with you. I have got a question. Any help on bridging the gap between the 13% growth for subscription in fiscal year 2027 versus the 11% growth in normalized billings?",
+      "turn_index": 13
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Brian Van Wagener",
+      "text": "For FY 2027?",
+      "turn_index": 14
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Brian Peterson",
+      "text": "For fiscal year 2027.",
+      "turn_index": 15
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Brian Van Wagener",
+      "text": "Yes. I think the main thing as you think about subs growth in 2027, Brian, is we have Crossix, so we have a little bit of slowing growth in commercial, very healthy growth, but Crossix laps some of those harder compares, and we have talked about CRM being a more mature business. In R&D, you will see that growth rate shift a bit, and that is really driven by a shift from growth coming from our mature products like eTMF to the really big new products like RTSM and EDC and Safety and LIMS. Those products are very large and growing fast, but still early in getting to scale.\nSo you are primarily seeing the effect of that mix shift in the delta there between subs and billings. But it is not a major effect, and we remain very pleased with the progress and trajectory and the path towards our 2030 goals.",
+      "turn_index": 16
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Brian Peterson",
+      "text": "Got it. And maybe a follow-up for Paul. I know you have 125 plus customers live on Vault CRM. I would love to understand for that customer cohort and even some that are looking at the transition, what are you seeing in terms of pipeline development of some of the other products? And I would be curious about that cross-sell opportunity. Thanks, guys.",
+      "turn_index": 17
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Paul Shawah",
+      "text": "Yes, Brian. You are right. In the prepared remarks, I think we said 125 plus live. Actually, the actual number is closer to 140. So we are doing just really, really well in Vault CRM, pleased with our execution from the very largest of companies all the way to the very smallest and pretty much across every region. And yes, what we are seeing is in some cases, when those migrations happen, it creates an opportunity to add a new product that they did not have before. We have seen examples with Network and OpenData, a couple of the top 20s that we have announced. As they went to Vault CRM, they expanded globally with Network and OpenData.\nAnd then also with some of the newer add-ons, some of the small and midsized companies are adopting some of the new products that we have. They are turning on Service Center. They are turning on Campaign Manager. So it is absolutely an opportunity for us to pull a lot of that through, and I expect that is going to continue over time.",
+      "turn_index": 18
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question is from Alexey Bogalis with JPMorgan. Please go ahead.",
+      "turn_index": 19
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Alexey Bogalis",
+      "text": "Hello, everyone. Peter, building on the AI theme, Veeva Systems Inc. clearly has mission-critical software, network effect, proprietary data, domain expertise. How do your customers rank those key elements when they consider you as right to win against those LLM infrastructure peers?",
+      "turn_index": 20
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Peter Gassner",
+      "text": "I am not sure how they would really rank that. I think they would view it altogether. Veeva Systems Inc. understands our systems. They understand our processes. They understand our technology. More so, many of them think of Veeva Systems Inc. as a company that has delivered on everything we have said we would do over the last fifteen years. So the trust is there, and it is not just buying trust. It is earned trust. We are a company that really takes customer success seriously. When we are committed to do something, we are going to do it. We will not get a sale committing to something we cannot do. That is what we do not want to do.\nSo I would say trust is the number one, and, obviously, they know that we know our business, and we are tech experts. That is how they see it. It is pretty straightforward.",
+      "turn_index": 21
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Alexey Bogalis",
+      "text": "Thank you, Peter. And Brian, appreciate that you and Peter have confirmed the target of top 20 that you hope will switch to Vault CRM. Do you still think you may get the commitment from the remaining four customers by 2026? And also related to the customer topic, it looks like customer growth has accelerated to 5%. What drove that?",
+      "turn_index": 22
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Brian Van Wagener",
+      "text": "As it relates to top 20, most of the decisions have been made. There is a handful, roughly five, that are left. We have said roughly 14 of 20 where we expect it will end up to be, and we are still on track for that. Nothing has changed there. Maybe it is 13. Maybe it is 15, but we think 14 is closest to the pin. Those decisions will play out this year. Some of them will happen over the next couple of months, or there may be a few that go later in the year for no other reason than company-specific things.\nThere are a couple customers that have some launches that are upcoming, so they are prioritizing that over anything else. So we are on track in top 20. We think it will end up at roughly 14 of top 20. We are doing well there. I think the second part of your question was around the growth rate in customer count. Did I hear that correctly? I think so. I think you asked about the 5% growth in customer count. I think what you are seeing there is just really strong execution from the team.\nWe talked over the past few cycles about the progress we are making in the Basics segment for some of the small emerging biotechs, and we have seen really good execution with that team in both commercial and R&D.",
+      "turn_index": 23
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question is from Ken Wong with Oppenheimer & Co. Please go ahead.",
+      "turn_index": 24
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Ken Wong",
+      "text": "Thank you for taking my question. I wanted to maybe touch on professional services. It looks like there was some outperformance there. Can you talk about what segment saw that outperformance? And then as we think about fiscal 2027, should we assume the gross margin profile of that services pipeline is consistent with 2026?",
+      "turn_index": 25
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Brian Van Wagener",
+      "text": "Hey, Ken. This is Brian. I will pick that one up. Very strong execution from the team in FY 2026 and going into FY 2027 on services. The main driver of growth there continues to be Business Consulting, but also the R&D team growing very healthily as well as other areas like our Digital Events business and Commercial as well. We have had some of the uptick that we expected in CRM migration activity, and you see that reflected in the top line. We have been hiring to support that demand. You can see that in the margin profile over Q3 and Q4, continuing to run very profitably, and expect that to continue over the coming year.",
+      "turn_index": 26
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Ken Wong",
+      "text": "Got it. And then just a quick follow-up on the mention on billings no longer giving the quarterly guide. I guess as we think about our models, is it at least loosely fair to assume typical seasonality that we have seen these last few years?",
+      "turn_index": 27
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Brian Van Wagener",
+      "text": "Thanks for that question, Ken. Our plan for the coming year is we will continue to provide annual normalized billings. We will update that on a quarterly basis alongside our other metrics. You have heard us say for several cycles we think that is the better gauge of the underlying momentum of the business. We are not going to give quarterly guidance. But with that said, we do expect the seasonality to be similar to last year.",
+      "turn_index": 28
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Ken Wong",
+      "text": "Okay. Fantastic. Thanks a lot, Brian.",
+      "turn_index": 29
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question is from Stan Berenshteyn with Wells Fargo Securities. Please go ahead.",
+      "turn_index": 30
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Stan Berenshteyn",
+      "text": "Hi. Thanks for taking my questions. In the prepared remarks, you mentioned a top 20 standardizing on RTSM. I am curious, will RTSM have a similar ramp to EDC, or is there a different consideration there? I want to understand the selling motion here. Was this a competitive takeaway? Does this top 20 standardize on any other major solutions for you?",
+      "turn_index": 31
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Peter Gassner",
+      "text": "The selling motion there and the ramping, these are long-term ramping deals with RTSM. RTSM is a significant product area. You could think of it as significant as the EDC area because it is very critical in what it does: shipping around drug supplies and blinded drug supplies to research sites all around the world and randomizing the patients into the right cohorts. This is extremely detailed and critical work. The selling motion there is different than many of our other products because especially the top 20s buy these RTSM solutions and services almost on a study-by-study or therapeutic-area-by-therapeutic-area basis. We think Veeva Systems Inc. can be the enterprise solution for that. We have the scale to do that.\nWe are not a small standalone RTSM vendor. We are a big Veeva Systems Inc. that has a lot of scale and flex. But we have an outstanding standalone RTSM product. It is the best product in the business. Now you can standardize on these and get a lot of synergies. The selling motion is often showing people that you do not have to do it the old way. You do not have to have an RTSM procurement department in your company. So it is a different selling motion. You asked if the customer has other products. The customer has been a longstanding clinical customer.\nThey did actually buy some other clinical products from us in the clinical operations area at the same time as this. I would not say they are completely separate sales cycles, but this was an RTSM sales cycle, and we are really happy with that. It is a milestone deal for Veeva Systems Inc. and for the industry. I hope to have more of those over the next year or two. Now our focus right there in RTSM is going to be delivering on that promise for the customers so that they see these synergies of standardizing. That is the number one thing we have to do.",
+      "turn_index": 32
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Stan Berenshteyn",
+      "text": "Thanks. And then a quick follow-up on AI. Obviously, some of your clients are helping solutions that maybe are not widely available yet. Can you maybe speak to early proof points that you are seeing on AI agents that you are planning to roll out over the course of the year? Are there any sort of ROI or tidbits from clients that you are hearing that you can comment on ahead of these releases? Thank you.",
+      "turn_index": 33
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Peter Gassner",
+      "text": "The one that is farthest along, and we have multiple projects underway, is the Commercial Content area. The ROI is very clear. It is faster content, lower cost to create that content, and that is what it is all about. Lower cost to create that content, I will not quote specific numbers, but that is pretty clear to quantify. Faster content just means better launches. That means that drives the top line before the patent on that product expires. I get asked about that all the time.\nThey know in the age of really omnichannel experience for their customers, which are patients and healthcare providers, an omnichannel experience that includes AI doctors and large language models, the speed that you can get your content out there in a compliant way is going to be critical. The old way of approving content is just not going to suffice anymore. You need to approve it. You cannot do this. It is not legal to just throw content out there that is not compliant. They need to do it. But the old way of doing it is just not going to suffice. There is intense interest in that area.",
+      "turn_index": 34
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question is from Rishi Jaluria with RBC. Please go ahead.",
+      "turn_index": 35
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Rishi Jaluria",
+      "text": "Wonderful. Thanks so much for taking my questions. Nice to see continued momentum in the business. Two questions. Maybe first, would love to start out by exploring a little bit more. Obviously, Anthropic made a lot of noise when they launched Claude for Life Sciences and signed up a lot of deals, and maybe lost in that was Veeva Systems Inc. being an enabling launch partner across the life sciences.\nSo, Peter, how should we be thinking about the opportunity for Veeva Systems Inc. to work with Anthropic, OpenAI, all the different model providers out there, provide your domain expertise, provide the workflow expertise, and have a you-know, a horizon-timeless-of-both situation rather than, obviously, the current market view of it being more cannibalistic? And then I have a quick follow-up.",
+      "turn_index": 36
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Peter Gassner",
+      "text": "I certainly do not view it being cannibalistic for Veeva Systems Inc., absolutely not. Let me state it clearly. AI is a very positive thing. I will get back to that in a minute. Address the higher level. AI is not replacing software. That is just not happening. Not all software is the same. I will make a point on that. AI is not going to replace things like Windows, iOS, Excel, or core systems of record like SAP, Workday, or Veeva Systems Inc. These core systems are essential. We will add core AI systems as well as Workday. These core systems are going to be used by agents as well as human users. That is new.\nBut these systems are essential, and they are not going away. AI is going to enable a lot of new kinds of long-tail software. Software that could be only used by a few people or a specific software group in a company, company-specific software, or types of software that could not be done before: self-driving cars and trucks, dramatically better coding tools, better Google search, and then in our case, industry-specific AI applications. In these early days of AI, people get a lot of hype, and they think it is going to play out over one or two months. It is not. It is going to play out over ten or twenty years.\nFor Veeva Systems Inc., AI is going to help us create and improve our core systems faster than before. That is where it will help our software development, but not at the expense of quality, predictability, regulatory compliance, and the real value that customers depend on. As it relates to Anthropic or OpenAI and others, that is an engine, and their engine will be used for lots of things. They will be used by the Veeva Systems Inc. applications or by custom applications that the customers develop. Yes, it is good for those large model providers. They have to watch their profitability, etc., but they are an engine. They are in the new wave of cloud computing.\nThat is the new AWS, etc. It is good business there. Just as AWS itself and also Azure, Google Cloud, etc., was very good business for those hyperscalers. I think what sometimes gets lost is that actually enabled Veeva Systems Inc. You could not have built the industry cloud for life sciences. You could not have built those long-tail applications without those cloud infrastructure providers. It is the same way here with these large language models. Veeva Systems Inc. could not build the AI applications that we are going to build without these foundational LLMs. I think the word is symbiotic. I am more of a Hemingway, really, than anything else, but I think it is very symbiotic.\nAt times, especially in the early days, it can be chaotic as people are bumping around. That is okay. But the large patterns are very clear, and it will be very symbiotic.",
+      "turn_index": 37
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Rishi Jaluria",
+      "text": "Very helpful. And then just quickly as a follow-up on that kind of thought experiment, Peter, and looking forward to the collection of poems soon after this.\nAs we think about, you talked about using AI for automating a lot within Veeva Systems Inc., maybe building on top of that, given how mission-critical this is and how much it can be tied not just to better revenue outcomes but, more importantly, better patient and better healthcare outcomes and better societal outcomes, do you see an opportunity to not just automate and drive faster time to value and efficiency, even leveraging AI within the digital platform to allow for better drug development, safer drugs out in the market, basically better outcomes rather than just faster time to value? Thanks.",
+      "turn_index": 38
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Peter Gassner",
+      "text": "Excellent question, and I hope I do not go too long on this because I have a real passion for this area. After working eighteen years in this industry, I really know about it, I feel. I really care about the people in it, and I see how it impacts patients. It is a real thing. Drug discovery is one thing. There is a lot of focus on that, and yes, that will get faster, but that is not the real bottleneck. The real bottleneck is the clinical trial, the experiment that is done in the human. We are always going to have to do those experiments in human, and human biology runs the same speed.\nThat always has to be done, and the bottleneck now is finding the patients around the world that can get in those trials. That is one. But the biggest bottleneck by far is there is a patient somewhere out there in the world. They are diagnosed with something by a doctor. How long did it take them to get diagnosed and when did they get the right medicine that will best treat them? That is where 90% of the value in life sciences is lost. It is lost because of that impediment. The basics of is the patient informed, can they get to the right doctor, is the right doctor informed, is the payer informed?\nThat is where 90% of the value is lost. I said value is lost, but on the other side, there are a lot of people who do not get treated correctly or timely around the world. That affects productivity. That affects their family. Some of these people are not in their nineties. Some of them are young parents or just young children. If you saw our partnership with BioMarin and you look at what they are doing, they are treating genetic diseases primarily in young and disadvantaged children who have parents and brothers and sisters. This is really important for us, and AI can definitely bridge that gap.\nAI doctors and large language models can help bridge that gap between doctors and patients. Maybe that 90% inefficiency goes down to 50%. That would be a tremendous boon. Yes, Veeva Systems Inc. will definitely play a part in that by connecting our customers, the industry, to its external ecosystem. Its external ecosystems are clinical researchers, patients, doctors, and regulators. The industry is not well connected, and AI is going to provide a better method to do that. I think what people are missing is the benefit of AI over the next ten, twenty years on the life sciences industry because we will be able to treat more patients faster, and that will transfer into higher revenue and societal benefits.",
+      "turn_index": 39
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question is from Jailendra Singh with Truist Securities. Please go ahead.",
+      "turn_index": 40
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Jailendra Singh",
+      "text": "Thank you. Thanks for taking my question and congrats on a strong quarter. I want to talk about your comment that guidance assumes no significant changes in the macro environment. Just curious if pharma companies having some clarity on MFN tariff and with some deals with the current administration over the last six months or so, why you do not think trends could start moving in the right direction? As these large pharma companies now have some more clarity, are you just being more prudent in your guidance? Are you still seeing some crosscurrents that pharma clients have to navigate?",
+      "turn_index": 41
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Paul Shawah",
+      "text": "The uncertainty has been out there for some time. We have been tracking it. The industry has been tracking it. You are right, there has been a trend towards things becoming more certain across a number of different dimensions. I think there is some cautious optimism about what is happening. Certainty is always better than uncertainty. In a number of areas, things have become more certain. I think that is generally good for the industry. But we are in conversations with our customers. We know how they are thinking. We know how they are planning for the next year.\nSo we provide guidance that is the best in line with what we anticipate the projects that they will be focused on and less related to the specific ups and downs of the macro environment. Over the short term, they are generally less influenced by that. They are more influenced by these longer planning cycles. We do our best to incorporate the discussions and conversations in the guidance more so than the overall macro environment.",
+      "turn_index": 42
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Jailendra Singh",
+      "text": "Got it. A quick follow-up on the CRM side. You recently moved the CRM end-of-support date from September 2030 to December 2029. What were the key drivers there? Are you still contractually paying Salesforce through 2030? And then related to that, you guys talked about a lot of other wins outside of top 20. Can you give us some number around your win rate in that midsized pharma segment? Is it better than 70% or lower? Give some color about the midsized pharma. How fast is that moving on CRM?",
+      "turn_index": 43
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Paul Shawah",
+      "text": "The drivers, you are right. We moved the date to December 2029. It used to be roughly September 2030, so we pulled it in about eight or nine months. The reason we did that is, one, Vault CRM is going well. I mentioned earlier we are close to 140 customers live on Vault CRM. Momentum there is fantastic. The product is actually better than Veeva Systems Inc. CRM. The migrations are going well. We are executing well there. We do not have any customers with projects planned into that 2030 time frame. The further you get out, there is more uncertainty. We want to make sure there are no stragglers that go into 2030. That was the intent there.\nWe think that is good for the industry and good for customers. You also asked about the royalty payments to Salesforce, and those will wind down as customers roll off of Salesforce. Once everybody is off, those payments will stop. On win rates specifically outside of the top 20, we expect the win rates to be even higher than inside of top 20, mainly because those companies want a product that they know will work. They want a trusted partner, a strategic partner, somebody who is innovating and actually delivering agentic CRM today. That was our promise, that our customers can innovate, get to agentic CRM fast, and now it is available with Veeva Systems Inc.\nI think it is a big advantage for Veeva Systems Inc. with those small and mid-sized companies just going with somebody that they trust and that they know will work.",
+      "turn_index": 44
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Jailendra Singh",
+      "text": "Great. Thanks a lot.",
+      "turn_index": 45
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question is from Dylan Becker with William Blair. Please go ahead.",
+      "turn_index": 46
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Dylan Becker",
+      "text": "Hey, gentlemen. Appreciate it. Maybe, Peter, sticking with the AI theme and topic, you called out the value of platforms versus point solutions. I wonder, and it ties into trust as well, how you delineate between those and how you think about your ability serving the end-to-end workflow across the industry to maybe help solve the opaqueness or the uncertainty around the perception of AI and how that relates to your ability to quantify the value relative to a point solution that is maybe looking at the market, if that makes sense, and how that ties into your ability to the right to win, if you will, in that intelligence layer.",
+      "turn_index": 47
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Peter Gassner",
+      "text": "I would say trust certainly has something to do with it. We have deep customer relationships with trusted customers so we can get the requirements quickly. It is also just a skill and an operating model. We have the skills to know about the industry and have the operating model of discipline in pricing and account management, etc. I would view Veeva Systems Inc. as developing pieces of a puzzle that customers may purchase and put in. Also, and sometimes not as relevant to the customers, we are developing a plan and continually maintaining the plan about how the puzzle pieces fit together. Every time they get more Veeva Systems Inc. pieces, it more fits together in their puzzle.\nLet us say they are doing something with us in Safety, and they start doing an AI solution with us in Safety. Two years from now, they go with us in Clinical Data Management. A year later, they put in an AI solution for Clinical Data Management. That AI solution is going to work with their Safety solution pretty much out of the box. That is a benefit they never planned for that they are going to get. Customers start to see that it fits together with Veeva Systems Inc. I think way back in the day, you saw this with Microsoft on the desktop, too.\nWay back in the day, they start to see, oh, it kind of fits together with Microsoft. Microsoft will take responsibility for fitting things together, and there is value in that alignment. That is our right to win, and what gives us the ability to execute is our operating model and our discipline for making great software.",
+      "turn_index": 48
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Dylan Becker",
+      "text": "Very helpful. Thank you. And then I am not sure if this is maybe for Paul or Brian as well, but I think there were comments in the prepared remarks around opportunity to lean more aggressively into the CRO channel. This might be a little bit more downmarket. It might be tied to Veeva Systems Inc. Basics. Any color on what you are seeing with traction and adoption of bundling more services and software to tie into Peter's point right there, and how you can leverage that and lean into the enterprise segment, if that is tailored to the market today? Thank you.",
+      "turn_index": 49
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Peter Gassner",
+      "text": "I will take that one. This is Peter. This is about the CRO, or contract research organization, basically using them as a channel for what we call the study-by-study business. In a small biotech, usually, when they run a clinical trial, they will get those services from a contract research organization. With those clinical services, the CRO will provide technology as well. So far, we have not participated too much in that. The CROs have had their established patterns, and they have used a different variety of vendors and some homegrown things to provide to their customers. We are putting an effort now and starting to make progress where they would offer the Veeva Systems Inc. technology.\nThey would OEM the Veeva Systems Inc. technology to their customers for that study. Sometimes this can be significant. It is not unheard of for this technology—if a lot of it is from Veeva Systems Inc.—on a big study, that might be $500,000. That might be $1 million. There are a lot of studies that start every year. This can be a very large business. The study-by-study business internally in Veeva Systems Inc., we know that can be a billion-dollar business for a couple of reasons: the breadth of products we have. EDC is sold study by study. RTSM is sold study by study. eCOA is sold study by study. Those are three very, very big product areas.\nThat is what we are talking about there. It is not new products, although we will adjust our products a little bit for that market. It is more a new focus on a go-to-market motion and operating model inside of our company.",
+      "turn_index": 50
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question is from David Hynes. In the interest of time, please now limit yourself to one question. Please go ahead.",
+      "turn_index": 51
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "David Hynes",
+      "text": "Alright. Thanks. Just in time. Thank you for squeezing me in. So, Peter, I wanted to come back to some of your comments on automation. It seems like to me that maybe to the point that you also just made around standardizing on Veeva Systems Inc. I am focused particularly on Development Cloud should drive a lot of automation. You highlighted that AI is a way to automate, but not the only way. I am wondering if AI is shining a brighter light on the benefits of standardizing on Veeva Systems Inc. for that automation.",
+      "turn_index": 52
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "In that context",
+      "text": "what is your view of the EDC market submarket within your Development Cloud portfolio and why has not that been moving in your direction more lately? Thank you.",
+      "turn_index": 53
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Peter Gassner",
+      "text": "Let us see. Standardization and standardizing on Veeva Systems Inc., I have not really seen that as a theme to say, hey, standardizing on Veeva Systems Inc. is a way we can accelerate with AI. In a few pockets, but not as a theme. I think that theme is probably coming. We have to really prove out that Veeva Systems Inc. AI is just available this year. Once we start really proving out value and some of these point solutions start not doing so well, etc., that is where it can really accelerate.\nA year from now, two years from now, when we have big companies thinking, I increased my revenue by $40 million because I lowered the time of drug approvals because the Veeva Systems Inc. Regulatory solution allowed me to get back faster to the health authorities around the world. That is when things really start coming. But we have to deliver on that. The promise is there, but I think I put in my prepared remarks, I used the words it is hard. This is very hard stuff. It is not simple. We have to get it right. You talked about standardization, and then I did not write down the second part of your question. Could you ask that again?\nI am sorry, David.",
+      "turn_index": 54
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "David Hynes",
+      "text": "Just the EDC component of standardizing on Development Cloud. I think you have been relatively stable, flat, but that is an area where you could penetrate more top 20s, it would seem.",
+      "turn_index": 55
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Peter Gassner",
+      "text": "I would say we hit a bit of an air pocket there in EDC, and that is just the random timings of life, I guess. We certainly hope to make progress there in the coming years, and I think we have a structural advantage because the customers really want the combined Clinical Operations and Clinical Data Management to work together, and we announced a real groundbreaking thing on our eSource initiative. We have some late adopters there, and they also have other priorities that they have to get after. It is a question of priorities. Arguably, we are the leader now. It is us and Medidata, although they do better in the study-by-study area.",
+      "turn_index": 56
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "I think we are on a path to leadership. One high",
+      "text": "our competitive environment has never been stronger. I feel like I can see where we are going. As long as we do not get arrogant, as long as we keep executing, we will complete that vision. But do you complete that in five years, in seven years? When does the EDC breakthrough come? Does it come in two years or one year or four years? Those things are hard to predict, David. We are well set up to get there because we have a structural advantage.",
+      "turn_index": 57
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Next question is from Andrew DeGasperi with BNP Paribas. Please go ahead.",
+      "turn_index": 58
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Andrew DeGasperi",
+      "text": "Thanks for fitting me in. I just wanted a two-part question, if I may, on the Vault CRM, the 10 that you said will stick with Vault CRM. I just wondered how firm are those commitments? We have been hearing some questions from investors that some could still decide to move despite signing with you. Separately, as the services revenue picks up, it sounds like those are tied to the go-live decisions. Should we expect that to ramp up this year in fiscal 2027 as more of those customers go live? And if so, have you accounted for that in the guidance? Thank you.",
+      "turn_index": 59
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Paul Shawah",
+      "text": "I will take the first part of that question, and I will leave the services revenue part of it to Brian. Your question is, how firm are those commitments? With Veeva Systems Inc., commitments are generally pretty firm. Nothing is ever set in stone or final, but I feel really confident about the decisions that have already been made. Why? Because we have close to 140 customers live. We have two top 20s, big complex companies operating in all of the major markets, who are now live on Vault CRM. We have proven that this is the fastest path to get to CRM and agentic CRM. We are really confident. We are executing well.\nI do not see any risk there. I think there is actually a greater risk that a customer that decided to do Salesforce and tries to go down the path of a custom-build project, a big systems integrator project—I think there is greater risk that those companies see how difficult it is and come back to Veeva Systems Inc. I think that is our opportunity over the next few years.",
+      "turn_index": 60
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Peter Gassner",
+      "text": "I will just put a fine point on that. It is Peter. Those top 10 customers that have picked us, all those projects were started. They are all going, and they are all going to a very stable product that is already live. I think those are pretty clear. On the other hand, not all of Salesforce projects are going so well, and they are different. I know of one top 20 that has—I will not say the exact number—but they have a large number of development team contracted in India from a third-party systems integrator. They are coding basically a custom solution. That may work out well, or that might not work out well.\nAt some point, there may be a new regime in, and they might not want that custom build. There is a complete difference in certainty. Those Salesforce projects, they might work well. But even the customers know it is going on to a speculative product. That is not the case with Veeva Systems Inc. It is very different.",
+      "turn_index": 61
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Brian Van Wagener",
+      "text": "And, Andrew, I will jump in quickly. This is Brian. I think you hit for the cycle with all three of us in your question. Nice job. On the services guide, the short answer is yes. We have top 20 projects at various phases—wrapping up, well underway, kicking off—over the course of the year, and that is all factored into our guidance for FY 2027.",
+      "turn_index": 62
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question is from Ryan MacDonald with Needham. Please go ahead.",
+      "turn_index": 63
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Matt Shea",
+      "text": "Thanks for taking the question and congrats on the nice quarter. This is Matt Shea on for Ryan. Maybe sticking with the AI theme, you have noted in the past how AI could be a game changer in Safety and how you potentially see faster adoption there than Quality. But maybe if we take a step back, could you comment on why you are leaning into agent development in Safety given how historically reluctant to change that segment of the market has been? Do you think these two new agents in April can unlock demand, or how do you ultimately envision this market adopting AI? Thanks.",
+      "turn_index": 64
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Peter Gassner",
+      "text": "Safety momentum, we can surely call it the Safety surge. We have been winning some deals, and projects are going well. We had another top 20 win this quarter, and we had our first top 20 go live with Signal and MVR. Now in terms of AI, it is pretty clear there in Safety. There is a lot of human processing of case intake and case narrative generation that is done by people. That is not necessarily that high risk, but it has to be done well. It is expensive to hire those people, and it is not easy. In Safety, it is very clear. It is about replacing that type of labor with automation, with AI software.\nWhat is risky for the customers, or what they would claim is really important, is when they switch from their current core Safety system to Veeva Systems Inc., that project has to go really well. But that is not easy to do. That is more where the risk aversion is. They are starting to realize if you want to have a potential future where you have a great core Safety system that has Safety AI on top of it and is connected to your other systems in your company, Veeva Systems Inc. is the only place you are going to do that unless you are going to build it yourself.\nI think most people are starting to realize now that it is not that easy to build and maintain these things themselves. That is leaning into our favor on the AI. Of course, we have to deliver it. What makes that market slow is people are very reluctant to change their core Safety database because they have to report to health authorities all around the world. If they cannot do that, they have to pull their products off the market. It is serious. I think sometimes people do not understand it. We are not making systems that help people write better emails or better spell checker.\nIt is a big deal for a pharmaceutical company if your products get pulled off the market. These things are very critical.",
+      "turn_index": 65
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question is from Adam Hotchkiss with Goldman Sachs. Please go ahead.",
+      "turn_index": 66
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Adam Hotchkiss",
+      "text": "Great. Thanks so much for taking the question. Two-parter, if I can, just to follow up on Rishi's from earlier. As AI speeds up clinical trial timelines and trial success rates, I am curious first how this dynamic impacts how customers use Veeva Systems Inc.'s R&D products? And then second, maybe for Brian, I know that pricing models differ within the R&D portfolio, but how could this impact, if at all, customer spend on Veeva Systems Inc.? Thanks.",
+      "turn_index": 67
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Peter Gassner",
+      "text": "About AI speeding up clinical trials, I think AI can speed up some, maybe in the startup and in the close down, but not that much really. It is still based on the clinical protocol of the medicine, which is based on the time the human body takes to deal with that medicine and to prove it out. Then the patient recruitment, which I do not think is actually an AI problem. So it will speed it up some, but not so much in clinical trials. In terms of how that impacts their view of the core Veeva Systems Inc. systems, I do not think that really impacts their view of the core Veeva Systems Inc. systems.\nBrian, did you want to follow up on that one?",
+      "turn_index": 68
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Brian Van Wagener",
+      "text": "I think the second part of the question was around how this can impact spend over time. Adam, it is still very early there. What we are really focused on is product excellence and customer success right now. Last year was about putting the foundation in and the platform and the first agents. This year is about rolling out agents in all of our product areas, getting customers live, refining the product, really creating a lot of value. We do not really expect it to be a major financial contributor this year. It is more in the out years and still pretty early down that journey.",
+      "turn_index": 69
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Adam Hotchkiss",
+      "text": "Okay. Thank you very much.",
+      "turn_index": 70
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question is from Craig Hettenbach with Morgan Stanley. Please go ahead.",
+      "turn_index": 71
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Craig Hettenbach",
+      "text": "Great. Thank you. Pete, I wanted to ask the AI question maybe in a different way. If I look at some of the success you have had in the R&D business, the breadth of the product offerings, you continue to layer on new capabilities, be able to bundle those products, offer a platform to customers. When we think about the LLM providers introducing some tools for clinical workflows, how do you think about the customer base if they were to go direct to customer in terms of doing some things piecemeal on that, versus working with one large vendor with Veeva Systems Inc.?\nDoes that carry over in terms of the AI world, in terms of how the opportunity set may evolve?",
+      "turn_index": 72
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Peter Gassner",
+      "text": "I think that is very similar. Some people will want to experiment and do solutions on their own and see if they can get that up and working and scale. But I do not think the AI vendors are really making industry-specific software applications. It takes a lot of dedication and effort to do that. I think it is a very symbiotic relationship, just like the cloud area. Amazon did not make industry-specific applications either. I do not really see why something like Anthropic would do that. They are going to make broad applications and applications for coding itself, etc. That is what I feel would happen. This is our domain. We know how to do this stuff.\nIt takes software, data, consulting together. I think it is going to be a very symbiotic relationship.",
+      "turn_index": 73
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Craig Hettenbach",
+      "text": "Got it. Thank you.",
+      "turn_index": 74
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "As a reminder, please limit yourself to one question. Our next question is from DJ Hynes with Canaccord Genuity. Please go ahead.",
+      "turn_index": 75
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "DJ Hynes",
+      "text": "Hey. Thank you, guys. Brian, I am going to take another cut at an AI finance question with you, realizing just how early everything is here. Based on the adoption trends you are seeing, customer willingness to pay, how you are thinking about pricing, do you expect your agentic AI offerings to be immediately accretive to margins or will that take time? Help us think about the curve to profitability. You are already at 45% margins. How does that ramp happen as the portfolio matures?",
+      "turn_index": 76
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Brian Van Wagener",
+      "text": "DJ, that is a great question, and it is, as you said, still quite early. As we are starting this year, we are really expecting to be using a token-based pricing model. That gives a little bit of predictability around the margin profile. But that may evolve over time. It is really more around getting to product excellence and value creation and less about pricing, revenue, exact margin structure. It is not a material impact on FY 2027, and let us see how it plays out in the forward years.",
+      "turn_index": 77
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question is from Karl Keirstead with UBS. Please go ahead.",
+      "turn_index": 78
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Karl Keirstead",
+      "text": "Okay. Great. Maybe, Brian, just back to the numbers and the total revenue guide of 13% for fiscal 2027. A year ago, you started the total revenue guide at 11% and you just finished with 16%, a really strong five-point beat. As we all assess your 13% starting point for this fiscal year, is there anything about the fiscal 2026 five-point outperformance that in retrospect strikes you as somewhat nonrecurring and a reason to be a little bit more cautious in terms of modeling any upside this year?",
+      "turn_index": 79
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Brian Van Wagener",
+      "text": "Hey, Karl. The way we think about guidance is giving the best information we have got and calling it based on that. As we went into last year, I think we provided that guidance and then had pretty strong outperformance, in particular out of Crossix. That was really a major driver of the beat over the course of the year. We do expect to see continued healthy growth out of Crossix. I think we would be surprised at the same level of outperformance. But our guidance philosophy last year and this year is to give the best information that we have got and to call it closest to the pin.\nNo change in the approach and not expecting specific outperformance in any area like we saw last year.",
+      "turn_index": 80
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Karl Keirstead",
+      "text": "Okay. Thank you, Brian.",
+      "turn_index": 81
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question is from Hannah Rudolph with Piper Sandler. Please go ahead.",
+      "turn_index": 82
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Hannah Rudolph",
+      "text": "Hi, guys. Thank you for taking my question. Within Veeva Systems Inc. AI, what is the mix of customer adoption you are seeing right now between prepackaged agents that you have built and custom agents that they are building using Veeva Systems Inc. AI? By extension of that, you have plans to roll out a lot of the R&D agents this year. Are you seeing any customers that are so eager that they are building out these agents and work ahead of you launching them? Thank you.",
+      "turn_index": 83
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Peter Gassner",
+      "text": "The bulk of it is with our agents that we are designing. Part of it is our agents are probably a little more robust than our custom tooling right now. If you look at our agents, there is detailed work in the agents. There is detailed data curation. There are detailed testing pipelines. There is a lot of logic in the agents. When we talk about AI agents, there is a lot of specific logic written in our Java code that is hard, that needs great product management. In general, customers would rather get that solution rather than build that themselves. I think we will see some adoption in the custom agents around lighter use cases.\nThey are doing little helper applications, and I think that will start, and we will have a good amount of that in the second half of this year.",
+      "turn_index": 84
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Hannah Rudolph",
+      "text": "Super helpful. Thank you.",
+      "turn_index": 85
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our last question for today will be from Tyler Radke with Citi. Please go ahead.",
+      "turn_index": 86
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Tyler Radke",
+      "text": "Yeah. Thank you for taking the question. So, going to the R&D business, a lot of great top 20 wins. It looks like the revenue outperformance on subscription was a bit stronger than normal. I guess I am wondering, are you seeing— I know you have gotten half, more than half, questions on AI— but just given the success in migration tools, code completion tools, are you seeing any acceleration in implementation times driven by AI or other things? What drove that outperformance, whether it was timing or anything you would call out? Thanks.",
+      "turn_index": 87
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Peter Gassner",
+      "text": "I will take that one, actually. It was just a good quarter, and some of the balls bounced our way. More of the balls bounced our way than bounced against us. I really appreciate your question about whether implementation timelines are shortening. A couple of things are, I would say, yes, but that is natural as our products get better and our services people get better. We do have a big push on tech enabling our services. That really has not borne a lot of fruit just yet, but I do expect it to in the next year or two. For example, we are working with a customer. They do not have Medidata. They have a different EDC system.\nThey have moved on to Veeva Systems Inc. They want to migrate their studies, and AI will help us do that faster than we could have before. I think that is not only specific to Veeva Systems Inc. I think system migration is a great use case for AI automation to cut down the time and reduce the cost of system migration. We will do our part in that too, but it is early days.",
+      "turn_index": 88
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Tyler Radke",
+      "text": "Thank you.",
+      "turn_index": 89
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "The Q&A is now finished. I will now turn the call back over to CEO Peter Gassner for closing remarks.",
+      "turn_index": 90
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Peter Gassner",
+      "text": "Thank you, everyone, for joining the call today. Thank you to our customers for your continued partnership and to the Veeva Systems Inc. team for your outstanding work in the quarter and the year. Thank you.",
+      "turn_index": 91
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "This concludes today's call. Thank you for attending. You may now disconnect.",
+      "turn_index": 92
+    }
+  ]
+}

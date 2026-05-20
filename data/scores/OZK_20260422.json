@@ -1,0 +1,28 @@
+{
+  "ticker": "OZK",
+  "call_date": "2026-04-22",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.014017646309541807,
+  "cosine_distance": 0.037061601743172745,
+  "sentiment_shift": 0.0028212210454512388,
+  "question_difficulty_mean": 0.19986104535149873,
+  "baseline_mean": 0.02218071775730398,
+  "baseline_std": 0.011544326352045838,
+  "z_score": -0.7071067811865477,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5999305226757494,
+    "call_mean_answer_length": 201.75,
+    "call_hedge_density": 0.029810873373204826,
+    "call_pos_sentiment_mean": 0.28899187315255404,
+    "call_neu_sentiment_mean": 0.6527582346461713,
+    "call_neg_sentiment_mean": 0.0582499013398774,
+    "call_qa_similarity_mean": 0.48164703074129256,
+    "baseline_neg_sentiment_mean": 0.05542868029442616
+  },
+  "generated_at": "2026-05-20T06:31:41+00:00"
+}

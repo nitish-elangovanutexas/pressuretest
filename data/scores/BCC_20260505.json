@@ -1,0 +1,28 @@
+{
+  "ticker": "BCC",
+  "call_date": "2026-05-05",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.03832474365033859,
+  "cosine_distance": 0.07683954148017669,
+  "sentiment_shift": 0.03362015193062168,
+  "question_difficulty_mean": 0.2871064477870885,
+  "baseline_mean": 0.036381660150102406,
+  "baseline_std": 0.006814385324839699,
+  "z_score": 0.2851443538353025,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6435532238935442,
+    "call_mean_answer_length": 51.57142857142857,
+    "call_hedge_density": 0.026531772972729777,
+    "call_pos_sentiment_mean": 0.20782761169331415,
+    "call_neu_sentiment_mean": 0.5911638183253152,
+    "call_neg_sentiment_mean": 0.20100857995982682,
+    "call_qa_similarity_mean": 0.37278572290715867,
+    "baseline_neg_sentiment_mean": 0.16738842802920514
+  },
+  "generated_at": "2026-05-20T04:45:40+00:00"
+}

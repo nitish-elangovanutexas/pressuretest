@@ -1,0 +1,28 @@
+{
+  "ticker": "FRPT",
+  "call_date": "2026-05-07",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": -7.857643368543964e-17,
+  "cosine_distance": -2.220446049250313e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.17958932488616144,
+  "baseline_mean": -7.857643368543964e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5897946624430808,
+    "call_mean_answer_length": 174.5625,
+    "call_hedge_density": 0.00989787349150719,
+    "call_pos_sentiment_mean": 0.17479421384632587,
+    "call_neu_sentiment_mean": 0.7696952624246478,
+    "call_neg_sentiment_mean": 0.05551051895599812,
+    "call_qa_similarity_mean": 0.3691968658788218,
+    "baseline_neg_sentiment_mean": 0.05551051895599812
+  },
+  "generated_at": "2026-05-20T05:30:45+00:00"
+}

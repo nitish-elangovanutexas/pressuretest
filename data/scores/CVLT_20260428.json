@@ -1,0 +1,28 @@
+{
+  "ticker": "CVLT",
+  "call_date": "2026-04-28",
+  "quarter": 4,
+  "year": 2026,
+  "pressure_score": 0.03283453622788437,
+  "cosine_distance": 0.083244901138959,
+  "sentiment_shift": 0.016861616307698984,
+  "question_difficulty_mean": 0.15835656914350008,
+  "baseline_mean": 0.026383149685881294,
+  "baseline_std": 0.005929341687944485,
+  "z_score": 1.0880443195102096,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.57917828457175,
+    "call_mean_answer_length": 173.13333333333333,
+    "call_hedge_density": 0.013605358771060123,
+    "call_pos_sentiment_mean": 0.15796277274688084,
+    "call_neu_sentiment_mean": 0.8244979619979859,
+    "call_neg_sentiment_mean": 0.017539271898567677,
+    "call_qa_similarity_mean": 0.43524040064847613,
+    "baseline_neg_sentiment_mean": 0.03440088820626666
+  },
+  "generated_at": "2026-05-20T05:08:18+00:00"
+}

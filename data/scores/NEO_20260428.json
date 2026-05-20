@@ -1,0 +1,28 @@
+{
+  "ticker": "NEO",
+  "call_date": "2026-04-28",
+  "quarter": 2,
+  "year": 2025,
+  "pressure_score": 0.028672008758562916,
+  "cosine_distance": 0.07755648587368069,
+  "sentiment_shift": 0.008595560389735246,
+  "question_difficulty_mean": 0.1475203068089952,
+  "baseline_mean": 0.025185649740593577,
+  "baseline_std": 0.004930456206513982,
+  "z_score": 0.7071067811865479,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5737601534044976,
+    "call_mean_answer_length": 177.0,
+    "call_hedge_density": 0.0289820922266453,
+    "call_pos_sentiment_mean": 0.4116447660185042,
+    "call_neu_sentiment_mean": 0.5362918799122175,
+    "call_neg_sentiment_mean": 0.05206336500123143,
+    "call_qa_similarity_mean": 0.4469274821724906,
+    "baseline_neg_sentiment_mean": 0.043467804611496186
+  },
+  "generated_at": "2026-05-20T06:20:32+00:00"
+}

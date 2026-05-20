@@ -1,0 +1,28 @@
+{
+  "ticker": "CANG",
+  "call_date": "2026-04-09",
+  "quarter": 3,
+  "year": 2025,
+  "pressure_score": -8.686044657064734e-17,
+  "cosine_distance": -2.220446049250313e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.3039489160293408,
+  "baseline_mean": -8.686044657064734e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6519744580146705,
+    "call_mean_answer_length": 127.66666666666667,
+    "call_hedge_density": 0.006391061452513967,
+    "call_pos_sentiment_mean": 0.45411044359207153,
+    "call_neu_sentiment_mean": 0.5376122097174326,
+    "call_neg_sentiment_mean": 0.008277361281216145,
+    "call_qa_similarity_mean": 0.5014946882297213,
+    "baseline_neg_sentiment_mean": 0.008277361281216145
+  },
+  "generated_at": "2026-05-20T04:53:01+00:00"
+}

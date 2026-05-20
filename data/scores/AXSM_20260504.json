@@ -1,0 +1,28 @@
+{
+  "ticker": "AXSM",
+  "call_date": "2026-05-04",
+  "quarter": 2,
+  "year": 2025,
+  "pressure_score": 0.04082142293714234,
+  "cosine_distance": 0.11791726761958687,
+  "sentiment_shift": 0.00046184581837483904,
+  "question_difficulty_mean": 0.15095132228423788,
+  "baseline_mean": 0.030363325308751504,
+  "baseline_std": 0.009884780228386073,
+  "z_score": 1.0580000148469026,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5754756611421189,
+    "call_mean_answer_length": 136.2,
+    "call_hedge_density": 0.011626127937103548,
+    "call_pos_sentiment_mean": 0.22835279777646064,
+    "call_neu_sentiment_mean": 0.7518856704235077,
+    "call_neg_sentiment_mean": 0.01976154316216707,
+    "call_qa_similarity_mean": 0.6460197842277207,
+    "baseline_neg_sentiment_mean": 0.019299697343792232
+  },
+  "generated_at": "2026-05-20T04:43:27+00:00"
+}

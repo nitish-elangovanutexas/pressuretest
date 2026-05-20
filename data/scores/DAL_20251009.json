@@ -1,0 +1,28 @@
+{
+  "ticker": "DAL",
+  "call_date": "2025-10-09",
+  "quarter": 3,
+  "year": 2025,
+  "pressure_score": -7.449223957825515e-17,
+  "cosine_distance": -2.220446049250313e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.11827740802207873,
+  "baseline_mean": -7.449223957825515e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5591387040110394,
+    "call_mean_answer_length": 147.5,
+    "call_hedge_density": 0.00646551724137931,
+    "call_pos_sentiment_mean": 0.09314247965812683,
+    "call_neu_sentiment_mean": 0.44929181411862373,
+    "call_neg_sentiment_mean": 0.4575656969100237,
+    "call_qa_similarity_mean": 0.637030945668729,
+    "baseline_neg_sentiment_mean": 0.4575656969100237
+  },
+  "generated_at": "2026-05-20T05:10:31+00:00"
+}

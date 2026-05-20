@@ -1,0 +1,28 @@
+{
+  "ticker": "RKT",
+  "call_date": "2026-05-07",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.0,
+  "cosine_distance": 0.0,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.169276629138206,
+  "baseline_mean": 0.0,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.584638314569103,
+    "call_mean_answer_length": 181.83333333333334,
+    "call_hedge_density": 0.012977799375935099,
+    "call_pos_sentiment_mean": 0.30422977296014625,
+    "call_neu_sentiment_mean": 0.6635769978165627,
+    "call_neg_sentiment_mean": 0.032193238381296396,
+    "call_qa_similarity_mean": 0.45493324121708206,
+    "baseline_neg_sentiment_mean": 0.032193238381296396
+  },
+  "generated_at": "2026-05-20T06:46:14+00:00"
+}

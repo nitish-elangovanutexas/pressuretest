@@ -1,0 +1,406 @@
+{
+  "ticker": "CFLT",
+  "company_name": "Confluent",
+  "call_date": "2025-10-28",
+  "quarter": 3,
+  "year": 2025,
+  "prepared_remarks": "Earnings Call Transcript\",\"datePublished\":\"2025-10-28T13:42:04.000Z\",\"dateModified\":\"2025-10-28T13:42:04.000Z\",\"author\":{\"@type\":\"Person\",\"name\":\"Motley Fool Transcribing\",\"url\":\"https://www.fool.com/author/20032/\",\"jobTitle\":\"Contributing Analyst\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://g.foolcdn.com/avatar/2041746765/large.ashx\",\"height\":\"80\",\"width\":\"80\"}},\"about\":[{\"@type\":\"Corporation\",\"tickerSymbol\":\"NASDAQ CFLT\"}],\"publisher\":{\"@type\":\"Organization\",\"@id\":\"https://www.fool.com/\",\"name\":\"The Motley Fool\",\"url\":\"https://www.fool.com/\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://g.foolcdn.com/misc-assets/logo-tmf-primary-7-magenta-royalpurple.svg\",\"width\":\"157\",\"height\":\"43\"},\"brand\":\"The Motley Fool\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"Media Inquiries\",\"email\":\"pr@fool.com\"},\"publishingPrinciples\":\"https://www.fool.com/about/\",\"sameAs\":[\"https://www.fool.com/about/\",\"https://en.wikipedia.org/wiki/The_Motley_Fool\",\"https://www.wikidata.org/wiki/Q7752442\",\"https://www.linkedin.com/company/the-motley-fool\",\"https://www.facebook.com/themotleyfool/\",\"https://x.com/themotleyfool\",\"https://www.instagram.com/themotleyfoolofficial/\",\"https://www.youtube.com/channel/UCpRQuynBX9Qy9tPrcswpPag\",\"https://www.pinterest.com/themotleyfool/\",\"https://www.tiktok.com/@themotleyfoolofficial\",\"https://www.google.com/search?kgmid=/m/0578mk\"]},\"description\":null,\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.content.foolcdn.com/images/1umn9qeh/production/b4204f36ed605fc54d4ba32e2cb31d1dd892afd6-800x450.jpg?w=800&h=450\",\"height\":\"630\",\"width\":\"1200\"}}\nEarnings Call Transcript\nConfluent (CFLT) Q3 2025 Earnings Call Transcript\nBy\n\nMotley Fool Transcribing\n\n–\n\nUpdated Oct 28, 2025 at 9:42AM EST\n\n\n\n\nImage source: The Motley Fool.\n\n\nDate\nMonday, Oct. 27, 2025, at 4:30 p.m. ET\nCall participants\nChief Executive Officer — Jay Kreps\nChief Financial Officer — Rohan Sivaram\nNeed a quote from a Motley Fool analyst? Email\n[email protected]\nTakeaways\nSubscription revenue\n-- $286.3 million in subscription revenue for fiscal third quarter ended Sept. 30, 2025, representing 96% of total revenue, driven by both platform and cloud growth.\nConfluent Cloud revenue\n-- $161 million for the quarter; accounts for 56% of subscription revenue.\nConfluent Platform revenue\n-- $125.4 million for the quarter, with financial services cited as a primary demand contributor.\nFlink ARR for Confluent Cloud\n-- Grew more than 70% sequentially in the quarter; Flink now has over 1,000 paying customers, with 12 above $100,000 and four above $1 million in annual recurring revenue for Flink.\nLate-stage pipeline progression\n-- More than 40% sequential growth in late-stage pipeline, indicating an increasing pace of new use cases moving into production.\nLarge customer expansion\n-- Largest sequential net add in two years for $100,000+ ARR customers, with 1,487 such customers as of quarter-end, up 48 quarter over quarter; $1 million+ ARR customers increased to 234.\nInternational revenue\n-- Grew 29% to $126.4 million, outpacing U.S. revenue growth of 13% to $172.1 million.\nPartner-sourced deals\n-- Accounted for over 25% of new business on a trailing twelve-month basis, an increase from over 20% in the prior quarter.\nNon-GAAP operating margin\n-- 9.7% non-GAAP operating margin, exceeding guidance by 270 basis points based on top-line outperformance and improved sales efficiency.\nAdjusted free cash flow margin\n-- 8.2% for the quarter, up 450 basis points.\nSubscription gross margin\n-- 81.8% subscription gross margin, above the long-term target of 80%.\nNet income per share\n-- $0.13 non-GAAP net income per share using 370.6 million diluted weighted average shares outstanding.\nCash, cash equivalents, and marketable securities\n-- $1.99 billion at quarter-end.\nNet retention rate (NRR)\n-- Stabilized at 114%, with gross retention rate near 90% due to stronger cloud consumption growth.\nRPO growth\n-- Remaining performance obligations accelerated for a fourth consecutive quarter, up 43%.\nGuidance: Q4 cloud revenue\n-- Management expects approximately $165 million in cloud revenue for the fourth quarter, representing about 20% growth and 56% of subscription revenue at midpoint.\nGuidance: Fiscal 2025 subscription revenue\n-- Expected in the range of $1.11 billion–$1.11 billion, representing about 21% growth; non-GAAP operating margin about 7% for the year, net income per share (non-GAAP) $0.39–$0.40, adjusted free cash flow margin about 6%.\nAI-native customer momentum\n-- Over 100 AI-native customers, including 21 with $100,000+ ARR, demonstrating traction in enterprise AI use cases.\nWarpStream consumption\n-- Grew nearly eightfold year over year, credited with multiple high-value deals, including with a Fortune 5 customer.\nWin rate for CSP streaming replacements\n-- Exceeds 90% win rate, with average deal size more than doubling over the past two quarters; enabled by multitenant Flink clusters, enterprise clusters, and WarpStream, resulting in a fourfold increase in consumption over the past three quarters.\nSummary\nConfluent\n\n(\nCFLT\n\n+0.00%\n)\nreported that robust consumption growth in Confluent Cloud and a disciplined cost structure supported notable non-GAAP operating margin expansion in the fiscal third quarter ended Sept. 30, 2025. Management highlighted rapid commercial progression for Flink, with more than 70% sequential cloud ARR growth and increasing depth of customer adoption above both the $100,000 and $1 million ARR thresholds, reflecting global demand gains outside the United States. The company noted that partner-sourced business now forms more than a quarter of all new wins over the last twelve months, indicating increased leverage from established ecosystem relationships.\nThe expansion of highest-value customers marked a two-year record in sequential net additions for the $100,000+ ARR segment, with large clients accounting for over 90% of annual recurring revenue.\nManagement disclosed a low single-digit impact to fourth-quarter cloud revenue from a previously announced large AI-native customer's migration from cloud to self-managed deployment.\nFlink and WarpStream—acquired in recent years—delivered combined consumption and deal growth, reinforcing the effectiveness of the company's M&A capital allocation strategy.\nRPO accelerated for the fourth straight quarter, with management highlighting increased near- and long-term revenue visibility as a result of improved RPO to revenue coverage.\nProduct differentiation through real-time, governed streaming context was linked to customer wins in AI, financial services, and digital banking, confirming a strategic foothold in vertical applications.\nIndustry glossary\nDSP (Data Streaming Platform)\n: The suite of managed and self-managed Confluent products enabling real-time data processing and integration, including Kafka, Flink, and governance toolsets.\nFlink\n: An open-source stream processing engine, offered by Confluent as a managed cloud and enterprise product for real-time analytics, event processing, and complex data pipeline transformations.\nWarpStream\n: Cloud-native streaming data platform acquired by Confluent, designed for efficient, multi-tenant Kafka workload ingestion and processing at scale.\nRPO (Remaining Performance Obligations)\n: Contracted revenue not yet recognized, used as a forward-looking revenue visibility metric for platform and cloud deals.\nNet retention rate (NRR)\n: Metric reflecting net expansion, contraction, and churn among existing customers; key SaaS and cloud business growth indicator.\nGRR (Gross Retention Rate)\n: Percentage of recurring revenue retained but not expanded within the customer base over a period, excluding upsells.\nFull Conference Call Transcript\nJay Kreps:\nThanks, Shane. Good afternoon, everyone, and welcome to our third quarter earnings call. We're joining from New Orleans, where in two days, we'll host Current, the data streaming event where real-time data and AI come together. Turning to the quarterly results, we delivered a strong Q3 exceeding the high end of all guided metrics. Q3 subscription revenue grew 19% to $286 million. Confluent Cloud revenue grew 24% to $161 million, and non-GAAP operating margin expanded three percentage points to approximately 10%. This performance underscores strong consumption growth in our cloud business, the deepening commitment of our customers, and our disciplined focus on driving efficient, sustainable growth.\nLast quarter, we outlined two areas of focus in our go-to-market and several areas where we were doubling down on early success, all aimed at accelerating use case expansions and supporting the long-term growth trajectory of our cloud business. I'll give a brief update on each of these. The first area of focus was tightening field alignment to drive more use cases into production. As we shared last quarter, we saw strong momentum in late-stage pipeline progression, a metric that tracks the dollar value of new use cases moving into production. That momentum continued in Q3 with more than 40% sequential growth and progressing late-stage pipeline and accelerating pace of new use cases.\nThis positions us for durable consumption growth and was a key driver of our cloud performance this quarter. In parallel, we continued to build momentum in expanding our large customer base, delivering the largest sequential net add in a $100k plus ARR customer count in the past two years, along with continued acceleration in million-dollar plus ARR customer growth. Together, these results underscore the depth of opportunity within new workloads and the continued strength of expansion among our large customers who are increasingly standardizing on our data streaming platform and relying on Confluent to meet their business needs. Our second focus area is centered on accelerating the build-out of our DSP specialist team to drive multiproduct selling.\nWe've previously highlighted Flink momentum in the first half of the year, and we're pleased to report another strong quarter with Q3 Flink ARR for Confluent Cloud growing more than 70% sequentially. Flink usage has continued to expand across our customer base. More than a thousand customers used Flink during the quarter. Stream processing is key as it enables companies to act on data the moment it's created, turning information into real-time decisions and results. A great example of the power of our Flink offering is Siemens Healthineers, a global leader in medical technology with operations in more than 70 countries. The company develops imaging systems, lab diagnostics, and connected medical devices used by hospitals and clinics around the world.\nBehind these life-saving technologies is a constant stream of data that determines equipment reliability, accuracy, and ultimately, outcomes. But Siemens Healthineers was hindered by disconnected systems that isolated critical data in silos, lengthy file transfers, manual handling, and periodic batch processing often delayed insights by weeks. These delays prevented timely action to improve equipment performance and product quality, so they turned to Confluent Cloud with fully managed Flink. With Confluent, Siemens Healthineers built a unified real-time data backbone that streams and processes millions of events from imaging, lab, and devices daily.\nFlink continuously filters, joins, and enriches these streams to deliver timely, trustworthy operational insights that help improve device reliability, manufacturing, quality, and consistency of diagnostic data across its installed base. This foundation now gives Siemens Healthineers real-time visibility and the agility to move faster as it advances digital and AI initiatives that enhance care delivery and improve patient outcomes worldwide. Next, our partner ecosystem continues to deliver strong results. As of Q3, partners sourced well over 25% of our new business over the last twelve months. This is a clear sign of the consistency and scale we're building through our established partner relationships, which are instrumental in broadening our footprint and driving customer expansion.\nConfluent was named a MongoDB partner of the year and served as an AWS launch partner for the new AI agents and tools category in the AWS marketplace, further strengthening our position at the center of real-time data and AI. Lastly, we remain as competitive as ever replacing CSP streaming offerings. We have maintained a win rate well above 90% with average deal size more than doubling over the past two quarters, all while continuing to increase our at-bats. This is made possible with multitenant Flink clusters, enterprise clusters, and WarpStream, which together have delivered a 4x increase in consumption over the past three quarters.\nBecause of their multitenant architecture, we believe adoption of these new clusters is a tailwind to subscription gross margin over time. These differentiated offerings provide superior performance and lower TCO to our customers, which also helps us soak up more of the world's Kafka workloads. This includes one of the world's largest fintech companies who signed a 7-figure deal in Q3 to move their large-scale logging and telemetry workloads from open source Kafka to Confluent. Another great example of this is Evobanco, a digital native bank in Spain serving hundreds of thousands of customers through its mobile-first platform.\nAs transaction volume grew, its open source Kafka clusters became increasingly difficult to scale and secure with rising operational costs and downtime during peak loads. To address this, Evobanco migrated to Confluent Cloud as its central data backbone. The platform now streams and processes hundreds of thousands of financial events per day across payments, fraud detection, and customer channels. And with stream processing and fully managed connectors, Evobanco integrated core banking systems and analytics tools in real-time without managing infrastructure. Since moving to Confluent, the bank has improved reliability, lowered costs, and accelerated delivery of new banking features. Q3 also marked the one-year anniversary of our WarpStream acquisition.\nOver the past year, WarpStream has seen 8x growth in consumption, and we've closed multiple 6-figure deals with marquee customers across different industries, including a Fortune 5 customer. We're encouraged by WarpStream's strong first-year performance and remain incredibly excited about the significant opportunity ahead. Next, I want to spend a few minutes on a key aspect of Confluent's opportunity in the AI space, providing context data for AI agents and applications. We're seeing a clear pattern across the industry. Many companies have shown they can successfully prototype AI, but fewer can get those systems into production.\nAI models are clearly capable, but a recent MIT study found though enterprises are investing tens of billions of dollars in generative AI, most of these initiatives haven't delivered the desired results. The challenge isn't building a prototype. It's being able to build reliable business systems powered by AI that makes trustworthy decisions and takes appropriate actions. There are two factors that fundamentally drive the quality in AI systems. The model's capabilities and the data it has access to. Both of these are significant challenges, but they fall on different people to solve. Improving the quality of large-scale AI models is a challenge largely driven by a small number of LLM producing research labs.\nEnterprises can easily harness the results of this work by simply pointing their apps at a new model. But getting data into shape to act as context for AI is a problem every enterprise must solve with their own data. This is where Confluent can help. One of the reasons AI demos are often so successful is because they can be powered by a one-time manually curated dataset. But to take an agent to production, it must have an up-to-date comprehensive view of all the inputs needed to do its work. This isn't just a matter of trying to hook the model into every source system directly.\nThe source data is generally too messy and application-specific to lead to good results. And AI apps can't be splunking around in production databases, reading through everything, and potentially leaking the wrong data to the wrong user. That would be wildly expensive, create unsustainable production workloads, and be fundamentally insecure. Rather, the problem is about curating the right data for a given problem and creating a dataset an agent can be tested with and evaluated against. Maintaining that live context is what determines how well an AI system performs. That's where accuracy, relevance, and trust are won or lost.\nWhat businesses need is a system that can keep data in motion so it can be processed, reprocessed, and served continuously as it changes. Our data streaming platform was built for exactly this problem. It works to connect data from every system, application, and cloud and support just these kinds of complex pipelines. With Kafka, Flink, and TableFlow, teams can process in real-time, combining history and live events with one unified engine. When logic changes, you can go back and reprocess data to create the new dataset. TableFlow and Flink work to combine the best aspects of real-time capabilities with the long-term historical store of data in the lake.\nAs this goes out to production, the stream of feedback data can also be captured to measure the effectiveness of each change. And in two days, we will host current and unveil new capabilities that are designed to make this even easier for customers and strengthen how our platform delivers real-time governed context. Confluent's data streaming platform is becoming the context layer for enterprise AI as businesses move from experimentation to production, from static data to living context, and from analysis to intelligent action. One customer that really illustrates this is a multibillion-dollar health and fitness chain with nearly 200 clubs and a rapidly growing digital platform.\nAs the company expanded into AI-powered wellness, its data from wearables, class bookings, and mobile apps was siloed and processed in slow batches. This made it impossible to provide real-time personalized guidance through its Gen AI companion. With Confluent Cloud as its streaming backbone, this customer now continuously ingests and enriches this data in motion. Wearable metrics, workout history, purchase activity, and engagement events are streamed and combined with contextual data, like recovery status performance trends, before being routed into AI systems to fuel personalized recommendations. Confluent enables them to deliver AI insights in seconds instead of hours, scaling to millions of real-time interactions while enabling security and compliance.\nFully managed infrastructure frees engineers to focus on innovation, helping the company turn decades of wellness expertise into intelligent context-aware experiences that deepen member engagement and fuel digital growth. As AI evolves from innovation to utilization, context will define who wins, and we are committed to making Confluent the company enabling the shifts by turning data into continuously refreshed, trustworthy context for AI systems everywhere. In closing, we're encouraged by the strong cloud consumption growth and the traction we're seeing for our complete data streaming platform, particularly with Flink. As AI becomes operational across every industry and geography, we believe that demand for real-time context powered by data streaming will only grow.\nIt's an exciting time for Confluent, and we're just getting started. With that, I'll turn it over to Rohan.\nRohan Sivaram:\nThanks, Jay. Good afternoon, everyone, and thank you for joining our earnings call. Our strong third-quarter performance highlights the momentum of our data streaming platform and our diversified growth strategy. We delivered strong top-line growth, stabilized our net retention rate, increased the adoption of new products, and drove continued margin expansion. These results demonstrate our ability to drive durable profitable growth at scale over the long term. Turning to the results, Q3 subscription revenue grew 19% to $286.3 million and represented 96% of total revenue. Confluent Platform revenue grew 14% to $125.4 million driven by healthy demand in financial services. Cloud revenue grew 24% to $161 million representing 56% of subscription revenue compared to 54% in the year-ago quarter.\nWe are pleased with our cloud performance this quarter, which was driven by stronger consumption across core streaming and DSP, including acceleration of new use cases moving into production. Turning to the geographical mix of total revenue. Revenue from the U.S. grew 13% to $172.1 million. Revenue from outside the U.S. grew 29% to $126.4 million. Moving on to the rest of the income statement, I'll be referring to non-GAAP results unless otherwise stated. While driving top-line growth at scale, we continued to show significant operating leverage in our model. In Q3, subscription gross margin was 81.8%, above our long-term target threshold of 80%.\nOperating margin increased 340 basis points to a record of 9.7%, exceeding our guidance by 270 basis points. This was driven by revenue outperformance and improved sales and marketing leverage from continuing to streamline coverage to drive growth. Adjusted free cash flow margin increased 450 basis points to 8.2%. Net income per share was $0.13 using 370.6 million diluted weighted average shares outstanding. Fully diluted share count under the treasury stock method was approximately 382.4 million. We ended the third quarter with $1.99 billion in cash, cash equivalents, and marketable securities, reflecting the strength of our balance sheet. Turning now to customer metrics. 20k plus ARR customer count increased to 2,533, up 36 customers sequentially.\n100k plus ARR customer count was 1,487, up 48 customers quarter over quarter, representing their largest sequential increase in two years. New 100k plus ARR customers include many leading AI companies such as Forbes 50 AI analytics provider, an AI-powered SIEM cybersecurity vendor, a next-gen AI automation platform company. Our 100k plus ARR customers continue to account for more than 90% of our ARR. 1 million plus ARR customer count increased to 234, representing growth acceleration of 27%, driven by new use case expansion across cloud and platform. Additionally, more than 10 of the 15 net new 1 million plus ARR customers increased their spend on DSP products over the previous quarter.\nNRR for the quarter stabilized at 114%, while GRR remained close to 90%, driven by stronger consumption growth in our cloud business. Turning to our outlook. For the 2025, we expect subscription revenue to be in the range of $295.5 million to $296.5 million representing growth of approximately 18% non-GAAP operating margin to be approximately 7% and non-GAAP net income per diluted share to be in the range of $0.09 to $0.10. For fiscal year 2025, we expect subscription revenue to be in the range of $1.1135 billion to $1.1145 billion representing growth of approximately 21%.\nNon-GAAP operating margin to be approximately 7% non-GAAP net income per diluted share to be in the range of $0.39 to $0.40 and adjusted free cash flow margin to be approximately 6%. For modeling purposes, we expect Q4 cloud revenue to be approximately $165 million representing growth of approximately 20% and accounting for approximately 56% of subscription revenue based on the midpoint of our guide. Turning to the key drivers of our business. We saw strong demand in our core streaming business and good momentum across DSP, AI, and our partner ecosystem. First, our continued focus on field alignment is delivering strong results.\nIn Q3, we accelerated the pace of moving new use cases into production and sustained strong momentum in building our late-stage pipeline, which once again grew more than 40% sequentially. We're also seeing customers commit to larger and longer-term deals reflected in RPO growth of 43%, another quarter of acceleration. Together, these trends give us greater visibility into near-term consumption revenue and increase longer-term visibility with improved RPO to revenue coverage. Second, we saw good DSP momentum across cloud and on-prem in Q3. Building on the momentum from the first half of the year, we delivered another quarter of strong performance for Flink with particular strength in cloud.\nQ3 Flink ARR for Confluent Cloud grew more than 70% sequentially, and we now have more than 1,000 Flink customers, including more than a dozen customers with greater than 100k in Flink and four customers with greater than 1 million in Flink ARR. This comprehensive breadth and depth represents the foundation for scaling into a very significant Flink market opportunity ahead. Here are two customer examples to illustrate how Flink begins to drive expansion in our customer base. These customers are spending currently north of 100k plus and 1 million plus Flink ARR, respectively. Notably, in the last year alone, adoption of Flink has supported both customers to more than 6x their total spend.\nThird, we are strongly positioned to deliver contextualized, well-governed, and AI-ready data to companies. We now have more than 100 AI-native customers, including 21 with 100k plus in ARR, demonstrating Confluent's highly strategic role in the age of AI. Fourth, we are pleased with seeing continued traction in our partner ecosystem. On a trailing twelve-month basis, Q3 partner-sourced deals increased to more than 25% of our new business, up from more than 20% last quarter. As we grow beyond the $1 billion plus revenue scale, we expect partners to play an even bigger role in driving growth and leverage in our business in the years ahead.\nLastly, we've continued to demonstrate the effectiveness of our disciplined ROI-driven capital allocation strategy, especially in M&A. Q3 marked the one-year anniversary of our WarpStream acquisition. And in just one year, WarpStream's consumption has grown nearly eightfold. Following the Immerok acquisition, we shipped our Flink product in spring of last year. And since then, we've scaled Flink into a low 8-figure ARR business. The strong financial performance underscores the successful path both products are on and reinforces the strength of our overall capital allocation strategy. In closing, we delivered strong third-quarter results, demonstrating durable top-line growth and margin expansion at scale.\nWe are encouraged by the strong consumption growth in our cloud business and remain focused on continuing to execute on our key growth drivers across core streaming, DSP, AI, and the partner ecosystem. Looking forward, we believe we are well-positioned to take advantage of the large market opportunity ahead. Now Jay and I will take your questions.",
+  "qa_turns": [
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Alright. Thanks, Rohan. And today, our first question will come from Brad Zelnick with Deutsche Bank followed by Morgan Stanley.",
+      "turn_index": 0
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Brad Zelnick",
+      "text": "Great. Thanks so much, and good to see the good results, especially the accelerated bookings. Really impressive. Jay, I wanted to follow back on some of the go-to-market changes that you made last quarter, you know, the field alignment changes in coverage ratios, and it's great to see the momentum in late-stage pipeline continue. What are the learnings now that we're another quarter into these changes? And what conversion trends can you share on all this new pipe? And how should we think about the capacity to effectively work that much incremental pipeline?",
+      "turn_index": 1
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Jay Kreps",
+      "text": "Yeah. Those are great questions. So, yeah, we put a number of things in motion heading into this year. And, you know, particularly over the last few quarters, I called out some of those. You know, the specialization model for DSP. That's really important just to be able to take these new products to scale, and it's working really well. You know, a number of aspects of just kind of field execution around consumption, you know, I think that's one of the biggest drivers of that kind of progression in consumption pipeline. And on that pipeline, I think we have very high confidence in it.\nYou know, these are ultimately customer workloads that they have people building that are reaching production that then go drive consumption in the quarters ahead. And so it's a little bit more than just an entry in Salesforce, and that's why we feel that's a very promising stat and why we track it very religiously quarter to quarter. So, you know, I think these are really solid improvements. I've been very impressed by the execution in the go-to-market team over the last few quarters to get this in place and do it quickly. And, you know, I think that gives us a lot more ability to, you know, help drive these consumption workloads ourselves. Right?\nReally land in the right use cases, make sure that they're using our complete product, the full DSP of the best way possible, and make sure that gets out to production without snags and reaches its full potential. So, yeah, I think very, very promising in what we're seeing.",
+      "turn_index": 2
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Brad Zelnick",
+      "text": "Great. And maybe just a quick follow-on for Rohan. RPO and CRPO both accelerating very nicely. Why or why shouldn't we look to that as a reliable leading indicator for Confluent specifically? Thank you.",
+      "turn_index": 3
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Rohan Sivaram",
+      "text": "Yeah. Great question, Brad. Thank you. You know, you're right. RPO, in general, what I've shared before is when you think about our business for Confluent Platform, absolutely, RPO is the single most important leading indicator with respect to, you know, the forward-looking organic growth of the business. For Confluent Cloud, it's a tad bit nuanced where over the short term, I think what we've internally focused on is the momentum of new use cases moving into production and which was a check-in Q3. So overall, we feel with the short-term drivers. But over the long term, I think coverage of RPO to revenue, to cloud revenue, that has continued to increase through the year.\nI mean, this particular quarter was the fourth consecutive quarter of accelerated RPO that we've delivered. So, yes, like, from the cloud business perspective, short term is new use cases moving into production and our ability to drive growth in the new business, newer products, and long term is around the RPO. So that's going well. And for Confluent Platform, absolutely, it's a leading indicator. So, you know, that's how I think about it.",
+      "turn_index": 4
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Brad Zelnick",
+      "text": "Thank you.",
+      "turn_index": 5
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Alright. Thanks, Brad. We'll take our next question from Sanjit Singh with Morgan Stanley followed by JPMorgan.",
+      "turn_index": 6
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Sanjit Singh",
+      "text": "Yeah. Thank you for taking the questions. I guess it's a very simple one, Jay, and it's with the multiple sort of vectors that you guys have in play to drive growth, including with all of the sort of rejuvenation activity within the go-to-market organization. When do you think we can see growth start to bottom? It is the first question.",
+      "turn_index": 7
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Jay Kreps",
+      "text": "Yeah. Yeah. I mean, look. First of all, I think we're very pleased, you know, with the results that we brought, the strength in cloud, pleased to be in a position where we're raising guidance for Q4. You know, I think, ultimately, the cloud business has been quite strong. You know, when you look at the growth rate for Q4, there is some impact from, you know, a particular customer. We kind of talked about that dynamic last quarter. If you normalize for that, you are seeing kind of stability in the, you know, overall cloud growth rates. So, you know, overall, we feel pretty good about that.\nAnd then when we talk about kind of some of these tailwinds, some of the DSP offerings, including Flink getting to scale and starting to contribute more sizably, the overall execution within the field team around consumption and the ability to drive use cases, think those are positive trends.",
+      "turn_index": 8
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Sanjit Singh",
+      "text": "When it comes to the growth that you're seeing in the core streaming business, given the big ramp in, like, things like WarpStream and enterprise, that's sort of kind of the cannibalization question. You know, are you seeing that kind of net accretive impact from the rise of those offerings, or do you feel like there's any cannibalistic effect on some of the core streaming business?",
+      "turn_index": 9
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Jay Kreps",
+      "text": "Yeah. Yeah. It's a very fair question as we added new offerings that were particularly cost-effective. You know, is this going to be a tailwind or a headwind? Yeah. I think it's proven to be a substantial tailwind. So we called out in the call that, you know, we've seen substantial improvement in overall deal size. You know, which is, you know, maybe counterintuitive, but in fact, is not because customers are leaning in with bigger workloads, bigger migrations that might have been harder or taken longer in the past. And, you know, because the architecture of these offerings, you know, the multitenant clusters with enterprise and freight, WarpStream with the people. See they're very cost-effective to run.\nSo they're, you know, a tailwind to gross margin. So it's really good on both sides. It's a good deal for customers. They're leaning in and going bigger, and it's a good deal for us. It's, you know, it's ultimately more profitable.",
+      "turn_index": 10
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Sanjit Singh",
+      "text": "Thank you, Jay.",
+      "turn_index": 11
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Alright. Thanks, Sanjit. We'll take our next question from Mark Murphy with JPMorgan followed by Barclays.",
+      "turn_index": 12
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Mark Murphy",
+      "text": "Yeah. Great. Thank you so much, Shane. So Jay, you had mentioned, I think you said more than 40% sequential growth in progressing late-stage pipeline. And it sounds very promising, but I'm not sure we have historical context on that metric. Can you speak to what is driving you know, such great traction there? And then what is a normal level of sequential growth you'd see in that late-stage pipeline?",
+      "turn_index": 13
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Jay Kreps",
+      "text": "Yeah. Yeah. So, it's a great question. You know, we're obviously not trying to turn that into some kind of external metric, but one of the things we set for ourselves as a benchmark of improvements in the field motion around consumption was, hey. Get the new use cases. You know? Get into new use cases. Get them to production. And so we measure the dollar amount of those use cases. And we've seen that as these use cases hit production, they ramp up. They take traffic. They drive consumption in the quarters ahead. So it's a reasonable indicator to pay attention to in a forward-looking way. So, yeah, you're asking, hey. What's the normal growth quarter over quarter?\nWell, you know, over time, if you're bringing more dollars of use cases out to production, you know, those are the dollars that you're realizing in future quarters. It takes some quarters for different projects to wrap up, so it's not one is to one. But, you know, that's roughly how I would think about it. We haven't given kind of the full history of the metric, and that isn't the intention. It really is, I think, being used by us as a benchmark of, you know, execution of the field, and we felt that kind of internal metric was one of the best representations of that.\nWe have made a number of adjustments in how folks are working these consumption projects, and I think it really has worked quite effectively.",
+      "turn_index": 14
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Mark Murphy",
+      "text": "Okay. And then as a quick follow-up, Jay, how is the early response to the launch of streaming agents on Confluent Cloud? Because I think we would all agree, for sure, agents need access to real-time data. They're frankly, they're gonna look pretty unintelligent, right, and out of date if they don't have it. But then companies are so risk-averse, and they're struggling to get comfort giving agents free rein to all their data. Right? It sort of scares them. And you laid out a nice very nice architectural vision for that, right, in the webinar.\nBut I'm just wondering how is the customer readiness for that product, and just could you speak to I mean, if this takes off, can agents become pretty big in the mix a few years down the road?",
+      "turn_index": 15
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Jay Kreps",
+      "text": "Yeah. I think that they absolutely can. So, you know, there's a few opportunities around AI for Confluent. One is around making the agents real-time. One is about the provisioning of real-time datasets. Both of those are actually substantial, and you can do them both together, or you can do them separately. And, you know, for those who follow us closely, we you know, I mentioned in the prepared remarks that we're here in New Orleans for our conference current, and that's in a few days. So we'll have some announcements in this space that I think will fill out the picture a bit more. But, already, these streaming agents have caught on.\nWe talked about one of the customer use cases, you know, in the call earlier, and it makes a lot of sense. This is a really easy way that you can, you know, run the agent on the kind of historical data, kind of benchmark it, be able to play with it almost in a batch model, but then have it translate into production and run-in real-time against the data that's there. It makes that kind of development much easier. And I think this is gonna be a critical part of the stack. One of the things I think, you know, software teams are realizing is that this kind of agent development is actually a bit different from traditional software.\nYou have to do it with the data. You know, traditional software, you can kind of write some program, run some unit tests against it with fake data. If that all passes, it works. You're good to go. Your program is good. But these AI systems are not that way. You know, you can build some support agent and say, oh, this answers support questions really effectively. But if you haven't tried it with the actual customer data on actual, you know, customer questions, if you're not really developing that way, you're not doing anything.\nAnd so the need is to be able to work iteratively with data, but then also launch something that will run-in real-time in production and be able to keep those two in sync as the team moves. And so I think we have really foundational capabilities. Like, in many ways, that is about what streaming is, which is this ability to take some of the ideas that we had offline with batch data processing, be able to translate them into continuous processing. And so I think it's a huge opportunity for us. In many ways, it's an acceleration of what we were doing for customers anyway. You know?\nEven if the intelligence was just smart rules in a production application that was driving personalization or customization or relevance, yeah, we were already doing lots of that. And I think the AI opportunity is, in many ways, a huge generalization of that of allowing not just hard rules, but, you know, broad capabilities to access the same kind of data to make data-driven decisions, take smart action. So, hopefully, that's helpful, and stay tuned for the next couple of days. We'll have a few more announcements that you know, it's hard to always figure out the timing of these things.\nBut, you know, since that's two days later, we don't get to talk about all the new products until then.",
+      "turn_index": 16
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Mark Murphy",
+      "text": "Very helpful. Thank you, and congrats.",
+      "turn_index": 17
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Yeah. Thank you. Alright. Thanks, Mark. We'll take our next question from Raimo Lenschow with Barclays followed by Wells Fargo.",
+      "turn_index": 18
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Raimo Lenschow",
+      "text": "Perfect. Thank you. Can't wait for the conference then. The two quick questions. One for Jay, one for Rohan. Jay, at Flink, you gave us some extra data points. At Flink, we've been waiting for a while. I don't wanna call it infection points, but, like, you know, like, the uptake there. From what you see there, how customers are using it, and what you're seeing in the pipeline, does that kind of increase your optimism? Like, what you know, talk a little bit about how that kind of translates into, you know, the business going forward. And then, Rohan, one for you. You've raised the subscription revenue guidance by more than the beating Q3.\nObviously, that's a good sign for Q4. What drove that? Was that kind of the one AI customer maybe doing a little bit more with you? Is that overall business doing a little bit better? Can you speak to that? Should what gave you the confidence, John? Thank you.",
+      "turn_index": 19
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Jay Kreps",
+      "text": "Yeah. I'll start with the Flink that we're hugely excited. So, you know, I do think externally, this was a little bit of an unusual product development cycle because we changed our stream processing strategy and bought a Flink company. But it wasn't a Flink product. It was just the team that had built the open source. So then we were effectively starting product development with an announcement about Flink. So then we had to build the product.\nAnd I think the team has done an amazing job of that, you know, to really build a modern data pro you know, serverless data processing layer, but do it in a way that supports high availability real-time processing is a you know, it's a big undertaking. I think the growth of that sense has kind of reached GA and kind of gotten to the critical enterprise features, you know, over the last year has been spectacular. And, you know, that's absolutely as much as we could ask out of a kind of first year of selling for the product, and that trajectory remains very strong, you know, as we look ahead.\nAnd so, yeah, we're you know, I think as we communicated as we started this effort, we think the potential for that offering over time is huge. You know, the market for data processing is really big. There's all this stuff in these old batch jobs that needs to move into real-time, and now I think we're starting to realize that opportunity. And it's an interesting intersection with the AI question as well because, you know, one of the things that actually aids these conversions is AI. So if you're converting these batch queries to streaming queries, you know, we have a set of capabilities to just help customers do this.\nIt just goes through and makes the little minor adjustments. I mean, largely, it's very similar. These streaming queries are SQL, similar language to the batch stuff, but, of course, getting all the nuances right. And so that's been one of the accelerants that's helped customers that are trying to go big with a lot of real-time jobs all at once, you know, help them move faster. So, yeah, long story short, we're very excited about it.",
+      "turn_index": 20
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Rohan Sivaram",
+      "text": "And, Raimo, before you answer the question, I'll just add a quick point to what Jay said. You know, from my lens, when some of these new products are ramping, I think, there are two things that I like to focus on, the breadth of adoption and the depth of adoption. For Flink specifically, when you look at the breadth of adoption, we have over 1,000 paying customers for Flink. And on the debt side, we have about 12 customers spending over a $100,000 in ARR and four customers spending a million dollars in ARR. So that's actually a good position to be in.\nAnd, you know, on the heels of three quarters or nine months of, you know, very solid growth that we've seen. So just to add to what Jay said, we're excited about what lies ahead on that side of the business. So coming back to your question on subscription guidance for Q4, yes, we are pretty pleased to raise our Q4 subscription guide, and that's mostly coming from the Confluent Cloud side of the world. So if I take a step back and then I analyze the Q3 performance, I'll call out three things. The first one is something that Jay called out in his prepared remarks. There's just a momentum of new use cases moving into production.\nAnd we saw two consecutive quarters of acceleration over there, so which is good. The second area is around, we are seeing more normalized levels of optimization. I would actually put it in the category of healthy levels of optimization. So that's number two. And the third is continued strength in Flink and the cloud side of Flink. So these are some of the drivers and the momentum builders in Q3, and that's giving us confidence with respect to our Q4 cloud guidance. And I'll leave you with one more big picture thought that I touched on my first response that is, you know, these are short-term visibility drivers for the cloud business.\nWhen I take a step back and look at the long term, you know, the RPO to cloud revenue coverage through the year has continued to increase and improve. And that's less of a Q4 visibility, but more of a slight long-term visibility. You know? We feel good with that increasing coverage as well.",
+      "turn_index": 21
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Raimo Lenschow",
+      "text": "Okay. Perfect. Congrats. Thank you.",
+      "turn_index": 22
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Alright. Thanks, Raimo. We'll take our next question from Ryan McWilliams with Wells Fargo followed by Piper.",
+      "turn_index": 23
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Ryan McWilliams",
+      "text": "Hey. Thanks, guys. Jay, as enterprises continue to move from testing to production with AI use cases, are there any AI use cases that come to mind that involve Confluent that could be more likely in production in the near term, like a customer service use case or an IoT use case?",
+      "turn_index": 24
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Jay Kreps",
+      "text": "Yeah. Yeah. Yeah. We're seeing a you know, these tend to be quite broad. Right? So there's similar patterns around, you know, customer support. There's patterns around anomalies and investigations. Many businesses that have some operational side kind of looking for the bad thing and then diving into the bad thing. That cuts across businesses that might be doing IoT, manufacturing, different production processes, but also things like retail. But even businesses, financial services, insurance, you know, companies you might think of as being more risk-averse, you know, I think have very active projects in this area.\nAnd so, yeah, I think for all of these, it's about whether they can really complete that connectivity and make it into production with these systems. You know? We think that a big part of that is about data flow, data quality, the ability to actually iterate and test and get from something that, you know, kind of 99% works to something that 99.99% works. So, you know, it sounds like a small difference, but, you know, we operate already in a business where, you know, operationally, the difference between ninety-nine and ninety-nine point nine is actually a really big deal for our customers. And so you can totally see why on the quality side for any of these things.\nIt's hard to get that last bit done, and I think why we think we're well-positioned for it.",
+      "turn_index": 25
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Ryan McWilliams",
+      "text": "I understand that as well. Again, '99 things right and one thing wrong. You remember which one. And then for Rohan, you mentioned last quarter that a large AI native company was moving to self-hosted after signing a self-managed deal in the third quarter. Any commentary on how much that large customer contributed in the third quarter? And as that large customer spend drops off from the cloud next quarter, could the self-managed portion step up, contribute further? Just any commentary on the mechanics of that large customer deal could help. Thanks.",
+      "turn_index": 26
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Rohan Sivaram",
+      "text": "Yes. Yes. Ryan, a few data points that I'll share. First, you know, in reiterate what I said in the Q3 call. And what we said in the Q3 call was, you know, this large customer basically made this move from Confluent Cloud to on-prem. And as a result of this dynamic, their spend towards Confluent would be significantly reduced. So that's the data point. And what that would do is it would have a low single-digit impact on our Q4 cloud revenue. And Jay called out earlier, when you normalize that impact of that low single-digit and you compare our Q4 guidance versus Q3 actual cloud performance, you'll see somewhat flattish year-over-year growth rate.\nSo that kind of signs of stabilization. And, specifically, you know, that large customer obviously contributed in Q3 from a revenue perspective, and the real impact, the low single-digit impact you're gonna see from a cloud business is in Q4. And that's incorporated in our guidance for Q4.",
+      "turn_index": 27
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Ryan McWilliams",
+      "text": "Your time. Thanks, guys.",
+      "turn_index": 28
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Great. Thanks, Ryan. We'll take our next question from Rob Owens with Piper Sandler followed by William Blair.",
+      "turn_index": 29
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Robbie Owens",
+      "text": "Thanks, Shane. Good afternoon. Thanks for taking my question. Jay, maybe you could elaborate a little bit more on the CSP replacement opportunity. Just how big you think it is and why you think this is inflecting over the last couple of quarters.",
+      "turn_index": 30
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Jay Kreps",
+      "text": "Yeah. Yeah. It's quite sizable. You know, we also, of course, are continuing to do very large open source takeouts, and there's quite a lot of the open source. But both for the open source and the, you know, CSP offerings, I think one of the you know, there are really two things that I think are making this something customers really wanna take action on right away. You know, the first is the TCO of making the change, and that comes out of the, fundamentally, the improvements we've made in Quora that enable things like enterprise clusters, freight clusters. It's just, you know, something that's kind of better, faster, cheaper. And, you know, I think that's very compelling.\nSecondly, you know, I think these DSP capabilities have become just a bigger and bigger part of what customers think about when they think about streaming and what they need to do to be set up to use this technology in their organization. And I think that's really quite appealing to customers making the move. So I think those two things are the, you know, the two biggest needle movers. The biggest enabler, I would say, on our side is really working on, you know, tools around migration, making it easy. You know, I think once you have a bunch of customers that wanna do it, well, this is a big live data system migration.\nWe wanna make it as easy as pushing a button. Now that's ongoing work to really make that easier and easier. And as I think we continue that, I think we'll see it even faster transition of these systems, which is great.",
+      "turn_index": 31
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Robbie Owens",
+      "text": "Great. Then as a follow-up, Rohan, in your contemplating guidance for the fourth quarter, you mentioned healthy levels of optimization. And I know this has been an issue in the first half of the year. When you I'd ask you just to parse the question a little bit more, the comments a little bit more. Is this healthy levels from prior optimizers or are these net new optimizers that aren't to the same extent that you saw before? And so I guess within that question, maybe an update on optimization. Is it still relevant as a headwind from the first half? And is this more a balancing act of net new or kind of the whole thing in aggregate?\nThank you.",
+      "turn_index": 32
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Rohan Sivaram",
+      "text": "Yeah. Rob, you know, when I think about the cloud business or rather how we manage and run the cloud business, there are typically, like, three things that are important to focus on. Right? The first is as you're entering a quarter, you're entering a quarter with a book of business. And, like, for the existing customers, you know, what is the growth that they are showing? And that's where optimizations generally come up. And as we've said, optimizations are kind of part and parcel of every cloud business. And, you know, we want our customers to fine-tune and kind of use Confluent in a more efficient manner.\nThat's part and parcel, and that's something that's why I called it healthy levels of optimization, which compares to, you know, prior historical optimizations that we've seen and, you know, which is not an outlier. So that was my comment. The second data point around how we kind of look at the business momentum is net new use cases moving into production. And the third is around, you know, adoption of new products. So when I talk about our guidance or just the momentum in cloud business, these three kind of all go hand in hand.\nAnd, you know, the optimization levels to specifically answer your question are in the ranges that we've seen historically that is kind of more normalized and, again, healthy and good optimization.",
+      "turn_index": 33
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Robbie Owens",
+      "text": "Thank you.",
+      "turn_index": 34
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you. We'll take our next question from Jason Ader with William Blair.",
+      "turn_index": 35
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Jason Noah Ader",
+      "text": "Yeah. Thanks, Shane. Good afternoon, guys. I know we've seen better cloud consumption trends across the vendor landscape really over the last quarter or so. How much, you know, of the better performance did you guys see in Q3 do you think is due to better sales execution versus, you know, overall macro tailwinds, including AI?",
+      "turn_index": 36
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Jay Kreps",
+      "text": "Yeah. It's a great question. You know, it's obviously, it's always hard for us to pull ourselves out of the environment in which we operate in, you know, because we only get to run each quarter once. There's no, you know, counterfactual where it was a different environment. That said, you know, I do think some of these improvements are kind of very mechanically obviously helping things. And so I do think we've made a set of structural improvements that are paying off. The new products are obviously new products, which are kind of bringing in, you know, Flink revenue or Connect revenue or governance revenue that we would not, you know, otherwise have had in those customers.\nSo, yeah, I can't, you know, ascribe it between the two. I am aware that there were kind of good results in, you know, some other providers, but we do feel like we've made some pretty important structural improvements in what we're doing.",
+      "turn_index": 37
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Jason Noah Ader",
+      "text": "Okay. And then, Rohan, for you, you didn't talk about US Federal at all, but the shutdown here is going into, you know, on a week four or something. Did you bake that in? Did you bake in some conservatism to your Q4 outlook, especially on the Confluent platform side from potential weakness in US federal?",
+      "turn_index": 38
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Rohan Sivaram",
+      "text": "Yeah. You know, for Jason, that's a great question. I mean, before I go into Q4, our Q3 federal performance, which is generally a big federal quarter, was in line with our expectations. So pretty much in line. No surprises there. And, you know, when you look at federal as a percentage of total revenue, I've shared this before, it is in the low single digits for us, which is good and bad. You know? Good is it's a big opportunity for us as we look ahead. And, you know, so that's great. And, you know, and for from a Q4 perspective, you know, we have a couple of deals that, you know, are appropriately baked into our guidance.",
+      "turn_index": 39
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Jason Noah Ader",
+      "text": "Thank you.",
+      "turn_index": 40
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Alright. Thanks, Jason. We'll take our next question from Mike Cikos with Needham followed by Wolfe Research. Hey, Mike. We can't hear you. You may be still on mute. Alright. Why don't we go to Alex Zukin first, and we'll go back to Mike after Alex. Thank you.",
+      "turn_index": 41
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Alex Zukin",
+      "text": "Hey, guys. Can you hear me okay?",
+      "turn_index": 42
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "I'm clear.",
+      "turn_index": 43
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Alex Zukin",
+      "text": "Perfect. Maybe just for a first one for Jay. Of the 21 AI native customers that you guys signed over a 100k or that are using the product for over a 100k. Is there a common pattern in how they're using Confluent? Are the AI products, you know, built around Kafka or Flink, or are there use cases similar to what you're seeing with other companies? Because it's a really, really powerful stat, and I wanted to see if you could unpack it a little bit.",
+      "turn_index": 44
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Jay Kreps",
+      "text": "Yeah. Yeah. So, you know, first of all, you know, AI companies are tech companies, so they have a set of usage patterns. They're exactly like every other tech company, which is they use it for a bunch of different stuff. Right? But there is a set of use cases that are common in these companies, which are very specific to AI. And that's about the flow of data about the suggestions, recommendations, actions that are being taken. So I kind of touched on this briefly in the script, but, you know, the big difference in these AI systems, you know, is it is not just upfront testing.\nYou need to do this kind of ongoing evaluation, which is really looking at what are the actions it's taken. Are they good? How are we gonna evaluate that? You have a bunch of different ways of doing that, including just asking humans to judge it, asking the model to judge it. But the flow of that data is really kind of right at the heart of a lot of these systems, and it's a very natural kind of streaming problem. You're gonna collect that in real-time. It's gonna flow out maybe through table flow or other mechanisms into, you know, kind of long-term storage. You're gonna be able to iterate on that.\nIt's also a very important kind of real-time analytic in terms of how well you're doing for your customers, you know, minute to minute as you're out there. If you release you know, if you take in a new model or you make changes to your system, you know, ultimately, are you doing better or worse with your customers? That's kind of the fundamental question. So in many of these systems, that's one of the use cases. And this is not surprising. This is a similar use case we had with more traditional machine learning use cases. I think it's just now translated into the AI era.",
+      "turn_index": 45
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Alex Zukin",
+      "text": "Perfect. And then maybe just a quick one for you, Rohan. You gave us a lot of stats that are really encouraging. RPO accelerating and the coverage ratio is improving. You talked about, I think, being past kind of a peak negative optimization headwind where it's kind of stabilizing, and you're talking about more visibility longer term. And you gave guidance for cloud platform revenue or sorry, for cloud revenue for Q4 or not guidance. Sorry. You gave a modeling point of being around 20%. And as I look at a year ago when, at least for my model, versus the out year, there was about a two-point delta in that.\nAnd so I guess I know we're not guiding to or maybe even giving modeling points yet for next year. But as we look at our models and that 20% exit rate, do we what kind of step down given some of those dynamics that are maybe headwinds for Q4 that reverse, did we think about, as we look at next year cloud revenue?",
+      "turn_index": 46
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Rohan Sivaram",
+      "text": "Yeah. Alex, you know, as we speak, we're kind of dotting the i's and crossing the t's on our fiscal year 2026 plan. So I'm not gonna be providing guidance either for total revenue or cloud revenue this call. Having said that, I think it's important to reiterate some of the data points that I shared around, like I think you said it. The late-stage pipeline moving into production. The optimization levels being stabilized, normalized, and which I like to call healthy. Right? And the Flink driver of business, Flink has been really good. So we expect and coupled with the long-term visibility.\nSo, you know, when you think about these and then you couple that with the low single-digit impact that we saw in Q4, which will obviously have an impact over the first half of next year. Right? So, you know, those are some of the puts and takes. If I were you, I would look at as I think about fiscal year 2026. But in our Q4 call, I'll be sharing a lot more color and details around our cloud revenue guidance.",
+      "turn_index": 47
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Alex Zukin",
+      "text": "Sounds good. Congrats, guys.",
+      "turn_index": 48
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you. We will try Mike Cikos with Needham again followed by Guggenheim.",
+      "turn_index": 49
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Mike Cikos",
+      "text": "Try it again. Could you guys hear me okay?",
+      "turn_index": 50
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Rohan Sivaram",
+      "text": "Loud and clear.",
+      "turn_index": 51
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Mike Cikos",
+      "text": "Yep. Sorry about that. And thanks for the second shot here, Shane. I just wanted to come back to Rohan first. On the consumption trends, can you just give us maybe a little bit more granularity on how those month-over-month trends played out in Q3? You obviously outperformed the guide here, but I don't know that we necessarily broke it down to the month-over-month trends the way that we were getting that detail in Q1 and Q2 of this year.",
+      "turn_index": 52
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Rohan Sivaram",
+      "text": "Yes. For, you know, for our month-over-month trends, you know, obviously, we spoke around the performance drivers for Q3, which are three I just laid out. And, you know, given these drivers, our month-over-month consumption growth rates improved sequentially. And, you know, in general, going forward, I will try to avoid providing that level of detail, but, specifically, we brought it up last quarter. So, you know, our month-over-month growth improved sequentially, and we were pleased with it.",
+      "turn_index": 53
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Mike Cikos",
+      "text": "That's great to hear. And if I could just tack on one more. I know that you guys had the double down initiatives and some of the near-term focuses that we went through last quarter. Jay, maybe for you, but on the DSP specialization team, again, encouraging to hear some of these data points. Has the team been built out at this point? I know last quarter, we were talking about accelerating that build-out. Are the bodies in the seats, and where are we in maturing the playbooks in that team at this point?",
+      "turn_index": 54
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Jay Kreps",
+      "text": "Yeah. Yeah. Yeah. That team is built out in full execution mode.",
+      "turn_index": 55
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Great. Thanks, Mike. We will take our next question from Howard Ma with Guggenheim followed by KeyBanc.",
+      "turn_index": 56
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Howard Ma",
+      "text": "Hey. Thanks for taking the question. I appreciate all the commentary on the optimization trends, and I get that the Q3 outperformance sets the bar higher heading to Q4. But for, I guess, one for Rohan, does the Q4 cloud guide specifically still assume optimizations or consumption trends well below historical trends? And then when you take into consideration the large AI native customer, does it imply that NRR will decelerate versus the 114%?",
+      "turn_index": 57
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Rohan Sivaram",
+      "text": "Yeah. So I'd say a couple of questions. So I'll break it down, Howard. To start off, like, you know, we always have optimization. And, you know, that's all quarters, there is optimization. And that's why I kind of made sure that I commented around, like, you know, normalized level of optimization that we saw in Q3. So that is hopefully answering the first part of your question. And, you know, when you kind of normalize the impact of the one large customer that we called out last quarter, our Q4 guidance is you know, when you look compare the year-over-year growth rates, it's roughly flattish to what we saw in Q3.\nAnd from a net retention rate perspective, you know, obviously, we are pleased with the stabilization of our net retention rates. And, you know, when you think about what are the drivers, it's primarily around our stronger consumption growth that we saw both in core streaming and DSP. Both are drivers of stabilization. And, you know, from a net retention, again, I'm not going to guide for Q4 or fiscal year 2026 for net retention, but I'll leave you with two data points. In the short term, net retention can generally fluctuate. But over the long term, some of the opportunities that we are focused on, be it core streaming, DSP, AI, partner ecosystem. You know?\nThese are going to be the drivers of net retention rate. And all of these drivers have had positive results in Q3.",
+      "turn_index": 58
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Howard Ma",
+      "text": "Got it. And, Rohan, thanks for all that, Rohan. Given how important Flink is as a driver now, so you gave this disclosure, Flink low eight-figure ARR, Flink on cloud up 70% sequentially. I think if you triangulate it, you can get to maybe low single-digit, call it, 2 to $3 million of sequential increase in the cloud side. So is that fair? And should we expect that sort of sequential, assuming that number is right, increase on the cloud side going forward, maybe as a baseline? Thank you.",
+      "turn_index": 59
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Rohan Sivaram",
+      "text": "Yeah. Again, I'm gonna stay away from providing guidance, but, you know, we are very pleased with our Flink performance. And, you know, from a Flink performance, again, I'll say because it's important to note, both the breadth and the depth of our Flink performance is something that we should note. We have a lot of customers, over a thousand customers using Flink, and then we have, you know, 12 customers spending over 100k, four customers spending over a million dollars. And in Q3, we just reported greater than 70% quarter-over-quarter growth for that business.\nSo we're very pleased with, you know, how the Flink business is progressing, and, you know, it will be a material contributor to Confluent Cloud in fiscal year 2026.",
+      "turn_index": 60
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thanks, Howard. Our last question today will come from Eric Heath with KeyBanc. Eric?",
+      "turn_index": 61
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Eric Heath",
+      "text": "Great. Thanks for fitting me in, Shane, and congrats on the quarter, guys. Maybe a lot of good questions have been asked. Maybe if I could just come back to Flink for a minute here, Jay. I'm just curious to hear more maybe about some of the easy wins you're seeing with Flink customers. Some of the learnings you're applying to scale that Flink adoption across the customer base. I know we talked a lot about go-to-market and the DSP team, but any color there. And, Jay, maybe just lastly, any thoughts or feedback on how we should think about competition with Databricks structured streaming product that was announced this quarter?",
+      "turn_index": 62
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Jay Kreps",
+      "text": "Yeah. Yeah. Happy to talk about both. So, yeah, you know, there's actually a very broad set of use cases for Flink. If you were trying to bucket them, there's a bucket that's kind of these real-time data pipelines getting data to some AI application or agent, getting data into the analytics ecosystem, Databricks, Snowflake, cloud provider of things. And then there's a set of use cases which are acting on the data. Right? Trying to predict fraud, you know, personalize things for customers, you know, do something smart in reaction to an event in the business. Those are the two kind of buckets that we see customers using.\nBoth are actually doing quite well, and both are represented in, you know, kind of numbers that we would overall describe. I would say some of the larger customers are customers that are kind of taking existing batch processes and converting them over. So I talked about a number of customers just doing these kind of migrations. That's obviously the most challenging to orchestrate for a new product is to really take something that has been built up over many years and kind of move it over. But we're finding that we're now at a point of maturity where we can start to do that and do it successfully with customers. So that's I think that's an exciting thing.\nYou know, relative to Databricks, you know, we remain actually very close partners, you know, working together on applications for, you know, hundreds of joint customers. We're providing a set of real-time data that, you know, often flows into their environment. You know, there are some overlaps in capabilities in both what we're doing and what they're doing. I think in practice, we tend to serve different constituencies. We tend to have more kind of real-time operational application systems, software engineers, they would tend to have more data engineers, analytics, data scientists type user base. But for sure, you know, there are some things that you could do in either product.\nOn the whole, though, I think we've been pretty complimentary in going to market together. And, you know, even though that kind of overlapping features that may increase, I think that will remain the case. Ultimately, customers have chosen us for that kind of real-time hub of integration for data, and many customers have chosen Databricks as the, you know, kind of late destination where all the data goes for historical analysis. And so, ultimately, customers want those things to work together, and we're happy to serve them together.",
+      "turn_index": 63
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Great. This concludes our earnings call today. Thanks again for joining us. Have a nice evening, everyone. Take care.",
+      "turn_index": 64
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Jay Kreps",
+      "text": "Thanks, all.",
+      "turn_index": 65
+    }
+  ]
+}

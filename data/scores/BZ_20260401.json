@@ -1,0 +1,28 @@
+{
+  "ticker": "BZ",
+  "call_date": "2026-04-01",
+  "quarter": 4,
+  "year": 2025,
+  "pressure_score": 0.23376481812474695,
+  "cosine_distance": 0.6351294902458023,
+  "sentiment_shift": 0.026004375967507563,
+  "question_difficulty_mean": 0.19426356294502814,
+  "baseline_mean": 0.04267612346184968,
+  "baseline_std": 0.012222076681971252,
+  "z_score": 15.634715739001345,
+  "flagged": true,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5971317814725141,
+    "call_mean_answer_length": 261.0,
+    "call_hedge_density": 0.0038314176245210726,
+    "call_pos_sentiment_mean": 0.3448466360569,
+    "call_neu_sentiment_mean": 0.6377567052841187,
+    "call_neg_sentiment_mean": 0.01739661395549774,
+    "call_qa_similarity_mean": 0.4485027453365208,
+    "baseline_neg_sentiment_mean": 0.043400989923005305
+  },
+  "generated_at": "2026-05-20T04:51:29+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "DOCU",
+  "call_date": "2026-03-18",
+  "quarter": 4,
+  "year": 2026,
+  "pressure_score": 0.0,
+  "cosine_distance": 0.0,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.16022302993331003,
+  "baseline_mean": 0.0,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.580111514966655,
+    "call_mean_answer_length": 161.53846153846155,
+    "call_hedge_density": 0.015004435145223195,
+    "call_pos_sentiment_mean": 0.19262646339260614,
+    "call_neu_sentiment_mean": 0.7893811051662152,
+    "call_neg_sentiment_mean": 0.01799242076678918,
+    "call_qa_similarity_mean": 0.49336529407662916,
+    "baseline_neg_sentiment_mean": 0.01799242076678918
+  },
+  "generated_at": "2026-05-20T05:14:14+00:00"
+}

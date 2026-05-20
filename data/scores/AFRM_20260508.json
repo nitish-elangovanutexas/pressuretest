@@ -1,0 +1,28 @@
+{
+  "ticker": "AFRM",
+  "call_date": "2026-05-08",
+  "quarter": 3,
+  "year": 2026,
+  "pressure_score": 0.011780206613334001,
+  "cosine_distance": 0.031549205434460936,
+  "sentiment_shift": 0.002602043847751319,
+  "question_difficulty_mean": 0.1797702133821866,
+  "baseline_mean": 0.01733674276574904,
+  "baseline_std": 0.005003514425910567,
+  "z_score": -1.1105266577509325,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5898851066910933,
+    "call_mean_answer_length": 244.52631578947367,
+    "call_hedge_density": 0.02061419824987986,
+    "call_pos_sentiment_mean": 0.11367872122086976,
+    "call_neu_sentiment_mean": 0.856423628957648,
+    "call_neg_sentiment_mean": 0.0298976450178184,
+    "call_qa_similarity_mean": 0.4649601539942072,
+    "baseline_neg_sentiment_mean": 0.03249968886556972
+  },
+  "generated_at": "2026-05-20T04:27:31+00:00"
+}

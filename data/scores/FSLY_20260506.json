@@ -1,0 +1,28 @@
+{
+  "ticker": "FSLY",
+  "call_date": "2026-05-06",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.027802035843746322,
+  "cosine_distance": 0.07481278845386874,
+  "sentiment_shift": 0.0061551229421500896,
+  "question_difficulty_mean": 0.17432730428432658,
+  "baseline_mean": 0.025805522355513366,
+  "baseline_std": 0.005107379911754764,
+  "z_score": 0.3909075734973092,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5871636521421633,
+    "call_mean_answer_length": 136.27272727272728,
+    "call_hedge_density": 0.015542543620859085,
+    "call_pos_sentiment_mean": 0.4116985648870468,
+    "call_neu_sentiment_mean": 0.5563790686428547,
+    "call_neg_sentiment_mean": 0.03192237180403688,
+    "call_qa_similarity_mean": 0.49864903784383313,
+    "baseline_neg_sentiment_mean": 0.025767248861886787
+  },
+  "generated_at": "2026-05-20T05:31:43+00:00"
+}

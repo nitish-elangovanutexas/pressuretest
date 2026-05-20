@@ -1,0 +1,28 @@
+{
+  "ticker": "NVS",
+  "call_date": "2026-02-05",
+  "quarter": 3,
+  "year": 2024,
+  "pressure_score": -8.01335778269758e-17,
+  "cosine_distance": -2.220446049250313e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.20296517080477613,
+  "baseline_mean": -8.01335778269758e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6014825854023881,
+    "call_mean_answer_length": 207.47368421052633,
+    "call_hedge_density": 0.019739921118836427,
+    "call_pos_sentiment_mean": 0.26275597453901645,
+    "call_neu_sentiment_mean": 0.7153325484771478,
+    "call_neg_sentiment_mean": 0.021911463406133026,
+    "call_qa_similarity_mean": 0.44196028955317673,
+    "baseline_neg_sentiment_mean": 0.021911463406133026
+  },
+  "generated_at": "2026-05-20T06:25:10+00:00"
+}

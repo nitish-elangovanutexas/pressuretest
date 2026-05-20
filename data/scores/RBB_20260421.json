@@ -1,0 +1,28 @@
+{
+  "ticker": "RBB",
+  "call_date": "2026-04-21",
+  "quarter": 4,
+  "year": 2025,
+  "pressure_score": 0.0582138606041611,
+  "cosine_distance": 0.12166343020982784,
+  "sentiment_shift": 0.043316798396753495,
+  "question_difficulty_mean": 0.28898984808653505,
+  "baseline_mean": 0.04562302225077633,
+  "baseline_std": 0.01553160022943336,
+  "z_score": 0.8106594405851588,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6444949240432676,
+    "call_mean_answer_length": 108.75,
+    "call_hedge_density": 0.05939605489757689,
+    "call_pos_sentiment_mean": 0.5798058584332466,
+    "call_neu_sentiment_mean": 0.3978070830926299,
+    "call_neg_sentiment_mean": 0.022387067787349224,
+    "call_qa_similarity_mean": 0.5345578602785945,
+    "baseline_neg_sentiment_mean": 0.06570386618410272
+  },
+  "generated_at": "2026-05-20T06:43:35+00:00"
+}

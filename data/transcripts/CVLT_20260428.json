@@ -1,0 +1,454 @@
+{
+  "ticker": "CVLT",
+  "company_name": "Commvault",
+  "call_date": "2026-04-28",
+  "quarter": 4,
+  "year": 2026,
+  "prepared_remarks": "Earnings Call Transcript\nCommvault (CVLT) Q4 2026 Earnings Transcript\nBy\n\nMotley Fool Transcribing\n\n–\n\nApr 28, 2026 at 11:55AM EST\n\n\n\n\nImage source: The Motley Fool.\n\n\nDATE\nTuesday, April 28, 2026 at 8:30 a.m. ET\nCALL PARTICIPANTS\nPresident & Chief Executive Officer — Sanjay Mirchandani\nChief Financial Officer — Gary Merrill\nPresident of Customer and Field Operations — Jeff Hayden\nNeed a quote from a Motley Fool analyst? Email\n[email protected]\nTAKEAWAYS\nSubscription ARR\n-- $989 million, up 27%, supported by \"strongest performance of the fiscal year.\" for net new subscription ARR at $53 million on a constant currency basis.\nSaaS ARR\n-- $400 million milestone, rising 42%, driven by both new customer growth and expansion within existing accounts.\nFree Cash Flow\n-- Record $132 million in the quarter and $237 million for the full fiscal year, representing 16% growth.\nTotal ARR\n-- $1.12 billion, up 21%; net new total ARR of $44 million on a constant currency basis, with recast metrics clarifying ARR composition.\nSaaS Net Dollar Retention\n-- Improved to 122%, indicating increased expansion within existing SaaS customer accounts.\nMultiproduct SaaS Adoption\n-- 48% of Commvault managed SaaS customers now use more than one Commvault offering, up 500 basis points.\nNet New Customers\n-- Over 2,500 subscription customers added during the fiscal year, with roughly 600 in the quarter.\nIdentity Resilience & Data Security ARR\n-- Accounted for 33% of net new ARR in the quarter; Active Directory ARR more than doubled year over year.\nTotal Revenue\n-- $312 million, up 13%; subscription revenue of $208 million up 20%; SaaS revenue of $93 million growing 43%; pure software license revenue up 6%.\nLarge Enterprise Segment\n-- Revenue from transactions over $100,000 increased 9%, attributed to higher deal volumes.\nGross Margin\n-- Consolidated gross margin expanded 30 basis points sequentially to 81.8%, reflecting SaaS hosting efficiencies.\nOperating Expenses\n-- $187 million, up 11%, now 60% of revenue (improved by 100 basis points year over year), following execution of optimization initiatives.\nNon-GAAP EBIT\n-- $66 million, with non-GAAP EBIT margin of 21.3%.\nShare Repurchases\n-- 3 million shares repurchased in the quarter for $259 million; full year repurchases $446 million over 4 million shares; new $250 million authorization for fiscal 2027.\nGuidance — Q1 Fiscal 2027\n-- Subscription revenue expected at $263 million to $265 million (~15% growth), total revenue of ~$310 million, EBIT margin of ~19%, and diluted share count of ~42 million shares.\nGuidance — Fiscal 2027 Full Year\n-- Subscription ARR growth of 18%-19% to $1.20-$1.21 billion, total revenue of $1.30-$1.31 billion, subscription revenue of $1.115-$1.125 billion (15% growth), non-GAAP EBIT margin of 20.5%, and free cash flow of $250-$260 million, weighted to the second half.\nFinancial Reporting Changes\n-- Recast revenue/ARR metrics to align recurring revenue treatment, simplified KPI framework focused on four metrics, and net dollar retention now reported on annualized basis (subscription NDR was 114%).\nSaaS Penetration & Cloud\n-- Cloud-native workloads accounted for the fastest-growing segment sequentially, materially contributing to ARR; continued margin improvement expected for SaaS offerings.\nStrategic Focus\n-- Management emphasized new customer acquisition and cross-sell as the primary sales compensation drivers for fiscal 2027.\nSUMMARY\nThe call underscored a shift to recurring and cloud-based revenue streams, highlighting accelerated SaaS adoption and multiproduct expansion as foundational growth vectors. Management maintained that 82% of revenue and 90% of ARR are now subscription-based under new reporting, reinforcing a completed transition away from legacy perpetual models. Leadership changes, including Gary Merrill's return as CFO and Jeff Hayden's appointment as President of Customer and Field Operations, were positioned as synchronized and integral to continued execution. Executives consistently identified AI-driven data growth, hybrid cloud complexity, and rising identity-centric cyber threats as central to product development, sales incentives, and strategic positioning for fiscal 2027 and beyond.\nCommvault will cease reporting total ARR after perpetual maintenance falls below 10% of business, reflecting reduced reliance on non-recurring streams.\nSaaS offerings are projected to exceed $500 million ARR by year-end, with renewal-driven cross-sell momentum expected to accelerate in the second half of fiscal 2027.\nIdentity resilience and data security were cited as major contributors to net new business, with management stating that Active Directory was once again 1 of our fastest-growing SaaS offerings with AR more than doubling year over year.\nHardware-agnostic architecture and strong hyperscaler partnerships, including expanded support for Google Cloud via the Metallic SaaS platform, were emphasized as competitive differentiators enabling customers to manage memory price volatility and infrastructure constraints.\nExecutives clarified that discounting and pricing trends remained stable, with no significant changes in competitive pricing pressure during the quarter.\nINDUSTRY GLOSSARY\nARR (Annual Recurring Revenue)\n: The annualized value of active subscription contracts, providing a forward-looking indicator of predictable revenue streams for Commvault’s subscription and SaaS business lines.\nNet Dollar Retention (NDR)\n: A measure of revenue expansion or contraction within the existing customer base, expressed as a percentage of starting ARR and reflecting upsell, cross-sell, and churn.\nCleanroom Recovery\n: A Commvault solution enabling isolated data restoration and validation, used for recovery testing and mitigation of threats such as ransomware.\nAir Gap Protect (AGP)\n: Technology providing immutable backup solutions by isolating data from production networks, reducing exposure to cyber threats.\nSatori\n: An acquired Commvault solution now integrated for monitoring and enforcing data security and governance on the Commvault Cloud platform.\nMultiproduct Adoption\n: The uptake of two or more Commvault SaaS/platform modules by a single customer, enhancing account retention and long-term contract value.\nFull Conference Call Transcript\nSanjay Mirchandani:\nGood morning, and thank you for joining us. We had a strong finish to the fiscal year, delivering results at or above our guided metrics while continuing to build momentum across the business. In the fourth quarter, subscription ARR increased 27% to $989 million. This was led by another quarter of strong growth from our SaaS business, which grew 42% to reach $400 million in ARR milestone for Commvault -- subscription revenue grew 20% to $208 million, and we generated a record free cash flow of $132 million in Q4, resulting in $237 million for the fiscal year. We're growing at scale while also generating strong profits and cash flow.\nWe believe this combination reflects the health of the industry, the strength of our platform and the durability of our model. Now let me take a step back and talk about what's driving this momentum. In 1 word, its data. Data is the lifeblood of every organization. When it's down due to an outage cyber attack or human era, business comes to a halt. Organizations today are facing a variety of challenges with their data. First, data is scattered across environments, on-premise, at the edge and in the cloud, expanding the surface for bad actors. Second, cyber attacks continue to grow in volume and sophistication. -- adversaries are getting smarter and stronger. Compromise is almost certain.\nThird, Identity has become 1 of the hottest new threat factors. This is compounded by AI as nonhuman identities outnumber human identities by 50 to 1. Commvault helps organizations address today's challenges by protecting, identifying, securing and when needed, rapidly recovering their data. But these challenges aren't static. With the rise of AI, we're in the most important technology shifts in modern history. AI creates more data, more access and more risk directly increasing demand for protection, governance and trusted recovery. We see AI as a powerful tailwind for Commvault because it -- the importance of what we do. In an AI-driven world, if your data is compromised, your AI is compromised.\nCommvault provides the picks and shovels that empower customers to adopt AI security and responsibly. We do this in a variety of ways. We protect the data sets used for AI and a broad spectrum of AI workloads. help customers leverage AI to detect threats faster, recover at greater scale and automate resilience operations. We help customers activate AI data security for use with models and agents, and we bring governance to AI data. For example, with our Satori acquisition now fully integrated to the Commvault Cloud, customers can monitor and enforce agents at the data. Additionally, as customers embrace and deploy AI, they're also focused on simplifying their technology stack.\nEnterprises don't want a patchwork of fragmented tools and products. They want the best unified platform to bring it all together, Commvault Cloud. Combo Cloud unifies data protection, data security, identity resilience and recovery all on 1 scalable control plane. Increasingly, more customers are standardizing on our platform as evidenced by growth we see across the business. Let me shine a light on some of the major growth drivers for Commvault, which will extend into fiscal year 2017 and beyond. First, we continue to add new subscription customers to our platform. Second, we're expanding and driving multiproduct adoption across our SaaS states. And third, we're seeing strong momentum with emerging revenue streams, including identity resilience.\nNow I'll discuss each of these in more detail. First, we added over 2,500 subscription customers in fiscal year '26. The growth-oriented investments we made over the past 2 years paid off. In the on-prem market, we're winning against other vendors while seeing customers return to Commvault after upstarts failed to live up to the high. For example, in Q4, 1 of the world's top 50 law firms returned to Commvault because enough start overpromised and underdelivered on products that quote on the road map and did not work. This customer is now leveraging our software and SaaS solutions, including a complete suite of data security, identity resilience and recovery offerings. Second, we're making steady progress in driving multiproduct adoption.\nA core pillar of our growth strategy. This is especially true in our SaaS business. The percentage of Commvault managed SaaS customers using more than 1 offering increased to 48% and PAUSE a 500 basis point improvement from Q4 of last year. For example, in Q4, we added a large virtual charter school that could not securely or efficiently manage its multi-cloud architecture with native hyperscaler tools. Lithos Commvault to help manage their multi-cloud estate with the addition of airgap, threat scan and cleanroom recovery to meet the resiliency requirements. In fiscal -- we're doubling down and incentivizing our sales force to build on this multiproduct momentum.\nThird, in terms of monetizing new offerings, we're seeing healthy momentum as identity becomes we target for actors. Our active directory enter ID and office solutions are landing new customers and expanding existing. In Q4, Active Directory was once again 1 of our fastest-growing SaaS offerings with AR more than doubling year-over-year. And collectively, our identity resilience and data security offerings represented 33% of net new ARR in Q4. For example, after a competitor suffered a crippling ransom or attack, a Fortune 500 retailer determined its resilience posture was too complex and costly. In Q4, they purchased Commvault's active retro protection because it provides lower TCO and reduced recovery time from 2 days to under 90 minutes.\nAs identity threats continue to evolve, this will continue to be an area of focus and innovation for us in fiscal year 2017. In closing, Commvault provides customers with a single unified platform that it's essential for today's diverse data environments and tomorrow's AI-driven applications. Let me leave you with a few key takeaways. First, the market is getting bigger by the minute. AI is driving more data, more complexity and more risk, increasing the need for resilience as data grows, so as combo. Second, Combo Cloud is the differentiator. Customers are consolidating fragmented tools and standardizing on a single platform for data protection, data security, identity resilience and recovery. And third, we're delivering durable high-quality growth.\nWe're scaling SaaS, expanding within our customer base and doing so with improved margins and strong cash flow. That is why we believe we are well positioned to win in the AI era. And now I'll turn it over to Gary Merrill, who's back as our CFO, to discuss our results and outlook. We welcome him and Jeff Hayden as our new President of Customer and Field Operations. Gary?\nGary Merrill:\nGood morning, and thank you for joining us. For those who have not yet met, I served as Commvault's CFO from 2022 through 2024 before moving into the Chief Commercial Officer role. I'm excited to return as a -- especially as we close fiscal year '26 with strong momentum. I look forward to working with you as we continue to drive disciplined execution to capitalize on the growth opportunities ahead. Our Q4 results demonstrated accelerating SaaS growth, improved profitability and record free cash flows. I will discuss our Q4 and fiscal year 2026 financial metrics using our existing reporting definitions.\nAdditionally, please note that we will transition to the new financial reporting effective fiscal 2021 that was discussed later in my prepared remarks. Turning to our fiscal Q4 results. I'll start by discussing ARR and free cash flow, which we believe are the North Star metrics. We encourage you to evaluate these metrics on an annual basis, which is aligned to how we plan and manage our business. In Q4, subscription ARR increased 27% and to $989 million. On a constant currency basis, using FX rates for March 31, 2025, we added $53 million of net new subscription error. Our strongest performance of the fiscal year.\nWithin subscription, our SaaS ARR had a major milestone, growing 42% to $400 million, reflecting both new customer growth and healthy expansion from existing customers. We continue to make meaningful progress in multiproduct adoption, a core pillar of our growth strategy. As Sanjay noted, 48% of Commvault managed SaaS customers are using more than 1 product. This adoption is supported by a strong uptake of our identity resilience and data security solutions, which represented 33% of net new ARR. Our SaaS net dollar retention improved to 122%, highlighting our ability to expand within existing accounts. Total ARR, which includes subscription ARR and the maintenance associated with perpetual licenses increased 21% to $1.12 billion.\nOn a constant currency basis, using FX rates as of March 31, 2025, we added $44 million of net new total ARR during fiscal Q4. Moving to free cash flows. Q4 rebounded to a record $132 million, reflecting strong collections aligned with focused working capital management. Full year fiscal 2026 free cash flows were $237 million, growing 16% year-over-year. In Q4, we accelerated our stock repurchases to 3 million shares for total consideration of $259 million, reflecting our confidence and focus on delivering long-term shareholder value. This brings total fiscal year 2026 fixed repurchases to $446 million, representing over 4 million shares. Now I'll discuss our income statement performance. Q4 total revenue increased 13% to $312 million.\nSubscription revenue grew 20% to $208 million, led by a robust 43% growth in SaaS revenue to $93 million. Pure software license revenue grew 6% against a challenging comparison driven by strong renewals and existing customer business. We continue to see strength in large enterprise accounts, with revenue from transactions over $100,000, increasing 9%, driven by higher deal volumes. Turning next to profitability. Q4 consolidated gross margin -- expanded 30 basis points sequentially to 81.8%. This reflects continued improvement in SaaS hosting margins driven by scale efficiencies and ongoing product optimization. Q4 operating expenses increased 11% to $187 million, representing 60% of revenue, an improvement of 100 basis points year-over-year.\nThis reflects benefits of our past optimization program aimed to expand margins and allow for reinvestment in strategic growth initiatives. Non-GAAP EBIT in Q4 was $66 million, representing a non-GAAP EBIT margin of 21.3%. Looking ahead, we are entering fiscal year 2027 with strong momentum. With our subscription transformation largely complete, our financial priorities are to scale subscription ARR, expand margins and increased free cash flow. Before reviewing our outlook for fiscal year 2027, I will briefly discuss 3 updates to our financial reporting that will be effective in fiscal Q1. These changes are outlined in our earnings press release and on Slides 25 to 27 in our earnings presentation. First, we have recast certain revenue and ARR classifications.\nThe primary adjustment removes all term sulfur-related support revenue into subscription revenue alongside term software licenses and SaaS revenue. Perpetual support revenue is now presented on its own line in our P&L, which directly correlates to our nonsubscription-based revenue and ARR offerings. These recast changes are being made to, one, provide a consistent view of our offerings across subscription revenue and subscription ARR. Secondly, align financial reporting with our subscription-based business model. And finally, they reflect how we manage internally. There are no changes to the total revenue or total ARR for any period presented. Under the recast presentation for fiscal year 2026 Subscription revenue was 82% of total revenue and subscription ARR was 90% of total ARR.\nTo assist with year-over-year comparability, of our new financial reporting effective in fiscal year 2027, we have provided a 2-year quarterly look back in our earnings press release and earnings presentation, all of all recast events. For modeling purposes, an excelled download is also available on the Investor Relations website. The second change in our financial reporting is to streamline our KPI framework with emphasis on 4 key guided metrics, subscription ARR, free cash flow, subscription revenue and non-GAAP EBIT. We will also provide supplemental total revenue and diluted share count guidance to assist with P&L modeling.\nGoing forward, we will no longer disclose the total ARR as the remaining perpetual maintenance stream will be less than 10% of our business. In addition, our subscription ARR guidance will no longer peg to the beginning of the fiscal year FX rate. The final change to our fiscal year 2020 reporting will be a transition to subscription net dollar retention measured on an annualized basis. This includes both our term software and SaaS offerings and will align net dollar retention metrics with our subscription ARR and revenue disclosures. For context, fiscal year 2026 subscription net dollar retention measured on an annualized basis was 114%.\nI'd like to reiterate that we will guide subscription ARR and free cash flow annually, which matches our business planning and management approach. Perm software accounts for most of our ARR and upfront revenue. So quarterly results may fluctuate due to factors such as the mix between software and SaaS transactions, renewal timing and shift in contract duration in any discrete quarter. Typically, these fluctuations even out over the fiscal year. Now moving to our fiscal 2027 outlook using our new financial reporting. For fiscal Q1, we expect subscription revenue of $263 million to $265 million, representing approximately 15% year-over-year growth at the midpoint. This would result in approximately $310 million of total revenues.\nWe also expect EBIT margins of approximately 19% and a diluted share count of approximately 42 million shares. For the full fiscal year 2027, we expect subscription ARR growth of 18% to 19% year-over-year, representing a range of $1.20 billion to $1.21 billion. Our subscription ARR growth percentage will continue to be led by our SaaS offerings, which we expect to exceed $0.5 billion of ARR by the end of fiscal 2020. We expect subscription revenue in the range of $1.115 billion to $1.125 billion. representing approximately 15% year-over-year growth at the midpoint. As I mentioned earlier, we will also guide total revenue to assist with financial models. We expect total revenue of $1.30 billion to $1.31 billion.\nPAUSE In addition, for fiscal 2027, we expect non-GAAP EBIT margin of 20.5%, free cash flows of $250 million to $260 million weighted towards the second half of the fiscal year and diluted share count of approximately 42 million shares. Finally, our Board refreshed our share repurchase authorization for $250 million. We currently expect to allocate approximately 60% of annual free cash flow to share repurchases, subject to market conditions. In closing, I'm excited to return the CFR role and look forward to working with you as we continue to execute with discipline and capitalize on our growth opportunities ahead. We operate in a large and growing addressable market.\nThere is meaningful potential to acquire new customers and expand with our installed base to increase multiproduct adoption. I'm focused on executing those opportunities with a clear path to continued margin expansion and strong free cash flow generation while driving shareholder value. With that, I'll open the call for questions. Operator?\nOperator:",
+  "qa_turns": [
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Todd Weller",
+      "text": "Thanks for the question. You mentioned kind of the success with multiproduct sales and changes in compensation. Could you walk us through at a high level, your FY '27 kind of sales comp structure and kind of what behaviors you're trying to drive differently versus FY '26..",
+      "turn_index": 0
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Gary Merrill",
+      "text": "Todd, it's Gary. Thanks, Amit. I will take this. I'll hit the multiproduct question that you were asking. But before I do that, I'll hit sales compensation. First, we don't disclose the discrete components of our compensation plan. But what I can tell you is that our compensation plan in the field is geared towards 2 items specifically. The first is new customer acquisition. And the second is cross-sell. So platform expansion in our hybrid environment. So these are the 2 key pillars of our compensation plan for FY '27.\nAs we look back to FY '26, we're seeing great progress that we want to build off on multiproduct expansion, especially with our customers that are now licensing at least 2 of our SaaS products. PAUSE that's now approaching 50% of our SaaS customers and our ability to cross-sell and the opportunity to drive growth and cross-sell is a key pillar of our FY '27 strategy.",
+      "turn_index": 1
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "And our next question comes from the line of Aaron Rakers with Wells Fargo.",
+      "turn_index": 2
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Aaron Rakers",
+      "text": "Yes. I have 2 real quick. I guess maybe going back to late last year, I'm curious with your cloud Unity platform, what you've been seeing in terms of customer engagements, customer interest? Any kind of metrics you can share on those platforms? Obviously, the Satori acquisition. And just curious as we think about these multiproduct platforms do -- what you've seen in terms of the products introduced late last year.",
+      "turn_index": 3
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Gary Merrill",
+      "text": "Sure. Again, when we think about what we announced at unit -- the objective number 1 is to drive customer engagement. So to give the ability for our customers to leverage our platform now truly across any workload, whether it's on-premise or in the cloud. And our primary measurement of that is really driving new subscription customer growth, okay? So we've added about 2,500 new subscription customers in the past months. This quarter alone, it was roughly 600. And then how we start to monitor and measure that going forward will be across metrics of multiproduct adoption. As well as our ability to cross-sell.\nSo not just upsell because now we're starting to see the acceleration on the cross-sell motion as well.",
+      "turn_index": 4
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Sanjay Mirchandani",
+      "text": "Let me -- Aaron Sanjay here. Let me just add a little bit more to that. So the platform, if you remember, the Unity in the platform was about making sure we could give customers a singular capability to take data security, identity resilience and data recovery as 1 unified offer, whether they deploy it in SaaS or they deploy it on-premise. Just -- and identity resilience and security, as an example, represented 33% of our net new ARR last quarter. And we also added hundreds of Active Directory customers. Our ARR on Active Directory doubled year-on-year, and it's 1 of our fastest-growing offers in the history of the company.\nSo without getting into absolute specifics, it gives you a sense that the design of Unity is exactly where customers are leaning in.",
+      "turn_index": 5
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Aaron Rakers",
+      "text": "Yes. And then maybe as a quick follow-up. Gary, now that you're back in the CFO seat. I'm curious, I know you gave guidance for the full year at 20.5%. And operating margin. How do you think about the leverage that you see in this model? Is there any kind of thoughts of driving incremental operating margins? Could we see maybe mid-20-plus percent operating margin in the Commvault story as we look forward?",
+      "turn_index": 6
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Gary Merrill",
+      "text": "Eric, thanks for the second poll question. First, Guidance for FY '27 to 20.5%. Our belief when thinking about guidance is setting our guidance at the level that we believe and that we're confident that we contain, as we think about long term, especially as we scale our SaaS platform, there is leverage in this business model. AI from both an internal perspective and a customer's objective, will give us great operating leverage opportunity. AI is driving data growth. It's driving efficiencies in our product, and it's driving efficiencies in how we talk to customers every single day. So the short answer is yes.\nWe're not at the point where I'm ready to give multiyear guidance, but at baseline of 2.5 is a good starting point, and we look to expand on that from there.",
+      "turn_index": 7
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "And our next question comes from the line of Michael Romanelli with Mizuho Securities.",
+      "turn_index": 8
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Michael Romanelli",
+      "text": "Just maybe on the '27 guide, can you walk through some of the top line puts and takes for us? And as part of that, you announced some recent leadership changes, obviously. How does that factor into the thought process and logic around setting guidance? And I have a follow-up.",
+      "turn_index": 9
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Gary Merrill",
+      "text": "This is Gary. I'll take the first part. If I zoom up and maybe go very at the macro level and as we thought about our plan for FY '27, our objective is to build durable growth, okay? So the plan is built along the foundation of durable growth. There's 3 pieces that will help us drive those growth vectors. First is AI data growth. So AI is driving massive amounts of data growth. That becomes a tailwind to our business. When you combine that with the complexity of hybrid environments, it makes what we do from a resiliency perspective, even more important.\nAnd then when you add the third vector of AI cyber-led attacks, which brings in the resiliency and security aspects, you have 3 growth vectors that build the foundation of the plan. As we think about how we measure that success, you heard in my prepared remarks about our North Star metrics of subscription. So that is the key way we will measure it. We're a hybrid business, and we're expecting continued momentum in that business. And as we serve our customers, whether they're on-premise or in the cloud, we expect acceleration to continue to come, especially from our SaaS business.",
+      "turn_index": 10
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Sanjay Mirchandani",
+      "text": "Yes. And I'll add a little bit on the leadership transition. So Gary was our Chief Commercial Officer, helped build the plan was intricately involved in all aspects of both the guidance as well as where the revenue numbers we were forecasting. And then Jeff was a Board member and on the inside was had full visibility as to what we were -- what our assumptions were and how we were thinking all through the process. We were able to synchronize the leadership transition at the start of our fiscal year and had both of them at our sales kickoff, which is very important from a handover point of view and consistency point of view.\nAnd for all the important things like comp plans, territory planning, forecasting methodology, it was 2 in the box, getting it done. So I feel pretty good about -- I feel very good actually about the timing and the leadership that we brought into the company to take 7 and beyond.",
+      "turn_index": 11
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Michael Romanelli",
+      "text": "Got it. Super clear and helpful. So Sanjay you've laid out what is a pretty clear AI resilience vision and more recently unveiled data activate the Protect and AI studio. How are you just thinking about the commercial opportunity there, a significant growth driver for you guys in fiscal '27? Or is the real monetization perhaps beyond that? Just would love to person on that.",
+      "turn_index": 12
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Sanjay Mirchandani",
+      "text": "We're not pinpointing the exact number that we're attributing to AI because it's still early days, but it's definitely a tailwind. And it's -- to oversimplify it. We believe, and obviously, a bias to believe that data is at the heart of AI and is driving AI models is driving how customers use AI in the enterprise. And what we're trying to do is make sure that we're giving them not only the products and the capabilities you mentioned, which is the latest. But doing what we've done for the better part of 30 years, which is protecting the components that build up the systems they use.\nSo whether it's a better databases, whether it's the Deep S3 bucket that they're storing data in, whatever it may be, where every day we're supporting more and more of the component fee that builds up the AI apps that they're building. And we'll continue to do that to give them all the availability. Plus, with the capabilities that we've just announced. We give them a genetic access to our workflows. We give agenetic access to single policy engines. We're giving them everything they need to really protect their environments with the right guardrails and be able to recover as they roll out these fairly complex AI capabilities inside their enterprise.\nSo early days for us in quantifying it externally, but we feel today pretty good about the fact that it will -- as long as the data keeps growing, which we think it does because of AI, what we do by way of resilience becomes front and center.",
+      "turn_index": 13
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from the line of Eric Heath with KeyBanc. Eric?",
+      "turn_index": 14
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Eric Heath",
+      "text": "Great. Congrats on the results, gentlemen, strong AR acceleration and Gary welcome back to the seat. So can you just talk about what you saw from a macro perspective, both in the quarter given just some macro headwinds out there? And also, memory is also an issue. So anything you could speak to about memory impact in the quarter. And then, Gary, just coming back to some of the guidance philosophy and the assumptions there, but just -- any change in the philosophy we should be thinking about it? I know you addressed some of it already, but just given the leadership changes, any additional prudence there?\nAnd similarly, along the earlier question, any assumptions on macro or memory pricing that you're assuming in the guidance?",
+      "turn_index": 15
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Gary Merrill",
+      "text": "Eric, -- thanks and good to hear from you. I'll hit it specifically. I'm going to start with the last on the macro and the memory pricing. We had to look at them as a combined we're managing that in our pipeline. And from an outlook perspective, the current trends are baked into our guidance. Now we've been successful in being able to navigate that with our platform. We have 3 primary ways how we navigate supply chain or macro related to memory. First is we have a broad technical partnership with all the major storage providers. So we're able to leverage those partnerships, whether it's on supply or technical alignment as well.\nSo the depth and breadth of our platform integration is a key competitive differentiator. Secondly, we work with our customers to use sweat the assets. So even if it's a competitive takeout and it's a fresh install working with our customers to leverage their existing infrastructure. And the third, which we think is one of our best competitive ability is our SaaS platform. So we have the ability from a workload perspective to migrate customers to our SaaS platform and which is kind of where we see our ability to then manage these work close regardless of what's happening in the broader economy. On your second question which I believe is guidance philosophy.\nFundamentally, I've been a part of the leadership team now for many years. So as we think about how we run the business day to day, nothing's changed, I would say, right? The collaboration between myself with Sanjay and now Jasin, the broader team is consistent regardless of what role that I was in -- so the way we think about guidance is taking a look at the market opportunity and then providing a number externally that we feel confident in.",
+      "turn_index": 16
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Sanjay Mirchandani",
+      "text": "And I'll just say this, and everything. But having a CFO who's been a -- is one heck of an asset because you get a very pragmatic point of view on how to look at things. So we're very happy with that.",
+      "turn_index": 17
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "And our next question comes from the line of Jason Ader with William Blair.",
+      "turn_index": 18
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Jason Ader",
+      "text": "Yes. Thank you. Good morning. First, I want to just applaud you guys for the shift of the term support to the subscription line. It's something that Mike, I've mentioned to you many times. So I think that just cleans things up, and we -- I think we all appreciate that. For Sanjay, you talked a little bit about -- or I guess, Gary, you talked about the hardware pricing. I'm just wondering, has it actually impacted deals where some of your competitors are more tied to hardware, specific hardware and therefore, it sort of shifted deals like that were late in process towards you because of the supply availability and your sort of hardware agnosticism.",
+      "turn_index": 19
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Sanjay Mirchandani",
+      "text": "I'll take the first. I'll take the first shot at it. We -- I will say this, we have probably -- we are probably at the place in this -- in our company's history, where have the strongest relationships with our technology partners. We work with them very closely on the pipeline. We work with them very closely on the customer requirements. And so as much as availability and pricing does cause a little bit of revisits as part of the process. We've been so far, I'm going to say, so far, been able to manage the forecast pretty tightly in conjunction with our partners.\nAnd one of the things -- almost more importantly, that we can do, that Gary mentioned that holds us in good stead is allowing customers because of the way our platform is architected to sweat the asset a little longer, till they can get the right setup that they need and the timing that they want and the project kick off the way they acquired. But if they need the resilience we provide, in many cases, we've been able to go in and just sped out the asset.\nAnd without getting super technical, we can also let them run the control plane in any way they want so that they could -- they're not beholding to a particular piece of hardware. So we've got that flexibility in the architecture, and it's been used every single day as a hybrid company. So whether they're using the SaaS piece of it or they're running it in the cloud, we're letting them work through this present sort of situation to start.",
+      "turn_index": 20
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Gary Merrill",
+      "text": "Jason, to go back to your first comment about the recast. I appreciate the call out. One of the key priorities with that is aligning our P&L today are -- so now you can specifically see how the AR momentum is translating into acceleration on the top line within the subscription. And then it's also important to give the clarity to our shareholders about the actual size now of the perpetual business now that it's become nominal to the overall business.",
+      "turn_index": 21
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Sanjay Mirchandani",
+      "text": "That's fair.",
+      "turn_index": 22
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Jason Ader",
+      "text": "Great. And 1 follow-up. On the comment, the 33% of new ARR coming from identity and data security. Can you just give us a quick report card, Sanjay, on some of the data security products, like what's going well? Where do you still feel like you've got some work? I know you have a handful of different products there, some acquisitions. Just it would be great to get a quick report card.",
+      "turn_index": 23
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Sanjay Mirchandani",
+      "text": "Yes. I think with Unity, we really upped the ante, if you would, on how our policy engine operates across the product. So when you look at Satori and what it does with data security being integrated, so those capabilities, the implied capabilities are in the product, right in the product. If you look at Threat Scan, which has been something that has done really, really well for us. Now it's been completely revamped and taken inputs from a variety of sources, including our own IP and third-party IP to really give customers deep scanning capabilities to look at what happened.\nYou tie that back to clean room, which we brought to market 2 years ago, this generation of cleanroom has tight integration with AGT and all the risk analysis that we could do to tell customers what happened, who touched it. Now when you fast forward this to a genetic capabilities. A lot of companies are fixated on what the rolling back in agent, which is fine. But that is one threat vector in the overall scheme of things that needs to be looked at in sort of cohesion to bring back -- to really have resilience. So that's where we're going.\nAnd the numbers we shared sort of bode well for where customers' minds are and where -- how they're thinking about resilience because you have to look at it in an integrated way, data security, identity resilience and true single-click recovery on large platforms.",
+      "turn_index": 24
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "And our next question comes from the line of James Fish with Piper Center.",
+      "turn_index": 25
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "James Fish",
+      "text": "Topic that's coming up, of course, is hardware and cloud. Maybe just to go back to that, are you seeing customers initially actually start with the on-prem for either a net new or new deal completely, but then evaluate or turn to you guys to see what kind of cloud equivalent pricing would be, just given the rising hardware costs. And how are customers handling that sort of messaging how are they handling that overall exposure to you? And is there a way to understand that penetration of cloud within subscription entirely at this point?",
+      "turn_index": 26
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Gary Merrill",
+      "text": "Jim, it's Gary. I'll start on this. So as it relates to thinking about navigation. So what customers want is they want the diligence at the end of the day. So if you start with the macro theme of what we provide as resilience, so when you get into, I'll say, Tier 2, Tier 3 apps, maybe not like the mission-critical Tier 1, the flexibility is there to think about the ability to be agnostic between whether they use on-premise infrastructure or they use cloud and to structure their own storage or even our own ubstores. So that's kind of where we see it.\nAnd when you combine that with the flexibility with the hardware partners that we have as well as helping us with the assets, if it becomes about the options that they have to make sure that we can keep their projects on track. Now to quantify what I'd say that shift has been material to our SaaS business, not yet. Okay, not yet. But what it does is it keeps our project top of mind and it allows us to continue to execute with a close plan.",
+      "turn_index": 27
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Sanjay Mirchandani",
+      "text": "Because we're very unique in what we can deliver in that true hybrid capability, letting customers truly mix and match how they wish to deploy. Now of course, it's a regulated industry. They have their own policy. There's a lot of things that come into play. But that we give them a very unique flexibility that nobody else can to do what they need to do. And over time, they can mix and match. and some do.",
+      "turn_index": 28
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "James Fish",
+      "text": "Yes. Just to follow back up. I know I asked a long question there, but what's the customer penetration of cloud within subscription entirely? And can you just remind us what optimizations on the product setting and where cloud gross margins are now today?",
+      "turn_index": 29
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Sanjay Mirchandani",
+      "text": "I'll take the first part, you take the second.",
+      "turn_index": 30
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Gary Merrill",
+      "text": "Okay. So penetration of cloud. So cloud native workloads. So if you think about workloads that are now running the cloud, whether there's databases Monoject, even our -- and we think about contribution, okay, to our growth, that bucket of our cloud, digital native cloud native offerings from Q3 to Q4 was our fastest-growing segment that contributed to ARR, okay, which shows what the ability is to move and protect cloud applications with our cloud product. So a major contributor, Jim, to our success sequentially. From a margin perspective, continued optimization. I don't have the margins in front of me, but we can get them back to you.\nI would say sequential improvement on margins are North Star is driving well north of 70% and we're on pace for that over the next couple of years. So that's where we're focused on is the product optimization and building that durable business of in the cloud.",
+      "turn_index": 31
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "And our next question comes from the line of Param Singh with Oppenheimer. Param?",
+      "turn_index": 32
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Paramveer Singh",
+      "text": "Maybe, Sanjay, I wanted to understand the buying persona for identity resilience, is that more focused towards. And are you investing more in your security focused sales teams, not just find resilience but for some of the other workload opportunities, particularly around ransomware and then lastly, in that vein, are you also investing in R&D to sell some of the technical gaps on the ransomware side? Or do you feel you have a robust portfolio today?",
+      "turn_index": 33
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Sanjay Mirchandani",
+      "text": "Param. I'll take the last part first. I think we've got a world-class platform when it comes to not just ransomware as a threat vector, but broader and making sure that -- and I don't need to say this in any way, but serious, which is regardless of the threat vector or what causes the damage of the data our focus is to be able to bring customers back to life, recover them. So it's broader than ransomware, but it definitely does ransomware if that makes sense, okay? And it does it very well. Every day, we're helping customers with it.\nOn your -- on the first part of your question, on the buying persona of identity, Identity is quickly becoming because of AI, is quickly becoming sort of a joint decision between the CSO organization and the classic CIO organization, because, in some cases, identity is managed by the IT organization and now with AI applications being developed by teams or new teams sometimes, it's sort of going up in visibility. So we're seeing both. We think both. I'm not adding more security specialists, if you would. But over the past couple of years, a lot of the folks that have come into the company have come in from a security patron.\nIn fact, Jeff Hayden, our President also has a deep security background because today, like I keep saying, data security, identity and recovery are implicitly high. So we're cross training our people. There's a lot of enablement we're doing going to make sure that they can talk to the different personas, identify the right kind of conversations to have. I feel pretty good about the progress we've made. I mean we don't -- it's rare that we lose a deal because we didn't have a security capability.",
+      "turn_index": 34
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Paramveer Singh",
+      "text": "Understood. Great. And as a follow-up, if I could, -- not to get into the memory side. I know you're managing the supply chain well, but a different question, right? The higher memory and component pricing does constrain budget dollars a little bit. Have you had concern from customers where they're picking and choosing what workloads are mission critical and more important to secure now and potentially pushing off certain workloads through the next year? Or do you feel that the entire data state is crucial enough today where dollars would primarily be spend on cyber resilience first and then something else. Any clarity there would be really appreciated.",
+      "turn_index": 35
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Sanjay Mirchandani",
+      "text": "I'll take the first shot. The -- anecdotally, use -- customers are focused on resilience because you're only as good as the breadth of your coverage, okay? And your resilience capability increases with pretty much you have to protect everything that runs your business mission critical. For that, if customers are doing refreshes, they prioritize that in whatever architecture their industry allows them or their policies allow them to do. So in some cases, it's not about pushing it off to next year. It's saying, I think we can run this through a SaaS capability that -- so we look at your sat, Oh, we could have it hosted, and we'll write the data on-premise.\nSo again, it comes back to the architecture, which we think gives customers the choices they need to be able to prioritize both the cost increases and the availability of memory and servers, et cetera. So it comes back to that. There's no single answer. But yes, obviously, if things are in scarce supply or more expensive people do prioritize and we're right there with them to help them through that.",
+      "turn_index": 36
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "And our next question comes from the line of Yun Kim with Low Capital Markets.",
+      "turn_index": 37
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Yun Suk Kim",
+      "text": "Congrats on a strong thing to finish to the year. If you can update us on the overall partner ecosystem that you're expanding, especially around service providers. I think you had some announcements on that recently with Google and whatnot. How important is that securing that close in ship with the major hyperscalers in your go-to-market especially around cyber resiliency and then especially with much of the Agent framework running on those agree platforms?",
+      "turn_index": 38
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Sanjay Mirchandani",
+      "text": "Yun, it's Sanjay. I'll try and address that. So our relationships with the hyperscalers are pivotal. It's very important as customers truly embark upon not just hybrid cloud, but multi-cloud deployments our ability to protect customers with a single platform across multiple cloud and on-premise capabilities is unique. So our hyperscaler relationships are something that we invest deeply in, okay, both from an engineering point of view, and a go-to-market point of view. So access, if a customer wants to purchase off of a marketplace, we have deep integrations into all the marketplaces.\nAnd then we continue to evolve the platform as customers make choices around Atento your point, whether it's the vector databases, whether it's the agent framework that they have, identity systems that they use. We're continuing to build out our resilience capabilities on that so that when the customer makes that choice, we're right there with them. okay? And we've done that for years, and that's obviously held us in good set, so we continue to do that. What was the other part of your question. Resilience. Yes.\nAnd what we do, for example, that makes us, again, very unique from a resilience point of view is customers can write their data into our air gap immutable capabilities on any of the 4 major hyperscalers today. So they can mix and match as they need to. And for whatever for economic reasons, commercial reasons, resilience reasons, redundancy reasons, we can -- we allow them through the same control plane very seamlessly to be able to protect their data and their capabilities on any of the hyperscalers. So the abstraction is what we bring, TCOs, what we bring.\nAnd you mentioned, Google, our Compal Cloud platform supports Google. but our Fumio platform, which is designed for cloud natives, which has thus far been an Amazon, AWS sort of protection has now expanded into Google. So Google Cloud is also supported by Glumio,hirwhich is quite the favorite with the cloud natives.",
+      "turn_index": 39
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Yun Suk Kim",
+      "text": "Okay. Great. Sanjay. Gary, in regard to probably a question that I probably wanted to avoid so far. But in regard to seasonality of your SaaS business for -- in your outlook, is there any big renewal quarter where you're expecting a certain upsell or even a conversion of term license to SaaS.",
+      "turn_index": 40
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Gary Merrill",
+      "text": "Yes. Thank you. I'll hit it. The average contract length of our SaaS deals is 1 to 2 years, so we're in that midpoint of 1 to 2 years. So what that means is as you see that they are accelerate and grow every quarter, that means that our renewal base is growing every single quarter. So what happens is and what you'll see is some of the acceleration in the second half of fiscal year '26, is that it's our renewal population natural opportunity for that cross-sell opportunity that you see and that's coming through in some of our prepared remarks. So we expect that trend to continue with our typical seasonality.\nSo as we build out and think about renewals in the second half of fiscal year '27, the opportunity will be that much bigger on incremental cross-sell as well.",
+      "turn_index": 41
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from the line of Howard Ma with Guggenheim Securities.",
+      "turn_index": 42
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Howard Ma",
+      "text": "I'll keep it short. And Gary, welcome back to the speed. My question is, are there any trends to call out in terms of new and renewal procurement decisions? And what I'm really getting at is how comfortable are you in the initial subscription revenue and margin guide. Did you appropriately bake in -- I kind of think there's 3 things. There's higher memory prices. There's cloud modernization that are happening broadly and then there is the potential impact of -- cloud Unity on shorter contract duration. So did you appropriately take in potential contract duration compression?",
+      "turn_index": 43
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Gary Merrill",
+      "text": "Howard, glad to talk to you again. I'm glad to be back working with you. Couple of different pieces there. If you look at the renewal pool, I would say, on the software side in FY '27 relative to FY '26. It's roughly the same or slightly bigger, but not significant. And so we have factored in our expectations on new full term like Term link. What we saw in some fiscal Q3 to 4 is roughly no change to term link, but we've modeled that out now into FY '27. I think if I think about the way we've built the guidance around subscription ARR.\nWe expect the vast majority of subscription ARR driven from our business, okay, similar to the trends that you saw for FY '26. So therefore, we'll continue to see acceleration in the SaaS business, our software business and our hybrid environment is a roughly plus or minus similar renewal pool. And then the difference will be what we expect to take from the new logo acquisition on-premise.",
+      "turn_index": 44
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from the line of Rudy Kessinger with the D.A. Davidson. Rudy, please go ahead.",
+      "turn_index": 45
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Rudy Kessinger",
+      "text": "Great. Gary, certainly looking forward to working closer with you again going forward. Gary, you said in response to a question on memory earlier, 1 of the 3 reasons we're able to navigate this is the ability to maybe cover some of those -- both from the cloud, and I just want to clarify that with respect expect how much of a driver of your SaaS and Nene in fiscal Q4 was from customers protecting on. premise workloads via your SaaS offering as opposed to purchasing new hardware. Was that a material driver? And do you expect that to be a material driver of SaaS going forward this year just given the memory price increases?",
+      "turn_index": 46
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Gary Merrill",
+      "text": "Rudy, Nice to talk to you again as well. Not significant in Q4. What it does, it gives us the ability to make sure that our project with the customer to help meet the resilience you need stays on track. To give them that option if they need to go that way in the future that they've scoped out the technical considerations. So not a significant contributor to Q4 acceleration that is not factored into my guide. For FY '27 either. My guidance related FY '27, exceeding $500 million of DAS ARR would exclude any significant impact from that.",
+      "turn_index": 47
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from the line of Joseph Gallo with Jefferies. Joseph?",
+      "turn_index": 48
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Joseph Gallo",
+      "text": "Subscription NRR was really impressive at 114%. Just given the broadening portfolio, how should we think about how that trends in fiscal '27 versus your sub-A guide of 18.5%?",
+      "turn_index": 49
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Gary Merrill",
+      "text": "It's Gary, Joseph. Nice to meet you, and thanks for asking the question. Yes. So one of the retail items that I made thinking about going in FY '27 is hopeful thing on that subscription NRR as a key measure because -- you're right, it aligns to both our revenue and subscription and the ARR. We're not modeling significant upside in that number in the guidance. So in the guidance generally reflects that steady state. And that keeps our SaaS NRR very healthy and gives us opportunity to improve also on the software piece as well.",
+      "turn_index": 50
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Joseph Gallo",
+      "text": "Awesome. And just as a quick follow-up. I mean it was great to hear the potential competitive differentiation with higher memory prices versus other vendors. I'm just curious, broadly, have you seen any changes in the pricing environment competitively?",
+      "turn_index": 51
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Gary Merrill",
+      "text": "No significant. If I look at discounting trends that we had during the quarter, they were consistent with the last couple of quarters. It is a competitive market, obviously, as you guys do your research, but we're not seeing any incremental pricing pressure. It's more, I think, as Sanjay outlined and you even emphasized it's navigating those cost challenges relative to the resilience budget and making sure that resilience budget is maintained as a priority versus traded off as just storage costs.",
+      "turn_index": 52
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from the line of Shrenik Kothari with Baird. Shrenik?",
+      "turn_index": 53
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Shrenik Kothari",
+      "text": "Welcome back, Gary. Sanjay, just in relation to oral outlook and guide. I know in prior calls, you have talked about AI as a big growth driver, but it was mostly is proof of concept within your customers. It seems now you're pushing harder, AI is driving more data, more risk. You mentioned the market is getting bigger by the minute. Just which of the use cases that you are most excited about and you're seeing real enterprise budget pull today compared to sort of what you talked earlier, if you can sort of elaborate more across protecting data sets versus model flows as the recovery of agent-driven workloads, also governing data access and cloud native recovery. Any thoughts there?\nAnd I had a quick follow-up.",
+      "turn_index": 54
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Sanjay Mirchandani",
+      "text": "Sure, sure. Shrenik, I'd say in the enterprise, enterprise-grade applications we're in the early days. There's a lot of trials. There's a lot of models being used. So what we're doing is getting back to, like I said in an earlier response, is making sure that we can broadly protect the componentry that customers will use -- are using or will use to build these apps.\nTo the databases, the vector database is where the data is stored, exposing that data so they can use it in pipelines to the newer products we have, giving them agent capabilities to quickly get resilience built day 0 into the apps as opposed to an afterthought because what we believe is critical in this new sort of new types of apps, AI-enabled apps that have been mild is that protection and resilience needs to be active and not passive. It needs to be on the front end of as you build the app as opposed to in the back end of when you've got the app. So we're -- so you mentioned many things. It's like is it risk?\nIs it data? Is it recovery policy, cloud-native full all of it. So we're helping them through the process. But again, our focus is data and recovering the data regardless of what may have touched it, agenetic nonagentic, human nonhuman, all of that. So we're -- it's early days. It's a journey, but our goal is to be able to give customers through Commvault Cloud, a single click recovery of the entire AI stack. That's where we're driving to.",
+      "turn_index": 55
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Shrenik Kothari",
+      "text": "Great. Very helpful. Just very quickly, again, Gary, in relation to -- I know you did mention there's field comps are geared for the next year towards both new logos as well as cross-sell platform. Just -- it sounds great, right, especially given the stronger identity and multiproduct momentum. But just how different is this in practice from fiscal '26 in terms of how you are sort of fine-tune that incentives, any success metrics around AI, atenty. Just anything that you can provide there granularity.",
+      "turn_index": 56
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Gary Merrill",
+      "text": "Yes. I can summarize this for you. So if I -- the comp plan design for our field teams for FY '27 is roughly consistent with '26. So what we do is tweak a cross-sell incentives, on the products that we believe have the greatest opportunity for growth. And then obviously, our customers need to stay resilient. So it's a tweet in the -- where we point them as it relates to the specific products, but new logo acquisition has always been a fundamental pillar of our complaint.",
+      "turn_index": 57
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from the line of Junaid Siddiqui with Truist.",
+      "turn_index": 58
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Junaid Siddiqui",
+      "text": "Sanjay, as frontier area models become increasingly embedded across cybersecurity workflows. And as the model providers themselves potentially push further into security, how do you see Commvault role evolving to remain core to cyber resilience and how are you partnering with these platforms to protect customers in a more agentic world?",
+      "turn_index": 59
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Sanjay Mirchandani",
+      "text": "Junaid, it's these models used right, will to make for better software, okay, more secure software. So I think I think we're seeing the start of this in the industry. Our focus has always been a combination, making sure that the platform we provide the combo capabilities we provide or equal parts, data security, identity resilience and recovery. I'd probably take that back. I'd say more recovery. And we specialize on the recovery capabilities. But it's with the same policy engine that gives you the providence of what happened to the data to allow customers to truly recover.\nSo whether the agent caused something to happen, or a cyberattack cause something to happen or human error cost something to happen or a corruption case something to happen, our focus always is data out, making sure we can get the data recovered for the business. So the models we'll make for most secure software, I believe. But what we need to do is stay focused on and what we're focusing on is just getting customers back from anything that may have happened to their systems. -- especially when you're looking at the pace at which AI changes things.\nSo I'm kind of giving you a 10,000-foot response on it, but we're obviously looking at it's a multipronged capability, whether it's Agentic or cyber or just system providence. We're looking at all of that and making sure that our capabilities can bring all of them back with single policy.",
+      "turn_index": 60
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from the line of Joe Vendre with Deutsche Bank. Joe?",
+      "turn_index": 61
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Unknown Analyst",
+      "text": "Sanjay, you called out multiproduct adoption as a driver of growth and also touched on the momentum in your identity protection products. Can you talk about the typical deal size for identity and maybe the ACV uplift when a customer adds on that identity protection. And also, is there a way to think about what percentage of the base has adopted identity protection today, and should that adoption rate eventually get to 100%?",
+      "turn_index": 62
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Gary Merrill",
+      "text": "It's Gary. I'll jump in and answer this for you. So what -- we don't disclose the actual ASP of our denting solution. However, what I can provide to help is that it's a good land or a would expand motion to drive the stickiness in the platform. to how we think about it internally is that it's less about the individual ASP of the offering. It's more how we're driving the adoption of the platform, okay? And when you get multiproduct adoption, as you would expect in any business, our ARPA goes up significantly, okay? And we'll start to give color on that in the out quarters as we get going and get more penetration.\nTo the positive side on opportunity, we've had great success on our identity year-over-year. The business grew about 100% year-over-year. and it's still a very small proportion of our installed base that have adopted it. So we still have a long runway of opportunity to drive that as we continue to enhance the platform with even more identity solutions. So just not about the traditional active directory when we get into other offerings like Ostend other and ID, it's the whole platform approach across multi identity solutions which will drive multiproduct adoption and then drive our PARP, which we'll continue to talk about as we build those measures.",
+      "turn_index": 63
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Sanjay Mirchandani",
+      "text": "Right. Joe, just to close, I mean, just to give you a typical scenario -- use case scenario, outcome-based scenario that a customer would look at. They would start with identity they would look at clean room to be able to test that identity and they would look at AGP, our Air Gap Protect capabilities to be able to restore data from that secure location, whether it's for test purposes or production purposes. So without identity resilience, you are -- it's an incomplete solution. So that's how we think about it. In and of itself, it's a starting point. It's a good land spot.\nIt's a good expense part of a customer already using our technology, but it really shines when you look at the life cycle of how a customer would use it.",
+      "turn_index": 64
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Michael Melnyk",
+      "text": "Mark, we'll take our last question, please.",
+      "turn_index": 65
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our last question comes from the line of Tom Blakey with Cantor Fitzgerald.",
+      "turn_index": 66
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Thomas Blakey",
+      "text": "Well, thanks for in here, Michael. Sanjay and Gary, great to be working with you again. I guess my first question is on this net new ARR in constant currency metric that we've heard from the company in the past. It seems like with AI increasing data, very successful push here in terms of organic growth from a new product perspective as well as M&A. It seems like if I'm looking at the moving pieces here, the new target of $1.205 billion in subscription ARR. Just maybe kind of talk about what we're kind of expecting here and embedding in the guide for net new ARR on a constant currency basis into fiscal '27? That's my first question.",
+      "turn_index": 67
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Gary Merrill",
+      "text": "Tom, it's Ger. I'll jump in. So how we'll be guiding that new ARR going forward? It's really tied to subscription error, the overall subscription ARR. That will be an annual guide. So we set up the annual guide for FY '27 at the midpoint, that's 18% and 18.5%, okay? If you quantify that, that means that the amount of subscription net new ARR for the full fiscal year 2017 will be roughly $190 million. Okay. So that's kind of a key base part. Now what I won't be doing is giving a discrete guide on any individual quarter, okay? As you've seen in our business in the past, there's to be puts and takes from quarter-to-quarter.\nBut we'll continue to provide -- and I'll continue to provide the updated view of the annual number, how we're trending against that annual number and also empty relative mix between the software and SaaS pieces of the business. For FY '27, we continue to expect majority of that $190 million of net new ARR for the full year to continue to be led by acceleration in our SaaS platform, which should exceed about $500 million by the end of FY '27.",
+      "turn_index": 68
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Thomas Blakey",
+      "text": "Super, super helpful. And good to see the uptick there on the net new ARR basis that we could just maybe imply for fiscal '27? And just maybe a look back at as it relates to look forward -- could you maybe expand on the market share gains that you experienced at some of the -- at the expense of some of the legacy players in fiscal '26 and what you're embedding in the fiscal 2027 guide, that would be helpful just given the dynamics there.",
+      "turn_index": 69
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Gary Merrill",
+      "text": "Overall, FY '26 was a strong net new customer, right? There was some fluctuation quarter-to-quarter. Q3 was an extremely strong piece of the business on net Blue. Q4 was more tied to our existing installed expansion business. But overall, when you look out at the full fiscal year, we saw strong growth. And it's beyond I would say now the legacy players that only have on-premise because our value prop is the hybrid. It's the hybrid and managing those workloads on-premise or across multiple clouds. So what you see in our subscription ARR, whether it shows up in software or in SaaS, it's our hybrid approach that's giving us the competitive advantage.\nSo we may swap out a legacy install on-premise and that new deal will end up likely being hybrid across both on-premise and cloud. So that's why the combined subscription era becomes the North Star metric because it will show the penetration and success of that hybrid New logo acquisition.",
+      "turn_index": 70
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Sanjay Mirchandani",
+      "text": "That's key. The hybrid is key. And we believe that as AI gets rolled out broadly in the enterprise, it will continue to be hybrid.",
+      "turn_index": 71
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Michael Melnyk",
+      "text": "Mark, [indiscernible].",
+      "turn_index": 72
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Okay. So there's no further questions at this time. That concludes today's conference call. You may now disconnect.",
+      "turn_index": 73
+    }
+  ]
+}

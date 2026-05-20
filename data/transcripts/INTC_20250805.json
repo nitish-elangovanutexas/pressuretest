@@ -1,0 +1,358 @@
+{
+  "ticker": "INTC",
+  "company_name": "Intel",
+  "call_date": "2025-08-05",
+  "quarter": 2,
+  "year": 2025,
+  "prepared_remarks": "Earnings Call Transcript\",\"datePublished\":\"2025-08-05T19:47:35.000Z\",\"dateModified\":\"2025-08-05T19:47:35.000Z\",\"author\":{\"@type\":\"Person\",\"name\":\"Motley Fool Transcribing\",\"url\":\"https://www.fool.com/author/20032/\",\"jobTitle\":\"Contributing Analyst\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://g.foolcdn.com/avatar/2041746765/large.ashx\",\"height\":\"80\",\"width\":\"80\"}},\"about\":[{\"@type\":\"Corporation\",\"tickerSymbol\":\"NASDAQ INTC\"}],\"publisher\":{\"@type\":\"Organization\",\"@id\":\"https://www.fool.com/\",\"name\":\"The Motley Fool\",\"url\":\"https://www.fool.com/\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://g.foolcdn.com/misc-assets/logo-tmf-primary-7-magenta-royalpurple.svg\",\"width\":\"157\",\"height\":\"43\"},\"brand\":\"The Motley Fool\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"Media Inquiries\",\"email\":\"pr@fool.com\"},\"publishingPrinciples\":\"https://www.fool.com/about/\",\"sameAs\":[\"https://www.fool.com/about/\",\"https://en.wikipedia.org/wiki/The_Motley_Fool\",\"https://www.wikidata.org/wiki/Q7752442\",\"https://www.linkedin.com/company/the-motley-fool\",\"https://www.facebook.com/themotleyfool/\",\"https://x.com/themotleyfool\",\"https://www.instagram.com/themotleyfoolofficial/\",\"https://www.youtube.com/channel/UCpRQuynBX9Qy9tPrcswpPag\",\"https://www.pinterest.com/themotleyfool/\",\"https://www.tiktok.com/@themotleyfoolofficial\",\"https://www.google.com/search?kgmid=/m/0578mk\"]},\"description\":null,\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.content.foolcdn.com/images/1umn9qeh/production/b4204f36ed605fc54d4ba32e2cb31d1dd892afd6-800x450.jpg\",\"height\":\"630\",\"width\":\"1200\"}}\nEarnings Call Transcript\nIntel (INTC) Q2 2025 Earnings Call Transcript\nBy\n\nMotley Fool Transcribing\n\n–\n\nUpdated Aug 5, 2025 at 3:47PM EST\n\n\n\n\nImage source: The Motley Fool.\n\n\nDATE\nThursday, July 24, 2025, at 5 p.m. ET\nCALL PARTICIPANTS\nChief Executive Officer — Lip Bu Tan\nChief Financial Officer — David Zinsner\nCorporate Vice President, Investor Relations — John Pitzer\nNeed a quote from a Motley Fool analyst? Email\n[email protected]\nRISKS\nLip Bu Tan disclosed that 2021 was the last full fiscal year with positive adjusted free cash flow, stating, This is completely unacceptable.\nIntel\n(\nINTC\n\n6.79%\n)\nincurred approximately $800 million in non-cash impairment and accelerated depreciation for excess prior-generation tools and $200 million in one-time period costs, materially reducing gross margin to 29.7% (GAAP) and resulting in non-GAAP EPS of minus $0.10.\nLip Bu Tan confirmed the decision not to continue manufacturing projects in Germany and Poland, the consolidation of Costa Rica operations, and slower Ohio construction, directly tied to prior unwise and excessive capacity investments.\nManagement cited continued headwinds for non-GAAP gross margin into Q3 2025, driven by the cost structure of the Lunar Lake ramp, early Panther Lake wafer costs, and increased tariff impact, with foundry revenue expected to decline sequentially.\nTAKEAWAYS\nTotal Revenue\n-- $12.9 billion in revenue for Q2 2025, above the high end of guidance, driven by strength in client and datacenter segments.\nNon-GAAP Gross Margin\n-- 29.7% gross margin, including impairment and period charges; excluding these charges, non-GAAP gross margin would have been 37.5%.\nEPS\n-- Non-GAAP EPS of minus $0.10 due to $800 million in non-cash impairment and accelerated depreciation, plus $200 million in one-time period costs; would have been $0.10 non-GAAP EPS excluding these charges.\nOperating Cash Flow\n-- $2.1 billion in operating cash flow was generated.\nGross CapEx\n-- $4.5 billion in gross CapEx, with net CapEx was $3.1 billion and adjusted free cash flow of negative $1.1 billion.\nCash and Investments\n-- $21.2 billion in cash and short-term investments at quarter end.\nIntel Products Revenue\n-- $11.8 billion, up slightly from the prior quarter and above expectations.\nClient Computing Group (CCG) Revenue\n-- Up 3% sequentially for CCG revenue, with continued PC refresh demand cited as a driver.\nPCAI (Accelerated Computing) Revenue\n-- Down 5% sequentially, but above expectations with offsets from Xeon 6 ramp and AI server demand.\nIntel Foundry Revenue\n-- $4.4 billion, down 5% quarter-over-quarter for foundry revenue, but above expectations due to Intel 7 wafer output and advanced packaging service increases.\nOperating Profit (Intel Products)\n-- $2.7 billion, representing 23% of segment revenue, down $250 million quarter over quarter due to period costs.\nIntel Foundry Operating Loss\n-- Foundry operating loss was $3.2 billion, a sequential decrease in loss of $848 million, primarily from impairment charges.\nHeadcount Reduction\n-- Majority of actions completed to reach a target of 75,000 employees by year end, with management layers cut by approximately 50% during the quarter.\nCapEx Guidance\n-- 2025 gross CapEx forecast at $18 billion; net CapEx target of $8 billion to $11 billion, with expectation of a reduction in operating expenses to $16 billion in calendar year 2026.\nOpEx Targets\n-- OpEx planned at $17 billion for 2025 (calendar year, as stated in company guidance); Operating expense target set at $16 billion for 2026 (calendar year, non-GAAP).\nQ3 2025 Guidance\n-- Revenue range of $12.6 billion to $13.6 billion, with midpoint non-GAAP gross margin of approximately 36% and breakeven EPS (non-GAAP) expected.\nWorkforce Mandate\n-- Return-to-office implementation scheduled for September.\nNon-core Asset Monetizations\n-- Raised approximately $900 million from a partial Mobileye stake sale; Altera transaction with Silver Lake expected to close this quarter.\nManufacturing Strategy Change\n-- Cessation of Germany and Poland manufacturing projects, Costa Rica operations consolidation, and slower Ohio site construction as part of CapEx discipline tied to customer volume commitments.\nIntel 18A Process Update\n-- On track to support at least three product generations; Panther Lake launch confirmed for year-end; engagement with ecosystem partners and U.S. government programs ongoing.\nIntel 14A Process Update\n-- Early PDK released to lead customers; adoption of a foundry-oriented design approach with customer milestone-based CapEx deployment.\nKey AI Initiatives\n-- Focus on inference, agentic AI, and full-stack solutions; explicit plans to expand software talent base and address historical shortcomings in system software strategy.\nSUMMARY\nManagement stated that prior capacity expansion was excessive relative to actual demand, prompting a major strategic shift toward customer-committed, milestone-driven investments and tighter CapEx discipline. Executives disclosed that foundry operations will not invest further without \"volume commitments\" and explicit customer milestones, as part of a new financial discipline to align capital expenditures with market demand. Operating margin and free cash flow remain pressured by restructuring, impairments, and high CapEx, prompting continued asset sales and cost-reduction measures, including workforce downsizing and management restructuring. The leadership team detailed initiatives for product development simplification, stricter oversight of design approvals, and disciplined architectural choices, as well as a shift to a software-led AI strategy targeting addressable segments like inference and agentic AI. Management made clear that foundry profitability at the Intel 14A node requires \"meaningful external customers\" and that CapEx funding for such expansion will only follow binding commitments.\nDavid Zinsner said, \"beginning the process of delevering this year as cash from operations continues to improve,\" underlining liquidity management as a key priority.\nLip Bu Tan stated, \"we reduced management layers by approximately 50%,\" confirming accelerated organizational flattening and direct cost control actions.\nExecutives highlighted that the Lunar Lake and Panther Lake production ramps will increase costs per wafer in the short term, impacting non-GAAP gross margin in Q3 2025, but should become gross margin tailwinds as yields and volumes normalize.\nIntel 18A is set as the product foundation through at least the next three client and server generations, with Panther Lake ramp expected to attract new foundry customers as published performance matures.\nManagement confirmed that adoption of Intel 14A as a foundry node is subject to strict performance and volume milestones, and that CapEx deployment for 14A will only occur after meeting these requirements, with external customer engagement incorporated at the definition stage.\nLip Bu Tan emphasized, \"I will only invest when I'm confident those returns exist,\" ensuring a return-on-investment approach to future CapEx decisions.\nINDUSTRY GLOSSARY\nIntel 18A\n: Intel’s advanced semiconductor process node designed to produce multiple future product generations, emphasizing yield, performance, and production scalability for both internal and select external customers.\nPDK (Process Design Kit)\n: Standardized toolkit provided to semiconductor customers, allowing them to design chips compatible with a specific process node’s parameters and rule sets.\nPanther Lake\n: Next-generation Intel client processor series set to launch at year end, utilizing the Intel 18A process node.\nGranite Rapids\n: Intel’s server CPU product family, highlighted for current ramp and AI server workload adoption.\nAgentic AI\n: A branch of artificial intelligence focused on systems capable of autonomous action and decision-making, which Intel targets as a differentiated AI segment.\nSKUs (Stock Keeping Units)\n: Distinct product variants used to manage and track inventory and new launches within the semiconductor industry.\nCapEx (Capital Expenditures)\n: Funds used by Intel for acquiring or upgrading physical assets such as plants, equipment, or technology infrastructure.\nFull Conference Call Transcript\nLip Bu will open with comments on our second quarter results, as well as provide an update on our strategy and priorities. Dave will then discuss our overall financial results, including third quarter guidance, before we transition to answer your questions. Before we begin, please note that today's discussion contains forward-looking statements based on the environment as we currently see it and, as such, are subject to various risks and uncertainties. It also contains references to non-GAAP financial measures that we believe provide useful information to our investors.\nOur earnings release, most recent annual report on Form 10-K, and other filings with the SEC provide more information on specific risk factors that could cause actual results to differ materially from our expectations. They also provide additional information on our non-GAAP financial measures, including reconciliations where appropriate to our corresponding GAAP financial measures. With that, let me turn things over to Lip Bu.\nLip Bu Tan:\nThank you, John. And let me add my welcome. We had a solid Q2 with revenue above the high end of our guidance. This reflects strong demand across our business and good execution by the team. As expected, headline profitability was impacted by several one-time items and impairments. But I am pleased by the underlying operating performance in the quarter, even as we have more work to do. Dave will go through our detailed financials shortly. Today, I want to provide you with updates on four major initiatives where we have started to make progress and will continue to focus in coming quarters: our organization and culture, our foundry strategy, our core x86 franchise, and our AI strategy.\nFirst, on organization and culture. Over the last three months, I have completed a systematic review of every organization and function reporting to the CEO. This review included detailed analysis of headcount, skill sets, spending, site distribution, executive population, and restructuring plans. We have much work to do in building a clean and streamlined organization, which we have started in earnest and will remain an area of focus for me during Q3. Our goal is to reduce inefficiencies and redundancies and increase accountability at every level of the company.\nAs mentioned in our Q1 earnings call, we need to right-size and scale back the company while ensuring that we are retaining our best internal talent and hiring the best external talents from industry and universities. During Q2, we completed the majority of the actions needed to achieve our year-end target of seventy-five thousand employees. These were hard but necessary decisions, and we reduced management layers by approximately fifty percent in the process. We are on track to implement our return-to-office mandate starting September. These actions are necessary not just to reduce our operating expenses, but to make the company more agile, collaborative, and vibrant, to simplify our business and improve our product and process execution.\nNext, on our foundry strategy. I continue to believe that our heritage and expertise in semiconductor technology development and manufacturing remain a very valuable and vital asset. I also fully appreciate the strategic importance of the US domicile semiconductor manufacturing. Transforming this unique asset into a robust foundry business requires us to take a systematic approach and act from a position of strength. The foundry business is a service business that relies on the foundational principle of trust. We need to demonstrate to our customers that we can deliver wafers on time with high-quality reliability, and that we can manufacture products at scale.\nWe need to have process and packaging technology that is not only competitive but, more importantly, is designed to meet the needs of our customers. In addition, we also need to develop a rich and diverse ecosystem of IP and EDA partners who will enable our customers to seamlessly design chips using our process. And finally, perhaps most importantly, we need to build capacity smartly and carefully, on a schedule that meets the needs of our customers and supports the economics of our business. This approach is fundamentally different than the path we have been on for the last four years.\nUnfortunately, the capacity investments we made over the last several years were well ahead of demand and were unwise and excessive. Our factory footprint has become needlessly fragmented. Going forward, we will grow our capacity based solely on the volume commitments and deploy CapEx in lockstep with tangible milestones and not before. As part of this new financial discipline, we have decided not to continue with our manufacturing projects in Germany and Poland. We also plan to consolidate our assembly and test operations in Costa Rica into larger existing sites in Vietnam and Malaysia. And we will further slow the pace of construction in Ohio to ensure our spending is aligned with market demand.\nImportantly, based on the progress we have already made in Ohio, we have the flexibility to accelerate work as needed to meet customer needs. Turning specifically to process technology development, on Intel 18A, we will continue to make steady progress on our year-end performance targets. Intel 18A is the foundation of at least the next three generations of Intel client and server products, and we remain committed to ramping this technology to scale. Intel 18A and Intel 18AP are critical nodes for Intel products and will drive meaningful wafer volumes well into the next decade. Our foundry and products teams remain focused on enabling Panther Lake to launch this year.\nOnce we get our own product ramping in high volume, we will be in a better position to attract external customers to this technology. The Intel 18A family is also important as we continue to advance our work for the US government within the secure engrave programs, as well as for other initial committed customers. On Intel 14A, the foundry technology team is continuing to focus on the basic building blocks: technology definitions, transistor architecture, process flow, design enablement, PDKs, foundation IPs, and test chips to validate and improve performance and defect density.\nDesigning 14A from its inception as a foundry node from the ground up better positions us to meet specific customer requirements and address a broader segment of the market. This work is being driven and informed by direct input from large external customers and from our own internal products teams. A key aspect of prudently pursuing our foundry ambition is also making sure we maintain sensible optionality for our internal product teams. We will continue to work closely with both internal and external foundry partners. They will do their homework and make process and supplier decisions based on what is best for our end customers against criteria of performance, cost, yield, and time to market.\nOur external foundry strategy has always been rooted in the economic reality of semiconductor manufacturing. Up to and through Intel 18A, we could generate a reasonable return on our investments with only Intel products. The increase in capital cost at Intel 14A makes it clear that we need both Intel products and meaningful external customers to drive acceptable returns on our deployed capital. And I will only invest when I'm confident those returns exist. I'm intimately familiar with the foundry and fabulous ecosystem, having helped create it over the last two decades. I'm using that experience to put our Intel foundry on a more solid footing for the future.\nI will do so while being prudent with our capital and ensure we can deliver attractive returns on the investment we make. I do not subscribe to the belief that if you build it, they will come. Under my leadership, we will build what customers need when they need it and earn their trust through consistent execution. Next, onto our core x86 franchise. In client, our top priority is delivering our first Panther Lake SKU by year-end, followed by additional SKUs in the first half of 2026. The successful launch of the Panther Lake will solidify our strong share in the notebook market across consumer and enterprise.\nWe still have gaps to close in the high-end desktop market, but I'm encouraged by our unmatched go-to-market reach, our x86 ecosystem, and the progress we are making on Nova Lake due out at the end of 2026. In traditional servers, we continue to have a solid position in AI host nodes and storage, where our single-threaded performance has been optimized for those workloads. Granite Rapids is ramping as planned, and we continue to see good demand for our more established server products. But sustainable share improvement in this market will take time. Specifically, we need to improve in broader hyperscale workloads, where performance per watt is a key differentiator.\nI have also taken steps to correct past mistakes regarding multithreading capabilities on our P-cores. I'm also making progress on bringing in new leadership in our data center business and look forward to being able to announce these changes next quarter. Longer term, my directive to our silicon and platform teams is to define products with clean and simple architecture, better cost structure, to simplify our SKU stack, all while enabling a path to robust product margin. I'm also instituting a policy where every major chip design needs to be personally reviewed and approved by me before tape-out. I have already begun this process.\nThis discipline will improve our execution speed and move us towards a first-time-right mindset while also saving development costs. Finally, turning to AI. In the past, we approached AI with a traditional silicon and training-centric mindset, without a cohesive silicon system software stack and strategy. But we do need to build and consolidate upon our silicon franchise, based upon our x86 CPU and our Xe GPUs. We recognize the need to move up this abstraction stack into system and software. This is the area where Intel has traditionally been weak or entirely absent, but we intend to incubate and grow this important skill set and capabilities under my leadership.\nThis will take time, but it will be vital for Intel to stay relevant in the next wave of computing. In addition, we see the AI market continuing to evolve, and we are concentrating our effort on areas we believe we can disrupt and differentiate, like inference and agentic AI. We need to start by first understanding emerging and real AI workloads, then work backwards to design software systems and silicon to enable the best outcome for those particular workloads. We will strive to become the compute platform of choice, but we will also work towards a full-stack AI solution, and I look forward to sharing more on our strategy in the coming months.\nUnderpinning all of these efforts is a strong focus on improving our balance sheet. We continue to maintain solid liquidity, and despite meaningful capital spending offsets, our last full fiscal year of positive adjusted free cash flow was 2021. This is completely unacceptable. How we allocate our owner's capital and the return we generate for them is of paramount importance to me. We have several major levers to generate better cash flow, including driving operating leverage and managing our capital outlays. I discussed earlier the actions we have taken to reduce operating expenses and improve execution. I'm very confident in our ability to hit our operating expenses targets for 2025 and 2026, respectively.\nWe have already lowered our CapEx guidance from the beginning of the year by roughly $5 billion year-to-date. While purchasing commitments make further reduction in 2025 difficult, we will continue to work to reduce capital spending in 2026. Lastly, as it relates to our non-core assets, we successfully monetized a portion of our ownership of Mobileye earlier this month, and we look forward to closing the Altera transaction with Silver Lake this quarter. I will evaluate other opportunities as we continue to sharpen our focus around our core business and strategy. I believe the actions we have taken during my first few months are steering us in the right direction.\nLet's say, I also know that turning the company around will take time and require patience. We have a lot to fix in order to move the company forward, and I'm determined to drive the changes necessary to improve our performance. I'm equally confident that as we execute, we will rebuild this company and have a bright future. I will now turn it over to Dave to go into more detail on the financials.\nDavid Zinsner:\nThank you, Lip Bu. I'll start by care. On our Q1 earnings call, we signaled the economic landscape had become increasingly uncertain, driven by shifting trade policies, persistent inflation concerns, and increased regulatory risk. Fortunately, markets largely functioned normally in Q2, enabling the fundamental demand drivers underpinning our core markets to manifest. In client, we saw continued solid demand driven by end-of-service for Windows 10 and the aging COVID-era installed base. In addition, AI PCs continued to grow as a percentage of our mix. On the traditional server side, we saw hyperscalers and enterprises continue to refresh their CPU installed base to take advantage of our newer products with better performance within a lower power envelope.\nBoth dynamics underscore the durable demand within our two largest markets and the enduring strength of the x86 ecosystem. Second quarter revenue was $12.9 billion, coming in above the high end of our guidance range, driven by strength across client and datacenter. Similar to comments we made in Q4 and Q1, we think it's likely Q2 revenue benefited from customer purchasing behavior to mitigate tariff uncertainty, although it continues to be difficult to quantify. Turning to non-GAAP gross margins and EPS, last quarter, we indicated that incremental costs associated with our spending reduction plan would likely impact non-GAAP gross margin.\nBut since those costs were not yet calculated, they were not included in our Q2 gross margin and EPS guidance of 36.5% and breakeven, respectively. As such, we recognized approximately $800 million of non-cash impairment and accelerated depreciation charges related to excess prior generation tools for which we couldn't find reuse and approximately $200 million of one-time period costs. These charges resulted in Q2 gross margin of 29.7% and EPS of minus ten cents. Excluding these charges, our second quarter non-GAAP gross margin would have been 37.5% and non-GAAP EPS would have been ten cents, both results ahead of our Q2 guidance.\nBeyond those costs, we also were impacted by $1.9 billion of charges that are excluded from our non-GAAP results. The large majority of those charges are associated with the severance for our headcount reduction aligned with our restructuring plan. We expect the principal cash cost associated with these decisions to have us firmly on track to meet our calendar year 2025 and calendar year 2026 OpEx targets of $17 billion and $16 billion, respectively. Q2 operating cash flow was $2.1 billion, with gross CapEx of $4.5 billion in the quarter and net CapEx of $3.1 billion, resulting in adjusted free cash flow of negative $1.1 billion.\nWe have $21.2 billion of cash and short-term investments and remain focused on beginning the process of delevering this year as cash from operations continues to improve. Moving to segment results for Q2, Intel products revenue was $11.8 billion, up slightly sequentially and above our expectations across client and server. I was pleased by the team's ability to support revenue upside in the quarter as capacity for Intel 7 remains very tight. CCG revenue was up 3% quarter over quarter and above our expectation with continued PC refresh demand and upside in hedge deployments.\nWithin the quarter, CCG launched a number of AI PCs with key OEM partners, announced the expansion of its Arc GPUs for AI use cases tailored to inference and professional workstations, and made its open edge platform code available to the developer community, all in support of the growing opportunity for us to compete as AI inference moves to the edge. PCAI revenue was down 5% sequentially but above expectations, driven by variability in hyperscale demand, partially offset by continued strength in host CPUs for AI servers and storage compute. In addition, we saw upside to plan on the continued ramp of Xeon 6, code-named Granite Rapids.\nIn Q2, DC AI launched three new Xeon 6 processors with priority core turbo technology to boost AI workloads. One of these Xeon 6 SKUs was selected as the host node for NVIDIA DGX D300 AI-accelerated systems, and the Imperial College London chose Xeon 6 to power its latest HPC supercomputer, demonstrating Xeon remains the CPU of choice for AI workloads. Operating profit per Intel products was $2.7 billion, 23% of revenue, and down $250 million quarter over quarter, principally driven by the period costs I highlighted earlier. Intel foundry delivered revenue of $4.4 billion, down 5% sequentially and above expectations on better-than-forecasted output of Intel 7 wafers and increased advanced packaging services.\nIn Q2, 18A reached a key milestone with the start of production wafers in Arizona ahead of Intel products' Q4 launch of its next-generation client product, code-named Panther Lake. Intel foundry released an early version of Intel 14A's PDK to lead external customers and, at Direct Connect in April, announced an EMIB advanced packaging partnership with Amcor. Intel foundry operating loss in Q2 was $3.2 billion, down $848 million sequentially, materially driven by the $800 million impairment charges I discussed earlier. Turning to all other, revenue came in at $1.1 billion and was up 12% sequentially and above expectations. The three primary components of all other are Mobileye, Altera, and IMS. Collectively, the category delivered $69 million of operating profit.\nNow turning to guidance. Historically, sequential growth in Q3 has been up high single digits. However, we've seen three quarters of revenue growth above our expectations, which we attribute at least in part to customers hedging against tariff uncertainty. As such, while we believe that the underlying fundamentals of our core markets support growth, we feel it prudent to continue to plan for a below-seasonal second half of 2025. As such, for Q3, we're forecasting a revenue range of $12.6 to $13.6 billion, down 2% to up 6% sequentially. Within Intel products, we expect more strength in CCG.\nWe expect Intel foundry revenue down slightly quarter over quarter due to capacity constraints in Intel 7, which we expect to persist through the second half of the year, and reduced expectations for external advanced packaging revenue. For all other, we expect revenue for the sum of those parts to be roughly flat sequentially. At the midpoint of $13.1 billion, we expect a gross margin of approximately 36% on an increased mix of outsourced products, yearly ramp of Panther Lake, and increased costs associated with tariffs. We forecast a tax rate of 12% and breakeven EPS, all on a non-GAAP basis. We're forecasting 2025 OpEx of $17 billion, with a 2026 OpEx target of $16 billion.\nWe expect non-controlled income, or NCI, to be approximately $250 million to $300 million in both Q3 and Q4 on a GAAP basis. NCI is still expected to grow meaningfully in fiscal year 2026. In Q2, we took tangible steps to increase focus on our core business while leveraging non-core assets to shore up the balance sheet. We raised approximately $900 million through the Mobileye offering, and we are on track to complete the stake sale of Altera in Q3. Our guidance includes Altera for the full quarter, but we will deconsolidate at deal close. Once the deconsolidation is complete, we will recognize our remaining Altera investment within equity investments on the balance sheet.\nOn the income statement, we will recognize our proportional share of Altera's net income on a one-quarter lag through gains and losses on equity investments net, which is excluded from our non-GAAP results. As a result, it is likely our Q3 non-GAAP results will reflect only a portion of the financial results for Altera. Moving to CapEx, we anticipate 2025 gross capital investment will be approximately $18 billion and forecast $8 billion to $11 billion for net CapEx. Better utilization of our construction in progress will allow us to deploy more overall CapEx in 2025 than in 2024, and we expect the improved utilization to continue in 2026, resulting in lower gross and net CapEx next year.\nBeginning the process of delevering our balance sheet in 2025 remains a top priority for us. I'll wrap up by saying Q2 operationally was the third consecutive solid quarter, reflecting our commitment to maintain a high SEI do ratio, closely manage within our control, and react quickly as the environment evolves. I have confidence that the strategic priorities we've established are the right ones, and I'm optimistic about our ability to execute on them while acknowledging there are no quick fixes. With that, I'll turn it over to John to start the Q&A.\nJohn Pitzer:\nThank you, Dave. We will now transition to the",
+  "qa_turns": [
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Certainly. And our first question for today comes from the line of Ross Seymore from Deutsche Bank. Your question, please.",
+      "turn_index": 0
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Ross Seymore",
+      "text": "Hi, guys. Thanks for letting me ask a question. Let me do the first one for you, and thank you for walking through the strategic details that you're putting into place. It seems like fixing the foundry side is based on trust, as you said before, and that trust seems to have its origin in fixing the x86 side of the business. So I guess my question is, how fast can you fix that? I know you are having to sign off on every tape-out, but is the trust that 18A can ramp dependent upon Nova Lake and Diamond Rapids, or are we talking 2027, 2028?\nWhat are the sort of steps we need to see to build that trust in your x86 business so that the foundry business can ramp?",
+      "turn_index": 1
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Lip Bu Tan",
+      "text": "Ross, thank you so much for a good question. First of all, we focus on the 18A. We, you know, so far, the last two months, and I have twice a week review with the team. And, you know, we make steady progress on our technology towards the yield performance target and reliability. So I think, as you mentioned, 18A is a foundation for at least three generations of Intel client and server business products, and we are committed to ramp that. And so far, you know, the confidence is we're engaging with external ecosystem partners to help us look at the year and how can we improve. And that in the past, we didn't engage that.\nSo I really see that, you know, the feedback from the partners that say, hey, culture, the intensity for our team is really focused on the yield performance, and they really like the attitude on that. So far, I think it gives me a lot of confidence that we can launch our Panther Lake SKU by the end of the year. And then also, I think the external customer includes secure and create with the US government. And then with sufficient internal volume, then show the good progress we can have a better attraction to our external customer. So I think this is a process to kind of build the trust with the customer.\nThey can count on us on the reliability, the yield, and we can deliver on time, on scale, to really supporting them. And then they're gonna just put the resources in on their revenue based on our foundry. So there's a lot of response, and that's something that I feel very committed, and we like what we see. It gives me a lot more confidence.",
+      "turn_index": 2
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "John Pitzer",
+      "text": "Ross, do you have a follow-up question, please?",
+      "turn_index": 3
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Ross Seymore",
+      "text": "Yeah, I do. One potentially a little nearer term for Dave on the gross margin side. You mentioned that the gross margin was guided down a bit sequentially for a couple different reasons. Can you dive a little more deeply into those and perhaps more importantly, just what do you see as the tailwinds and headwinds to gross margin as we look, say, into next year? I know you're not going to guide it specifically, but just some of the puts and takes would be great. Thank you.",
+      "turn_index": 4
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "David Zinsner",
+      "text": "Yeah. Okay. Thanks, Ross. Yeah. Let's just delve into the gross margins for the third quarter. I'd say the predominant driver of lower gross margins in the third quarter is Lunar Lake. We expect a pretty significant ramp in Lunar Lake in the third quarter. And, you know, I've made this comment, I think, multiple times on calls, but it's got the memory in the package, and so, you know, we kind of pass it on at the same cost we bought it, and that really has a negative impact on the way the gross margins look, you know, optically.\nAnd so as we mix higher to Lunar Lake, that's obviously gonna be a headwind to us in terms of gross margins. As expected, but perhaps having a little bit more of a significant transition from Q2 to Q3. We thought we'd have probably more volume in Q2. The second big driver of gross margins is the ramp that we just talked about of Panther Lake. Obviously, we're in the early stages of the maturity of Panther Lake, so the cost per wafer is gonna be higher, and so that is gonna drive some headwinds. Obviously, as Lip Bu said, you know, yields improve. More importantly, volumes increase.\nThat reduces the cost, and so that will transition to a tailwind ultimately. I think next year, you know, the big benefit for us is this significant ramp in Panther Lake. You know, given that we're bringing a fair amount of wafers back inside, that drives a lower cost, and we get those better cost structures of Panther Lake showing up with the higher volumes. That's clearly gonna be beneficial to us in terms of gross margin. You know, that said, you know, a lot of this will be determined on mix, and we'll have to see how things play out through next year in terms of the mix.\nThe last thing I'd say, and maybe this is maybe even a little bit more long-term than you asked the question, Ross, you know, the way we think about foundry, we, you know, as we ramp more leading-edge nodes, that is going to be a benefit to us in terms of gross margins. We think foundry gross margins will expand next year, and that will be a continuing story out for several years. The other side of things is the product side, and I think there are three levers to products. One is pricing. And as Lip Bu said, he's really focused on bringing out products that customers really value.\nAnd as that becomes a reality, it'll show up in the pricing that will help us on gross margin. The second is the cost structure, and Lip Bu is also really focusing on cleaner designs, simpler designs, driving more efficient use of silicon and so forth. And so, you know, as we get better cost structure as well over time, and there are products on the roadmap that already have it even as POR, we'll see improvement in gross margins.\nAnd then in the near term, while all this is going on, I'm looking at all the other extraneous things that drive cost of sales, you know, how many samples we do, you know, how we run the fabs, and so forth, and driving improvements there to position us for better gross margins.",
+      "turn_index": 5
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "John Pitzer",
+      "text": "Ross, thanks for the question. Jonathan, can we have the next question, please?",
+      "turn_index": 6
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Certainly. And our next question comes from the line of Timothy Arcuri from UBS. Your question, please.",
+      "turn_index": 7
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Timothy Arcuri",
+      "text": "Thanks a lot. Let me I wanted to ask about the foundry strategy. You did add a bunch of risk factors and language on 14A that kinda seems to leave the door open to kinda walking away from its development. And I know you did talk about some of that, but if I'm an outside customer and I'm looking at your roadmap and I see this, you know, hedging on 14A, why would I engage? I guess, how do you sort of marry the hedging on 14A development with trying to build an external foundry business?\nI guess, I kinda read it as maybe a hard pivot away from foundry and doing what's right for the product business, can you sort of talk about that?",
+      "turn_index": 8
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Lip Bu Tan",
+      "text": "Yeah. Very good question. So I think on the 14A, you know, first of all, I think the team is laser-focused on building up the basic building blocks: technology definition, transistor architecture, process flow, design enablement, PDK, and foundation IP, and the test chip to verify and improve the performance and the defect density. Saying that, you know, clearly, we learn quite a lot on the mistake we made on the 18A. And now we apply it to the 14A. So I think we learn a lot.\nAnd secondly, we also reach out to the outside, you know, the partners to help us with shortening the data and how can we improve the yield and performance so that we can drive that. It gives me a lot of confidence we can get there. But even more important, we are engaging with customers who are gonna enable us and then with clear milestones to execute in terms of process development and with PDK, with all the different IP that we need to really put it together. I think that gives me a lot more comfort in that. This time, we have customers engaging early enough in the inception.\nAnd also, we learn from our mistakes, and we can learn quicker and then get a better result. So I think all in all, I think it gives a lot more confidence that the team is laser-focused. And the feedback from the partners and outside is that, wow. Look. The culture is changing. And you guys are really focused on the yield and product than just the performance. So I think that part, I think, will be able to enable us. Plus, the other part is we really engage with all the external EDA and IP providers. Make sure that we have the whole, you know, program together to do the pattern matching for the customer.\nAnd the good news is customers are excited. The 14A is a process node. But, clearly, I will make sure that, you know, until I see the internal customer, external customer volume commitment, before I put CapEx into the, you know, operation. So that is something that I had to meet my requirement in terms of performance and yield. You know, it's a lot of responsibility to be serving our customers. Make sure that we can deliver the result, consistent, reliable result to them so that their revenue can depend on us.",
+      "turn_index": 9
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Timothy Arcuri",
+      "text": "Tim, do you have a quick follow-up question?",
+      "turn_index": 10
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Timothy Arcuri",
+      "text": "I do. Yeah. Yeah. I guess I just kinda wonder, like, how an external, you know, customer would, you know, continue to be engaged. But the, you know, question really is for Dave. So, Dave, you talked about CapEx coming down next year. What is maintenance CapEx like? How much can you cut CapEx next year? Could you take, like, $5 billion out of gross CapEx next year if you can give some sense on that? Thanks.",
+      "turn_index": 11
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "David Zinsner",
+      "text": "Yeah. Okay. Good question. Let me unpack it a little bit. I would say why CapEx can come down next year is, you know, we bought a lot over the last few years, quite honestly, and, you know, we have to digest that, and that enables us to deploy more capital than we have to spend, which I guess is a good thing at this point. So that's what's driving the fundamental view that we should be down in CapEx. It's not really moving it to maintenance CapEx, I would say.\nBut, you know, to kind of ballpark a number, I'd say probably half our CapEx is maintenance, you know, but our normalized CapEx call at this $18 billion level for this year probably you consider sustaining or maintenance CapEx?",
+      "turn_index": 12
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "John Pitzer",
+      "text": "Thank you, Jonathan. Can we have the next question, please?",
+      "turn_index": 13
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Certainly. And our next question comes from the line of Joseph Moore from Morgan Stanley. Your question, please.",
+      "turn_index": 14
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Joseph Moore",
+      "text": "Great. Thank you. You mentioned again the Intel 7 being in short supply through the end of the calendar year. Can you talk about, you know, what's driving that? Are you gonna be able to drive more volume to the Intel 4 products? And, you know, what you have to add wafer starts in Intel. So I'm just kinda curious what's going on with that.",
+      "turn_index": 15
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "David Zinsner",
+      "text": "Yeah. I mean, you know, Raptor Lake is doing really well. I mean, that's the biggest driver of it. That's why back to my comments around Lunar Lake ramping next quarter. You know, what we're really seeing a lot of strength in is Raptor Lake right now. I think, you know, the price points of Raptor Lake are, I think, where a lot of consumers and enterprises are buying PCs, and so that's what's kind of pulling it in. But I do suspect that we'll see mixes change. You mentioned Intel 4, you know, Meteor Lake, and of course, we all are ramping and are in the process of ramping Granite Rapids, which will drive more volume of Intel 4.\nSo we're already, you know, building out capacity and wafer outs in that area.",
+      "turn_index": 16
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Joseph Moore",
+      "text": "Joe, do you have a follow-up question?",
+      "turn_index": 17
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Joseph Moore",
+      "text": "Yeah. I do. Coming back to the CapEx, I mean, you still have a large amount of construction in progress that hasn't yet been productively employed. Are you gonna be able to get full value out of that? I know there was a shelter strategy. Is it gonna continue to persist if there's a large amount of that or, you know, will you start depreciating that at some point?",
+      "turn_index": 18
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "David Zinsner",
+      "text": "Yeah. There was a big chunk of it that was Arizona, actually, and we actually flipped that at the beginning of this quarter. So that's all, you know, obviously already ramping on 18A. So we actually saw it come in, I think it was north of fifty at the end of Q2, fifty billion. And I think we're at this point now down into the kind of mid to high thirties. So we've made a significant move in the right direction. You know, construction products or assets under construction is a mix of equipment and buildings. And so the other thing that we're doing is trying to use more of that. So that will also bring the number down.\nSo we should have a steady improvement in that number through the rest of this year, and the goal is to kind of drive it down further next year. That said, we are going, you know, we are going to want to continue to have optionality on fab white space. And that's, you know, while we are slowing down Ohio, we're not stopping Ohio. So we're gonna continue to make investments there will be assets under construction or construction in progress on our balance sheet to make sure we have flexibility as the demand drivers change.",
+      "turn_index": 19
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "John Pitzer",
+      "text": "Thanks, Joe. Jonathan, can we have the next question?",
+      "turn_index": 20
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Certainly. Our next question comes from the line of Benjamin Reitzes from UBS.",
+      "turn_index": 21
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Benjamin Reitzes",
+      "text": "Hey, guys. Thanks for the question. Wanted to ask about servers. I may have missed it, but what's the trend you're expecting into the third quarter? And what are your thoughts about share losses there and when perhaps those dissipate a bit, you know, into the following year.",
+      "turn_index": 22
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "David Zinsner",
+      "text": "Let me see. Oh, okay. So I'll take we have we're not giving out the guidance by business unit. You know, we're roughly up a little bit. We'll have to see how things play out between servers and CPUs. You know, as far as share goes, you know, obviously, you know, we're not where we wanna be in terms of a competitive portfolio, and that's what Lip Bu is really focused on improving. That said, you know, Granite Rapids is a better part. Diamond Rapids, the next part, will be a better part. So we think we continually improve our relative competitive position, but to really be where we wanna be still take some work.\nAnd so, you know, I think the great thing about it is we actually have held share relatively well despite, you know, our position in the market in terms of performance. And I think it's a good testament to, you know, the x86 ecosystem and the strength of that and our particular capabilities in the x86 system in terms of, you know, the ecosystem that we provide and to our customers.",
+      "turn_index": 23
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Benjamin Reitzes",
+      "text": "Doug, do you have a follow-up?",
+      "turn_index": 24
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Benjamin Reitzes",
+      "text": "Yeah. I was wondering if Lip Bu would mind expanding on his comment. Obviously, you're gonna be updating that at some point. You don't mind clarifying when that will be, but what do you are you inferring that you know, that you have a GPU-centric strategy or something else, and how should we be thinking about how you're gonna attack that market? Thanks.",
+      "turn_index": 25
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Lip Bu Tan",
+      "text": "Yeah. Very good question. So I think we're gonna unfold our AI strategy in the months to come. But let me just share with you I think we're gonna look at it from where are we gonna target and focus. And, you know, first of all, is the inference side. And also the agentic AI, and that is really taking off. And we want to provide that interception on that. And then we're gonna take a different approach. We're gonna look at the whole system software, the silicon, and then drive the, you know, the performance. And then the agentic AI is very important. It's the accuracy and speed.\nSo I think with all this AI, compute gonna be even more intensive. But the workload is a little bit different. So we want to look at how can we intercept using our franchise of x86 and then with the accelerator and then somehow drive that whole become the compute platform of the future. And so those are the things that we're in the drawing board while working on it. Then we will share with you when we are ready. And we so far, the engagement with customers, they love what we are. Basically, we have to put the team and we're delighted.\nWe add on a few team members come on board, also, we're gonna focus on adding more software talents in a way that we can really drive some of this opportunity, and be a player in this opportunity.",
+      "turn_index": 26
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "John Pitzer",
+      "text": "Ben, thanks for the question. Jonathan, can we have the next question, please?",
+      "turn_index": 27
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Certainly. Our next question comes from the line of William Stein from True Security. Your question, please.",
+      "turn_index": 28
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "William Stein",
+      "text": "Great. Thank you for taking my question. Lip Bu, I'd also like to lean into this AI topic a little bit because I think you might not have used the words full stack, but that's certainly what it sounds like. And so I think about the opportunity that Intel has I guess I've thought of it as you wanna be sort of like Nvidia, but Nvidia already has a very established position. You have cloud service providers doing ASICs, and you have AMD trying to do the same thing.\nSo it sounds almost like you're aiming to be the third or arguably the fourth supplier in a market where, you know, there's really only two successful and so far Nvidia and some of its customers. And I wonder to what degree you have considered or are still considering another approach like doing ASICs to establish a better position in this market? I hope that question makes sense, but any clarification and education you could provide us would help a lot. Thank you.",
+      "turn_index": 29
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Lip Bu Tan",
+      "text": "Yeah. Very good question. Thank you. And then first of all, I think you are correct. You know, what I described about the system software is a full-stack solution we try to provide. And then, clearly, we are behind and we had tried to find the area that we can really wedge in then try a different solution and service. And I think, meanwhile, I want to play into our strength in the x86 so that we can really play in that whole orchestrating what is the workload and then how do we optimize that. And then the other part is also important.\nLook at some of the new architecture and that's why I am embracing some of the startups and some of the incubating ideas so that we can bring that in. Back to your another question that you have. Is the ASIC. So we are also very open working with the system company providing the AI platform that it can be a purpose-built and then so that really drive their performance. So, absolutely, we're gonna drive that opportunity.",
+      "turn_index": 30
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "William Stein",
+      "text": "Will, do you have a follow-up question?",
+      "turn_index": 31
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "William Stein",
+      "text": "Yeah. I'd like to maybe just ask about the write-downs in the quarter. It sounds like that was a quick how on what you're writing down to the degree you think it would help us. Thank you.",
+      "turn_index": 32
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "David Zinsner",
+      "text": "Okay. Yeah. We did have inventory write-downs, but we weren't isolating that. That's just part of the normal cost of sales roll-up. The write-down that we're isolating mostly was around roughly around impairments of equipment. And then there was another couple hundred million dollars that was a kind of an adjustment in terms of how we take some certain extraneous costs, originally through inventory and now moving it more to a period cost. The equipment, it was kind of a bunch of different things, but I would say I'll give you one of the bigger ones that was an example. We had some tools that we had bought. They were sitting in assets under construction.\nRelatively had tools in the line. That were older tools, and we took the opportunity since we had, you know, an extra excess amount is we took the newer tools, put them in line, took the older tools out. They had a higher net book value than the value we can get in the open marketplace if we sell them. We wrote them down to that value and, you know, they'll be held and assets held for sale. So it was things of that nature. Like I said, mostly older tools that we just couldn't find a purpose for.",
+      "turn_index": 33
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "John Pitzer",
+      "text": "Thanks. Well, Jonathan, can we have the next question?",
+      "turn_index": 34
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Certainly. Our next question comes from the line of Stacy Rasgon from Bernstein Research. Your question, please.",
+      "turn_index": 35
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Stacy Rasgon",
+      "text": "Hi guys. Thanks for taking my questions. For the first one, I wanted to touch on 18A and 14A. So you said 18A would be supplying the next three generations of Intel products. So I guess that's 2026, 2027, and 2028. I guess that would suggest 14A if it comes out. Would be 2029 at the earliest. I guess, number one, is that timing correct? And then, you know, just within that, given the plans, you know, at least the contingency plans that maybe knocked you for 14A, I mean, I guess it's suggested if 14A dies, does the foundry strategy die with it?\nAnd can you run a sustainable business just on internal volume with 18A and increasing outsource if 14A doesn't do what it needs to do?",
+      "turn_index": 36
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Lip Bu Tan",
+      "text": "Stacy, it's a good question. So first of all, I think the as I mentioned earlier, 18A is important to us for the three generations of internal product. And then when we're ready, then we can go outside with more confidence to get a customer to support us. And then on the 14A, you know, the same as a 14 from TSMC, the timing is all in the 2028, 2029. So then there's no different, no change. And clearly, while laser-focused on the process technology with the two engaging customers. And with clear milestones to deliver.\nAnd then, clearly, I think we're gonna learn a lot then we're not gonna put any CapEx until we see the yield performance and also our internal customer and next external customer feedback and the volume commitment then we'll put the CapEx in. And so the perception will be very clear. We are committed to the foundry business. And then meanwhile, we're gonna be very disciplined in our CapEx deployment, make sure that we see the volume, see the customer commitment, then we deploy.",
+      "turn_index": 37
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "David Zinsner",
+      "text": "Maybe I'll just add one more thing. If I understood the last question, can you still do 18A? I think it's what you said. You know, we actually won't get to peak volumes on 18A until probably the beginning of the next decade. So this is gonna be a node that we use for a very long time, and we're expecting a really good ROI on it. We largely are calculating that based on the internal uses for it, given that most of that is coming internally in the near term. I would say I wouldn't write off 18A as potentially getting external customers at that point.\nWe clearly, we probably won't get a lot in wave one as it seems, but there will be multiple waves and 18A will find different use cases over time, and there'll be more opportunities for us to attract external customers after we do so much improvement in terms of performance and yield on our own products.",
+      "turn_index": 38
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "John Pitzer",
+      "text": "Stacy, do you have a quick follow-up?",
+      "turn_index": 39
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Stacy Rasgon",
+      "text": "I do. Thanks. I wanna ask about the CapEx. So you talked about sustaining CapEx at, like, fifty percent of the current level, which could be, like, nine billion, I guess. Should I be thinking about that as a plausible scenario for next year? I mean, if I take the current, like, run rate for this year, like, the gross CapEx in the first half and eighteen billion for the year, it suggests, like, a quarterly run rate of, I don't know, three point six billion would be something like fourteen, fourteen and a half billion. For the year.\nLike or like, I'm trying to figure out, like, what's a plausible number for where you might land next year given what you see. Is nine billion actually on the table or is it closer to fourteen or like, what do you guys actually have in mind?",
+      "turn_index": 40
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "David Zinsner",
+      "text": "Yeah. Fair question, Stacy. I was given, like, a ballpark, you know, what would be just, you know, we weren't, like, moving forward with something. But clearly, we're gonna need our assets under construction will not be enough to support all our CapEx investments even with maintenance CapEx next year. So you know, we haven't quite figured out exactly yet what the plan will look like for next year. We don't lock in our CapEx until early in the year, so that would be, you know, sometime in the January time frame of 2026 that will lock in 2026's CapEx. But I think it's meaningfully higher than nine billion. But certainly, we think it's gonna be less than eighteen.",
+      "turn_index": 41
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "John Pitzer",
+      "text": "Thanks, Stacy. Jonathan, can we have the next question, please?",
+      "turn_index": 42
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Certainly. Next question comes from the line of Vivek Arya from Bank of America's Gear. Your question, please.",
+      "turn_index": 43
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Vivek Arya",
+      "text": "Thanks. For my first question, I wanted to discuss competition in the server CPU market. I see in your 10-Q, you mentioned that server ASPs are down eight percent from last year because of a competitive environment. I thought that, you know, rising cores would mean greater ASPs, which is if you could address that. But then kinda more medium to longer term, let's go how impactful is competition from ARM who is claiming to take over half the server market?",
+      "turn_index": 44
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Lip Bu Tan",
+      "text": "Yeah. Good question. So I think, tell me the look at the server market. You know, clearly, you know, we still have about, you know, fifty-five percent market share. And, clearly, we have some mistakes we make on the high-end performing server area. And, you know, one thing is this, called synchronized multithreading. And I think used to be Intel's strength. But somehow we overlook it. And then now we are double down make sure that we will have that performance gap we can narrow. And then meanwhile, we're also engaging with some of the big hyperscale also high-end enterprise.\nWe learn for the other workload they require, and we raise the focus on getting the product to roadmap clear and simplify and make it easier to work with us. And so I think we take all the steps. We listen to customers. One thing that I think we changed is listening to customers very closely. And then engaging with them early in the product development and definition stage and they love it. And so I think we have a chance to regain back and then with the new products so that we can really drive the success here.",
+      "turn_index": 45
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Vivek Arya",
+      "text": "Zack, do you have a quick follow-up?",
+      "turn_index": 46
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Vivek Arya",
+      "text": "Yes. Thank you. Maybe one for Dave on gross margins. So, Dave, let's say your sales grow mid-single digit next year, hypothetically, what will gross margins do when you look at all the puts and takes around the mix of 18A and what you need to outsource? I know you're not giving specific outlook, but let's say your top line growth, is there a simple formula to look at the gross margin versus the thirty-six percent level that you're at right now?",
+      "turn_index": 47
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "David Zinsner",
+      "text": "Thank you. Obviously, the devil's in the details on this, but I think a good rule of thumb is we get, you know, somewhere in the forty to sixty percent fall through. Next year, you know, hopefully closer to the higher end of that if things work out in our favor.",
+      "turn_index": 48
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "John Pitzer",
+      "text": "Thank you. Jonathan, we have time for one last question, please.",
+      "turn_index": 49
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Certainly. And our final question for today comes from the line of Aaron Rakers from Wells Fargo. Your question, please.",
+      "turn_index": 50
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Aaron Rakers",
+      "text": "Yeah. Thanks for taking the question. I wanna go back to the server discussion as well. I know in the past, you guys have talked about the progression of 18A and Clearwater Forest, which I can appreciate the lower volume SKU. But I'm curious as you think about stabilizing your market share and maybe being able to recapture share, do you think that's a function of Diamond Rapids? And if so, can we at all think about the timing of Diamond Rapids as, you know, 2026, second half of 2026? Any clarity on that would be helpful.",
+      "turn_index": 51
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Lip Bu Tan",
+      "text": "Yeah. I think the good question I think clearly, we are looking at reviewing our roadmap. And then, you mentioned about Clearwater Forest. Then the Diamond Rapids. And, clearly, I think the time frame and, you know, it's a plus and minus. You know, six months. And I think overall, I think we are pretty much focused on that. And the next generation, though, the Coral Rapids. And clearly, we're gonna be reviewing the whole Corals market and will be on the 2028, 2029. We make sure that we have robust products to come out. So I think it's gonna be fine-tuned and re-note discuss with the customer get the validation from the customer.\nAnd then, so far, I think we are and now we can also have a new leader and need some changes I'm making. And then, clearly, I think we're gonna drive that whole data center is a very important business for us. Become competitive again.",
+      "turn_index": 52
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Aaron Rakers",
+      "text": "Do you have a quick follow-up?",
+      "turn_index": 53
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Aaron Rakers",
+      "text": "Yeah. I do. Thanks, John. So real quickly, just, Dave, I wanna go back, like, to skip or the Arizona and the Ireland fabs. Just remind us again how we should be modeling that. I think in the past, you talked about a five hundred million headwind this year and then that going to, like, one point three to one point five billion next year. And significantly higher in the in 2027. So any kind of updates? Should we still think about that? Is that increasing just, you know, any color?",
+      "turn_index": 54
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "David Zinsner",
+      "text": "Yeah. Those are roughly the right numbers to forecast. You know, obviously, once we get out into the 2027, 2028 time frame, we're kinda hitting the normalized run rates of these skips. So it'll be higher than the one two to one three. We'll update you as we progress.",
+      "turn_index": 55
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Lip Bu Tan",
+      "text": "Thank you all for joining us today. I must say I have been pleased with the teams and the progress we have made transitioning a financially disciplined foundry, resetting how we engage with our customer and our partners, and simplifying our operations. I look forward to discussing our continued progress with you next quarter. Thank you.",
+      "turn_index": 56
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you, ladies and gentlemen, for your participation in today's conference. This does conclude the program. You may now disconnect. Good day.",
+      "turn_index": 57
+    }
+  ]
+}

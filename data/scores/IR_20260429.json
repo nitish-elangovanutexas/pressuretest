@@ -1,0 +1,28 @@
+{
+  "ticker": "IR",
+  "call_date": "2026-04-29",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.01619641077919102,
+  "cosine_distance": 0.027750896402693126,
+  "sentiment_shift": 0.029474228670421453,
+  "question_difficulty_mean": 0.13897891629297626,
+  "baseline_mean": 0.02183450644817762,
+  "baseline_std": 0.006784119250978511,
+  "z_score": -0.8310726065396606,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5694894581464881,
+    "call_mean_answer_length": 125.6875,
+    "call_hedge_density": 0.034997314093637495,
+    "call_pos_sentiment_mean": 0.5596312121488154,
+    "call_neu_sentiment_mean": 0.4117802167311311,
+    "call_neg_sentiment_mean": 0.02858858206309378,
+    "call_qa_similarity_mean": 0.5374458930875384,
+    "baseline_neg_sentiment_mean": 0.058062810733515234
+  },
+  "generated_at": "2026-05-20T05:47:51+00:00"
+}

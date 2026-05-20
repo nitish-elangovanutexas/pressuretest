@@ -1,0 +1,28 @@
+{
+  "ticker": "GDRX",
+  "call_date": "2026-05-08",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": -7.773179030283594e-17,
+  "cosine_distance": -2.220446049250313e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.166909539475645,
+  "baseline_mean": -7.773179030283594e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5834547697378225,
+    "call_mean_answer_length": 162.44444444444446,
+    "call_hedge_density": 0.020543481945036732,
+    "call_pos_sentiment_mean": 0.29381486276785534,
+    "call_neu_sentiment_mean": 0.635604090988636,
+    "call_neg_sentiment_mean": 0.07058103672332233,
+    "call_qa_similarity_mean": 0.5049974295729719,
+    "baseline_neg_sentiment_mean": 0.07058103672332233
+  },
+  "generated_at": "2026-05-20T05:33:31+00:00"
+}

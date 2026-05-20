@@ -1,0 +1,28 @@
+{
+  "ticker": "BA",
+  "call_date": "2026-01-27",
+  "quarter": 4,
+  "year": 2025,
+  "pressure_score": 0.05118296317721044,
+  "cosine_distance": 0.10899893688618323,
+  "sentiment_shift": 0.05134789057386418,
+  "question_difficulty_mean": 0.19115302784381455,
+  "baseline_mean": 0.035032916359621684,
+  "baseline_std": 0.01654450322004256,
+  "z_score": 0.9761578575550128,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5955765139219072,
+    "call_mean_answer_length": 348.0,
+    "call_hedge_density": 0.01763015843226962,
+    "call_pos_sentiment_mean": 0.2584604978561401,
+    "call_neu_sentiment_mean": 0.7141191601753235,
+    "call_neg_sentiment_mean": 0.027420354634523393,
+    "call_qa_similarity_mean": 0.5545908324175228,
+    "baseline_neg_sentiment_mean": 0.07876824520838757
+  },
+  "generated_at": "2026-05-20T04:44:37+00:00"
+}

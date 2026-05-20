@@ -1,0 +1,28 @@
+{
+  "ticker": "SNDL",
+  "call_date": "2026-04-29",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.0667023193849652,
+  "cosine_distance": 0.14529981050973095,
+  "sentiment_shift": 0.06181572211595874,
+  "question_difficulty_mean": 0.1921115040207987,
+  "baseline_mean": 0.053480435694170936,
+  "baseline_std": 0.01869856723564087,
+  "z_score": 0.7071067811865477,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5960557520103994,
+    "call_mean_answer_length": 136.2,
+    "call_hedge_density": 0.012491220213543262,
+    "call_pos_sentiment_mean": 0.5032612815499306,
+    "call_neu_sentiment_mean": 0.47014585360884664,
+    "call_neg_sentiment_mean": 0.026592873409390448,
+    "call_qa_similarity_mean": 0.3474570423732729,
+    "baseline_neg_sentiment_mean": 0.08840859552534919
+  },
+  "generated_at": "2026-05-20T06:57:08+00:00"
+}

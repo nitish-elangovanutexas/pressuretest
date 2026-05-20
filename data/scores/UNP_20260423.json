@@ -1,0 +1,28 @@
+{
+  "ticker": "UNP",
+  "call_date": "2026-04-23",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.04017804145746052,
+  "cosine_distance": 0.09355067863722255,
+  "sentiment_shift": 0.02465009228104637,
+  "question_difficulty_mean": 0.217692713198628,
+  "baseline_mean": 0.029333182174540475,
+  "baseline_std": 0.00978292536385117,
+  "z_score": 1.1085497312483668,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.608846356599314,
+    "call_mean_answer_length": 133.95,
+    "call_hedge_density": 0.011006272523980079,
+    "call_pos_sentiment_mean": 0.2081081376411021,
+    "call_neu_sentiment_mean": 0.7642244175076485,
+    "call_neg_sentiment_mean": 0.027667453326284886,
+    "call_qa_similarity_mean": 0.40189302385578357,
+    "baseline_neg_sentiment_mean": 0.052317545607331255
+  },
+  "generated_at": "2026-05-20T07:18:37+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "WDFC",
+  "call_date": "2026-04-10",
+  "quarter": 2,
+  "year": 2026,
+  "pressure_score": 0.02438236776883469,
+  "cosine_distance": 0.06581985964335313,
+  "sentiment_shift": 0.008528234478684941,
+  "question_difficulty_mean": 0.1366220853383297,
+  "baseline_mean": 0.06740581538973985,
+  "baseline_std": 0.028859482557009222,
+  "z_score": -1.4907906798369075,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5683110426691649,
+    "call_mean_answer_length": 118.57142857142857,
+    "call_hedge_density": 0.027898715518609642,
+    "call_pos_sentiment_mean": 0.5715232065745762,
+    "call_neu_sentiment_mean": 0.38191987946629524,
+    "call_neg_sentiment_mean": 0.04655688828123467,
+    "call_qa_similarity_mean": 0.5208037602439134,
+    "baseline_neg_sentiment_mean": 0.03802865380254973
+  },
+  "generated_at": "2026-05-20T07:28:41+00:00"
+}

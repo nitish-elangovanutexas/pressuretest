@@ -1,0 +1,28 @@
+{
+  "ticker": "PFE",
+  "call_date": "2026-05-05",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.07052124836644408,
+  "cosine_distance": 0.19483152099799006,
+  "sentiment_shift": 0.006688944138131821,
+  "question_difficulty_mean": 0.17953667570090134,
+  "baseline_mean": 0.034335474304935686,
+  "baseline_std": 0.03134510812718289,
+  "z_score": 1.1544313043899699,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5897683378504507,
+    "call_mean_answer_length": 97.1,
+    "call_hedge_density": 0.024601021550222993,
+    "call_pos_sentiment_mean": 0.22938856445252895,
+    "call_neu_sentiment_mean": 0.7504458665847779,
+    "call_neg_sentiment_mean": 0.020165561325848104,
+    "call_qa_similarity_mean": 0.3315903020373461,
+    "baseline_neg_sentiment_mean": 0.026854505463979925
+  },
+  "generated_at": "2026-05-20T06:33:28+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "ELV",
+  "call_date": "2026-04-22",
+  "quarter": 2,
+  "year": 2025,
+  "pressure_score": 0.18790478537566718,
+  "cosine_distance": 0.486430598657136,
+  "sentiment_shift": 0.008568835006478953,
+  "question_difficulty_mean": 0.27269733979731425,
+  "baseline_mean": 0.0,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6363486698986571,
+    "call_mean_answer_length": 62.0,
+    "call_hedge_density": 0.047619047619047616,
+    "call_pos_sentiment_mean": 0.4762487728148699,
+    "call_neu_sentiment_mean": 0.5087310746312141,
+    "call_neg_sentiment_mean": 0.015020170249044895,
+    "call_qa_similarity_mean": 0.2977522711594035,
+    "baseline_neg_sentiment_mean": 0.02358900525552385
+  },
+  "generated_at": "2026-05-20T05:21:34+00:00"
+}

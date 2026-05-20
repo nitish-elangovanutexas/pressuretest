@@ -1,0 +1,28 @@
+{
+  "ticker": "CNC",
+  "call_date": "2026-04-28",
+  "quarter": 2,
+  "year": 2025,
+  "pressure_score": 0.023429197328607383,
+  "cosine_distance": 0.047987377289310795,
+  "sentiment_shift": 0.023669527510979345,
+  "question_difficulty_mean": 0.22472827845510113,
+  "baseline_mean": 0.024767029624328682,
+  "baseline_std": 0.0032797285791997645,
+  "z_score": -0.4079094545219112,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6123641392275505,
+    "call_mean_answer_length": 427.45454545454544,
+    "call_hedge_density": 0.04165205735826987,
+    "call_pos_sentiment_mean": 0.15906387838450345,
+    "call_neu_sentiment_mean": 0.7683119096539237,
+    "call_neg_sentiment_mean": 0.0726242195814848,
+    "call_qa_similarity_mean": 0.5011836918634741,
+    "baseline_neg_sentiment_mean": 0.04895469207050545
+  },
+  "generated_at": "2026-05-20T05:01:57+00:00"
+}

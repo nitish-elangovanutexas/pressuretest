@@ -1,0 +1,352 @@
+{
+  "ticker": "DASH",
+  "company_name": "Doordash",
+  "call_date": "2026-05-06",
+  "quarter": 1,
+  "year": 2026,
+  "prepared_remarks": "Earnings Call Transcript\nDoorDash (DASH) Q1 2026 Earnings Transcript\nBy\n\nMotley Fool Transcribing\n\n–\n\nMay 6, 2026 at 5:51PM EST\n\n\n\n\nImage source: The Motley Fool.\n\n\nDate\nMay 6, 2026, 4:30 p.m. ET\nCall participants\nChair and Chief Executive Officer — Tony Xu\nChief Financial Officer — Ravi Inukonda\nNeed a quote from a Motley Fool analyst? Email\n[email protected]\nTakeaways\nGlobal tech replatforming investment\n-- $100 million has been allocated to a new global technology infrastructure stack, with major domain mapping completed and live production traffic initiating.\nGas rewards program impact\n-- Approximately $50 million is being spent per quarter on driver gas rewards, requiring investment deferrals into the second half to maintain EBITDA alignment.\nSubscription growth\n-- DashPass and other membership programs achieved record engagement and accelerated member growth, signaling heightened stickiness and retention.\nAutonomous delivery expansion\n-- DoorDash is scaling AV (autonomous vehicle) pilots with an emphasis on operational robustness before mass rollout, citing good results and early scaling in multiple markets.\nInternational market share gains\n-- Management reported that Deliveroo posted its highest growth rate in four years, and Bolt achieved top market share in every operational country.\nGross profit trajectory of new verticals\n-- New verticals, including grocery, are on target to be gross profit positive in the second half, with unit economics improving via cohort behavior and no overreliance on advertising revenue.\nAdvertising business momentum\n-- The ad segment is at a record high and growing extremely fast, with advancements in both SMB and CPG advertiser adoption and a disciplined approach to ad load versus user experience.\nAI productivity gains\n-- Management disclosed that \"Well north of half of our code—probably closer to two-thirds of our code—is written by AI today,\" boosting feature development velocity and initiating workflows assessments across teams.\nGrocery delivery share leadership\n-- DoorDash maintained the leading volume share in grocery delivery, bolstered by enhanced selection, accuracy, and multiple new grocer partnerships, while focusing on closing the offline-online service gap.\nProgress on merchant onboarding\n-- AI-driven automation is reducing friction in merchant onboarding, menu/catalog management, and annotation tasks, already benefiting financials.\nMultiple tech platforms cost structure\n-- The company will continue incurring costs to operate three global tech stacks in parallel through 2026, with some burden potentially extending into early 2027.\nSummary\nDoorDash\n\n(\nDASH\n\n1.35%\n)\ndetailed the completion of critical domain mapping on its global tech replatforming project, which is expected to accelerate feature velocity and product quality across all brands. Executives stated that AI has significantly increased coding productivity, with company-wide efforts now focused on leveraging these gains for organization-wide process improvements. Management highlighted successful gas rewards program offsets, affirming no change in 2026 EBITDA margin expectations and reiterating plans to redeploy deferred investments in the year's second half.\nTony Xu stated, \"Deliveroo is seeing the highest growth rate it has in the past four years, with both Deliveroo and Bolt continuing to gain share in their respective European markets.\"\nRavi Inukonda emphasized, \"MAUs reaching an all-time high,\" supporting claims of continued order frequency growth and increased member retention across all platforms.\nInitiatives in autonomous delivery are described as early-stage but producing \"good results,\" with current emphasis on operational scale and system hardening before wider deployment.\nAdvertising revenues set a new peak, attributed to expanding solutions for SMB and CPG clients and maintaining relatively low ad loads to balance user experience.\nContinued advancements in merchant tooling and catalog digitization are reducing onboarding friction and increasing the breadth of inventory managed, noted by Tony Xu as core differentiators in building proprietary advantages.\nIndustry glossary\nDashPass\n: DoorDash's subscription program offering members benefits such as reduced delivery fees and exclusive offers.\nNew verticals\n: Non-restaurant delivery categories, such as grocery and retail, pursued as growth adjacencies to core food delivery.\nAutonomous delivery (AV)\n: Delivery fulfilled using self-driving vehicles or robots, under DoorDash's ongoing pilot programs.\nCPG advertiser\n: Consumer Packaged Goods company engaging in advertising on the DoorDash platform.\nTech stack\n: The combination of technologies (software, hardware, and frameworks) powering DoorDash's platforms across geographies and brands.\nMAUs\n: Monthly Active Users—unique users placing an order or otherwise engaging with the platform in a given month.\nFull Conference Call Transcript\nWeston Twigg:\nAlright. Thank you, Elizabeth. Good afternoon, everyone, and thanks for joining us for our Q1 2026 earnings call. I am pleased to be joined today by Co-Founder, Chair and CEO, Tony Xu, and CFO, Ravi Inukonda. We will be making forward-looking statements during today’s call, including, without limitation, our expectations for our business, financial position, operating performance, profitability, our guidance, strategies, capital allocation approach, and the broader economic environment. Forward-looking statements are subject to risks and uncertainties that could cause actual results to differ materially from those described. Many of these uncertainties are described in our SEC filings, including our most recent Form 10-K and 10-Q.\nYou should not rely on our forward-looking statements as predictions of future events or performance. We disclaim any obligation to update any forward-looking statements except as required by law. During this call, we will discuss certain non-GAAP financial measures. Information regarding our non-GAAP financial measures, including a reconciliation of such non-GAAP measures to the most directly comparable GAAP financial measures, may be found in our earnings release, which is available on our Investor Relations website at ir.doordash.com. These non-GAAP measures should be considered in addition to our GAAP results and are not intended to be a substitute for our GAAP results. Finally, this call is being audio webcast on our Investor Relations website.\nAn audio replay of the call will be available on our website shortly after the call ends. Operator, I will pass it back to you, and we can take our first question.\nOperator:\nThank you. We will now begin the",
+  "qa_turns": [
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Shweta Khajuria",
+      "text": "Thanks a lot for taking my questions. Let me try two, please. One is on product and the other is on partnership. So first on product, could you please talk about how you envision your product developing over the next 12 to 24 months as you integrate more of agentic and AI capability? So will we have an opportunity to communicate via voice and put a cart together and execute a transaction, even saving us more time, or better search and discovery, or whatever it may be? If you could please talk to that. And then the second one is on partnership. You announced extension and expansion of your partnership with Lyft.\nAs you think about the greater value proposition around local commerce and becoming the operating system for local commerce, how do you think about travel as an adjacency with Uber partnering with Expedia—partnering with Airbnb and Booking.com type partnership? A value add or something else? Your thoughts on that would be great. Thanks a lot.",
+      "turn_index": 0
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Tony Xu",
+      "text": "Hey, Shweta. Maybe I will take both of those and feel free to add in anything you want, Ravi. Look, on the first question with respect to product, the DoorDash, Inc. philosophy and story has always been the same here, which is we have to create the best end-to-end shopping experience. If we do that, we will continue to be the ones that innovate and lead. We will continue to deliver great results like the ones that you saw in the quarter and in the many years leading up to the results that we have just shared. There is not one way to do that.\nYou talked a bit in your premise, Shweta, about this idea that you should be able to, with the assistance of agentic-like tools, have better discovery and search experiences, and we agree with you. I think that we absolutely will have agentic ordering experiences in which it will be a lot easier for customers to do many things that they do today with much lower friction, to discover things that they perhaps did not know existed on DoorDash, Inc., to formulate complicated queries and solve those in the best possible way. The most important thing in delivering this is making sure that we can do it not just in discovery and the upper funnel, but across the end-to-end experience.\nWhat is the point of having the best discovery experience if we cannot bring you that exact item, or if that exact item were out of stock, or it does not meet your personalized preferences, and we cannot actually solve for that need? For us, the way I think about it is there is no one trick. It is making constant and continuous improvements to the selection quality, the accuracy of the catalogs, making sure that we offer the widest choice in terms of affordability and different price points, offering the best quality of experience in speed, timeliness, and accuracy, and then, obviously, in customer support, which I think is also having an agentic revolution in itself.\nYou will see all of these things play out in the DoorDash, Inc. product experience. The most important thing is that we have to build the best end-to-end experience. We are the only company that has the most robust catalog, much of which is actually about the physical world that does not exist in any digital repository, that cannot be scraped, and that we ourselves uniquely own access to because of all the work that we do to actually build up a repository of the physical world. That is something that we will continue to build greater and greater advantage in, especially in the world of agentic commerce.",
+      "turn_index": 1
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Your second question on membership and how partnerships will evolve",
+      "text": "the way to think about it is that membership experiences and the benefits that live underneath the umbrella of membership programs only matter if they are best-of-breed experiences to customers. This is why you see different customers, for example, choose a variety of different memberships even for the same product. If you take streaming, for example, some people prefer shows of a certain format on one network, whereas others prefer shows of a different format on a different network, and that is why they end up having multiple membership programs.\nThere are so many examples of this where being best of breed is ultimately what customers care about and why they will choose to adopt or not adopt your program. As you saw in some of the results that we discussed—record engagement in DashPass as well as our other membership programs around the world—what we are doing is building the best-of-breed product experience when it comes to eating, and increasingly in shopping as we go outside of the restaurant category. There is a long way to go. There are 20 to 25 occasions for eating alone every single week, so over 100 every single month.\nIf you add in shopping, it is even higher than that, and on that combined sum, we are a tiny fraction of what is available and addressable, which means there is a large runway and opportunity for us to become even better in breed in terms of what we can offer. If we can keep doing that, I think we are going to be just fine. You see it in our numbers. You see it in our growth rates both in the US and outside of the US. We are gaining share virtually in every single market, and we are growing at near historical highs in pretty much all of our geographies.\nI think that is happening even at the scale that we have developed over the last few years because we are continuing to build the best-in-breed experiences in categories that have a very large runway for growth.",
+      "turn_index": 2
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Shweta Khajuria",
+      "text": "That was great. Thank you, Tony.",
+      "turn_index": 3
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question comes from the line of Michael Morton with MoffettNathanson. Your line is open. Please go ahead.",
+      "turn_index": 4
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Michael Morton",
+      "text": "Good evening. Thank you for the question. One for Tony and then a quick one for Ravi. Kind of following up on what you were just speaking about, Tony—AI and partnerships. As the AI platforms become more capable, there is a concern from investors that personal agents could layer themselves in between the on-demand marketplaces and the consumer. I would love to know DoorDash, Inc.’s long-term strategic view on this, and if there is a risk to your business of becoming an API or logistics offering to these, and why or why not you would want to work with one of these third-party AI platforms.",
+      "turn_index": 5
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Then the quick one for Ravi",
+      "text": "as you have been operating Dot for a bit now in some cities, are you willing to share any learnings about what percentage of the US delivery market you think is addressable for AVs, and then maybe thoughts on how to incentivize consumers to come out and meet the Dot, or where the opportunity costs are around cost to serve with AV? Thank you so much.",
+      "turn_index": 6
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Tony Xu",
+      "text": "Yeah. Hey, Michael. I will start on your question related to agentic commerce and agents and whether or not there is any intermediation or disintermediation risk. I think what is instructive here is what we have seen historically with top-of-funnel programs. For at least a decade, you can argue companies like Google or Apple, and many other large platforms, were top-of-funnel drivers to a lot of different commerce platforms, ours included. Take, for example, Google food ordering, which allowed you to order through various Google channels—Google Maps, Google Search, and I believe a few others—where you could order restaurant delivery. That started in the mid-2010s and went for about eight years before they shut it down.\nFrom a traffic perspective, they absolutely could drive a lot more traffic than virtually anyone else could to any one of these restaurants. Yet the retention of that traffic was a fraction of what platforms like DoorDash, Inc. saw, and as a result, customers effectively moved all of their shopping experiences to DoorDash, Inc. I would argue something similar happened with Amazon where, perhaps at the beginning of the 2010s, Amazon was not a leading player in the product search category, but by the end of the 2010s, Amazon ended up owning a significant percentage of all product search terms related to commerce.\nYou may ask why that happened and what lessons we can learn from history to instruct what is happening in this moment and in the years to come. What I would say is customers ultimately do not care about any top of funnel—DoorDash, Inc. included—or any of these agents. What they care about is whether they got the order they wanted, the item they were actually looking for, and whether they got it in the best possible experience in terms of price, speed, timeliness, and accuracy. Obviously, if something were to go wrong, was it fixed appropriately and quickly? When I look at it from the customer’s perspective, they are going to ultimately judge us on the best end-to-end experience.\nThat is what we are focused on maniacally at DoorDash, Inc.—not just building agentic ordering experiences on DoorDash, Inc. to make discovery or search easier, but also building a catalog, a digital catalog of structured information for the physical world: collecting where every banana sits or every ripe or unripe avocado, to every size shoe in whatever color and style a customer is looking for. All of that information about the physical world—of which there are billions of items, tens of millions per city—and getting that annotated and having that unique and proprietary to DoorDash, Inc., which we do not have to share with anybody.\nIf we can do that and improve our discovery experience over time, given the power of some of these agentic tools, I think we are going to be the best end-to-end shopping experience. Ultimately, that is how we are going to get judged. I think that is the reason why, for instance, even our restaurant delivery business, which is the oldest of the areas in which we operate, continues to grow at above historical highs, because we are constantly trying to build the best end-to-end experience and be best of breed in doing so. It does not mean we are perfect.\nWe have a long way to go, and it is not a guarantee that we are going to be able to get there. But if we can keep executing like we have, I think the numbers will continue to speak for themselves. These top-of-funnel players will be partners of ours. They will drive a small percentage of our traffic, and a lot of that will be a choice that we will have.",
+      "turn_index": 7
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Ravi Inukonda",
+      "text": "Hey, Michael. On your second point around Dot, we are very happy with the progress that we are making. Maybe I will talk a little bit about the vision. The vision for us is we are building autonomous delivery because, ultimately, we think different formats are needed for different types of delivery. That is how we build the most efficient network. We are happy to partner with others, and we are happy to build ourselves. I think there are going to be different formats both on land as well as in the air that we are working on. We are early on this journey. We are scaling. What we are trying to do is operate at scale, manufacture at scale.\nThat is going to be important for us. We have seen good results. We have launched it in a couple of markets. Adding it down to the end customer benefit—because I think that was one part of your question—it is going to be a combination of the key things that we focus on. It is going to help us with speed. It is going to help us with quality. It is going to potentially help us with overall range of delivery. The key is the work that we are doing is starting to look good.\nWe are early in our journey, and the overall progress we are making is going really well according to the plans that we made at the beginning of the year.",
+      "turn_index": 8
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Tony Xu",
+      "text": "One thing, Michael, I will add to the autonomy story that sometimes is harder to see from the outside is that there is a pretty big difference between just shipping a vehicle or having a vehicle ready for a demonstration and a vehicle that can really operate at scale under any condition and is really battle-tested. It is kind of like saying, I can shoot a three-point shot, and so can Steph Curry, but one of us is the greatest shooter of all time, and one of us maybe hits it once in a while. This year for us, it is really climbing that curve for the autonomy program and making sure that we can harden our systems.\nIt is not just the autonomy. It is the autonomy, the hardware, the remote operations, all the work around regulatory with the different cities so that we can do this at scale and truly be the best of breed. I believe the only way you can really do that is if you actually get in there and do all of the things yourself. That is what is happening this year with DoorDash, Inc. and also our broader autonomy program.",
+      "turn_index": 9
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question comes from the line of Eric Sheridan with Goldman Sachs. Your line is open. Please go ahead.",
+      "turn_index": 10
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Eric Sheridan",
+      "text": "Great. Thank you so much for taking the questions. As we get deeper into 2026, any updated views around either the depth or the duration of some of the strategic investments, especially in the platform, that you talked about over the last couple of earnings calls? More importantly, any updated views on how the tech replatforming might position you for different forms of innovation than you envisioned six plus months ago? Thanks so much.",
+      "turn_index": 11
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Ravi Inukonda",
+      "text": "Sure, Eric. I will start, and Tony can feel free to add anything. We talked about two calls ago that we are investing $100 million back into the platform. Obviously, the largest component of that is our global tech infrastructure stack. It is going well. The biggest component is being able to design and map all the domains, which is what the team has done over the last several quarters. That part is done. Now we are focused on execution. We are starting to see production traffic go through. We are already starting to see some early benefits come through.\nOn the cost side, which I think was the second part of your question, my view on the overall quantum of dollars that we are investing behind this has stayed the same. It is largely in line with what I had expected two quarters ago. Both the program from an execution perspective as well as a cost perspective is going well. Finally, to your point around benefits, ultimately, the benefit is going to accrue in terms of us being able to do more, us being able to release features earlier. The feature development velocity is going to improve, which will ultimately result in retention, frequency, and unit economics increasing. That was the goal for this.\nWe are starting to see benefits, and I feel good about where the trajectory of the overall program is.",
+      "turn_index": 12
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Tony Xu",
+      "text": "The two things around your second part of your question, Eric, that I would add to what Ravi said about innovation are, one, velocity and, two, quality. Velocity increases for the simple fact that instead of shipping one feature—which, if we were to do it today, we would have to ship three separate times across DoorDash, Inc., Bolt, and Deliveroo—we would only have to do that once. That is the velocity comment. The second point is around the quality in which we can see benefits.\nBy choosing to build a new tech stack versus just replatforming a couple of different brands into the same tech stack that we currently have, you get to take the best-of-breed experiences from different brands and products and put them into a new product that all three get the benefit from. For example, one of the things that we have learned is that there are different logistics challenges in places like London or cities in Europe that are a lot smaller, tighter, and not always perfectly gridded like some cities in the United States or other parts of the world—perhaps older cities historically—not really meant for driving under any circumstance.\nYou need different logistics approaches, and we can borrow and take the best of what we are seeing from European operations and bring those over here to the US. In the US, because we have larger physical geographies that travel longer distances and perhaps a greater retail network with a larger catalog of items, those are advances that we get to port over to Europe. That is what I mean by quality. I am pretty excited that we are on track, which is great news when you are taking on a project as large and ambitious as the one we are thinking about.\nWe are already seeing some velocity and quality wins across all of the brands, and I think there will be a lot more to come as we actually roll this out.",
+      "turn_index": 13
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Ravi Inukonda",
+      "text": "Great. Thank you.",
+      "turn_index": 14
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question comes from the line of Youssef Squali with Truist. Your line is open. Please go ahead.",
+      "turn_index": 15
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Youssef Squali",
+      "text": "Excellent. Thank you so much. Hi, guys. Maybe just following up on the prior question and looking at it more from a competitive lens. Can you talk a little bit about what you are seeing in Europe, particularly Northern Europe, with Uber becoming a little more aggressive? There is a line of thinking that maybe as you guys are going through your replatforming, it may make you potentially a little more vulnerable to competition. So maybe if you can comment on that. And then, Ravi, thank you for quantifying the support to drivers. In Q2, I think you said $50 million.\nObviously, we do not know how long this thing is going to last, but is $50 million a good run rate to assume for the rest of the year, just assuming status quo on the macro environment? Thank you.",
+      "turn_index": 16
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Tony Xu",
+      "text": "I can take the first question, which is around our competitive position in Europe. We have never been stronger in Europe. Deliveroo is seeing the highest growth rate it has in the past four years, and it has been reaccelerating in growth each of the months in which we have been operating it. Bolt is seeing the highest share performance in each one of the countries in which we operate. Those are outcome metrics, and candidly, they are not things that I stare at all the time. I am looking at what improvements we are actually shipping for our different audiences.\nIf we are seeing logistics improvements, how is that translating into lower wait times at different stores, higher accuracy of picking, or faster delivery? If we can continue executing the way that we have, I think the share performance and reaccelerated growth is only going to continue. It goes to the DoorDash, Inc. story: how do you build what is best of breed? If you continue building what is best of breed, customers will continue voting with their wallets, and they are voting DoorDash, Inc.",
+      "turn_index": 17
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Ravi Inukonda",
+      "text": "Hey, Youssef. On the first one, I will question your premise because if you look at the underlying consumer input metrics—whether it is users, order frequency, we talk a lot about subscription in the press release—we are seeing accelerated growth in subscription. Users are growing. We are gaining share in the majority of the markets that we are operating in. The other thing I would offer is if you actually look at the overall MAU growth in the industry, the majority of that is being driven by DoorDash, Inc. That should tell you the business is doing really well, both from a demand as well as an underlying improvement in customer metrics perspective.",
+      "turn_index": 18
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Your second point around the impact from a gas rewards perspective",
+      "text": "roughly, the impact of that is about $50 million in Q2. We did have to find offsets in the business. We will push out some investments from the first half into the second half. Our goal is to make those investments in the second half of the year. On whether we are going to extend it, we have not made any decision. We will monitor the situation closely and do what is right for the business. That said, my broader view on EBITDA for the full year has not changed.\nThe last couple of quarters, I talked about the fact that I expect overall EBITDA margins for 2026 to be slightly higher compared to 2025, excluding RUE, and RUE to produce roughly about $200 million of EBITDA. That view has remained very consistent. If we do decide to extend the gas rewards program, we will find offsets in other parts of the business in order to make sure we still feel good from a top line as well as a bottom line perspective.",
+      "turn_index": 19
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Youssef Squali",
+      "text": "That is very clear. Thank you, Doug.",
+      "turn_index": 20
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question comes from the line of Nikhil Devnani with Bernstein. Your line is open. Please go ahead.",
+      "turn_index": 21
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Nikhil Devnani",
+      "text": "There. Thanks for taking the question. Tony, in a world with AI workloads and a more productive workforce, is your mental model for headcount growth and even organizational structure for DoorDash, Inc. changing at all?",
+      "turn_index": 22
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Tony Xu",
+      "text": "Yeah, it is a really good question. In short, the answer is yes. The longer answer is we are trying to figure out what that really looks like because we are seeing a lot of productivity gains right now from AI. Well north of half of our code—probably closer to two-thirds of our code—is written by AI today. But that alone does not articulate how workflows and team setups ought to change. It means that we are being more productive and shipping more code, but the ultimate question I have is, are we actually delivering better outcomes for customers? At the end of the day, that is the only thing that really matters.\nWe are in that period where we are seeing productivity gains and trying to figure out how those translate to what team setup should look like. The top priority for us right now is getting all teams onto a single tech stack. The second priority is making sure that everyone in the company—not just engineers—is as AI-capable as anyone else. Then we can start thinking about what workflows have to change to truly deliver things faster. Right now, we are delivering features faster—delivering sets, projects, and components faster—but I think the customer holds us to a higher bar: can you actually deliver outcomes much faster?\nThat is a tricky question that all companies, ourselves included, are wrestling with right now, and we will figure it out.",
+      "turn_index": 23
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Ravi Inukonda",
+      "text": "Hey, Nikhil. Very similar to what Tony talked about, we are using it across the board and seeing productivity improvements. The goal for us from a productivity improvement perspective is as it has always been: we want to do more with more. We want to drive more features. We want to do more for our audiences, and we want to do more internally as well. Ultimately, we channel productivity improvement into developing more features. If it is purely from a modeling perspective, I would expect, in the near term, OpEx to roughly be in the 2% range that I have talked about before. We are being very judicious and disciplined.\nThe goal is to generate leverage on it, just like any other part of the P&L over time.",
+      "turn_index": 24
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Nikhil Devnani",
+      "text": "That is helpful. Thanks. And, Ravi, if I could just follow up on the order growth dynamics in Q1 as well. Could you elaborate a bit on the deceleration there? Is that just weather, or are there other things you want to call out? How are you thinking about that as you think about the Q2 guidance you have given for GOV? Thank you.",
+      "turn_index": 25
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Ravi Inukonda",
+      "text": "The question broadly is around consumer demand on the platform. Demand continues to be quite strong. The impact purely from a winter storm perspective is roughly about 1% on a year-over-year growth basis from a GOV standpoint. When I look at the underlying demand, it continues to be very good. We have talked about MAUs reaching an all-time high. Order frequency is growing. Subscription had a record quarter across the board—across DoorDash, Inc., Deliveroo, as well as Vault. What we are seeing is member growth has accelerated on a year-over-year basis, following the last few quarters where member growth has been quite healthy. We are seeing that from sign-up as well as overall retention. We are gaining share.\nNew verticals are continuing to do well. We were volume share leaders in Q4, and we have continued to extend that. Across international, we touched on Deliveroo acceleration, and the rest of the international portfolio is also growing. Scooter is off to a good start. We feel good about the demand patterns that we are seeing in the business.",
+      "turn_index": 26
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Nikhil Devnani",
+      "text": "Thank you.",
+      "turn_index": 27
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question comes from the line of Deepak Mathivanan with Cantor Fitzgerald. Your line is open. Please go ahead.",
+      "turn_index": 28
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Deepak Mathivanan",
+      "text": "Great. Thanks for taking the question. Tony, on groceries, in the last few months, you have got a lot of new partners. Can you talk about the trends in the business broadly—maybe in terms of penetration, how use cases have evolved, potentially some color on growth, and maybe also where the unit economics have seen the biggest gains? And then similarly, Dasher Fulfillment Service is also another big area of focus this year. Where does it currently stand, and where do you want the service to get to ultimately before it starts becoming another incremental key growth driver? Thank you so much.",
+      "turn_index": 29
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Tony Xu",
+      "text": "Those are related questions, so I will start with where grocery is at today. It is pretty much at record highs for us. We became the share leaders by volume last fall or last winter, and it has continued to go in one direction. There is a lot of activity in the field. You are right, in part, because we have added a lot of grocers, and we like the trajectory of the pace we are at. We are also improving the service experience. It is not just adding more selection. I always ask myself, why is grocery not a lot bigger? Why should it not be even bigger than restaurants?\nIt is because the online delivery experience is just not yet good enough compared to the offline experience of buying it for yourself. We are really closing that gap, and the team deserves a ton of credit for making us a lot more accurate, more affordable, making basket building a lot easier, making customer support better, making the experience easier for shoppers—literally tens of thousands of little things over the last six or seven years that are accumulating.\nBut there are still reasons why, over time, if you truly want to marry the best possible selection—which is every store inside your neighborhood—with the best possible quality—which means you get exactly the item you order without any substitutions or changes and certainly no out-of-stocks or canceled items or orders—I think you do have to work the fulfillment problem, which is where Dasher or Dasher Fulfillment Services comes in. There, we are trying to build an inventory management and fulfillment setup with all of the grocers and retail partners that we work with.\nIf we can do that, then finally you can unlock what is truly a magical experience where it is more similar to restaurant delivery where, yes, there might be a small premium you pay, but at least you get exactly what you ordered, which is not the experience today. In terms of where Dasher Fulfillment Services is, we are doing it with a handful of grocery and retail partners today. If you think about that journey, we are trying to work with grocers and retailers who, for decades now, are used to running their supply chain and their stores in one particular way.\nNow we are introducing a second way, and there are a lot of things to figure out in terms of technology, people processes, the interaction of business models, and everything in between. We see good results with a handful of partners, but in the spirit of all things at DoorDash, Inc., we really want to make sure we nail the experience before we scale it because this is quite disruptive in a positive way to the customer experience and also disruptive to how retailers are used to working and running their businesses for so many decades. We have to make sure that we get it fully right end to end. Then we can replicate the playbook.",
+      "turn_index": 30
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Ravi Inukonda",
+      "text": "Deepak, on the unit economics side, we made a lot of good progress. Last call, I made the point that we expect the overall new vertical to be gross profit positive in the second half. We are trending well towards that. We have not been worried about what the profitability profile of this business looks like. It is something we understand quite well and what we need to do. It is not that there is any structural change we need to make happen. It is just continued execution on a number of lines up and down the P&L. What we are truly focused on is how we scale the business.\nIn Q4, we talked about the fact that about 30% of our monthly active users order from categories outside of restaurants. We truly think that could be 100% over time, and that is going to come with a lot of improvements in selection, quality, and the underlying product. Looking at consumer metrics, order frequency is improving. Basket sizes for mature cohorts are continuing to improve, which means people are using us for more use cases. Over time, the underlying order rate also continues to improve. These are all good signs, which drive both growth and improvement in scale, which will ultimately drive the unit economics in the business as well.",
+      "turn_index": 31
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Deepak Mathivanan",
+      "text": "Great. Thank you so much.",
+      "turn_index": 32
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question comes from the line of Josh Beck with Raymond James. Your line is open. Please go ahead.",
+      "turn_index": 33
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Josh Beck",
+      "text": "Yeah, thank you so much for taking the question. Maybe more on the cost side. Ravi, you mentioned the $50 million gross cost as you look to find relief for those investments. What are some of the big topics that you are looking to uncover there? And then, going to some of your points on new verticals, certainly a very nice watermark to achieve gross profit breakeven. To get to the next milestone, what are going to be some of the really important elements? Generically, it seems like within new verticals, advertising is a bit more of a weighting factor there. Just curious how to think about some of the important drivers beyond scaling into the second half.",
+      "turn_index": 34
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Ravi Inukonda",
+      "text": "Hey, Josh. I will take the first one. Tony, why do you not take the second one? On cost and gas rewards impact on the model for the rest of the year: in Q1, we had the impact from both winter storms as well as the introduction of gas rewards. In Q2, we did extend the gas rewards program. The rough impact in Q1 was about $50 million. The projection for the impact in Q2 is also going to be about $50 million. Like I said earlier, we did find offsets in the business. It is a very dynamically managed business. We take our plans very seriously.\nWe look at input metrics to make sure we are doing the right investments. We did have to push out some investments in H1 in order to make room for this. We are fully convicted that we are going to make these investments in the second half of the year. If we do decide to extend the program, our goal is to find offsets like we did in H1. My view on the full-year EBITDA has not changed. We have said a couple of quarters ago that overall 2026 EBITDA margin is going to be slightly higher compared to 2025, excluding room. That view still stands.\nI would expect second-half EBITDA to be higher than first half, and second-half EBITDA margins to be higher than the first half, largely similar to what I had expected at the beginning of the year. Overall, we look pretty good from a bottom-line perspective for the rest of the year, and demand on the platform continues to be strong as well.",
+      "turn_index": 35
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Tony Xu",
+      "text": "With respect to your second question about what else we need to do to achieve higher levels of profitability within grocery, the short answer is more of the same. We are not trying to rely on any one source of revenue, like ads, to make grocery profitable. We do not need to. We believe we have created a lower cost structure that allows us to make delivery profitable, but it is just not good enough yet. From the perspective of the customer—not our P&L—we still need to be more accurate. We still need to have more items available, even from existing stores, and we need to do it at better and better price points.\nIf we keep doing that, you already see it in our cohort behavior. It is not true across the whole business because we are still gaining a lot of new customers— in fact, we gained about one in every two new customers that comes into the industry for grocery delivery for the first time—but cohorts over time buy bigger and bigger baskets and achieve profitability milestones without any unnatural or overreliance on any one cost or revenue driver. That tells me that, at current course and speed, it will get there. The question is how to get there faster, but perhaps most importantly, how to actually unlock a much bigger industry.\nGrocery delivery fundamentally should be as large, if not larger than, restaurant delivery. It is just that the product is not good enough yet. We already are leading, from what we have been told by some of the top grocers in the country, in terms of quality, but we still think there are miles to go. Perhaps we brought some innovations to the market, but we think that we have to keep innovating on all things accuracy and price points, and we have some interesting ideas on how to do that. We do not have to do anything unnatural or rely at all on any single line item to make the math work.",
+      "turn_index": 36
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Josh Beck",
+      "text": "Super helpful. Thanks, guys.",
+      "turn_index": 37
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question comes from the line of Brian Nowak with Morgan Stanley. Your line is open. Please go ahead.",
+      "turn_index": 38
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Brian Nowak",
+      "text": "Thanks for taking my questions, guys. I have two. The first one, Tony, in the letter you talk about making some new tools that help designers streamline the merchant onboarding process. Can you talk to us about areas you have made the most progress in bringing on new merchants and more inventory per merchant, and what are some of the technological advancements you are still looking to make to really make that easier to get more of those bananas and avocados that you talked about earlier—and even carving knives? And then, Ravi, one for you on the replatforming. You say that you have live production traffic ramping up across all three of the global marketplace brands.\nDoes that mean that you are running all three tech stacks now, so we are burdening the P&L with the max cost, and then we should start to turn some of those off in the back half? Or how does this triple-platforming-down-to-one-platforming timeline work?",
+      "turn_index": 39
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Tony Xu",
+      "text": "I will take the first one, Brian. We continue to ship a lot of different tools to make it easier to work with us, for customers to find what they are looking for, and for Dashers to perform deliveries. On the specific question with respect to the merchant tool, where I have found AI to be helpful—especially now with more powerful models that can reason in a multi-turn fashion—is that you can start looking at repetitive processes that are stitched together and actually get them done with perfect quality every single time, using just an agent.\nEven six to eight months ago, this was less true because you had to build a lot of backup or redundant systems to make sure agents do not go off the rails and can actually finish the task. That has happened with onboarding, for example—whether it is helping you with your menu or your catalog as a restaurant or retailer, or with your photos and your metadata and the annotation of that data. All of these are effectively repetitive tasks in which you can create agents and stitch them together to do that in a really productive way. With all things, the removal of friction increases activity, and increased activity increases the business that we get to do together.\nWe are already seeing benefits to the P&L from some of the AI work that we are doing—some of it on our own products, like the AI ordering agent, and some on tools related to merchants, customer support, and Dashers. With respect to things we still have to do—capturing all the inventory inside a city—we are still just a tiny fraction of all items sold or even represented today on DoorDash, Inc. That is becoming more interesting as some of those items are also different when it is an in-store shopping experience. Some restaurants, for example, offer different in-store products and experiences and services that they do not offer for takeaway or in the offline world.\nThere is a lot we have to document. The second thing we have to do is build structure and cleanliness out of what is inherently very messy and constantly changing, which is a challenge. If we can do both across every category as we march from restaurants to grocery to different categories within retail—and do that through the merchant’s channel online, the DoorDash, Inc. channel online, and the merchant’s channel offline or in-store—I think that builds a really rich dataset that is nonexistent anywhere, extremely valuable for the merchant to have a full view of all the different types of customers and occasions, and really interesting for DoorDash, Inc. to build both products as well as businesses.",
+      "turn_index": 40
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Ravi Inukonda",
+      "text": "Hey, Brian. On your second question around the global tech side, two broad points, then the mechanics. The team has done an incredible job. This is a massive project. It is going according to plan. I am really happy with the progress. Even on the cost side, my view on the overall cost is very similar to what I talked about two quarters ago. So both on progress and cost, I feel very good. On the mechanics of the P&L, there is a portion of the spend which is redundant in the sense that we are going to run all three tech stacks in parallel while we are working on the new global tech stack.\nThat is going to phase in and phase out. My expectation is the majority of that will run through 2026. Maybe some portion will bleed into early 2027, and then it will bleed out. Hopefully, that gives you the mechanics of how the rest of the P&L is going to work for the year.",
+      "turn_index": 41
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Brian Nowak",
+      "text": "Thank you both.",
+      "turn_index": 42
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question comes from the line of Justin Patterson with KeyBanc. Your line is open. Please go ahead.",
+      "turn_index": 43
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Justin Patterson",
+      "text": "Great. Thank you very much. Good afternoon. I saw you recently launched workplace catering for DoorDash for Business. Can you talk more about how you are thinking about that opportunity and what you see as some of the key challenges toward scaling this? Thank you.",
+      "turn_index": 44
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Tony Xu",
+      "text": "DoorDash for Business is off to a very great start, and it is something we really recently focused on in the last few years. DoorDash for Business is a suite of products—there are three. You talked about one of them, which is catering. There is also Meal Manager, and corporate solutions related to DashPass and group ordering.\nThe idea is, if you are a company or an organization—it could be a nonprofit, a government institution, or a school—and you are serving multiple different use cases, sometimes it is a group meeting with just a few of us, sometimes you are hosting an event in which you need catering, sometimes you need individual meals as your sales teams travel to do different things or client demos. You are going to want to work with one place ideally where you can see everything in one view and offer your organization the best-in-breed selection, price, and quality.\nBecause we offer what we believe is the best of breed in price, selection, quality, and service, DoorDash for Business is naturally growing very quickly. The biggest challenge, especially with catering, is solving the perennial hard problem of cooking for a large group of people. It sounds simple, but if you think about cooking for yourself and then adding guests, that logistics problem gets exponentially more difficult as you increase the count of guests. The challenges are numerous: kitchen capacity, menu design, staffing, logistics, operations. We have to do all of that.\nTo truly create the industry—because the industry by itself is somewhat limited since not every restaurant is built as a manufacturing facility to cook up to the needs of a larger organization or team—it is really working hand in hand with merchants and Dashers to co-create that solution and hopefully create a very large industry.",
+      "turn_index": 45
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question comes from the line of Lloyd Walmsley with Mizuho. Line is open. Please go ahead.",
+      "turn_index": 46
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Lloyd Walmsley",
+      "text": "Thank you. Wondering if you can give us an update on what you are seeing in the ads business on a 1P basis and syndicating ads outside of Dash. And then, second one, Tony—earlier you talked about miles to go in terms of improving the user experience in grocery. Can you elaborate on some of the things you are doing—have you found any big unlocks or anticipate any big unlocks—to drive a step-function improvement in the grocery experience that can help you penetrate deeper with your customers? Thanks.",
+      "turn_index": 47
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Tony Xu",
+      "text": "Sure. Maybe I can take both and feel free to add, Ravi. On the ads question, it has never gone better for us. Ads are at a record high and continue to grow extremely fast compared to any previous year. The continued strong trajectory comes from the team cracking the code not just in solving problems for SMBs—restaurants or retailers—but also larger advertisers, both in the restaurant world as well as in retail. Another unlock has been cracking the code on CPG advertisers. There is no one thing; it is a relentless checklist of making the product a lot better for advertisers and delivering on two competing objectives.\nOne, you have to deliver the best return on ad spend for advertisers, which we do. Two, you have to deliver the best consumer experience where you do not spam people. We have a much lower ad load than some other platforms, and the teams have been working really hard to balance those two objectives. Beyond scaling some of the unlocks in ads, we are also discovering some off-site opportunities you mentioned, which include in-store activities in addition to our work buying on behalf of advertisers off of DoorDash, Inc. I think there is a very large runway for the ads business. On grocery, we have been at it for about five years now.\nI am, on the one hand, super proud of the team—becoming the volume leader where consumers shop as well as where new consumers find out about grocery delivery for the first time. On the other hand, I do stand by the statement that we have miles to go to build an experience that can outcompete you going into a grocery store and buying items yourself. That is still the winning product if you look at the data. That does not mean we are not growing extremely fast, making a lot of improvements, gaining share, and improving profitability while we do it. There is a lot of work to do.\nA lot of it has to do with continuing to build a cost structure that allows you to offer items at around the same price as in-store and delivering with perfect quality. The hardest problem to solve in grocery is that, because consumers—when we go into grocery stores—move items around, and because of how supply chains, inventory systems, and payment systems do not necessarily always talk to each other, and how grocery stores are run and were built historically and as they have moved into e-commerce, it is really hard for them to know where things are. That is still the fundamental problem to solve.\nWe have done lots of things already in that space that we have pioneered and are proud of. There is a long way to go in scaling that work to all the stores we work with, not just the ones in which we have tested. We also have to do the next hill climb to achieve perfect quality at the prices you would expect, for every single item, every single time.",
+      "turn_index": 48
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Ravi Inukonda",
+      "text": "And, Lloyd, on your first question on ads, if you are thinking about it from a flow-through perspective, it is growing and having an impact from a margin and profitability perspective. But the way we think about it is very similar to the rest of the business. An ad dollar is very similar to improvements we generate from unit economics. Ultimately, our goal as operators is to find opportunities to reinvest that back in the business to drive long-term free cash flow production. That is largely what we are doing with advertising or other efficiency that we generate in the business.",
+      "turn_index": 49
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Lloyd Walmsley",
+      "text": "Alright. Thank you.",
+      "turn_index": 50
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question comes from the line of Justin Post with Bank of America. Your line is open. Please go ahead.",
+      "turn_index": 51
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Justin Post",
+      "text": "Great. Thank you. I just want to follow up on advertising. How do you think about integrating that with agentic capabilities on your own platform? And is there any way you could generate ad revenues on agentic platforms on other platforms? Thank you.",
+      "turn_index": 52
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Tony Xu",
+      "text": "I will take that. Ads are just a means to connect consumers with merchants who are hoping to be discovered and making sure that you do that in the best possible way. With respect to agentic commerce, that is just one way of shopping. I do not think it will change our ability to advertise. It may increase some of the in-surface areas, but I think a lot of that remains to be seen. I do not think the ideal agentic shopping experience is just going to be a chat assistant. I think it is going to take on various forms, and we are iterating on that.\nWith respect to what happens with ads on third-party agentic sites, I think you will have to ask them.",
+      "turn_index": 53
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Justin Post",
+      "text": "Great. Thank you.",
+      "turn_index": 54
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "And this concludes today’s Q&A session. This also concludes today’s call. Thank you for attending. You may now disconnect.",
+      "turn_index": 55
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Unknown Speaker",
+      "text": "Goodbye.",
+      "turn_index": 56
+    }
+  ]
+}

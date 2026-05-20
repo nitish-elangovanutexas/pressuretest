@@ -1,0 +1,280 @@
+{
+  "ticker": "ATOM",
+  "company_name": "Atomera",
+  "call_date": "2026-05-05",
+  "quarter": 1,
+  "year": 2026,
+  "prepared_remarks": "Earnings Call Transcript\nAtomera (ATOM) Q1 2026 Earnings Transcript\nBy\n\nMotley Fool Transcribing\n\n–\n\nMay 5, 2026 at 6:16PM EST\n\n\n\n\nImage source: The Motley Fool.\n\n\nDATE\nTuesday, May 5, 2026 at 5 p.m. ET\nCALL PARTICIPANTS\nPresident & Chief Executive Officer — Scott Bibaud\nChief Financial Officer — Frank Laurencio\nInvestor Relations — Mike Bishop\nTAKEAWAYS\nGAAP Net Loss\n-- $6.1 million, or $0.17 per share, compared to $5.2 million, or $0.17 per share, in 2025.\nNon-GAAP Net Loss\n-- $4.9 million, or $0.14 per share, up from $4.4 million, or $0.15 per share, in 2025.\nGAAP Operating Expenses\n-- $6.2 million, a $742 thousand increase from $5.5 million in the comparable period.\nNon-GAAP Operating Expenses\n-- $4.8 million, driven by $203 thousand higher sales and marketing and $127 thousand higher R&D, with flat G&A, totaling a $348 thousand increase.\nSequential Operating Expenses\n-- $4.8 million, up $1.6 million from $3.2 million in the previous quarter due to bonus accrual timing detailed by Laurencio.\nCash, Cash Equivalents, and Short-Term Investments\n-- $44.11 million as of March 31, 2026; prior quarter balance was $19.2 million.\nCash Used in Operating Activities\n-- $4.6 million during Q1, compared to $3.2 million in Q4 and $4.8 million in Q1 of last year.\nEquity Financing\n-- $25 million registered direct stock offering completed; net proceeds were $23.6 million from 5 million shares at $5 per share, plus an additional $3.2 million from the ATM at $2.47 per share earlier in the quarter.\nShares Outstanding\n-- 38.7 million currently.\nRevenue\n-- $11 thousand, consisting of wafer delivery fees to a large IDM; $46 thousand of anticipated Q1 revenue shifted to Q2 due to shipment timing.\nDeferred Revenue\n-- $96 thousand on the balance sheet.\nQ2 Revenue Guidance\n-- Expected in the $50 thousand to $100 thousand range based on CFO commentary.\n2026 Annual Non-GAAP Operating Expense Guidance\n-- Management reaffirmed $18.5 million, stating bonus deferral explains most of the increase over $15.9 million in 2025.\nGate-All-Around Customer Engagement\n-- Active demonstrations underway with two leading customers; Bibaud said, \"they are sending us wafers and we are putting our material on them, so that is pretty committed.\"\nGate-All-Around Technical Results\n-- Bibaud stated, \"we evaluated our results against another method...and our results are a significant improvement.\"\nTimeline for Gate-All-Around Demonstrations\n-- Bibaud expects, \"it might take us two to three months,\" to process wafers, with full results potentially \"on the order of six months.\"\nGaN Innovations\n-- Preliminary data shows MST reduces the parasitic channel for RF GaN on silicon; an industry veteran called the results \"the best measured sheet charge data he has ever seen.\"\nMemory Customer Pipeline\n-- Multiple solutions using MST are under evaluation, but logic segment engagement is farther advanced than memory at this stage.\nCustomer Pipeline Breadth\n-- Engagements span advanced logic, memory, wide bandgap (GaN), RF, power, and multiple development partners, including STMicroelectronics, InCyte, Synopsys, Texas State University, and Sandia.\nExpanded Strategic Partnership\n-- Collaborative efforts with a strategic tool vendor have intensified, now including joint engineering and new co-marketing for MST technology.\nSynopsys Collaboration\n-- The partnership expanded to include GaN device modeling and joint customer-facing technical/marketing efforts within the Synopsys Sentaurus TCAD framework.\nNeed a quote from a Motley Fool analyst? Email\n[email protected]\nRISKS\nFirst tranche of performance stock units awarded in Q1 2025 lapsed without vesting as required stock price thresholds were not met.\nRevenue timing remains variable; CFO stated, \"Approximately $46 thousand of revenue that we expected to recognize in Q1 pushed out to Q2 because wafer shipments that.\"\nSUMMARY\nAtomera Incorporated\n\n(\nATOM\n\n+0.84%\n)\nemphasized technical validation progress with multiple industry leaders in gate-all-around and GaN markets, reporting that \"have been impressed enough that they want to move forward with these further demonstrations.\" The company completed significant equity financing in the quarter, strengthening its cash position ahead of anticipated commercial advances. Management reaffirmed full-year operating expense guidance, contextualizing quarter-to-quarter cost increases as mainly reflecting bonus deferral and new executive hires. New technical results in RF GaN on silicon may accelerate the company's entrance into new markets due to early customer interest and third-party endorsement. The near-term focus remains on converting technical achievements into commercial licenses, with expectations for further customer engagement and revenue steps in coming quarters.\nLaurencio noted cash consumption remains elevated in Q1 due to annual prepayments that are expensed throughout the year.\nBibaud clarified that logic segment adoption is advancing more quickly than memory, and STMicroelectronics activities are ongoing across different business units apart from power products.\nCommercial revenue in Q1 was minimal, while deferred revenue and guidance both imply recognized revenue will remain constrained in the near term.\nTool vendor partnership is expected to provide marketing leverage and validation data for MST adoption, enhancing Atomera's position in customer negotiations.\nINDUSTRY GLOSSARY\nMST (Mears Silicon Technology)\n: Atomera's proprietary ultra-thin engineered silicon layer, designed to enhance transistor performance in advanced nodes.\nGate-All-Around\n: Advanced transistor structure used at extremely small geometries for next-generation CPU and AI applications, which wraps the gate entirely around the channel for better performance control.\nRF GaN on Silicon\n: Gallium nitride semiconductor technology focused on radio frequency applications, leveraging silicon wafers for lower cost and larger scale compared to traditional substrates.\nJDA (Joint Development Agreement)\n: Structured commercial or development engagement whereby Atomera collaborates with a semiconductor customer on integration or evaluation of MST technology.\nTCAD (Technology Computer-Aided Design)\n: Simulation software for semiconductor device physics and process development, used to validate device performance prior to silicon fabrication.\nATM (At-The-Market)\n: A type of equity offering allowing the company to sell shares intermittently into the open market at prevailing prices.\nIDM (Integrated Device Manufacturer)\n: A semiconductor company that designs, manufactures, and sells integrated circuits, controlling the entire supply chain.\nPSU (Performance Stock Unit)\n: Equity incentive compensation that vests based on the achievement of specific company performance goals, such as stock price appreciation relative to an index.\nFull Conference Call Transcript\nMike Bishop:\nPlease stand by. We will begin in a moment. Hello, everyone, and welcome to Atomera Incorporated's first quarter 2026 update call. I would like to remind everyone that this call and webinar are being recorded and a replay will be available on Atomera Incorporated's IR website for one year. I am Mike Bishop with the company's investor relations. As in prior quarters, we are using Zoom and we will follow a similar presentation format with participants in a listen-only mode. We will open with prepared remarks from Scott Bibaud, Atomera Incorporated's President and CEO, and Frank Laurencio, Atomera Incorporated's CFO. Then we will open the call to questions.\nIf you are joining by telephone, you may follow a slide presentation to accompany our remarks on the events and presentation section of our investor relations page on our website. Before we begin, I would like to remind you that during today's call, we will make forward-looking statements. These forward-looking statements, whether in prepared remarks or during the Q&A session, are subject to inherent risks and uncertainties. These risks and uncertainties are detailed in the Risk Factors section of our filings with the Securities and Exchange Commission, specifically in the company's annual report on Form 10-K filed with the SEC on 02/24/2026.\nExcept as otherwise required by federal securities laws, Atomera Incorporated disclaims any obligation to update or make revisions to such forward-looking statements contained herein or elsewhere to reflect changes in expectations with regards to those events, conditions, and circumstances. Also, please note that during this call, we will be discussing non-GAAP financial measures as defined by SEC Regulation G. Reconciliations of these non-GAAP financial measures to the most directly comparable GAAP measures are included in today's press release, which is posted on our website. Now, with that, I would like to turn the call over to our President and CEO, Scott Bibaud. Go ahead, Scott.\nScott Bibaud:\nThanks, Mike, and good afternoon, everyone. This quarter, we made solid progress with multiple customers across our highest value markets while also expanding the breadth of applications where MST can solve real current pain points for the semiconductor industry. We are seeing strong customer pull in advanced logic, memory, in wide bandgap materials like GaN and power and in RF, areas that are being shaped by the rapid growth of AI infrastructure which is driving the need for better power efficiency, signal integrity, and system performance. Today, I will start with an update on gate-all-around where we have been working closely with customers and our strategic partners to validate MST in these advanced geometries.\nThen I will touch on our customer pipeline and close with updates on GaN, giving insights on some exciting new technical results that are shaping near-term opportunities. As we have said before, the move to gate-all-around at 2 nanometers and beyond is one of the most important architectural transitions in the industry, and it is also one of the most difficult manufacturing environments, since fabs must build incredibly complicated structures at line widths of 5 thousand times smaller than a human hair where a small amount of atomic migration can cause big problems. Gate-all-around transistors are the building blocks for AI infrastructure and dopant diffusion control is critical to their effectiveness in terms of performance and reliability.\nTherefore, the industry is demanding clear proof that any new material can be deposited precisely and that it delivers measurable benefits in advanced silicon devices. Today, there are four companies in the world developing gate-all-around transistors, TSMC, Samsung, Intel, and Rapidus. We know that each of them can use the capabilities of MST, so it is our goal to achieve adoption at all four. Further, as these companies transition to the generation beyond gate-all-around called CFET, our technology becomes even more essential, so working with us now is in their best interest long term.\nOn our last earnings call, we had just received measured silicon results that prove MST is the best solution for a critical source/drain liner application in these small geometry transistors. At this point, we are actively working on evaluations of our technology with two of our target gate-all-around customers, and discussions are underway with the others. It is typical that a customer asks to conduct multiple demonstrations before agreeing to accept a new technology for implementation in their fab’s wafer flow. These demonstrations help to validate our claims while simultaneously addressing the detailed implementation and functionality questions these customers are focused on solving.\nWe also expanded the scope of our work with our strategic development partner this quarter, which is important because it strengthens both our technical velocity and our credibility with the ecosystem. Their test and development infrastructure helps us generate the kind of data that advanced node customers insist on seeing before engaging, and their endorsement will certainly help us engage a broader set of teams within each target account. Each of the large memory manufacturers are facing similar challenges to the gate-all-around customers as they develop their next generation transistors in DRAMs and high bandwidth memories. Our team is in discussions with them right now and we are currently working on multiple solutions using MST to assist in this area.\nRight now, memory manufacturers would do almost anything to get greater fab capacity, and they have the resources to evaluate different methods of doing so. We hope to take advantage of that opportunity with solutions enabled by MST. The momentum we are seeing in the advanced node space is a result of many years of work targeting current market trends. The macro challenges that AI’s success has put front and center—capacity and performance of CPUs, GPUs, logic, and memory; the power demands of cloud providers; and the increased costs associated with these—are all areas that Atomera Incorporated can help solve. For that reason, we believe that MST is a fundamental tool for the future of AI.\nOur customer pipeline remains very active across multiple domains. For example, our work with our large IDM customer continues to go well, and we expect additional results from wafer runs soon. Our efforts with STMicroelectronics are bearing fruit, and we are confident we will reengage with them again in the near future, consistent with our view that MST can create value across multiple product lines, especially in a large diversified IDM or foundry. In RF SOI, we are seeing strong results confirming our extensive TCAD simulations. The technical results we have been focused on, including for both power switch and LNA, have been confirmed through customer silicon runs.\nThe near-term question is less about performance and more about the most efficient path to commercialization, particularly in cases involving fabless licensees where aligning the business structure with the manufacturing flow can be complex. In power devices, we are seeing excellent potential in new development work being done to target MST at both trench FET and HBT transistors, useful in high frequency, high speed, and high voltage applications. At the same time, wafers continue moving forward with our second JDA partner, and we will keep pushing those efforts toward a production pathway. Turning to GaN.\nWe made meaningful advancements this quarter, including a breakthrough that could give us a technical leadership position in RF GaN on silicon, to augment the advantages previously outlined for power GaN on silicon. To explain the innovation, I need to give a little background. GaN on silicon is a much more economical growth method than alternatives built on exotic substrates like silicon carbide or sapphire. But when GaN on silicon is manufactured, due to the GaN stack growth process, gallium and aluminum ions gather at the silicon substrate interface, forming an unwanted sheet charge layer called a parasitic channel, which is well known to limit RF performance in GaN on silicon applications.\nIn fact, its elimination has been the subject of materials and growth studies for more than 20 years. In the past few weeks, we received preliminary performance data suggesting MST can reduce the parasitic channel. It does this by using MST’s fundamental interface engineering to block the gallium and aluminum ions from getting into the silicon substrate. An industry veteran told us that in his 20 years, this is the best measured sheet charge data he has ever seen. We are continuing to validate this very promising discovery with our test and measurement partners. RF GaN on silicon is of value in the wireless infrastructure, defense, and satellite markets.\nIt is also being actively evaluated for highly integrated RF front ends such as those for 6G cellular. So the market potential is large and growing fast. We are actively engaging on both 200 millimeter and 300 millimeter wafer sizes in GaN depending on our customers’ request. That matters because the wafer size for GaN on silicon is one of its key advantages, leading directly to a customer’s path to high-volume production and low cost structure, a set of fabs that can support ramp, including opening doors for new applications with conventional silicon fabrication methods and devices. We are seeing expanded interest and partnerships across the ecosystem, including engagements involving InCyte, Synopsys, Texas State University, Sandia, and others.\nThose kinds of parallel paths—commercial customers plus research and ecosystem partners—can compress development cycles and accelerate the time from promising materials data to something customers can qualify and deploy. Work here is aimed at generating data that is both technically rigorous and directly translatable to customer device requirements. Finally, a quick note on our announcement last week about expanding our collaboration with Synopsys. We have worked with Synopsys for years to enable accurate modeling of MST inside the Sentaurus TCAD environment through our MST CAD toolset. This expanded collaboration extends that relationship into GaN work for both high-value RF and power devices.\nPractically, this means we are working closely with Synopsys to provide feedback on their GaN models and we will be jointly developing marketing materials so customers and partners can evaluate the physical and electrical effects of MST in GaN more quickly and with higher confidence. To summarize, we are making progress where it matters, expanding and deepening gate-all-around engagements, broadening GaN from power into RF with concrete technical innovations, and continuing to advance multiple customer programs across our pipeline. We remain focused on converting technical validation into commercial agreements that can drive repeatable revenue, and I am confident in our ability to do so. This is indeed an exciting time for Atomera Incorporated.\nWith that, I will turn the call over to Frank, our CFO, to review our financials.\nFrank Laurencio:\nThank you, Scott. At the close of the market today, we issued a press release announcing our results for 2026, and this slide shows our summary financials. Our GAAP net loss for 2026 was $6.1 million, or $0.17 per share, compared to a net loss of $5.2 million, which was also $0.17 per share in 2025. On a non-GAAP basis, net loss last quarter was $4.9 million, or $0.14 per share, and our Q1 2025 net loss was $4.4 million, or $0.15 per share. GAAP operating expenses were $6.2 million in 2026, an increase of $742 thousand from $5.5 million of GAAP operating expense in Q1 2025.\nStock compensation expense, which is excluded from non-GAAP results, increased by $397 thousand, primarily due to new hires and our adoption in 2025 of performance stock units, or PSUs, for executives. PSUs vest over three years, whereas the time-based options and RSUs that we had previously granted to executives vested over four years. Although the vesting period is shorter, PSUs vest only if our stock performs well relative to the Russell 2000. The first tranche of PSUs issued in Q1 2025 lapsed without vesting because we did not hit the required stock price performance threshold.\nWith the exception of stock compensation expense, the drivers of GAAP and non-GAAP expenses are substantially the same, so I will drill down into other factors that impacted our expenses by focusing on non-GAAP numbers. Please refer to the slide presentation for a reconciliation between GAAP and non-GAAP results. Non-GAAP operating expenses in the first quarter were $4.8 million, a year-over-year increase of $348 thousand from $4.4 million in 2025. Sales and marketing expense increased by $203 thousand, reflecting our two executive hires since October.\nR&D expenses increased by $127 thousand from $2.8 million in Q1 of last year to $2.9 million in the first quarter of this year, primarily due to higher spending on outsourced engineering to support the wafer runs for our gate-all-around engagements, our IDM customer, and our JDA customer, which drives spending on metrology. G&A expenses were basically flat from the first quarter of last year. Turning to sequential quarterly results, first quarter 2026 non-GAAP net loss was $4.9 million, or $0.14 per share, compared to net loss of $3.3 million, or $0.10 per share, in 2025. Operating expenses were $4.8 million in Q1, which is a $1.6 million increase from $3.2 million in Q4.\nLet me offer some color on the magnitude of this sequential increase. As I explained on our last quarterly call, our compensation committee elected not to pay the full 2025 executive bonus, withholding approximately $669 thousand which normally would have been paid out in January. The committee provided the executive team the opportunity to earn back the withheld amount in 2026 upon achievement of commercial objectives. This led to us reversing accrued bonus expense in the fourth quarter, which skews the comparison of expenses between Q1 and Q4. Our balance of cash, cash equivalents, and short term on 03/31/2026 was $44.11 million, compared to $19.2 million on 12/31/2025.\nWe used $4.6 million of cash in operating activities during Q1 compared to $3.2 million in Q4 and $4.8 million in Q1 of last year. As is typical for us, cash used in the first quarter of every year is higher than other quarters due to payments for items that are expensed over the year. In February, we closed on a $25 million registered direct stock offering, selling 5 million shares of common stock at $5 per share, netting us proceeds of $23.6 million after fees and expenses. Prior to this offering, we had also raised $3.2 million in Q1 by selling approximately 1.3 million shares under our ATM at an average price of $2.47.\nCurrently, we have 38.7 million shares outstanding. With the proceeds of our equity offering, we feel that our current cash balance puts us in a strong position to execute on the opportunities ahead of us, but we will continue to be disciplined about controlling our costs. On our last call, I said that we expected our 2026 annual non-GAAP operating expense to be approximately $18.5 million, and we are holding to that number. To reiterate, the reason why the expense increase appears as large as it does over $15.9 million of OpEx in 2025 is the bonus deferral, which essentially shifted expenses out of Q4 and moved them into 2026.\nOrganic increases in spending mainly relate to the hiring of our VP of Sales in Q4 last year and our VP of Marketing in Q1. Revenue in Q1 was $11 thousand and consisted of fees for wafer deliveries to the large IDM that Scott talked about, and we have $96 thousand of deferred revenue on our balance sheet. Approximately $46 thousand of revenue that we expected to recognize in Q1 pushed out to Q2 because wafer shipments that we anticipated making last quarter pushed out to early this quarter. Accordingly, we expect Q2 revenue to be in the range of $50 thousand to $100 thousand.\nWith that, I will turn the call back over to Scott for a few summary remarks before we open the call up to questions. Scott?\nScott Bibaud:\nThanks, Frank. Before we take questions, I want to thank our employees, our customers, and our shareholders for their continued support. We are excited about the progress we are making, and we remain focused on translating our growing body of simulation and customer silicon evidence into commercial agreements that can drive long-term repeatable revenue in a strong, sustainable business. Mike, we will now take questions.\nMike Bishop:\nWe will now",
+  "qa_turns": [
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Richard Cutts Shannon",
+      "text": "Hi, Mike. Thanks. Thanks, Scott and Frank. Mike, can you hear me? I just want to make sure the audio is—",
+      "turn_index": 0
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Mike Bishop",
+      "text": "Yes, we can hear you, Richard. Thanks.",
+      "turn_index": 1
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Richard Cutts Shannon",
+      "text": "Alright, great. Scott, the gate-all-around topic—you made some very interesting comments I want to touch on. You mentioned that you now have measured silicon results, and your customers said that they are better than the other solutions that they have. I want to make sure that is what you said, and then I have a couple follow-ups on that topic.",
+      "turn_index": 2
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Scott Bibaud",
+      "text": "Are you talking about GaN or gate-all-around?",
+      "turn_index": 3
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Richard Cutts Shannon",
+      "text": "Gate-all-around.",
+      "turn_index": 4
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Scott Bibaud",
+      "text": "On gate-all-around, we do have measured silicon results.",
+      "turn_index": 5
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Richard Cutts Shannon",
+      "text": "And—",
+      "turn_index": 6
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Scott Bibaud",
+      "text": "We evaluated our results against another method that people in the industry are using to accomplish the same type of thing we are doing, and our results are a significant improvement. So, yes, we have definitely had that, and we are showing that to customers.",
+      "turn_index": 7
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Richard Cutts Shannon",
+      "text": "Okay. To follow up on this, I assume that the measured results are wafers run at one of these four targeted customers. Is that correct?",
+      "turn_index": 8
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Scott Bibaud",
+      "text": "The measured results are something that we did in conjunction with our strategic partner, where they had gate-all-around structures and we used those devices to grow MST on those gate-all-around structures in the wafer, and then we were able to conduct this testing.",
+      "turn_index": 9
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Richard Cutts Shannon",
+      "text": "Okay. So now, if you think about how you approach customers, you go out and show your simulation data—",
+      "turn_index": 10
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Scott Bibaud",
+      "text": "We can do that without a strategic partner, but then having silicon test data is a massive improvement over that. So that has been able to really open the doors for us to get into the customers. The next step from there is the customer will typically say, “Okay, we can see you did that on your strategic partner’s structure. We want you to do it on our structure,” because everybody’s structure is different.",
+      "turn_index": 11
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Richard Cutts Shannon",
+      "text": "Mhmm.",
+      "turn_index": 12
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Scott Bibaud",
+      "text": "When I mentioned that we have work underway with two of the target customers doing demonstrations, that is the step we are at. We are implementing our technology on their structures and showing them that. We believe that the step after that, Richard, will be that they will have to install MST in their fabs to do any further testing because these structures are so small and hard to manufacture that it is difficult to do a lot more work by having us run demonstrations in our fab.",
+      "turn_index": 13
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Richard Cutts Shannon",
+      "text": "Okay. So to that point, do you have a commitment to attempt to do this on your customers’ structures, or is this still discussions to get that agreed to?",
+      "turn_index": 14
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Scott Bibaud",
+      "text": "We are working on it with two of them. I do not know what you mean by commitment, but they are sending us wafers and we are putting our material on them, so that is pretty committed.",
+      "turn_index": 15
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Richard Cutts Shannon",
+      "text": "That sounds good. What is the time frame for this work to get done? I assume the analysis can often take a while, and these are more complex than most. What is the turnaround time between getting that done, analyzing, and getting to the next step? What do you foresee?",
+      "turn_index": 16
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Scott Bibaud",
+      "text": "It is going to take several months. We have to do a lot of development work to figure out how to grow things effectively in these tiny devices that they are sending us. Normally, when someone sends us wafers, within three weeks to a month we can turn those around and send them back. In this case, my guess is it might take us two to three months, and then we send them back, they have to put them in their fab and run them for several months. So it could be on the order of six months before we start to see results coming out of this.\nBoth structural analysis—where they are looking at what we did for deposition in those structures and making sure that what we did was appropriate—they can do pretty quickly, because you are taking TEM images, like electron images, and looking at what we did. Those results will come quickly, but the electrical results will be the result of running the wafers through the whole line.",
+      "turn_index": 17
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Richard Cutts Shannon",
+      "text": "Got it. And so you are expecting to run wafers from two different GAA customers over the next few months?",
+      "turn_index": 18
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Scott Bibaud",
+      "text": "Yes.",
+      "turn_index": 19
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Richard Cutts Shannon",
+      "text": "Going back to my first question and understanding the results you measured with the runs you did with your equipment partner, do the customers agree that the comparison you have done with an industry-standard approach to dopant diffusion is much better than what they can get internally, or is this just what your equipment partner concluded for you?",
+      "turn_index": 20
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Scott Bibaud",
+      "text": "There is no doubt that the customers we have been able to engage with and get down to lots of details have been impressed enough that they want to move forward with these further demonstrations. They definitely saw the benefit of using MST to block the dopant diffusion in the areas that we are talking about, and how it works better than what they are currently implementing.",
+      "turn_index": 21
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Richard Cutts Shannon",
+      "text": "Okay. Fair enough. Some really interesting stuff going on there. Thanks for all those details. Maybe a couple other quick questions. On the DRAM side, it sounds like you have made some progress, but if I compare logic to memory, it sounds like logic is reasonably farther ahead than memory. Is that a fair comparison?",
+      "turn_index": 22
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Scott Bibaud",
+      "text": "Yes, that is true. We are talking with the memory manufacturers. Memory has a different architecture than logic. They are not using gate-all-around, but in memory they are having the same type of dopant diffusion problems with their newer architectures as the gate-all-around folks are, and our technology is directly applicable to that. So we have a lot of interest from them. We are also talking to them about some other solutions that may be able to help them in different ways. There are lots of different vectors of how we are engaged with memory—both DRAM and high bandwidth memory—but we are further ahead with the gate-all-around customers than we are with them.",
+      "turn_index": 23
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Richard Cutts Shannon",
+      "text": "Okay. Maybe a question on the GaN side. Four years ago my recollection is you were talking more about GaN in the power space, but more recently it has been in RF. How would you characterize which one is the leader in terms of getting to the next step—installation, licenses, or using wafers with that already built in? Which one is in the lead, if either one is notably better?",
+      "turn_index": 24
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Scott Bibaud",
+      "text": "It is interesting. You are right that we initially targeted the power market for our GaN on silicon work. The power market is actually much larger than the RF GaN market today, and that is one of the reasons why we targeted it first. For the power market, our big value has been to improve crystal quality and therefore allow people to manufacture on larger wafers because there would be less bow and warp as they were growing the GaN and fewer defects, which has a lot of inherent value.\nThe challenge is to validate all that work you have to build wafers, build electrical devices, and do a lot of testing, so that takes time, and everybody’s GaN growth properties are different, so there is some tuning that has to happen. The new things I just mentioned for RF GaN—we got some test data and we just spoke about it at a big compound semiconductor conference last week—and there is a huge amount of interest in the industry.\nJust looking at this early data that we got—now it has to be validated and so forth—but just looking at that data could be enough for someone to adopt us because it is such a big breakthrough in an area where the industry needs solutions. In RF, they do not actually have to do the full electrical testing before they can decide to move forward on something. So although we are earlier into the RF GaN on silicon market, that one could move faster.",
+      "turn_index": 25
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Richard Cutts Shannon",
+      "text": "Alright. One last question for me. Maybe going back to STMicro. I am not sure if this is who you are now referring to as the IDM customer or not, so correct me if I am assuming that. Maybe just indicate where we are with those guys. You put a pause on the power work that you were hoping to move forward with. How about other applications with them? Are they still moving as you had expected since the cessation of the power work?",
+      "turn_index": 26
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Scott Bibaud",
+      "text": "To clarify, when I talk about the IDM, it is not STMicro. STMicro is another IDM, and we think we have a lot of different areas where we can engage with STMicro, but that is a separate engagement. We have been talking with multiple business units there and doing evaluation work, and we have recently got some results that lead us to believe that we are going to start reengaging with them on developing a product. We are not at the point where we can talk about that yet. ST has not specifically given us any okay to talk about it.\nBut we have been saying since we had to give that unfortunate news about the BCD program at ST that we were working with other groups and that our relationship with the company was great. They really know and understand MST technology and have seen it, and they believe in it. This is kind of vindication of those comments. We have not been able to announce a new deal with them yet, but we hope to be able to do that in the future.",
+      "turn_index": 27
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Richard Cutts Shannon",
+      "text": "Okay. Excellent. I will jump out of line. Thank you very much.",
+      "turn_index": 28
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Scott Bibaud",
+      "text": "Thanks.",
+      "turn_index": 29
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Mike Bishop",
+      "text": "Okay, thanks, Richard. There are a few questions that have been asked in the Q&A line and I will bring them up one by one. The first question is about gate-all-around: given the evaluation periods that we have seen in other areas at Atomera Incorporated, are there specific milestones that need to be hit to convert these gate-all-around customers into JDAs, and what is a realistic time frame for such a conversion?",
+      "turn_index": 30
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Scott Bibaud",
+      "text": "At a high level, I will put a little bit more structure on what I talked about with Richard before. It is typical that customers want to see four different levels. They want to see TCAD results that show you have the potential to deliver performance, and they have to understand all the TCAD background and believe in it. Then they will move ahead and say, “We want to see that captured on silicon.” We have done those two steps in gate-all-around. The next step, they say, “We want to see that captured in silicon, but on our silicon, on our structure. We are going to send you wafers.\nWe want you to deposit it on our structure and send it back to us, and we will evaluate it.” They know they are not going to get the most perfect performance out of that, because there is work we have to do together to get everything fully integrated, but they are trying to do a proof of concept on their platform. That is the stage we are at right now with two of the customers. Beyond that, the stage after that would be where they install and do the actual implementation on their device, tuning it all appropriately.\nSo it is fair to ask when we should expect to see a JDA—sometime during this period of us doing the evaluation on their devices and when we get to the point we will install there, because that would involve a license, then we should be having a JDA in place. These companies do not move fast when you are talking about legal agreements, but we are working hard to make those happen, and we hope to be able to announce them at some point in the near future.",
+      "turn_index": 31
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Mike Bishop",
+      "text": "",
+      "turn_index": 32
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Thank you. And",
+      "text": "an investor asks about the background and reason for the third-party private placement, and given the stock price rise, could we have had better timing?",
+      "turn_index": 33
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Frank Laurencio",
+      "text": "Thanks for that. One of the comments I have made in talking about the capital that we raised in Q1 was some funding that we got via the ATM. If you look at that, the average price on that was $2.47, which is roughly about where we were trading about a week and a half or two before we did the equity raise. So the $5 price that we executed on there—given what we had seen so far, not only in Q1 but really looking back over the last couple of years—made us look at this as a very good opportunity.\nSure, the stock had run up to $7 and now in the last couple of weeks it has run up again, but given the past trading levels that we had and, again, a lot of geopolitical uncertainty in the middle of February, which we have kind of seen play out since then, you cannot know how the equity market is going to perform. On balance, it seemed like a very good opportunity for us to execute on that, and then, frankly, be able to work toward commercial outcomes and not worry about the day-to-day movements in the stock price or have to use the ATM to keep our balance sheet strong. We have now strengthened the balance sheet.\nIt is always easier, with the benefit of hindsight, to second-guess the price, but I think it was a very good decision to execute then.",
+      "turn_index": 34
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Mike Bishop",
+      "text": "",
+      "turn_index": 35
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Thank you",
+      "text": "how has your relationship evolved with your strategic partner? Has that relationship changed over time, giving you more engineering personnel, and how is that working?",
+      "turn_index": 36
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Scott Bibaud",
+      "text": "That is a good question. We try to be good partners with each of the big tool vendors. There are three main tool vendors that the industry uses for epi tools, and we typically want to be an arms dealer—work with whatever tool our customers want to work with—so we have good relationships with all of them. The tool vendor that we have the strategic partnership with is one we have been working with for more than a decade and had a good relationship with, but now that we have entered into the strategic partnership, the level of co-development work that we are doing is at a whole new level.\nWe have weekly meetings with their engineering team where we are working on developing the test data that we need for marketing to customers, and as customers ask us questions and want to get more demos, we dig in and do work on that together. So on an engineering cooperation level, it is at a whole new level. The second area is marketing and sales to customers, and that is something that we have never really done with them in the past. We are developing the right materials for us to both go target customers and talk about MST technology and what a good solution it is.\nOne thing I have calculated a number of times is that if we are successful licensing our technology, in many cases the tool vendor is going to make more money from us winning designs there than we will. So there are obvious advantages for them making us successful, and they are not doing this out of the goodness of their heart. The good news is I think they have recognized that in the last year since we started this, and we are really seeing the benefit as we are engaging with customers.",
+      "turn_index": 37
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Mike Bishop",
+      "text": "This is a follow-up to when we would get a gate-all-around customer engagement. An investor noted that on the last call it sounded like in 2026 we would see several deals being made. Is it safe to say that now sounds unlikely, or is there still hope for inking an agreement this year?",
+      "turn_index": 38
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Scott Bibaud",
+      "text": "We are only in the fifth month of the year, and I am hopeful every month that we are going to be inking deals. There is definitely a very strong chance.",
+      "turn_index": 39
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Mike Bishop",
+      "text": "And if you look at all the areas in which you are working, which of the segments do you think is closest to producing a royalty-bearing license?",
+      "turn_index": 40
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Scott Bibaud",
+      "text": "I spoke a call or two ago about wafer-based products, and I think the development effort in a wafer-based product is relatively easier. Some of the areas where we are offering wafer-based solutions are in gallium nitride, in RF SOI, and we have wafer-based solutions that we are offering in the memory space. I think one of those could be the fastest, but we also have been working on power and on RF SOI with customers for a very long time. Those could also be quick to market. It is very hard to call with so many moving pieces.",
+      "turn_index": 41
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Mike Bishop",
+      "text": "With so many moving pieces. Alright. And with that, Scott, I will turn the call to you for closing comments.",
+      "turn_index": 42
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Scott Bibaud",
+      "text": "I want to thank you all for joining us to hear the progress being made within Atomera Incorporated. I hope you are feeling the excitement that we are. Please continue to look for our news, articles, and blog posts, which are available along with investor alerts on our website, atomera.com. Should you have additional questions, please contact Mike Bishop. We will be happy to follow up. Thanks again for your support, and we look forward to our next update call.",
+      "turn_index": 43
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Mike Bishop",
+      "text": "Thank you. This concludes the call.",
+      "turn_index": 44
+    }
+  ]
+}

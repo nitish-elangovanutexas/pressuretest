@@ -1,0 +1,28 @@
+{
+  "ticker": "YUM",
+  "call_date": "2026-04-29",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.01211600343166686,
+  "cosine_distance": 0.034422105839786554,
+  "sentiment_shift": 0.0010570916901564316,
+  "question_difficulty_mean": 0.14973864502711928,
+  "baseline_mean": 0.01973016116382457,
+  "baseline_std": 0.01360347349911519,
+  "z_score": -0.5597215838037953,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5748693225135596,
+    "call_mean_answer_length": 297.2857142857143,
+    "call_hedge_density": 0.007574188494423407,
+    "call_pos_sentiment_mean": 0.47799902728625704,
+    "call_neu_sentiment_mean": 0.509588503411838,
+    "call_neg_sentiment_mean": 0.012412459855633122,
+    "call_qa_similarity_mean": 0.6166023476448774,
+    "baseline_neg_sentiment_mean": 0.013469551545789554
+  },
+  "generated_at": "2026-05-20T07:36:49+00:00"
+}

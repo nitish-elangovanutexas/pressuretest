@@ -1,0 +1,28 @@
+{
+  "ticker": "HLF",
+  "call_date": "2026-05-06",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.028670735599348858,
+  "cosine_distance": 0.08111403315768584,
+  "sentiment_shift": 0.0016004101062814385,
+  "question_difficulty_mean": 0.16291052429769204,
+  "baseline_mean": 0.04220116815309119,
+  "baseline_std": 0.019050181565794744,
+  "z_score": -0.7102521572831982,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.581455262148846,
+    "call_mean_answer_length": 121.93333333333334,
+    "call_hedge_density": 0.00936675415651447,
+    "call_pos_sentiment_mean": 0.26347787529230116,
+    "call_neu_sentiment_mean": 0.7199601153532664,
+    "call_neg_sentiment_mean": 0.016562024752298992,
+    "call_qa_similarity_mean": 0.3796617158487093,
+    "baseline_neg_sentiment_mean": 0.01816243485858043
+  },
+  "generated_at": "2026-05-20T05:41:21+00:00"
+}

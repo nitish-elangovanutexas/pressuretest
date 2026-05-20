@@ -1,0 +1,28 @@
+{
+  "ticker": "LSTR",
+  "call_date": "2026-04-28",
+  "quarter": 1,
+  "year": 2025,
+  "pressure_score": 0.010723294879683775,
+  "cosine_distance": 0.011535091923885354,
+  "sentiment_shift": 0.028136830751059785,
+  "question_difficulty_mean": 0.17995381563271526,
+  "baseline_mean": 0.020286694656344025,
+  "baseline_std": 0.013524689666548753,
+  "z_score": -0.7071067811865476,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5899769078163576,
+    "call_mean_answer_length": 147.0,
+    "call_hedge_density": 0.021242341769736554,
+    "call_pos_sentiment_mean": 0.29877114575356245,
+    "call_neu_sentiment_mean": 0.604555511691918,
+    "call_neg_sentiment_mean": 0.0966733475215733,
+    "call_qa_similarity_mean": 0.40354847663971066,
+    "baseline_neg_sentiment_mean": 0.06853651677051352
+  },
+  "generated_at": "2026-05-20T06:01:46+00:00"
+}

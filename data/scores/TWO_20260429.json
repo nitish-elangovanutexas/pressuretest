@@ -1,0 +1,28 @@
+{
+  "ticker": "TWO",
+  "call_date": "2026-04-29",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.2569841927278535,
+  "cosine_distance": 0.6866064741171463,
+  "sentiment_shift": 0.03479714897860374,
+  "question_difficulty_mean": 0.20683073597649732,
+  "baseline_mean": 0.04897489321894027,
+  "baseline_std": 0.029705248999535614,
+  "z_score": 7.00244254852619,
+  "flagged": true,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6034153679882487,
+    "call_mean_answer_length": 40.0,
+    "call_hedge_density": 0.05,
+    "call_pos_sentiment_mean": 0.04174215346574783,
+    "call_neu_sentiment_mean": 0.9318099617958069,
+    "call_neg_sentiment_mean": 0.026447901502251625,
+    "call_qa_similarity_mean": 0.6458320220323183,
+    "baseline_neg_sentiment_mean": 0.061245050480855365
+  },
+  "generated_at": "2026-05-20T07:15:45+00:00"
+}

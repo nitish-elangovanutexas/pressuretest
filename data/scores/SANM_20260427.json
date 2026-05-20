@@ -1,0 +1,28 @@
+{
+  "ticker": "SANM",
+  "call_date": "2026-04-27",
+  "quarter": 2,
+  "year": 2026,
+  "pressure_score": 0.041820867135293906,
+  "cosine_distance": 0.08604544765661482,
+  "sentiment_shift": 0.04591466984727266,
+  "question_difficulty_mean": 0.1949990872504863,
+  "baseline_mean": 0.03831914624924857,
+  "baseline_std": 0.009636320246904247,
+  "z_score": 0.36338776590268396,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5974995436252432,
+    "call_mean_answer_length": 82.33333333333333,
+    "call_hedge_density": 0.02360226390738684,
+    "call_pos_sentiment_mean": 0.42732798639270997,
+    "call_neu_sentiment_mean": 0.467917521794637,
+    "call_neg_sentiment_mean": 0.1047545127156708,
+    "call_qa_similarity_mean": 0.3496324392747633,
+    "baseline_neg_sentiment_mean": 0.058839842868398134
+  },
+  "generated_at": "2026-05-20T06:50:32+00:00"
+}

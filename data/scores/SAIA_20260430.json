@@ -1,0 +1,28 @@
+{
+  "ticker": "SAIA",
+  "call_date": "2026-04-30",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.03235610572353282,
+  "cosine_distance": 0.08164310733985647,
+  "sentiment_shift": 0.012046517853847367,
+  "question_difficulty_mean": 0.20272924514086502,
+  "baseline_mean": 0.01969405938780424,
+  "baseline_std": 0.010997567038100491,
+  "z_score": 1.1513497750785777,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6013646225704325,
+    "call_mean_answer_length": 86.27272727272727,
+    "call_hedge_density": 0.017665219215865818,
+    "call_pos_sentiment_mean": 0.6210615905848417,
+    "call_neu_sentiment_mean": 0.3622440147128972,
+    "call_neg_sentiment_mean": 0.016694392162290485,
+    "call_qa_similarity_mean": 0.48407004794961944,
+    "baseline_neg_sentiment_mean": 0.028740910016137853
+  },
+  "generated_at": "2026-05-20T06:50:10+00:00"
+}

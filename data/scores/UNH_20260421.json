@@ -1,0 +1,28 @@
+{
+  "ticker": "UNH",
+  "call_date": "2026-04-21",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.02577691598600951,
+  "cosine_distance": 0.06386841275625965,
+  "sentiment_shift": 0.00983195726111458,
+  "question_difficulty_mean": 0.2200984216332129,
+  "baseline_mean": 0.02116306725490603,
+  "baseline_std": 0.006524967450264436,
+  "z_score": 0.7071067811865476,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6100492108166065,
+    "call_mean_answer_length": 35.833333333333336,
+    "call_hedge_density": 0.011028540999946426,
+    "call_pos_sentiment_mean": 0.13521404564380646,
+    "call_neu_sentiment_mean": 0.8429541811347008,
+    "call_neg_sentiment_mean": 0.0218317835436513,
+    "call_qa_similarity_mean": 0.2405523442990375,
+    "baseline_neg_sentiment_mean": 0.03166374080476588
+  },
+  "generated_at": "2026-05-20T07:17:36+00:00"
+}

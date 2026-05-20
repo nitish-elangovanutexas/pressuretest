@@ -1,0 +1,28 @@
+{
+  "ticker": "NE",
+  "call_date": "2026-04-27",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.009749962019116125,
+  "cosine_distance": 0.020156050456565655,
+  "sentiment_shift": 0.011456134480734667,
+  "question_difficulty_mean": 0.16933471675864675,
+  "baseline_mean": 0.03156175576848582,
+  "baseline_std": 0.030846534540043328,
+  "z_score": -0.7071067811865475,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5846673583793234,
+    "call_mean_answer_length": 114.2,
+    "call_hedge_density": 0.020523903940044476,
+    "call_pos_sentiment_mean": 0.41223389903704327,
+    "call_neu_sentiment_mean": 0.5073487584789594,
+    "call_neg_sentiment_mean": 0.08041735378404459,
+    "call_qa_similarity_mean": 0.5180693501507939,
+    "baseline_neg_sentiment_mean": 0.09187348826477926
+  },
+  "generated_at": "2026-05-20T06:19:00+00:00"
+}

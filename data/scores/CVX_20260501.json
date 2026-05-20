@@ -1,0 +1,28 @@
+{
+  "ticker": "CVX",
+  "call_date": "2026-05-01",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.009819046559439671,
+  "cosine_distance": 0.025838831025384534,
+  "sentiment_shift": 0.0027543902646617185,
+  "question_difficulty_mean": 0.1826575370408567,
+  "baseline_mean": 0.010906773575662637,
+  "baseline_std": 0.0015382782985021378,
+  "z_score": -0.7071067811865476,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5913287685204284,
+    "call_mean_answer_length": 241.125,
+    "call_hedge_density": 0.013384546782642682,
+    "call_pos_sentiment_mean": 0.4907013801857829,
+    "call_neu_sentiment_mean": 0.44386272970587015,
+    "call_neg_sentiment_mean": 0.06543589651118964,
+    "call_qa_similarity_mean": 0.5651506377208879,
+    "baseline_neg_sentiment_mean": 0.06819028677585136
+  },
+  "generated_at": "2026-05-20T05:09:21+00:00"
+}

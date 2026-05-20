@@ -1,0 +1,28 @@
+{
+  "ticker": "WPRT",
+  "call_date": "2026-04-09",
+  "quarter": 3,
+  "year": 2025,
+  "pressure_score": 0.027170212328013525,
+  "cosine_distance": 0.08296865802535525,
+  "sentiment_shift": 0.001930571859702468,
+  "question_difficulty_mean": 0.07491087309855729,
+  "baseline_mean": 0.029715927504148146,
+  "baseline_std": 0.003600184928028594,
+  "z_score": -0.7071067811865476,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5374554365492786,
+    "call_mean_answer_length": 107.6,
+    "call_hedge_density": 0.016331139007960807,
+    "call_pos_sentiment_mean": 0.22322456166148186,
+    "call_neu_sentiment_mean": 0.7511965334415436,
+    "call_neg_sentiment_mean": 0.025578904524445535,
+    "call_qa_similarity_mean": 0.48256157725052773,
+    "baseline_neg_sentiment_mean": 0.027509476384148003
+  },
+  "generated_at": "2026-05-20T07:32:54+00:00"
+}

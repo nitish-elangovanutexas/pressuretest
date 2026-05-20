@@ -1,0 +1,28 @@
+{
+  "ticker": "KR",
+  "call_date": "2025-06-20",
+  "quarter": 1,
+  "year": 2025,
+  "pressure_score": -7.600624655041344e-17,
+  "cosine_distance": -2.220446049250313e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.14100567880757342,
+  "baseline_mean": -7.600624655041344e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5705028394037868,
+    "call_mean_answer_length": 128.35294117647058,
+    "call_hedge_density": 0.029852598003438625,
+    "call_pos_sentiment_mean": 0.4054151510491091,
+    "call_neu_sentiment_mean": 0.5312362622250529,
+    "call_neg_sentiment_mean": 0.06334857900133904,
+    "call_qa_similarity_mean": 0.47837574595353505,
+    "baseline_neg_sentiment_mean": 0.06334857900133904
+  },
+  "generated_at": "2026-05-20T05:55:08+00:00"
+}

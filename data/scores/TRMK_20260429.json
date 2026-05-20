@@ -1,0 +1,28 @@
+{
+  "ticker": "TRMK",
+  "call_date": "2026-04-29",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.05153207813997947,
+  "cosine_distance": 0.14977618398038894,
+  "sentiment_shift": 0.0008502080260465554,
+  "question_difficulty_mean": 0.14254475425954358,
+  "baseline_mean": 0.0422538367436823,
+  "baseline_std": 0.011465746534983806,
+  "z_score": 0.809213893573156,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5712723771297717,
+    "call_mean_answer_length": 77.16666666666667,
+    "call_hedge_density": 0.008396307798481712,
+    "call_pos_sentiment_mean": 0.3738348229477803,
+    "call_neu_sentiment_mean": 0.5999452136456966,
+    "call_neg_sentiment_mean": 0.026219966045270365,
+    "call_qa_similarity_mean": 0.4525473590763092,
+    "baseline_neg_sentiment_mean": 0.02536975801922381
+  },
+  "generated_at": "2026-05-20T07:12:05+00:00"
+}

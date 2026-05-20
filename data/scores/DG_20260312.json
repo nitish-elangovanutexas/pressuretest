@@ -1,0 +1,28 @@
+{
+  "ticker": "DG",
+  "call_date": "2026-03-12",
+  "quarter": 4,
+  "year": 2025,
+  "pressure_score": 0.03835759667892003,
+  "cosine_distance": 0.08090059960976259,
+  "sentiment_shift": 0.042820136000712716,
+  "question_difficulty_mean": 0.16822058720268177,
+  "baseline_mean": 0.02941645516384544,
+  "baseline_std": 0.01264468359371561,
+  "z_score": 0.7071067811865477,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5841102936013409,
+    "call_mean_answer_length": 177.4,
+    "call_hedge_density": 0.03250008844623393,
+    "call_pos_sentiment_mean": 0.2976765275001526,
+    "call_neu_sentiment_mean": 0.686712384223938,
+    "call_neg_sentiment_mean": 0.015611082129180432,
+    "call_qa_similarity_mean": 0.4907728322085033,
+    "baseline_neg_sentiment_mean": 0.058431218129893145
+  },
+  "generated_at": "2026-05-20T05:12:02+00:00"
+}

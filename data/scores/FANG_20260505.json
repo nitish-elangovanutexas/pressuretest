@@ -1,0 +1,28 @@
+{
+  "ticker": "FANG",
+  "call_date": "2026-05-05",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.0,
+  "cosine_distance": 0.0,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.217825215507554,
+  "baseline_mean": 0.0,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.608912607753777,
+    "call_mean_answer_length": 191.86666666666667,
+    "call_hedge_density": 0.010056155903419274,
+    "call_pos_sentiment_mean": 0.2968132669727008,
+    "call_neu_sentiment_mean": 0.6077640394369761,
+    "call_neg_sentiment_mean": 0.09542268825074036,
+    "call_qa_similarity_mean": 0.5318359100916441,
+    "baseline_neg_sentiment_mean": 0.09542268825074036
+  },
+  "generated_at": "2026-05-20T05:27:19+00:00"
+}

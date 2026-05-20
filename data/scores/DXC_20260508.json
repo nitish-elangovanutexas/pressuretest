@@ -1,0 +1,28 @@
+{
+  "ticker": "DXC",
+  "call_date": "2026-05-08",
+  "quarter": 4,
+  "year": 2026,
+  "pressure_score": 0.029410551858177453,
+  "cosine_distance": 0.05730413885552044,
+  "sentiment_shift": 0.03699562487502893,
+  "question_difficulty_mean": 0.1960192500875195,
+  "baseline_mean": 0.023861638790020723,
+  "baseline_std": 0.00784734811741655,
+  "z_score": 0.7071067811865475,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5980096250437598,
+    "call_mean_answer_length": 278.6666666666667,
+    "call_hedge_density": 0.01965094280616257,
+    "call_pos_sentiment_mean": 0.18630065272251764,
+    "call_neu_sentiment_mean": 0.7194808969895045,
+    "call_neg_sentiment_mean": 0.09421844935665528,
+    "call_qa_similarity_mean": 0.3902377376378045,
+    "baseline_neg_sentiment_mean": 0.057222824481626355
+  },
+  "generated_at": "2026-05-20T05:19:02+00:00"
+}

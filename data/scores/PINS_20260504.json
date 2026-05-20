@@ -1,0 +1,28 @@
+{
+  "ticker": "PINS",
+  "call_date": "2026-05-04",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.0,
+  "cosine_distance": 0.0,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.15422570021084608,
+  "baseline_mean": 0.0,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.577112850105423,
+    "call_mean_answer_length": 433.2857142857143,
+    "call_hedge_density": 0.008283454009168708,
+    "call_pos_sentiment_mean": 0.31033467820712496,
+    "call_neu_sentiment_mean": 0.6738575782094683,
+    "call_neg_sentiment_mean": 0.015807757819337503,
+    "call_qa_similarity_mean": 0.5486155943108836,
+    "baseline_neg_sentiment_mean": 0.015807757819337503
+  },
+  "generated_at": "2026-05-20T06:34:48+00:00"
+}

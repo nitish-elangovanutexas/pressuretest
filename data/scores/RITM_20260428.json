@@ -1,0 +1,28 @@
+{
+  "ticker": "RITM",
+  "call_date": "2026-04-28",
+  "quarter": 3,
+  "year": 2025,
+  "pressure_score": 0.018426418284428696,
+  "cosine_distance": 0.053020374952266414,
+  "sentiment_shift": 0.001569385000038892,
+  "question_difficulty_mean": 0.1360314567828738,
+  "baseline_mean": 0.014254684031480391,
+  "baseline_std": 0.005899723159135883,
+  "z_score": 0.7071067811865477,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5680157283914369,
+    "call_mean_answer_length": 152.5,
+    "call_hedge_density": 0.03606683331624653,
+    "call_pos_sentiment_mean": 0.1282441159710288,
+    "call_neu_sentiment_mean": 0.8466538488864899,
+    "call_neg_sentiment_mean": 0.0251020205905661,
+    "call_qa_similarity_mean": 0.4973874808699474,
+    "baseline_neg_sentiment_mean": 0.02667140559060499
+  },
+  "generated_at": "2026-05-20T06:46:02+00:00"
+}

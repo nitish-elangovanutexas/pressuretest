@@ -1,0 +1,28 @@
+{
+  "ticker": "ISRG",
+  "call_date": "2025-07-22",
+  "quarter": 2,
+  "year": 2025,
+  "pressure_score": 3.829707318430773e-17,
+  "cosine_distance": 1.1102230246251565e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.1498312301481928,
+  "baseline_mean": 3.829707318430773e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5749156150740964,
+    "call_mean_answer_length": 179.5,
+    "call_hedge_density": 0.02506643583449572,
+    "call_pos_sentiment_mean": 0.3640357131759326,
+    "call_neu_sentiment_mean": 0.6230250348647436,
+    "call_neg_sentiment_mean": 0.01293924218043685,
+    "call_qa_similarity_mean": 0.25290197590452673,
+    "baseline_neg_sentiment_mean": 0.01293924218043685
+  },
+  "generated_at": "2026-05-20T05:49:01+00:00"
+}

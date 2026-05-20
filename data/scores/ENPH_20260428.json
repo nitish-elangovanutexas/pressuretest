@@ -1,0 +1,28 @@
+{
+  "ticker": "ENPH",
+  "call_date": "2026-04-28",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.039814283536350525,
+  "cosine_distance": 0.07457039046950686,
+  "sentiment_shift": 0.05682451089440042,
+  "question_difficulty_mean": 0.1801713521388464,
+  "baseline_mean": 0.035832488328665514,
+  "baseline_std": 0.015909644142421457,
+  "z_score": 0.250275566947972,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5900856760694232,
+    "call_mean_answer_length": 183.42857142857142,
+    "call_hedge_density": 0.01749629963859883,
+    "call_pos_sentiment_mean": 0.36079155068312374,
+    "call_neu_sentiment_mean": 0.4870393733893122,
+    "call_neg_sentiment_mean": 0.1521690714039973,
+    "call_qa_similarity_mean": 0.49122637886533577,
+    "baseline_neg_sentiment_mean": 0.09534456050959687
+  },
+  "generated_at": "2026-05-20T05:22:04+00:00"
+}

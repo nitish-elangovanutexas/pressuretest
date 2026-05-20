@@ -1,0 +1,28 @@
+{
+  "ticker": "INO",
+  "call_date": "2026-03-17",
+  "quarter": 4,
+  "year": 2025,
+  "pressure_score": -7.436814158150159e-17,
+  "cosine_distance": -2.220446049250313e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.11641444904895622,
+  "baseline_mean": -7.436814158150159e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5582072245244781,
+    "call_mean_answer_length": 118.5,
+    "call_hedge_density": 0.005356410245979805,
+    "call_pos_sentiment_mean": 0.3113868596653144,
+    "call_neu_sentiment_mean": 0.6673973153034846,
+    "call_neg_sentiment_mean": 0.021215823478996754,
+    "call_qa_similarity_mean": 0.5226802341521714,
+    "baseline_neg_sentiment_mean": 0.021215823478996754
+  },
+  "generated_at": "2026-05-20T05:46:17+00:00"
+}

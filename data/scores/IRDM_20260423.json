@@ -1,0 +1,28 @@
+{
+  "ticker": "IRDM",
+  "call_date": "2026-04-23",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.015345399319516274,
+  "cosine_distance": 0.03145473220917461,
+  "sentiment_shift": 0.018847200181009577,
+  "question_difficulty_mean": 0.1620144140052765,
+  "baseline_mean": 0.013349248954328109,
+  "baseline_std": 0.0028229829189851093,
+  "z_score": 0.7071067811865475,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5810072070026382,
+    "call_mean_answer_length": 114.81818181818181,
+    "call_hedge_density": 0.031214448378144088,
+    "call_pos_sentiment_mean": 0.25952914568849583,
+    "call_neu_sentiment_mean": 0.6756129711866379,
+    "call_neg_sentiment_mean": 0.06485787783326073,
+    "call_qa_similarity_mean": 0.47165797949577026,
+    "baseline_neg_sentiment_mean": 0.046010677652251156
+  },
+  "generated_at": "2026-05-20T05:48:29+00:00"
+}

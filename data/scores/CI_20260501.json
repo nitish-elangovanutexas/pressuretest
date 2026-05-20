@@ -1,0 +1,28 @@
+{
+  "ticker": "CI",
+  "call_date": "2026-05-01",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.08877170441992863,
+  "cosine_distance": 0.2416189046054541,
+  "sentiment_shift": 0.001914503052830696,
+  "question_difficulty_mean": 0.21824405217420817,
+  "baseline_mean": 0.05078953684154748,
+  "baseline_std": 0.05371489651767428,
+  "z_score": 0.7071067811865475,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6091220260871041,
+    "call_mean_answer_length": 168.0,
+    "call_hedge_density": 0.009981851179673321,
+    "call_pos_sentiment_mean": 0.4718930870294571,
+    "call_neu_sentiment_mean": 0.517279751598835,
+    "call_neg_sentiment_mean": 0.010827195830643177,
+    "call_qa_similarity_mean": 0.34318636589331236,
+    "baseline_neg_sentiment_mean": 0.012741698883473873
+  },
+  "generated_at": "2026-05-20T04:58:04+00:00"
+}

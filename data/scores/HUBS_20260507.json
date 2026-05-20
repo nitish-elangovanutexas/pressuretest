@@ -1,0 +1,28 @@
+{
+  "ticker": "HUBS",
+  "call_date": "2026-05-07",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.036401489093773075,
+  "cosine_distance": 0.09854447199650651,
+  "sentiment_shift": 0.011299998241121923,
+  "question_difficulty_mean": 0.14386131899342772,
+  "baseline_mean": 0.023153255749235407,
+  "baseline_std": 0.012195615002004138,
+  "z_score": 1.0863112145111624,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5719306594967138,
+    "call_mean_answer_length": 228.14285714285714,
+    "call_hedge_density": 0.005976481661975487,
+    "call_pos_sentiment_mean": 0.3064300013439996,
+    "call_neu_sentiment_mean": 0.6763157291071755,
+    "call_neg_sentiment_mean": 0.01725426728704146,
+    "call_qa_similarity_mean": 0.4887453819227585,
+    "baseline_neg_sentiment_mean": 0.028554265528163383
+  },
+  "generated_at": "2026-05-20T05:43:47+00:00"
+}

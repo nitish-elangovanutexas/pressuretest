@@ -1,0 +1,28 @@
+{
+  "ticker": "KO",
+  "call_date": "2026-04-28",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.04665322990785857,
+  "cosine_distance": 0.09939451800218913,
+  "sentiment_shift": 0.0501216567471308,
+  "question_difficulty_mean": 0.17093584076032492,
+  "baseline_mean": 0.04478690032845004,
+  "baseline_std": 0.0037710183178133695,
+  "z_score": 0.4949139521790289,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5854679203801625,
+    "call_mean_answer_length": 305.1111111111111,
+    "call_hedge_density": 0.007379599839189865,
+    "call_pos_sentiment_mean": 0.4508873869975408,
+    "call_neu_sentiment_mean": 0.5368094990650812,
+    "call_neg_sentiment_mean": 0.012303130287263129,
+    "call_qa_similarity_mean": 0.5608356370099112,
+    "baseline_neg_sentiment_mean": 0.062424787034393935
+  },
+  "generated_at": "2026-05-20T05:54:32+00:00"
+}

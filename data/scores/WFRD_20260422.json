@@ -1,0 +1,28 @@
+{
+  "ticker": "WFRD",
+  "call_date": "2026-04-22",
+  "quarter": 4,
+  "year": 2024,
+  "pressure_score": 0.030380118438354885,
+  "cosine_distance": 0.043007455724770494,
+  "sentiment_shift": 0.06558510158422658,
+  "question_difficulty_mean": 0.16760130384713287,
+  "baseline_mean": 0.031479993619085635,
+  "baseline_std": 0.0015554583975069857,
+  "z_score": -0.7071067811865476,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5838006519235664,
+    "call_mean_answer_length": 203.54545454545453,
+    "call_hedge_density": 0.01638119979032659,
+    "call_pos_sentiment_mean": 0.3204446993768215,
+    "call_neu_sentiment_mean": 0.5245187123390761,
+    "call_neg_sentiment_mean": 0.15503659421070057,
+    "call_qa_similarity_mean": 0.4030913718897027,
+    "baseline_neg_sentiment_mean": 0.08945149262647399
+  },
+  "generated_at": "2026-05-20T07:30:34+00:00"
+}

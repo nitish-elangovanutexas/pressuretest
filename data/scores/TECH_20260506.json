@@ -1,0 +1,28 @@
+{
+  "ticker": "TECH",
+  "call_date": "2026-05-06",
+  "quarter": 4,
+  "year": 2025,
+  "pressure_score": 0.03404549292240879,
+  "cosine_distance": 0.09909338660091438,
+  "sentiment_shift": 0.006328697011787256,
+  "question_difficulty_mean": 0.09846298075538007,
+  "baseline_mean": 0.02250330318146805,
+  "baseline_std": 0.01044007400550366,
+  "z_score": 1.105565893005747,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.54923149037769,
+    "call_mean_answer_length": 88.54545454545455,
+    "call_hedge_density": 0.020124437725257956,
+    "call_pos_sentiment_mean": 0.39772938124158164,
+    "call_neu_sentiment_mean": 0.5694082145663825,
+    "call_neg_sentiment_mean": 0.032862402837384834,
+    "call_qa_similarity_mean": 0.4886012107191361,
+    "baseline_neg_sentiment_mean": 0.026533705825597578
+  },
+  "generated_at": "2026-05-20T07:06:43+00:00"
+}

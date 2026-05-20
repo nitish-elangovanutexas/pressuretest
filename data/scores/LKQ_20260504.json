@@ -1,0 +1,28 @@
+{
+  "ticker": "LKQ",
+  "call_date": "2026-05-04",
+  "quarter": 3,
+  "year": 2025,
+  "pressure_score": 0.08409555454205296,
+  "cosine_distance": 0.20075611464854293,
+  "sentiment_shift": 0.0640882215906112,
+  "question_difficulty_mean": 0.15129241832002677,
+  "baseline_mean": 0.049625658326224176,
+  "baseline_std": 0.031159669260555294,
+  "z_score": 1.106234341821589,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5756462091600134,
+    "call_mean_answer_length": 62.4,
+    "call_hedge_density": 0.018330567846607672,
+    "call_pos_sentiment_mean": 0.340762223303318,
+    "call_neu_sentiment_mean": 0.4918363571166992,
+    "call_neg_sentiment_mean": 0.16740140169858933,
+    "call_qa_similarity_mean": 0.31863949063624003,
+    "baseline_neg_sentiment_mean": 0.10331318010797813
+  },
+  "generated_at": "2026-05-20T05:57:41+00:00"
+}

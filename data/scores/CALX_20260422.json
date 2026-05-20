@@ -1,0 +1,28 @@
+{
+  "ticker": "CALX",
+  "call_date": "2026-04-22",
+  "quarter": 4,
+  "year": 2024,
+  "pressure_score": 0.02168582757504088,
+  "cosine_distance": 0.05924742655288662,
+  "sentiment_shift": 0.004116358678965343,
+  "question_difficulty_mean": 0.16606145572925168,
+  "baseline_mean": 0.023081168510472344,
+  "baseline_std": 0.0019733100750215365,
+  "z_score": -0.7071067811865476,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5830307278646258,
+    "call_mean_answer_length": 165.21428571428572,
+    "call_hedge_density": 0.012773190700759272,
+    "call_pos_sentiment_mean": 0.2000517818544592,
+    "call_neu_sentiment_mean": 0.7601718817438398,
+    "call_neg_sentiment_mean": 0.03977633759911571,
+    "call_qa_similarity_mean": 0.424719645593746,
+    "baseline_neg_sentiment_mean": 0.03565997892015037
+  },
+  "generated_at": "2026-05-20T04:52:45+00:00"
+}

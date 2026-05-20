@@ -1,0 +1,28 @@
+{
+  "ticker": "GLW",
+  "call_date": "2026-04-28",
+  "quarter": 2,
+  "year": 2025,
+  "pressure_score": 0.027133342777395947,
+  "cosine_distance": 0.054847888109223364,
+  "sentiment_shift": 0.03581906398361325,
+  "question_difficulty_mean": 0.148832960989527,
+  "baseline_mean": 0.026861908989363057,
+  "baseline_std": 0.001943804402815861,
+  "z_score": 0.13964048421728145,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5744164804947635,
+    "call_mean_answer_length": 152.92307692307693,
+    "call_hedge_density": 0.02670686487966954,
+    "call_pos_sentiment_mean": 0.254709194199397,
+    "call_neu_sentiment_mean": 0.6703542579825108,
+    "call_neg_sentiment_mean": 0.0749365554119532,
+    "call_qa_similarity_mean": 0.3653227727948556,
+    "baseline_neg_sentiment_mean": 0.039117491428339944
+  },
+  "generated_at": "2026-05-20T05:36:30+00:00"
+}

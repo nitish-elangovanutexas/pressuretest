@@ -1,0 +1,28 @@
+{
+  "ticker": "APO",
+  "call_date": "2026-05-06",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.03450206507242809,
+  "cosine_distance": 0.08604523087159377,
+  "sentiment_shift": 0.010750578624676124,
+  "question_difficulty_mean": 0.23381682668759599,
+  "baseline_mean": 0.0262351748913168,
+  "baseline_std": 0.011691148212776555,
+  "z_score": 0.7071067811865476,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.616908413343798,
+    "call_mean_answer_length": 484.5,
+    "call_hedge_density": 0.01129220130294821,
+    "call_pos_sentiment_mean": 0.11505170911550522,
+    "call_neu_sentiment_mean": 0.8565570910771688,
+    "call_neg_sentiment_mean": 0.028391198099901278,
+    "call_qa_similarity_mean": 0.4800713035429549,
+    "baseline_neg_sentiment_mean": 0.0391417767245774
+  },
+  "generated_at": "2026-05-20T04:36:58+00:00"
+}

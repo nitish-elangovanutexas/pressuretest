@@ -1,0 +1,28 @@
+{
+  "ticker": "AVO",
+  "call_date": "2026-03-12",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.051653711003759824,
+  "cosine_distance": 0.12001874431369774,
+  "sentiment_shift": 0.040588707507898406,
+  "question_difficulty_mean": 0.17066572875708172,
+  "baseline_mean": 0.049651960715044983,
+  "baseline_std": 0.0028309024067847857,
+  "z_score": 0.7071067811865476,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5853328643785408,
+    "call_mean_answer_length": 197.33333333333334,
+    "call_hedge_density": 0.04552899122951013,
+    "call_pos_sentiment_mean": 0.19059689342975616,
+    "call_neu_sentiment_mean": 0.7879206339518229,
+    "call_neg_sentiment_mean": 0.021482462684313457,
+    "call_qa_similarity_mean": 0.666365585015664,
+    "baseline_neg_sentiment_mean": 0.062071170192211866
+  },
+  "generated_at": "2026-05-20T04:42:03+00:00"
+}

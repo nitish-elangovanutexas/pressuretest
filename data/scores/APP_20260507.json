@@ -1,0 +1,28 @@
+{
+  "ticker": "APP",
+  "call_date": "2026-05-07",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.009108689116099352,
+  "cosine_distance": 0.023679985040799267,
+  "sentiment_shift": 0.003556103946432427,
+  "question_difficulty_mean": 0.16550697570846237,
+  "baseline_mean": 0.01209029281648077,
+  "baseline_std": 0.007630159553289963,
+  "z_score": -0.39076557699187464,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5827534878542312,
+    "call_mean_answer_length": 283.59090909090907,
+    "call_hedge_density": 0.014846560679371894,
+    "call_pos_sentiment_mean": 0.17302142252976244,
+    "call_neu_sentiment_mean": 0.7941616326570511,
+    "call_neg_sentiment_mean": 0.03281695234843276,
+    "call_qa_similarity_mean": 0.4714219048544724,
+    "baseline_neg_sentiment_mean": 0.02926084840200033
+  },
+  "generated_at": "2026-05-20T04:37:56+00:00"
+}

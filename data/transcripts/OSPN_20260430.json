@@ -1,0 +1,232 @@
+{
+  "ticker": "OSPN",
+  "company_name": "Onespan",
+  "call_date": "2026-04-30",
+  "quarter": 1,
+  "year": 2026,
+  "prepared_remarks": "Earnings Call Transcript\nOneSpan (OSPN) Q1 2026 Earnings Transcript\nBy\n\nMotley Fool Transcribing\n\n–\n\nApr 30, 2026 at 7:05PM EST\n\n\n\n\nImage source: The Motley Fool.\n\n\nDATE\nThursday, April 30, 2026 at 4:30 p.m. ET\nCALL PARTICIPANTS\nChief Executive Officer — Victor T. Limongelli\nChief Financial Officer — Jorge Martell\nHead of Investor Relations — Joseph A. Maxa\nTAKEAWAYS\nSubscription Revenue\n-- Grew 8.2% year over year to $52.7 million, accounting for 80% of total revenue, with growth attributed to both digital agreements and cybersecurity.\nAdjusted EBITDA\n-- Reported at $21 million with a 31.9% margin, down from $23 million and a 36.4% margin in the prior year period, primarily impacted by increased operating costs associated with acquisitions and investments.\nTotal Revenue\n-- Increased 4.1% year over year to $65.9 million, driven by 5.8% growth in software and services, partially offset by a 4.3% decline in hardware revenue.\nAnnual Recurring Revenue (ARR)\n-- Rose 14.1% to $192.1 million, benefiting from M&A and new customer wins; organic growth was approximately 7%-8% after excluding Nok Nok and Build 38 contributions.\nGross Margin\n-- Held steady at approximately 74%, with digital agreements segment improving to 72.5%, up from 70.3%, reflecting efficiency gains in cloud infrastructure.\nDigital Agreements Segment\n-- Revenue climbed 11.2% to $17.4 million, with ARR up 9.9% to $67.5 million, and operating income advancing to $5.3 million, or 30.4% of segment revenue.\nCybersecurity Segment\n-- ARR increased 6.5% year over year to $124.6 million, while revenue rose 1.7% to $48.5 million; gross margin declined to 74% from 76% due to higher third-party license and related costs.\nGross Revenue Retention (GRR)\n-- Stood at 90% company-wide and 94% for digital agreements, with cybersecurity at 88%, demonstrating improvement over previous quarters.\nOperating Cash Flow\n-- Generated $28.2 million, with $49.8 million in cash and cash equivalents at period end and no long-term debt reported.\nShareholder Returns\n-- Returned over $10 million in dividends and repurchases in the quarter, including $5.4 million spent to repurchase approximately 510,000 shares and a $0.13 per share dividend approved for the current quarter.\nM&A Developments\n-- Completed the Build 38 acquisition for $34.6 million, integrating its mobile app protection and telemetry capabilities; Nok Nok's ARR increased 20% in less than ten months since close.\nGeographic Revenue Mix\n-- EMEA contributed 43%, Americas 38%, and Asia Pacific 19% of total revenue, with a year-over-year shift toward the Americas cited as a strategic focus.\nRevenue Model Clarity\n-- Business units predominantly use transaction- or end-user-based pricing, with seat-based licensing not a primary model for either digital agreements or cybersecurity.\nFull-Year 2026 Guidance\n-- Revenue expected at $244 million-$249 million; ARR outlook raised to $194 million-$198 million; adjusted EBITDA targeted at $66 million-$68 million; hardware expected at $43 million-$45 million.\nNeed a quote from a Motley Fool analyst? Email\n[email protected]\nRISKS\nJorge Martell noted \"a second quarter ARR headwind of approximately $3 million from two contracts not expected to renew,\" with most of the loss tied to a customer migration to passwordless authentication prior to the Nok Nok acquisition.\nOngoing decline in hardware revenue continues as a \"long-term declining trend,\" with hardware now only 16% of total revenue for the quarter.\nOperating income and adjusted EBITDA margin declined year over year due to higher costs related to acquisitions of Nok Nok and Build 38, as well as \"increased operating expenses from the acquisitions, the incremental cost of revenues just discussed, higher nonrecurring acquisition-related consulting costs, and increased investments.\"\nSUMMARY\nOneSpan\n\n(\nOSPN\n\n+0.93%\n)\nreported robust growth in recurring and subscription revenues, supported by improved customer retention and successful integration of recent acquisitions. Management confirmed operating profitability despite margin compression linked to elevated acquisition and investment costs, as well as declines in hardware revenue. Full-year guidance was reaffirmed and ARR projections were raised, reflecting management's confidence in pipeline and new offerings such as passwordless authentication.\nMartell said, \"subscription revenue now consists primarily of term licenses for on-prem software, the related maintenance and support revenue, and SaaS revenue,\" marking a segment reporting change that better aligns with strategic focus.\nOrganic ARR growth, excluding Nok Nok and Build 38, was calculated at 7%-8%, clarifying underlying momentum apart from M&A effects.\nLimongelli highlighted that hardware declines remain secular and ongoing, with only targeted growth in FIDO2 security offerings seen as a potential offset in the future.\nCustomer expansion contributed to a net retention rate of 105%, with digital agreements revenue growth driven by e-signature demand and overage fees.\nBoard authorized continued dividends and share repurchase activity, reflecting commitment to shareholder capital returns alongside strategic investments.\nINDUSTRY GLOSSARY\nARR (Annual Recurring Revenue)\n: Contracted revenue annualized from subscriptions and term licenses, excluding hardware and perpetual license deals.\nGRR (Gross Revenue Retention)\n: Percentage of recurring revenue retained from existing customers, excluding expansion or contraction from upsell/cross-sell activity.\nFIDO\n: An open authentication standard enabling passwordless and multi-factor authentication through interoperable protocols, primarily used in digital identity and security solutions.\nSDK (Software Development Kit)\n: A collection of software tools and libraries enabling developers to build and integrate application security features directly within mobile apps.\nApp Shielding\n: Security measures implemented to protect software applications from tampering and attacks, often employed in mobile banking and digital authentication solutions.\nFull Conference Call Transcript\nVictor T. Limongelli, our Chief Executive Officer, and Jorge Martell, our Chief Financial Officer. This afternoon, after market close, OneSpan Inc. issued a press release announcing results for Q1 2026. To access a copy of the press release and other investor information, please visit our website. Following our prepared comments today, we will open the call for questions. Please note that statements made during this conference call that relate to future plans, events, and performance, including the outlook for full year 2026 and other long-term financial targets, are forward-looking statements. These statements involve risks and uncertainties and are based on current assumptions. Consequently, actual results could differ materially from the expectations expressed in these forward-looking statements.\nI direct your attention to today's press release and OneSpan Inc.'s filings with the U.S. Securities and Exchange Commission for a discussion of such risks and uncertainties. Also note that financial measures that may be discussed on this call are expressed on a non-GAAP basis and have been adjusted from the related GAAP financial measures. We have provided an explanation for and reconciliations of these non-GAAP financial measures to the most directly comparable GAAP financial measures in the earnings press release and in the investor presentation available on our website. In addition, please note that all growth rates discussed on this call refer to a year-over-year basis unless otherwise indicated. The date of this conference call is 04/30/2026.\nAny forward-looking statements and related assumptions are made as of this date. Except as required by law, we undertake no obligation to update these statements as a result of new information or future events or for any other reason. I will now turn the call to Victor.\nVictor T. Limongelli:\nHello, everyone. Thank you for joining us today. We had a good first quarter with strong profitability and solid revenue growth. Subscription revenue grew 8% year over year and our adjusted EBITDA margin was 32%. I am also happy to report that notwithstanding the doom and gloom you might hear about software, our gross revenue retention reached 90% for the company as a whole and 94% for our digital agreements business. We also generated healthy cash flows, and we returned capital to shareholders via share buybacks, which have totaled approximately 1.5 million shares for more than $18 million over the past three quarters, and via an increased quarterly dividend as well.\nBefore reviewing our results in more detail, I would like to provide an update on our investments and how we are positioning OneSpan Inc. for stronger growth over time. First, in Q1, we completed the acquisition of Build 38, which brings a fantastic team to OneSpan Inc., with deep expertise in mobile threats and mobile application protection, and provides customers with telemetry to help them understand the attacks targeting their mobile applications and the environment in which they operate. Keep in mind that the vast majority of consumer banking is now conducted through mobile banking applications, making this a critical attack surface for banks to protect.\nWe now offer post-compilation application protection, sometimes called post-compilation wrapping, as well as an SDK-based approach through which customers can build in application protection and the telemetry necessary for visibility into the threat environment and overall operating environment. With the addition of Build 38’s capabilities, I am happy to report that we now offer a comprehensive set of leading mobile application security technologies across the app shielding landscape. Second, I want to update you on the acquisition we completed last year of Nok Labs, the pioneer of the FIDO Alliance and passwordless authentication.\nA fabulous team from Nok joined OneSpan Inc. and together we have grown that business materially, with ARR having increased about 20% in less than ten months since close, and it has broadened our product set as well. We now have the broadest B2B2C authentication offering: both hardware and software, cloud and on-prem, and OTP and FIDO. Third, we continue to invest in internal research and development. In our digital agreements business, we continue to make strides towards our goal of delivering secure, seamless agreement workflows purpose built for the financial services industry, combining white-label capabilities with embedded security, compliance, and identity assurance across the e-signature journey.\nWe are also planning to integrate AI-driven capabilities to provide deeper insights, streamline decision-making, and further simplify integration into our customers' existing environments. Last but not least, I want to reiterate that neither our digital agreements business nor our cybersecurity business has seat-based licensing as the primary revenue model. In cybersecurity, we sell to our customers based on the number of their end users and not based on the number of their employees or seats. Our licenses are tied to the number of consumers using strong authentication or app shielding solutions.\nSimilarly, in digital agreements, the vast majority of our business, about 97%, is priced based on the number of expected e-signature transactions or documents rather than customer employee counts or user counts. Turning to our results, as mentioned, we started the year with a strong first quarter. We generated $21 million of adjusted EBITDA in the quarter, or 32% of revenue. We ended the first quarter with annual recurring revenue of $192 million, up 14% year over year inclusive of the uplift from the two acquisitions in the past year. This strong ARR growth continues a positive trend, as ARR is now up 24% since 03/31/2024.\nTotal revenue grew 4% to $66 million, driven by 11% growth in digital agreements, which had another strong quarter, and 2% growth in cybersecurity. Subscription revenue in digital agreements grew 11%, driven by demand for e-signatures, while subscription revenue in cybersecurity grew about 6.5%, reflecting growth in cloud authentication, passwordless authentication, and app shielding. Both business units were solidly profitable at the division level. Overall, OneSpan Inc. generated $28 million in cash from operations during the quarter. Our Board remains committed to a balanced capital allocation strategy that considers shareholder returns, organic investment, and targeted M&A.\nIn the first quarter, we invested nearly $35 million to acquire Build 38, and returned more than $10 million to shareholders through dividends and share repurchases, following nearly $32 million returned in 2025. The Board has approved a quarterly dividend of $0.13 per share to be paid in the current quarter, and we will continue to evaluate additional share repurchase opportunities. In summary, we serve a diverse global customer base, and we deliver comprehensive offerings in strong B2B2C authentication, app shielding, and e-signatures. We are investing internally and through targeted M&A to strengthen our portfolio and go-to-market execution, and we continue to make solid progress in building a stronger foundation for growth.\nWe remain committed to maintaining strong profitability, cash generation, and returning capital to shareholders. With that, I will turn the call over to Jorge.\nJorge Martell:\nThanks, Victor, and good afternoon, everyone. I am pleased to report another strong quarter and continued progress in building a solid foundation for future growth. I am particularly excited about our acquisition of Build 38, which strengthens our mobile application security offering and enhances our ability to protect customers and their customers from increasingly sophisticated AI-driven threats. We acquired Build 38 on February 27, and as such, our first quarter results include just over one month of Build 38's financial contribution. Before turning to our Q1 results, I would like to briefly highlight a change we made this quarter to how we present revenue by operating segment.\nTo better align with how we manage the business and our strategic focus on growing recurring revenues, we now include term maintenance revenue within subscription revenue. As a result, subscription revenue now consists primarily of term licenses for on-prem software, the related maintenance and support revenue, and SaaS revenue. In addition, maintenance revenue associated with perpetual licenses and professional services is now presented together, better reflecting the continued evolution of our business away from perpetual license arrangements. These changes are presentation only and have no impact on total revenue, operating income, or cash flows, and prior period results have been updated for comparability.\nAdditional details are included in the revenue tables in today's press release, our Form 10-Q, and the investor presentation on our website. With that context, let me turn to our first quarter results. Annual recurring revenue, or ARR, increased 14.1% year over year to $192.1 million, inclusive of the two acquisitions. Our net retention rate was 105%, benefiting from customer expansion contracts. ARR also benefited from new customer additions and M&A. First quarter revenue was $65.9 million, an increase of 4.1% compared to last year's Q1, driven by 5.8% growth in software and services revenues, partially offset by a 4.3% decline in hardware revenue. Continuing a long-term declining trend, in Q1 hardware comprised only 16% of our overall revenue.\nSubscription revenue grew 8.2% to $52.7 million and accounted for 80% of total revenue. Gross margin was approximately 74%, consistent with the prior year period. I will provide additional detail on these metrics as I review each business division in a couple of minutes. First quarter GAAP operating income was $14.8 million, compared to $17.2 million in Q1 of last year. The year-over-year decline in operating income primarily reflects increased operating costs related to the acquisition of Nok and Build 38, including headcount and nonrecurring acquisition-related consulting costs, as well as certain costs related to organic investments, partially offset by lower share-based compensation expenses. GAAP net income per share was $0.30 compared to $0.37 a year ago.\nNon-GAAP net income per share was $0.39 compared to $0.45 in the prior year period. First quarter adjusted EBITDA and adjusted EBITDA margin was $21 million and 31.9%, compared to $23 million and 36.4% in the first quarter of last year. Turning to our cybersecurity division, cybersecurity ARR grew 6.5% year over year to $124.6 million, again inclusive of the two acquisitions in the past year. First quarter revenue increased 1.7% to $48.5 million. Subscription revenue grew 6.6% to $35.3 million, driven by customer expansions, new logos, and M&A, partially offset by lower multiyear term license revenue. Hardware revenue declined 4.3%, which was less than expected due to the earlier-than-anticipated delivery of certain customer shipments.\nAs expected, perpetual maintenance and service revenue declined as we continue to transition legacy perpetual contracts to term-based arrangements. Gross margin for the cybersecurity division was 74%, compared to 76% in the prior-year quarter, primarily reflecting incremental third-party license costs as well as subscription and professional services costs. Operating income was $20.8 million or 43% of revenue, compared to $24.2 million or 51% of revenue in last year's Q1, driven by increased operating expenses from the acquisitions, the incremental cost of revenues just discussed, higher nonrecurring acquisition-related consulting costs, and increased investments. Now turning to digital agreements, ARR grew 9.9% year over year to $67.5 million.\nFirst quarter revenue grew 11.2% to $17.4 million, driven by expansion of renewal contracts, new customer additions, and overage fees. Gross margin improved to 72.5%, up from 70.3% in the prior year period, reflecting higher revenues and greater efficiency in our cloud infrastructure costs. Operating income was $5.3 million or 30.4% of revenue, compared to $3.4 million or 21.5% in the same period last year, driven by revenue growth, higher gross margins, and a modest decline in operating expenses. Turning to our balance sheet, we ended the first quarter with $49.8 million in cash and cash equivalents, compared to $70.5 million at the end of 2025. We generated $28.2 million in operating cash flows during the quarter.\nUses of cash included $5 million for our quarterly dividend, $5.4 million to repurchase approximately 510 thousand shares of common stock, $34.6 million related to the Build 38 acquisition, and $2.6 million in capitalized software development costs, among other things. We ended the quarter with no long-term debt. Geographically, revenue in 2026 was 43% from EMEA, 38% from the Americas, and 19% from Asia Pacific, compared to 49%, 33%, and 18% from the same regions in 2025, respectively. Year-over-year changes reflect growth in digital agreements and cybersecurity software revenue in the Americas, lower cybersecurity hardware and software revenue in EMEA, and increased hardware revenue in Asia Pacific. Now turning to some modeling notes and our outlook.\nWe are pleased with our first quarter results and the progress we have made in positioning OneSpan Inc. for long-term growth. We are affirming our full year 2026 guidance for revenue and adjusted EBITDA, and we are raising our guidance for ARR. We expect continued growth in software and services revenue, driven by solid performance in digital agreements and moderate growth in cybersecurity. In cybersecurity, we anticipate a second quarter ARR headwind of approximately $3 million from two contracts not expected to renew.\nIn both cases, the customer is not a bank or a financial institution, and the majority of that total is from a customer moving to passwordless authentication, with the decision taken a year ago before we had acquired Nok. Indeed, this reinforces our belief that adding Nok to our product portfolio was the right strategic move, as we expect passwordless authentication to only grow going forward. As such, we expect ARR to grow in the second half of the year, with most of that growth occurring in the fourth quarter. Finally, we also expect the secular shift away from consumer banking hardware tokens to continue.\nFor the full year 2026, we expect total revenue to be in the range of $244 million to $249 million. We expect software and services revenue to be in the range of $201 million to $204 million. We expect hardware revenue to be in the range of $43 million to $45 million. We expect ARR to be in the range of $194 million to $198 million, as compared to our previous guidance range of $192 million to $196 million. And we expect adjusted EBITDA in the range of $66 million to $68 million. That concludes my remarks. I will now turn the call back to Victor.\nVictor T. Limongelli:\nTo recap, we delivered a strong first quarter, and over the past year, we have better positioned OneSpan Inc. to deliver value to customers and create value for shareholders. While we know there is more work ahead and that one good quarter does not make an excellent year, we are encouraged by the progress we have made. Jorge and I will now be happy to take your questions.\nOperator:\nWe will now",
+  "qa_turns": [
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Erik Suppiger",
+      "text": "Yes, thanks for taking the questions. First off, when will we start to realize some of the returns that you are making in the operations over the course of 2026? When can we anticipate some acceleration in top line, and do you have a time frame when you can get back to delivering on the rule of 40?",
+      "turn_index": 0
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Victor T. Limongelli",
+      "text": "Thanks, Erik. I think before getting to the exact timeline for the rule of 40, it is important to highlight the progress we have made. If you look at where we were on the rule of 40 metrics in 2023, I believe the number was 12 on a combined basis, not for one of the metrics. And for the most recent quarter, we are at 36, and 32 last year. So we have definitely made progress. I do not want to pin an exact date on when we will be at exactly 40, but we are making progress. You see it in our ARR growth. You see it in our subscription growth.\nOf course, for quite a long time we have had a consumer banking token decline, and you saw hardware decline again year over year. It is now only 16% of our revenue. We feel like we have made some good progress. We have added some real key functionality to our product set, and we are investing in go-to-market as well to continue to try to drive that subscription growth and try to drive the ARR forward.",
+      "turn_index": 1
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Erik Suppiger",
+      "text": "Okay. Thank you.",
+      "turn_index": 2
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you. Our next question comes from the line of Rudy Grayson Kessinger of D.A. Davidson. Your line is now open.",
+      "turn_index": 3
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Rudy Grayson Kessinger",
+      "text": "Hey, great. Thanks for taking my questions. First one for me on ARR, just so we can try to get to an organic ARR growth rate. What was the Nok ARR and Build 38 ARR as it came out of Q1?",
+      "turn_index": 4
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Jorge Martell",
+      "text": "Hey, Rudy. Thanks for the question. As of the end of Q1, Nok's ARR was $9.7 million, which is an increase from the $8.1 million that we acquired about nine months ago, which we feel pretty good about, and Victor alluded to that 20% growth over the last nine-ish months. The Build 38 ARR that we acquired was $2.8 million. So combined, it is about $10.9 million—call it $11 million. And so when you look at ARR growth organic, it is about 7% to 8%.",
+      "turn_index": 5
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Rudy Grayson Kessinger",
+      "text": "Got it. That is super helpful, and the growth on Nok is good to see—obviously you would lap that next quarter as far as organic goes. And then second question for me, just given your significant EMEA mix, I am curious what impacts, if any, you saw in the quarter or you are seeing in current deal conversations given the conflict in the Middle East right now.",
+      "turn_index": 6
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Victor T. Limongelli",
+      "text": "Thanks, Rudy. The Middle East itself—while the Gulf region itself—is a small part of our business, only about 4% of revenue, and we are obviously keeping an eye on it like many people are. For Europe, I think you will see in the geographic mix—Jorge talked about the geographic mix—EMEA is a little bit of a smaller portion compared to growth in the Americas. Part of that is strategic; we do think we are under-indexed to North America when it comes to security in particular.\nSo we feel like we are going to grow faster in North America than we had in the past, and also the digital agreements business has been doing well, and that is largely a North American business. Overall, we are optimistic, I would say, about EMEA, and cautiously watching the Middle East situation.",
+      "turn_index": 7
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Rudy Grayson Kessinger",
+      "text": "That is helpful. Thank you, guys.",
+      "turn_index": 8
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you. Our next question comes from the line of Gray Powell of BTIG. Your line is now open.",
+      "turn_index": 9
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Gray Powell",
+      "text": "Great, thanks for taking the questions. I just had a couple here. So it is good to hear the commentary on Nok. Where are you seeing the strongest pull with Nok within your base? Then when a customer decides to take the product set, how should we think about the upsell opportunity?",
+      "turn_index": 10
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Victor T. Limongelli",
+      "text": "Nok, I think, is an upsell opportunity because people are going to move to passwordless over the coming years. So having that capability is a core part of our offering. Some of that is customer retention. We talked about GRR in the first quarter. It was at a very strong level—94% for digital agreements and 88% for cybersecurity—so higher than it had been in quite a while. And there is also opportunity to get new customers with Nok's offering as passwordless becomes more and more prevalent. Having a super strong offering, having the board seat on the FIDO Alliance, having the history with FIDO that Nok had, brings a lot to the table.\nGeographically, we have seen it so far be stronger in North America with strength in Japan as well, but we expect it to grow in Europe, ultimately to grow in Latin America, and all over the world. In five years, everyone will use passkeys, and passwords will seem outdated.",
+      "turn_index": 11
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Gray Powell",
+      "text": "Okay. That is really helpful. And then I just want to make sure I am thinking about Build 38 correctly. It makes perfect sense how it can make your existing products better. Was the acquisition's main purpose simply to make you more competitive on the authentication side and to make your existing stuff more compelling, or is it going to ultimately result in another SKU you can sell to customers and therefore generate additional revenue?",
+      "turn_index": 12
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Victor T. Limongelli",
+      "text": "It broadens the offering. If you think about what our app shielding offering was, first of all, it was through a partner. We had a long partnership in that realm that was successful, but that offering was what is called wrapping—so you build the application and then after it is compiled, there is a wrapper or protection put around the app. It is useful and blocks attacks, but it does not give you as much information about what type of attacks are coming in and what the operating environment is. The Build 38 approach is different. It has an SDK-based implementation where the protection is built into the app, and it enables telemetry back from the applications.\nRemember, they do not control the devices—these are all consumer devices that are using mobile banking apps. It gives them lots of information about the devices themselves and about what attacks are happening. That has all kinds of implications to broaden the cybersecurity solution that we are offering customers.",
+      "turn_index": 13
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Gray Powell",
+      "text": "Understood. Thank you very much.",
+      "turn_index": 14
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you. Our next question comes from the line of Anja Soderstrom of Sidoti. Your line is now open.",
+      "turn_index": 15
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Anja Soderstrom",
+      "text": "Just curious, the contracts that are not renewing in the second quarter—how big of a shortfall is that? And can you double-click on what gives you confidence in raising the ARR guidance?",
+      "turn_index": 16
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Victor T. Limongelli",
+      "text": "Sure. We have seen good progress with ARR. Those two accounts—one of them is about $2 million. That decision was taken a year ago for them to move to passwordless. It just underscores why the Nok acquisition was important for us. We did not have an offering at the time, so we did not have the opportunity to even compete effectively as they moved to passwordless. We do now. Unfortunately, that decision had already been taken. So in the short run, we are going to have a little bit of a hit, as mentioned, to ARR, but we do feel good about the growth that we have seen so far, the pipeline, and the seasonality in our business.\nWe close a lot more business in Q4 than we do in the summer, typically in most years. So we think most of that ARR reinvigoration will happen in the latter part of the year—say September through December.",
+      "turn_index": 17
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Anja Soderstrom",
+      "text": "Thank you. And now that you have Nok, do you feel you are getting more attention since you have that offering?",
+      "turn_index": 18
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Victor T. Limongelli",
+      "text": "It is hard to provide a precise quantification on it. But if you look at the growth in our GRR, I think we are positioned better with our customers. Instead of having technology that maybe a few years ago someone would have viewed as dated, we have up-to-date, market-leading technology in critical areas. That helps customers feel that they should stick with you, that you are going to be a long-term solution. We have seen our GRR go up. I do not think it is only as a result of that because our renewals team has done a great job and we have done better engagement with customers as well, but I think it certainly helps.",
+      "turn_index": 19
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Anja Soderstrom",
+      "text": "Okay. Thank you. That was all for me.",
+      "turn_index": 20
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Victor T. Limongelli",
+      "text": "Thank you.",
+      "turn_index": 21
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you. Our next question comes from the line of Erik Suppiger of B. Riley Securities. Your line is now open.",
+      "turn_index": 22
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Erik Suppiger",
+      "text": "Thanks. Follow-up here. Of your 502 customers, how many of them are buying both the Nok back-end software as well as the tokens?",
+      "turn_index": 23
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Victor T. Limongelli",
+      "text": "To date, not too many. The Nok business, of course, did not have a token business, so most of them are pure software customers. That is another area that I think, as we look ahead, we have an opportunity to do better in. It is something that we are hoping can blunt the decline in the consumer banking tokens as we move forward. Having that broad offering does give flexibility to customers—if they have a portion of their workforce that they want to have hardware authentication for, we can offer that without them needing to go to a hardware-only vendor, as an example. But to date, we have not had a ton of cross-sell on that.\nIt is an opportunity rather than a material contributor at the moment.",
+      "turn_index": 24
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Erik Suppiger",
+      "text": "Is it a synergistic sale where you are able to provide any kind of advantage by using an end-to-end solution, or is it simply standards-based and therefore there is no end-to-end benefit?",
+      "turn_index": 25
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Victor T. Limongelli",
+      "text": "The Nok offering has advantages. Of course, it is an open protocol—FIDO protocol—but the Nok solution has additional technology built in to enable device binding of keys, which financial institutions like a lot. Not to get too much into the weeds, but keys synced to Google or other cloud providers can sometimes make banks nervous, and the Nok offering has the ability to have device-bound keys that are not synced—on the software side. On the hardware side, again, it is an open protocol, so they could buy hardware from someone else. It is advantageous having the same vendor. We do very nice branding on the devices, which we have a history of having done with banks for many, many years.\nTo the extent that they like that, it is an appealing offering. But again, open protocol, so there is not a vendor lock-in situation when it comes to hardware.",
+      "turn_index": 26
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Erik Suppiger",
+      "text": "Very good. Thank you.",
+      "turn_index": 27
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you. Our next question comes from the line of Catharine Anne Trebnick of Rosenblatt. Your line is now open.",
+      "turn_index": 28
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Catharine Anne Trebnick",
+      "text": "Thanks for taking my question. Now with subscription revenue roughly 80% of total, and you have a good track record—digital agreements and cybersecurity subscription are growing—can you lay out a plan for whether it will always be 80% to 85%? What is going to happen with the hardware over the next twelve months? I know it has been lumpy and there are obvious changes—just lay out a roadmap. Thank you.",
+      "turn_index": 29
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Victor T. Limongelli",
+      "text": "Let me talk about the underlying business trends. The consumer banking tokens we expect to continue to decline. We do not think they will go to zero. We think there will be some portion of consumers in Europe and Asia that are using tokens to authenticate because they are doing web banking and not doing their banking through a mobile banking app. If you ask banks, a lot of them will say 80% of their traffic is now through their mobile app versus laptops or desktops. The hardware piece—the part that could offset that ongoing decline that has been going on for over a decade—is the FIDO2 security piece.\nIf we can get that piece to grow, we could offset that and keep the hardware business at a stable rate. Of course, most of our focus, most of our attention, is on growing the subscription, growing the ARR, and driving value that way. Jorge, anything to add on modeling?",
+      "turn_index": 30
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Jorge Martell",
+      "text": "For purposes of 2026, Catharine, we did not change our guide for hardware. Where it goes in 2027 or 2028—nobody has a crystal ball. It is obviously still in secular decline, but to Vic’s point, we do not think it is going to go to zero. Corporate banking, for example, is still done through hardware tokens—it is the safest way to do high-value transaction signing and things of that nature. There will be a target customer base that will continue to use that device. Hopefully it stabilizes and finds a new baseline soon.",
+      "turn_index": 31
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Catharine Anne Trebnick",
+      "text": "Alright. Thank you very much. Sorry to keep asking that question, but it keeps coming up. Bye-bye.",
+      "turn_index": 32
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Victor T. Limongelli",
+      "text": "Thanks.",
+      "turn_index": 33
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you. This concludes the question-and-answer session. I would now like to turn it back to Joseph A. Maxa for closing remarks.",
+      "turn_index": 34
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Joseph A. Maxa",
+      "text": "Thanks for joining today, everyone. We look forward to talking with you again next quarter. Have a great evening.",
+      "turn_index": 35
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you for your participation in today's conference. This does conclude the program. You may now disconnect.",
+      "turn_index": 36
+    }
+  ]
+}

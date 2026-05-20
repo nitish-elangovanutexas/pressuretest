@@ -1,0 +1,28 @@
+{
+  "ticker": "TSCO",
+  "call_date": "2026-04-21",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.02972257335620718,
+  "cosine_distance": 0.0727801825832396,
+  "sentiment_shift": 0.015278050656585648,
+  "question_difficulty_mean": 0.1941733031808321,
+  "baseline_mean": 0.03266788120712432,
+  "baseline_std": 0.007961047837167206,
+  "z_score": -0.3699648477385829,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5970866515904161,
+    "call_mean_answer_length": 284.22222222222223,
+    "call_hedge_density": 0.02394300338994782,
+    "call_pos_sentiment_mean": 0.5392116457223892,
+    "call_neu_sentiment_mean": 0.39657140854332185,
+    "call_neg_sentiment_mean": 0.06421694087071551,
+    "call_qa_similarity_mean": 0.5741855376055383,
+    "baseline_neg_sentiment_mean": 0.048938890214129865
+  },
+  "generated_at": "2026-05-20T07:12:42+00:00"
+}

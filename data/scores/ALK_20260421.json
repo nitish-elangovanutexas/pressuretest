@@ -1,0 +1,28 @@
+{
+  "ticker": "ALK",
+  "call_date": "2026-04-21",
+  "quarter": 4,
+  "year": 2025,
+  "pressure_score": 0.0,
+  "cosine_distance": 0.0,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.21234380066394198,
+  "baseline_mean": 0.0,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.606171900331971,
+    "call_mean_answer_length": 127.75,
+    "call_hedge_density": 0.02780523205303541,
+    "call_pos_sentiment_mean": 0.3662658520042896,
+    "call_neu_sentiment_mean": 0.6077070087194443,
+    "call_neg_sentiment_mean": 0.026027119951322675,
+    "call_qa_similarity_mean": 0.46313546239805875,
+    "baseline_neg_sentiment_mean": 0.026027119951322675
+  },
+  "generated_at": "2026-05-20T04:30:32+00:00"
+}

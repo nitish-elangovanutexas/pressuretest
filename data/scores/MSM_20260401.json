@@ -1,0 +1,28 @@
+{
+  "ticker": "MSM",
+  "call_date": "2026-04-01",
+  "quarter": 2,
+  "year": 2026,
+  "pressure_score": 0.01807919701414594,
+  "cosine_distance": 0.02838754086590145,
+  "sentiment_shift": 0.03442106730430029,
+  "question_difficulty_mean": 0.17393756804064361,
+  "baseline_mean": 0.029732862773161214,
+  "baseline_std": 0.01648077216776235,
+  "z_score": -0.7071067811865476,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5869687840203218,
+    "call_mean_answer_length": 112.53846153846153,
+    "call_hedge_density": 0.025158722687747787,
+    "call_pos_sentiment_mean": 0.24126482783601835,
+    "call_neu_sentiment_mean": 0.6245442365224545,
+    "call_neg_sentiment_mean": 0.13419092568353966,
+    "call_qa_similarity_mean": 0.42914520913819426,
+    "baseline_neg_sentiment_mean": 0.09976985837923937
+  },
+  "generated_at": "2026-05-20T06:14:54+00:00"
+}

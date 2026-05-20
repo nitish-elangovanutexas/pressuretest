@@ -1,0 +1,28 @@
+{
+  "ticker": "BANR",
+  "call_date": "2026-04-23",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.07564773538642251,
+  "cosine_distance": 0.22005984517184096,
+  "sentiment_shift": 0.011808598414063454,
+  "question_difficulty_mean": 0.1062898052634288,
+  "baseline_mean": 0.0734497926840079,
+  "baseline_std": 0.008667044975885935,
+  "z_score": 0.25359770354600425,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5531449026317143,
+    "call_mean_answer_length": 78.25,
+    "call_hedge_density": 0.03271492658285111,
+    "call_pos_sentiment_mean": 0.4175277277827263,
+    "call_neu_sentiment_mean": 0.5654536783695221,
+    "call_neg_sentiment_mean": 0.017018614802509546,
+    "call_qa_similarity_mean": 0.47467346018140005,
+    "baseline_neg_sentiment_mean": 0.028827213216573
+  },
+  "generated_at": "2026-05-20T04:44:55+00:00"
+}

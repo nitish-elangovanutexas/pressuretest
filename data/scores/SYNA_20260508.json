@@ -1,0 +1,28 @@
+{
+  "ticker": "SYNA",
+  "call_date": "2026-05-08",
+  "quarter": 3,
+  "year": 2026,
+  "pressure_score": 0.025598156434341247,
+  "cosine_distance": 0.0744861976344724,
+  "sentiment_shift": 0.0023365610025145797,
+  "question_difficulty_mean": 0.12207793837933836,
+  "baseline_mean": 0.023744245694350546,
+  "baseline_std": 0.0026218257119239876,
+  "z_score": 0.7071067811865481,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5610389691896692,
+    "call_mean_answer_length": 140.0909090909091,
+    "call_hedge_density": 0.011868462328424768,
+    "call_pos_sentiment_mean": 0.19122871993617577,
+    "call_neu_sentiment_mean": 0.7923926203088327,
+    "call_neg_sentiment_mean": 0.016378663988275963,
+    "call_qa_similarity_mean": 0.4334305925011583,
+    "baseline_neg_sentiment_mean": 0.014042102985761383
+  },
+  "generated_at": "2026-05-20T07:04:50+00:00"
+}

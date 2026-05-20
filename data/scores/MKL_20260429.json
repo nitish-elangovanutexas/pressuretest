@@ -1,0 +1,28 @@
+{
+  "ticker": "MKL",
+  "call_date": "2026-04-29",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.06016499159752605,
+  "cosine_distance": 0.1156446769837669,
+  "sentiment_shift": 0.061537241762770076,
+  "question_difficulty_mean": 0.2800830143363417,
+  "baseline_mean": 0.06122602420229018,
+  "baseline_std": 0.001500526699777486,
+  "z_score": -0.7071067811865475,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6400415071681709,
+    "call_mean_answer_length": 218.16666666666666,
+    "call_hedge_density": 0.030433524583764707,
+    "call_pos_sentiment_mean": 0.13264086532096067,
+    "call_neu_sentiment_mean": 0.7238238851229349,
+    "call_neg_sentiment_mean": 0.14353527687489986,
+    "call_qa_similarity_mean": 0.46049325340557545,
+    "baseline_neg_sentiment_mean": 0.08199803511212979
+  },
+  "generated_at": "2026-05-20T06:10:14+00:00"
+}

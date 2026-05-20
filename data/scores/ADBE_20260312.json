@@ -1,0 +1,28 @@
+{
+  "ticker": "ADBE",
+  "call_date": "2026-03-12",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.012996014482955905,
+  "cosine_distance": 0.03521945846822294,
+  "sentiment_shift": 0.000778711145921122,
+  "question_difficulty_mean": 0.21213615550787526,
+  "baseline_mean": 0.011079768756400873,
+  "baseline_std": 0.0027099806953336126,
+  "z_score": 0.7071067811865472,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6060680777539377,
+    "call_mean_answer_length": 393.0,
+    "call_hedge_density": 0.036352123477027994,
+    "call_pos_sentiment_mean": 0.21154272183775902,
+    "call_neu_sentiment_mean": 0.7738367021083832,
+    "call_neg_sentiment_mean": 0.01462057682995995,
+    "call_qa_similarity_mean": 0.5008271378013717,
+    "baseline_neg_sentiment_mean": 0.015399287975881071
+  },
+  "generated_at": "2026-05-20T14:43:27+00:00"
+}

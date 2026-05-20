@@ -1,0 +1,28 @@
+{
+  "ticker": "CVS",
+  "call_date": "2026-05-07",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.03018582489321975,
+  "cosine_distance": 0.07749760120486882,
+  "sentiment_shift": 0.003622857924912952,
+  "question_difficulty_mean": 0.25911451195468516,
+  "baseline_mean": 0.029339546131106557,
+  "baseline_std": 0.0011968189029287913,
+  "z_score": 0.7071067811865489,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6295572559773426,
+    "call_mean_answer_length": 282.75,
+    "call_hedge_density": 0.011699308123730996,
+    "call_pos_sentiment_mean": 0.4763334239833057,
+    "call_neu_sentiment_mean": 0.5063028167933226,
+    "call_neg_sentiment_mean": 0.01736378262285143,
+    "call_qa_similarity_mean": 0.47899696893504395,
+    "baseline_neg_sentiment_mean": 0.020986640547764383
+  },
+  "generated_at": "2026-05-20T05:08:43+00:00"
+}

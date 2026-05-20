@@ -1,0 +1,28 @@
+{
+  "ticker": "SNCY",
+  "call_date": "2025-08-06",
+  "quarter": 2,
+  "year": 2025,
+  "pressure_score": 0.0,
+  "cosine_distance": 0.0,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.16013339112223368,
+  "baseline_mean": 0.0,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5800666955611169,
+    "call_mean_answer_length": 108.70370370370371,
+    "call_hedge_density": 0.031314766863604585,
+    "call_pos_sentiment_mean": 0.23039712715480062,
+    "call_neu_sentiment_mean": 0.662659709652265,
+    "call_neg_sentiment_mean": 0.10694316522804675,
+    "call_qa_similarity_mean": 0.38690347563971283,
+    "baseline_neg_sentiment_mean": 0.10694316522804675
+  },
+  "generated_at": "2026-05-20T06:56:55+00:00"
+}

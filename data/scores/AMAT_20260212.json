@@ -1,0 +1,28 @@
+{
+  "ticker": "AMAT",
+  "call_date": "2026-02-12",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.0,
+  "cosine_distance": 0.0,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.16951935374268548,
+  "baseline_mean": 0.0,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5847596768713428,
+    "call_mean_answer_length": 120.5,
+    "call_hedge_density": 0.018156417805583365,
+    "call_pos_sentiment_mean": 0.5361632712185382,
+    "call_neu_sentiment_mean": 0.3577309291809797,
+    "call_neg_sentiment_mean": 0.106105810822919,
+    "call_qa_similarity_mean": 0.5485532668178726,
+    "baseline_neg_sentiment_mean": 0.106105810822919
+  },
+  "generated_at": "2026-05-20T04:31:33+00:00"
+}

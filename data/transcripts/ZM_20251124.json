@@ -1,0 +1,646 @@
+{
+  "ticker": "ZM",
+  "company_name": "Zoom",
+  "call_date": "2025-11-24",
+  "quarter": 3,
+  "year": 2026,
+  "prepared_remarks": "Earnings Call Transcript\",\"datePublished\":\"2025-11-24T23:08:31.000Z\",\"dateModified\":\"2025-11-24T23:08:31.000Z\",\"author\":{\"@type\":\"Person\",\"name\":\"Motley Fool Transcribing\",\"url\":\"https://www.fool.com/author/20032/\",\"jobTitle\":\"Contributing Analyst\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://g.foolcdn.com/avatar/2041746765/large.ashx\",\"height\":\"80\",\"width\":\"80\"}},\"about\":[{\"@type\":\"Corporation\",\"tickerSymbol\":\"NASDAQ ZM\"}],\"publisher\":{\"@type\":\"Organization\",\"@id\":\"https://www.fool.com/\",\"name\":\"The Motley Fool\",\"url\":\"https://www.fool.com/\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://g.foolcdn.com/misc-assets/logo-tmf-primary-7-magenta-royalpurple.svg\",\"width\":\"157\",\"height\":\"43\"},\"brand\":\"The Motley Fool\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"Media Inquiries\",\"email\":\"pr@fool.com\"},\"publishingPrinciples\":\"https://www.fool.com/about/\",\"sameAs\":[\"https://www.fool.com/about/\",\"https://en.wikipedia.org/wiki/The_Motley_Fool\",\"https://www.wikidata.org/wiki/Q7752442\",\"https://www.linkedin.com/company/the-motley-fool\",\"https://www.facebook.com/themotleyfool/\",\"https://x.com/themotleyfool\",\"https://www.instagram.com/themotleyfoolofficial/\",\"https://www.youtube.com/channel/UCpRQuynBX9Qy9tPrcswpPag\",\"https://www.pinterest.com/themotleyfool/\",\"https://www.tiktok.com/@themotleyfoolofficial\",\"https://www.google.com/search?kgmid=/m/0578mk\"]},\"description\":null,\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.content.foolcdn.com/images/1umn9qeh/production/b4204f36ed605fc54d4ba32e2cb31d1dd892afd6-800x450.jpg?w=800&h=450\",\"height\":\"630\",\"width\":\"1200\"}}\nEarnings Call Transcript\nZoom (ZM) Q3 2026 Earnings Call Transcript\nBy\n\nMotley Fool Transcribing\n\n–\n\nNov 24, 2025 at 6:08PM EST\n\n\n\n\nImage source: The Motley Fool.\n\n\nDATE\nMonday, November 24, 2025 at 5 p.m. ET\nCALL PARTICIPANTS\nChief Executive Officer — Eric S. Yuan\nChief Financial Officer — Michelle Chang\nOperator\nNeed a quote from a Motley Fool analyst? Email\n[email protected]\nRISKS\nMichelle Chang stated, \"you won't continue to see that marked progress as we go forward, meaning it won't continue to accelerate off that,\" indicating one-time collection gains will not recur at prior levels.\nEnterprise net dollar expansion rate remained below 100%, which could constrain future top-line growth if not improved, as acknowledged in the Q&A.\nTAKEAWAYS\nTotal Revenue\n-- $1.23 billion, up 4.4%, or 4.2% in constant currency, and $15 million above the high end of guidance.\nEnterprise Revenue\n-- Increased 6.1%, now constituting 60% of total revenue, with a 1 point increase.\nOnline Business Churn\n-- Average monthly churn stayed at 2.7%, a record low and unchanged.\nEnterprise Customer Growth\n-- Number of customers contributing more than $100,000 in trailing twelve-month revenue rose 9%, representing 32% of total revenue, up 1 point.\nEnterprise Net Dollar Expansion\n-- Trailing twelve-month net dollar expansion rate held steady at 98%.\nAmericas Revenue\n-- Grew 5%; EMEA up 3%; APAC up 4%, each showing regional performance.\nNon-GAAP Gross Margin\n-- 80%, up 117 basis points, mainly from cost optimization.\nNon-GAAP Operating Income\n-- $507 million, up 11%, exceeding high end of guidance by $37 million.\nNon-GAAP Operating Margin\n-- 41.2%, an increase of 234 basis points, attributed to cost management and spend timing.\nNon-GAAP Diluted EPS\n-- $1.52, $0.08 above high-end guidance and $0.14 higher, on 305 million diluted shares.\nDeferred Revenue\n-- $1.44 billion, up 5%, toward the high end of previously provided range.\nRPO (Remaining Performance Obligation)\n-- $4 billion, up 8%; 60% expected to be recognized as revenue in the next twelve months, down 1 point.\nOperating Cash Flow\n-- $629 million, up 30%, for a margin of 51.2%.\nFree Cash Flow Margin\n-- $614 million, up 34%, representing 50% margin, an 11-point year-over-year increase, primarily from improved collections and billings.\nCash, Equivalents, and Marketable Securities\n-- $7.9 billion at quarter-end, excluding restricted cash.\nShare Buyback\n-- 5.1 million shares repurchased for $414 million in Q3, totaling 32.5 million shares for $2.4 billion under current program.\nIncremental Share Repurchase Authorization\n-- Board approved an additional $1 billion repurchase.\nZoom Phone Milestone\n-- Surpassed 10 million paid seats, with ARR growth in the mid-teens and notable wins in financial services and healthcare.\nAI Companion Usage\n-- Adoption surged more than 4x, as customers leveraged intelligent productivity features.\nTeam Chat Monthly Active Users\n-- Rose 20%.\nWorkvivo Adoption\n-- Customers increased nearly 70% to reach 1,225 logos.\nCustomer Experience ARR\n-- Delivered high double-digit growth; nine of the top 10 CX deals included paid AI components such as Virtual Agent or AI Expert Assist.\nBrightHire Acquisition\n-- Announced agreement to acquire BrightHire, an AI-powered hiring platform, to expand in hiring workflows.\nGuidance: Q4 Revenue\n-- Projected range is $1.23 billion to $1.235 billion, implying ~4.1% growth at midpoint.\nGuidance: Q4 Non-GAAP Operating Margin\n-- Expected at 38.9% midpoint.\nGuidance: Q4 Non-GAAP EPS\n-- $1.48 to $1.49 on ~305 million shares.\nGuidance: Fiscal 2026 Revenue\n-- Raised to $4.852 billion-$4.857 billion, implicating 4.1% growth at midpoint.\nGuidance: Fiscal 2026 Non-GAAP Operating Income\n-- Now $1.955 billion-$1.96 billion, for a 40.3% operating margin midpoint.\nGuidance: Fiscal 2026 Non-GAAP EPS\n-- Increased to $5.95-$5.97 on about 308 million shares.\nGuidance: Fiscal 2026 Free Cash Flow\n-- Now $1.86 billion-$1.88 billion, midpoint ~3.4% growth.\nOracle and Salesforce Partnerships\n--\nOracle\n(NYSE: ORCL) and\nSalesforce\n(NYSE: CRM) deepened their use of Custom AI Companion for enterprise productivity and insights.\nProduct Integration\n-- CEO Eric S. Yuan confirmed extensive integrations with\nGoogle\n(NASDAQ: GOOGL),\nMicrosoft\n(NASDAQ: MSFT),\nServiceNow\n(NYSE: NOW), Salesforce, and\nAtlassian\n(NASDAQ: TEAM) platforms as strategic priorities.\nChannel Partner Performance\n-- Majority of large contact center and phone deals driven through partners; pipeline up 30% and growing.\nAI Monetization Strategy\n-- Monetization spans both horizontal collaboration products and vertical solutions, with new SKUs for AI offerings planned for online buyers.\nSUMMARY\nZoom Communications\n\n(\nZM\n\n3.88%\n)\nreported stable, moderate revenue growth with expanding margins, record free cash flow, and meaningful gains in enterprise and AI-driven businesses. The company executed major share repurchases and authorized a further $1 billion buyback, while new product uptake and client wins—particularly in AI-led customer experience and phone—were emphasized as drivers of diversification. Full-year revenue, margin, and EPS guidance were raised, reflecting improved execution and sustained cost controls.\nCustom AI Companion is scaling rapidly, highlighted by several major wins among Fortune 200 companies and integration with Oracle and Salesforce to embed advanced AI assistants across large workforces.\nBrightHire acquisition marks an explicit push into the hiring workflow and represents ongoing vertical SaaS expansion to extend the core platform into adjacent mission-critical use cases.\nChannel partners played a primary role in most large contact center and phone deals, with broadening international go-to-market investment and a notable 30% increase in channel pipeline activity.\nMichelle Chang clarified that improvements in days sales outstanding (DSO) largely contributed to the one-time gain in free cash flow growth and will not create the same tailwind in future periods.\nEnterprise net dollar expansion remained below 100%, and management stressed that improving this metric is an operational priority but did not provide an inflection timeline.\nAI monetization strategies are diversifying, with CEO Eric S. Yuan noting active rollout of both horizontal and vertical AI products, and a product-led growth motion targeting both SMBs and large enterprises.\nINDUSTRY GLOSSARY\nAI Companion\n: Zoom Communications' proprietary artificial intelligence productivity feature suite available across core products, including meetings and chat.\nCustom AI Companion\n: A tailored, enterprise-grade version of the AI Companion that integrates customer or third-party models for advanced automation and workflow.\nWorkvivo\n: An employee experience platform acquired by Zoom Communications, aimed at internal communication and engagement.\nBrightHire\n: An AI-driven hiring intelligence platform focused on optimizing and automating recruitment workflows.\nRPO (Remaining Performance Obligation)\n: Contracted revenue that has not yet been recognized; key for forecasting future revenue streams.\nVirtual Agent\n: AI-powered automated chat or voice agent offered as part of Zoom Communications' Contact Center suite.\nDSO (Days Sales Outstanding)\n: The average number of days required to collect receivables, critical for assessing cash flow efficiency.\nChannel Partner\n: Third-party organizations that resell or help deploy Zoom Communications' products, essential to international and vertical market strategies.\nSKU\n: A distinct product or service offering with a unique identifier, relevant here for online AI monetization packages.\nFull Conference Call Transcript\nEric S. Yuan:\nHello, everyone, and welcome to Zoom Communications, Inc.'s earnings video webinar for 2026. I'm joined today by Zoom Communications, Inc.'s founder and CEO, Eric S. Yuan, and Zoom Communications, Inc.'s CFO, Michelle Chang. Our earnings release was issued today after the market closed and may be downloaded from the investor relations page at investors.zoom.com. Also, on this page, you'll be able to find a copy of today's prepared remarks, and a slide deck with financial highlights that, along with our earnings release, include a reconciliation of GAAP to non-GAAP financial results. These measures should not be considered in isolation from or as a substitute for financial information prepared in accordance with GAAP.\nAfter this call, we will make forward-looking statements including statements regarding our financial outlook for the fourth quarter and full fiscal year 2026, our expectations regarding financial and business trends, impacts from a macroeconomic environment, our market position, stock repurchase program, opportunities, go-to-market initiatives, growth strategy and business aspirations, and product initiatives including future product and future releases and the expected benefits of such initiatives. These statements are only predictions that are based on what we believe today. And actual results may differ materially.\nThese forward-looking statements are subject to risks and other factors that could affect our performance and financial results which we discuss in detail in our filings with the SEC, including our annual report on Form 10-K, and quarterly reports on Form 10-Q. Zoom Communications, Inc. assumes no obligation to update any forward-looking statements we may make on today's webinar. And with that, let me turn the discussion over to Eric S. Yuan, who's giving his prepared remarks via Zoom custom avatar. Eric,\nEric S. Yuan:\nThank you, Charles. We delivered strong results this quarter with broad momentum across products, industries, and customer segments from online to our largest enterprise accounts. This performance reflects the durability of our business driven by the growing value we are delivering for customers as we evolve from a communications leader to an AI-first platform for work and customer experience. Our vision is to be the AI-first work platform for human connection. As we march towards this vision, we are focused on three priorities. Elevating core products with AI, driving growth of new AI products, and scaling AI-first customer experience.\nPivoting to our first priority, at Zoomtopia, we unveiled AI Companion 3.0, our next-generation agentic AI that's transforming how work gets done. We're evolving Zoom Communications, Inc. into an AI-first system of action going beyond summarization to be your agent to proactively prepare for meetings, follow-up on tasks, and drive work forward. AI Companion runs on our federated AI architecture. Which lets customers use Zoom Communications, Inc.'s models alongside their own or trusted third-party models unlike closed systems elsewhere. Spanning meetings, phone, chat, whiteboard, and soon the web, Zoom Communications, Inc. brings intelligent assistance wherever work happens across major platforms.\nAnd customers are responding AI companion adoption continued to surge more than four times year over year, underscoring demand for smarter, more seamless ways to work. In tandem with AI companion growth, we saw continued strength across Zoom Workplace, Team chat monthly active users rose 20% year over year. As the canvas for asynchronous work, chat turns meetings into persistent workspaces. And with AI Companion, it provides summaries, composition tools, and easier search capabilities, customers can keep work in context, reduce app sprawl and take action faster.\nOur employee experience offering continued to shine even as we lapped the strong momentum of our previous Meta partnership, Workvivo logos grew nearly 70% year over year to 1,225 customers spanning mid-market up to the Fortune 10. Last, Zoom Phone surpassed 10 million paid seats early in Q3, marking a major milestone and reinforcing its leadership in unified communications. It continues to perform well with consistent ARR growth in the mid-teens and numerous sizable wins in financial services and healthcare.\nFor example, Rothman Orthopaedics, Platinum Dermatology, and a reputable clinic adopted Zoom Phone for its unified platform, advanced AI capabilities, and healthcare-specific integrations and compliance tools enabling seamless collaboration and better patient care, AI isn't just bolstering our core, it's opening new revenue streams and deeper customer value through customization and automation. Two quarters in, Custom AI Companion is scaling with several Fortune 200 wins and broad interest. Oracle, already a major Zoom Workplace and contact center customer, chose to deepen its partnership with us this quarter.\nAs one of the world's leaders in AI and enterprise technology, Oracle adopted Zoom Custom AI Companion to create powerful AI-powered assistants across its global workforce, helping employees turn everyday conversations into actionable insights. We were also delighted to see Salesforce deepen its partnership with Zoom Communications, Inc. by adding Custom AI Companion. Alongside horizontal momentum, we're extending AI into collaboration adjacent verticals as well. In Q4, we agreed to acquire BrightHire, a leading AI-powered hiring intelligence platform that elevates every stage of the hiring process enhancing one of the most critical business workflows while strengthening our collaboration platform.\nThe same AI innovation powering how teams collaborate also transforming how companies engage their customers and Zoom Communications, Inc. is at the center. Customer experience is one of our fastest-growing businesses and an important long-term growth vector for Zoom Communications, Inc. In Q3, customer experience delivered a phenomenal quarter with ARR continuing to grow in the high double digits. And early in the quarter, we were honored to be included in the 2025 Gartner Magic Quadrant for contact center as a service only three years after launching Zoom Contact Center. Within customer experience, AI has become a clear differentiator, creating additional monetization opportunities.\nNine of our top 10 CX deals involve paid AI, such as Zoom Virtual Agent or AI Expert Assist, as enterprises use Zoom Communications, Inc. to deliver faster, more personalized service. For example, SolarWinds, LegalShield, and Bromcom chose Zoom Communications, Inc. to replace fragmented legacy systems with one unified AI-first platform. They turned to Zoom Communications, Inc. for its integrated approach across workplace, phone and contact center, and for the innovation of Virtual Agent 2.0, which helps simplify operations and enable faster, more intelligent customer engagement. We're encouraged by the rapid momentum of our CX portfolio, reflected in external recognition and customer wins, and driven by our AI differentiation and deep workplace integration.\nThis progress advances our platform strategy to deliver a unified solution and expand long-term growth. In summary, we're executing a clear plan. AI-led innovation, platform expansion, and disciplined, durable growth. We're pairing innovation with financial rigor, delivering strong profitability and cash flow while investing for long-term growth. With accelerating adoption and marquee enterprise partnerships, we're turning our AI momentum into measurable value for customers and shareholders. Now let me turn it over to Michelle Chang to take us through the financials. Michelle,\nMichelle Chang:\nThank you, Eric, and hello, everyone. I'm excited to share Zoom Communications, Inc.'s Q3 FY26 financial performance today. In Q3, total revenue grew 4.4% year over year to $1.23 billion or 4.2% in constant currency. This result was $15 million above the high end of our guidance. Our enterprise revenue grew 6.1% year over year, representing 60% of our total revenue. Up one point year over year. Our online business continues to show signs of stabilizing, In Q3, average monthly churn was 2.7%. In line with Q3 of last year, and at an all-time low. In our enterprise business, we saw 9% year over year growth in the number of customers contributing more than $100,000 in trailing twelve-month revenue.\nThese customers make up 32% of our total revenue, up one point year over year. Our trailing twelve-month net dollar expansion rate for enterprise customers in Q3 continues to hold steady at 98%. Pivoting to our growth internationally. Our Americas revenue grew 5% year over year, EMEA grew 3%, and APAC grew 4%. Moving to our non-GAAP results. Which excludes stock-based compensation expense and associated payroll taxes, acquisition-related expenses, net gains on strategic investments, net litigation settlements, and all associated tax effects. Non-GAAP gross margin in Q3 was 80% up 117 basis points from Q3 of last year. Primarily due to cost optimization efforts. We remain focused in the near term around balancing investments in AI, with cost efficiencies.\nNon-GAAP income from operations grew 11% year over year, to $507 million. Exceeding the high end of our guidance by $37 million. Non-GAAP operating margin in Q3 was 41.2%, up 234 basis points from Q3 of last year. The operating margin improvement was driven by ongoing cost management and timing of spend. Non-GAAP diluted net income per share in Q3 increased to $1.52 on approximately 305 million non-GAAP diluted weighted average shares outstanding. This result was $0.08 above the high end of our guidance, and $0.14 higher than Q3 of last year. The EPS growth reflects strong business performance, effective cost management, as well as anti-dilution, driven by our buyback program, and our disciplined stock compensation management.\nTurning to the balance sheet. Deferred revenue at the end of Q3 grew 5% year over year, to $1.44 billion towards the high end of our previously provided range. In Q4, we expect deferred revenue to be up to 4% to 5% year over year. Looking at both our billed and unbilled contracts, our RPO increased 8% year over year to $4 billion. We expect to recognize 60% of the total RPO as revenue over the next twelve months, down one point year over year. Operating cash flow in Q3 grew 30% year over year to $629 million representing an operating cash flow margin of 51.2%.\nFree cash flow margin in the quarter grew 34% year over year to $614 million. Representing a free cash flow margin of 50%. Up 11 points year over year. The year over year increase in free cash flow margins was driven by improvements in the collection process, as well as stronger billings. We ended the quarter with $7.9 billion in cash, cash equivalents and marketable securities excluding restricted cash. Under the pre-existing $2.7 billion share buyback plan, in Q3, we purchased 5.1 million shares for $414 million. As of the end of Q3, we repurchased 32.5 million shares for $2.4 billion. Turning to guidance. In Q4, expect revenue to be in the range of $1.23 to $1.235 billion.\nThis represents approximately 4.1% year over year growth at the midpoint. We expect non-GAAP operating income to be in the range of $477 to $482 million representing an operating margin of 38.9% at the midpoint. Our outlook for non-GAAP earnings per share is $1.48 to $1.49 based on approximately 305 million shares outstanding. For the full year of FY26, we are excited to raise both our revenue and profitability guidance. Now expect revenue to be in the range of $4.852 to $4.857 billion which at the midpoint represents 4.1% year over year growth. We now expect our non-GAAP operating income to be in the range of $1.955 to $1.96 billion representing an operating margin of 40.3% at the midpoint.\nIn addition, our outlook for non-GAAP earnings per share and FY26 is increasing to $5.95 to $5.97. Based on approximately 308 million shares outstanding. As a reminder, future share repurchases are not reflected in share count and EPS guidance. With the strong free cash flow results in Q3, and increased outlook for operating income in FY26, we now expect free cash flow to be in the range of $1.86 to $1.88 billion for the full year. Which at the midpoint represents approximately 3.4% year over year growth. As indicated in our press release today, we are also excited to announce our board has authorized an incremental $1 billion share repurchase.\nThis reinforces our board and management team's confidence in Zoom Communications, Inc. as we continue to leverage our strong cash flow and balance sheet to drive shareholder returns. In closing, we've made progress improving top-line growth, we've sustained best-in-class profitability, and we've reduced dilution. We're executing on our three priorities, with discipline and momentum, and remain committed to building on this success to deliver lasting value for our shareholders. Thank you to our customers, investors, and, of course, the entire Zoom Communications, Inc. team. For your trust and support. With that, Megan, please queue up the first question.\nOperator:\nThank you, Michelle. We will now begin the",
+  "qa_turns": [
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Tyler Radke",
+      "text": "Alright. Hey, everyone. Thanks for taking the question. So really nice to see stabilization and acceleration in the business as well as the margin expansion. Just a multiparter here on growth. So can you if we look at Q4, you know, the outlook looks very strong. How should we be thinking about that as a jumping off point? Into next year? And I ask because I know there were some price increases that you took on the online business this year. How do you think about pricing, heading into next year? And then know, big picture, you're you're kinda near that 5% growth mark. Certainly, it should be by Q4. What do you need?\nWhat are sort of the stepping stones to get back to a 10% growth over the long run? Thank you.",
+      "turn_index": 0
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Michelle Chang",
+      "text": "Yeah. I can jump in and take that one. First of all, we're not we're not sort of at our plan planning process, to the stage of giving FY27 guidance. We're gonna go ahead and do that as per the normal kind of Zoom Communications, Inc. process in February. With that said, maybe to touch on a couple of your questions and with more specifics. Any pricing kind of element we would we always try and give real clarity to investors. If we choose to do that, you would also get that. In the February time zone. Maybe let me just pause a little bit and share some thoughts about how we think about kinda long-term growth.\nFirst, with this latest forecast, you know, enterprise will continue to be the predominant growth driver. With this latest round, you'll see that, we do expect online to be a slight increase on the full year. And, really, the elements that investors should have, top of mind as they think about growth path for '27 or even beyond that, are the same elements that we've been talking about, first and foremost, stability stabilization, excuse me, churn. And then product diversification, moving up market, and really those three priorities are gonna be also, you know, the predominant drivers and focus of growth going forward. Thank you.",
+      "turn_index": 1
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question is from Michael Funk with Bank of America.",
+      "turn_index": 2
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Michael Funk",
+      "text": "Yes, great, great. Thank you for the question. Maybe a related question asked slightly different way. So looking at the enterprise, net dollar expansion you reported, still below 100%. Clearly an opportunity to help drive top-line growth if that does improve. Several competitors though noted they're continuing to see post-COVID seat-based contraction. So, you know, this can you peel apart the pressure on ND and if you're also seeing post-COVID seat-based contraction if you are, you expect that to turn and maybe contribute to more positive top-line growth?",
+      "turn_index": 3
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Michelle Chang",
+      "text": "First, thanks for the question. But we're pleased, you know, after six quarters to see the net dollar expansion stabilizing. We're not gonna get sort of guide to inflection, but certainly inflection, is the goal. What I would say in terms of how to think about it, maybe just a continued reminder for investors, that when we have products like contact center, Workvivo, they tend to bring in new customers to Zoom Communications, Inc. Those will obviously take a little while, to play through the dynamic of the metric.\nBut, overall, you know, in terms of your maybe more question about seat count, that's not something that we've seen be a huge element to our quarter, certainly always customers here and there will have seat pressures, but we've seen overall a very strong macro demand.",
+      "turn_index": 4
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Michael Funk",
+      "text": "Great. Thank you, Michelle. Thank you, Eric.",
+      "turn_index": 5
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Eric S. Yuan",
+      "text": "Thank you.",
+      "turn_index": 6
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question is from Rishi Jaluria with RBC Capital Markets.",
+      "turn_index": 7
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Eric S. Yuan",
+      "text": "Rishi, are you there?",
+      "turn_index": 8
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Rishi Jaluria",
+      "text": "There we go. So my apologies on that. Thanks so much for taking my questions. May maybe just one simple one for me. Coming out of Zoomtopia, there was conversation around M&A, and I know you've done some two small tuck-ins right now. Is this just how kind of how we should be thinking about M&A for you going forward in terms of it'll be more technological a little tuck-in nature, obviously, accelerating your AI road map. Or, you know, is there a potential for maybe more transformational M&A? Thanks.",
+      "turn_index": 9
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Michelle Chang",
+      "text": "Yeah. Thanks, Rishi, for the question. You know, really, I would say our thoughts on M&A are very consistent to kind of what I've said previously. Really no change, just to update investors. But let me go ahead and recap them, just for everybody's knowledge. First of all, is that we're gonna be very thoughtful and disciplined in both acquisitions and integrations. We're gonna make sure that they're strategically aligned with synergies. And, obviously, coming with sound financials. And for Zoom Communications, Inc., that typically will mean small to medium-sized investments. Think of the Bonsai and BrightHire. M&A as small in nature. If helpful. So we'll be in Okay. Helpful. Thank you so much. All the way up to medium.",
+      "turn_index": 10
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Rishi Jaluria",
+      "text": "Alright. Thank you.",
+      "turn_index": 11
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from Josh Baer with Morgan Stanley.",
+      "turn_index": 12
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Josh Baer",
+      "text": "Excellent. Thank you. Thank you very much for the question. Congrats on the beat and race. I wanted to double click on growth enterprise growth, from one more angle. Just really double clicking on Zoom Phone, ARR, which is growing mid-teens, customer experience. High double-digit growth, Workvivo, you have rapid growth there. Could you walk through each of those growth areas just wondering how you think about the sustainability of those growth vectors?",
+      "turn_index": 13
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Michelle Chang",
+      "text": "Yeah. Maybe I can take that one. And maybe I'll use the opportunity as well and judge just to call out to investors. We made a slight tweak to the three priorities that we've been highlighting to Really two themes of what we were trying to get across. One, AI in all of our priorities, and two, really just sharpening kinda the language with which we talked about our priorities. So let me, introduce them or reintroduce them the same as what Eric S. Yuan talked about in his script and give an update to sort of get at your product-specific question. The first one is really about elevating, workplace with AI.\nAnd, broadly, what that means is AI over the entire meeting life cycle And the things that I would think about in terms of growth and progress that we saw in three there, our continued progress against churn. Is the fifth consecutive quarter on enterprise for year over year declines on churn, and then you obviously heard the call out, in online for record low churns. But not just that. It's it's the Zoom Phone And increasingly, how much AI comes up in our win rates You see it in the 10 million seats in the mid-teen growth. Second big priority for us is to drive new products with AI.\nOh, I should mention on the previous one, also integral to that sort of sets up the second one is getting that AI usage going. And so that's where you know, we continue to see four times year over year MAO increase in our AI. When it comes to new products in AI, we have sort of the horizontal that builds off that AI usage, and you see the big in Salesforce and Oracle. Still early days, but pleased to see that in our second quarter end building up the names we shared last quarter. And, certainly, then there's vertical. Be it our ZRA product or our new, BrightHire acquisition.\nAnd then last, to kinda get at your contact center question, or comment, is really to, you know, scale AI-first customer experience, whether that's agent-assisted or virtual agent. Really, they're what you're seeing, you know, called out by Eric S. Yuan in his script, is strong, high digit, double-digit, excuse me, revenue growth. Customer growth in the 60 plus percent, and then also just in the nature of the deals strong AI preference. Nine of the top 10 deals pulling AI. Many pulling both virtual and our agent-assisted. So a lot that we're excited about is we pivot to growth going forward. Update on our product side.",
+      "turn_index": 14
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Josh Baer",
+      "text": "Great. Thank you. Yep.",
+      "turn_index": 15
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Next up, we'll hear from Ryan Williams with Wells Fargo. Hey, guys. Good to see you again.",
+      "turn_index": 16
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Ryan Williams",
+      "text": "Really cool to see the AI avatar in the in the prepared remarks. You know? Maybe one day, I'll be asking AI Michelle about growth next year. Just kidding. We'll find our bots, Ryan, to talk to one another.",
+      "turn_index": 17
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Ryan Williams",
+      "text": "So Yeah. AI Mac, I don't know if you can recreate the Philly accent, but just historically. One for Eric S. Yuan, actually. So Zoom Communications, Inc. is a really strong product blog And as product development timelines shrink even further with agent coding, think this offers Zoom Communications, Inc. the opportunity to build more product density into your existing products with new features or expand into new product categories?",
+      "turn_index": 18
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Eric S. Yuan",
+      "text": "Well, Ryan, that is a great question. I think in the in the AI era, I think every you know, businesses Right? And are facing the similar challenge and also the great opportunities. So the innovation speed is unprecedented. Look at the way engineer write a code. Look at our marketing team, how they lab the AI to automate the process. You know, we go to leverage AI to reinvent everything. The good news, you know, I have a engineer background. Right? And I think, you know, I have to. You know? And also I also determined. Right? To spend way more time than any time in my career to double down, triple down on the product side.\nI think there's a huge opportunity. You know? Meaning, we have to change the company culture. And make sure every engineers. Right? The way they write a code is totally different. The way they troubleshoot. Right, the test also is very different. They need to make sure every engineer even if the writer that tens of a thousand lines of code before, they have to embrace AI now. Back to your question, I truly believe the innovation speed will be much faster. You know, to build a new features and new services. Right? I think that's the opportunity. And we are much better positioned Right? And, again, I'm figuring out a way really, you know, spend more time on that.\nThat's the reason why I can tell you I couldn't be couldn't be more excited now. You know, finally, I think, you know, we are going back to the early days of Zoom Communications, Inc. On the product, live the AI, build it in a in a video services. You know? And you are so right. So",
+      "turn_index": 19
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Ryan Williams",
+      "text": "Appreciate the color. Thanks, Eric S. Yuan.",
+      "turn_index": 20
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you. Our next question comes from Patrick Walravens with Citizens.",
+      "turn_index": 21
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Patrick Walravens",
+      "text": "Oh, great. Thank you. Let me add my congratulations. I love the accent that you picked, Eric S. Yuan. Don't know what it was, but it was fantastic. Can you go into some detail and help us understand exactly how the, Salesforce win works? Like, Eric S. Yuan, if you're if you're sitting there with Benny off, how do you how do you pitch it? Right? And then, it just gives us some details on how it changes the experience. For people at Salesforce.",
+      "turn_index": 22
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Eric S. Yuan",
+      "text": "Yeah. So, you know, Salesforce is a good company. Market is good friend, also was our investor. Right? Pretty sure he'd think about AI every day as well. Look at it at Salesforce event. Right? The June force is very successful, the agent force event. Very successful. Right? So they have agent force framework. You know, they also have a customer. How to integrate our AI company. I mean, sorry, customer and AI company. Right? To integrate with the agent force, you know, the framework. Essentially, we drive productivity. Right? Because, you know, they're they have a genetic, you know, the framework by Aviso. Our customer company.\nYou know, together, for sure, that's a no brainer, right, to integrate it together. You know, given our customer, why not, right, to enable this feature? That's how know, this conversation started. That's the reason why you know, they decided to, you know, move forward with the customer company. More and more customer realized the potential of not only for Zoom Communications, Inc. Air company, but also the customer to Air company. I think that's the reason why, you know, in the next month, you know, we are going to know, and announce our Zoom Communications, Inc. AI company, GA. Right? So a lot of opportunity ahead of us. Salesforce, again, just one example.",
+      "turn_index": 23
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Patrick Walravens",
+      "text": "Alright. Thank you.",
+      "turn_index": 24
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Eric S. Yuan",
+      "text": "Thank you. Yeah. I will invite you to test our AI combined in. Next month whenever we reach GA. So I'm pretty excited. So our employee really like that too.",
+      "turn_index": 25
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from Alex Zukin with Wolfe Research.",
+      "turn_index": 26
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Alex Zukin",
+      "text": "Hey, guys. Thanks for having me on. And Eric S. Yuan, I'd love to test out that virtual avatar when it's ready for GA. Maybe just a quick one for you and a and a quick one for Michelle Chang. For you, Eric S. Yuan, when you think about AI monetization, that you're seeing in the business and in the quarter, and in the coming quarters. Maybe talk about that a little bit. And then, Michelle Chang, for deferred revenue was a little bit light of your high end of your guide this quarter. But it seems like it's actually a pretty strong guide for next quarter.\nWas there anything that shifted from one quarter to the next or pushed out or pulled in that maybe explains that?",
+      "turn_index": 27
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Eric S. Yuan",
+      "text": "Yeah. So, yeah, Alex Zukin, by the way, the virtual Harvard feature already is there. Right? This is the third know, times I'm using my AI avatar for our earning call. Right? As it free up a lot of my time. I really love that. So back to your question, to monetize the AI as a mission. Right? You look at the few priorities. Right? You know, elevate the Zoom Communications, Inc. work with this with AI. A double down on those the AI centric product. You look at our horizontal collaboration suite. In AI combining as a mission. Right? Is look at the usage year over year only four times more. But customer AI combining, we can monetize.\nForm a sales team. And, also, we are gonna have introduced the new SKU to monetize AI company as well online. And that is on one hand. On the other hand, we also have a vertical services. Like, know, Zoom Communications, Inc. contact center, right, and virtual agent, right, Zoom Communications, Inc. AI assistant. Right? Also the Zoom Communications, Inc. running accelerator for each of those department applications in the vertical market solutions like Zoom Communications, Inc. workplace for educators. Right? And clinicians and also for the front end workers. You know, a lot of AI features already built in. We can monetize. Not automation, Zoom Communications, Inc. AI combined in suite. At all will be ready next month.\nI think almost everywhere And we can leverage AI, improve productivity, improve the feature At the same time, we also can monetize as well. It's not a single thing. Right? We or single product we want to monetize. Or it's almost everywhere across the entire product portfolio. You know, back to the broader high, the acquisition. The reason why we acquired that company also is Lever dot AI. To improve the hiring as well. So, essentially, AI is a foundation for us. You know, we can monetize, we can innovate. So",
+      "turn_index": 28
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Michelle Chang",
+      "text": "Yeah. And if helpful, Alex Zukin, maybe just tag on to Eric S. Yuan, and then I'll hit your deferred revenue question. We produced Zoomtopia as sort of a framework of AI monetization because it does kind of, monetize indirectly and directly in different ways. You know, happy to share that with investors after. And to Eric S. Yuan's point, as you go through that framework that we shared with investors, progress on every single trend in the third quarter. To your deferred revenue question, look, we ended upper end of the range, gave a very consistent guidance in Q4, so nothing really to call out. Know, results were sort of as expected on the deferred revenue.\nThank you, Alex Zukin.",
+      "turn_index": 29
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thanks, Alex Zukin. Our next question comes from Timothy Horan with Oppenheimer.",
+      "turn_index": 30
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Timothy Horan",
+      "text": "Patient with other.",
+      "turn_index": 31
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Michelle Chang",
+      "text": "Other apps that are really important to kind of improve on your overall productivity strategy. Or software? Thank you.",
+      "turn_index": 32
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Michelle Chang",
+      "text": "First part of the question, I'm so sorry. Cut out. Can you would you mind repeating them just so Yeah. Sure, Michelle Chang.",
+      "turn_index": 33
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Timothy Horan",
+      "text": "An important part of the strategy, I think, is to integrate with other productivity software apps. Can you talk about some of the most critical ones and where you are in that process?",
+      "turn_index": 34
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Michelle Chang",
+      "text": "Yeah.",
+      "turn_index": 35
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Eric S. Yuan",
+      "text": "Eric S. Yuan, you wanna take that?",
+      "turn_index": 36
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Eric S. Yuan",
+      "text": "Sure. I think, first of all, you know, we have we are way beyond video conferencing. Right? So we have so many other services we would like to, you know, integrate it. And at the same time, you know, it's you get the ecosystem. Right? We do integrate with Google ecosystem well. And Microsoft ecosystem well as well. And plus, you know, ServiceNow, Salesforce, Right? We all work on the integration. and Atlassian, you know, all those popular productivity tools. Again, this is the open ecosystem. And, also, we listen to our customer very carefully. And whenever know, they tell us, hey. Then, you know, more integration, we also work on that as well. So",
+      "turn_index": 37
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Timothy Horan",
+      "text": "And is AI making that easier or harder at this point?",
+      "turn_index": 38
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Eric S. Yuan",
+      "text": "Easy and harder. Meaning, the reason why easy for sure, for a execution perspective, for sure easier. The harder part, because of AI, every cost they want to tell us, hey. The AI error, can you integrate more? Right? Can you release the, you know you know, timely manner. Right? So the requirement also is different. Right? So from that perspective, a little bit harder. But it really boils down to execution. So I have a confidence our team can deliver. So",
+      "turn_index": 39
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Timothy Horan",
+      "text": "Thank you.",
+      "turn_index": 40
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Eric S. Yuan",
+      "text": "Thank you.",
+      "turn_index": 41
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question is from Seth Gilbert with UBS. Hey, thanks for the question.",
+      "turn_index": 42
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Seth Gilbert",
+      "text": "Free cash flow is a bit above what we in the street were model and free cash flow margin hit 50%. I'm curious if you call out anything additional here. Were there any one-time benefits to free cash flow? Thank you.",
+      "turn_index": 43
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Michelle Chang",
+      "text": "Yeah. Thanks. Thanks for it. Obviously, we're pleased you know, with the Q3 results, and as such, it made sense to update the full year guidance as well. So I'm pleased with the overall progress, frankly, that we made since the beginning of the year. Kind of guidance. That said, to your questions specifically on the one-time you know, look, there are very durable, results as part of that. You see that, obviously, in our in our core financials.\nThe one thing that we did put in script that I would make sure I emphasize with investors is we made some changes as part of our collections process, really looking at that more end to end as a new CFO coming in. And as a result, we were able to make real notable progress on DSO. Those are sustainable. Changes to our DSO, but, obviously, you won't continue to see that marked progress as we go forward, meaning it won't continue to accelerate off that. So you can kind of think about that as durable but one time a bit in nature.",
+      "turn_index": 44
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Eric S. Yuan",
+      "text": "Got it. Thank you. Yeah.",
+      "turn_index": 45
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Eric S. Yuan",
+      "text": "Yes. That's by the way, our CFO, she did a great job. Really drive her team. Right? You know, dramatically improve our, you know you know, collection process. This is very sustainable. So",
+      "turn_index": 46
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Seth Gilbert",
+      "text": "We agree.",
+      "turn_index": 47
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Eric S. Yuan",
+      "text": "Yeah.",
+      "turn_index": 48
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Eric S. Yuan",
+      "text": "Thank you.",
+      "turn_index": 49
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Next, we'll hear from James Fish with Piper Sandler.",
+      "turn_index": 50
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "James Fish",
+      "text": "Hey, guys. Thanks for the question. Maybe, Eric S. Yuan, for you on BrightHire, Is this the start of expanding into other mission critical business workflows? Or how should we think about I'm not asking about the M&A strategy, but more about that sort of broader platform expansion. And, Michelle Chang, how should we think at this point about, the duration of the overall installed base? Thanks.",
+      "turn_index": 51
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Eric S. Yuan",
+      "text": "Well, this is a great question. So and my great friend, Kramer, you know, he made a comment recently. Right? And he wishes Zoom Communications, Inc. would be Zoom Communications, Inc. would become more than just Zoom Communications, Inc. Right? And that's actually that's our strategy over the past few years. You know? You know, double down on Zoom Phone, you know, launched Zoom Contact Center, and leverage our technology, right, to focus on those business mission critical use cases. Or we are already doing that already over the past few years. Broader high a Broader high acquisition is just you know, another way for us. To double down on business mission critical applications. We cannot build everything by ourselves.\nRight? Why not? Right? So we do not have a greater remote hiring solution to target you know, HR remote hiring use case. Right? Broadhire fits very well to our strategy. You will see that more and more, we are going to elaborate AI because data AI and focus on those business mission critical use cases. We more than just video conferencing, and this is all the orchestrated or the possible past few years, and we are gonna continue that strategy. So your comment is right, hon.",
+      "turn_index": 52
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Michelle Chang",
+      "text": "And just so I get to your question on install base was in regards to BrightHire? Or No. I it was a separate question around the duration that you're seeing because it seems as though you guys are doing pretty well on sort of cross sell of existing products, and you're seeing that show up also on the long-term RPO driving some growth here on the on the overall RPO. So just trying to understand where the duration of the of the enterprise contracts has gone.",
+      "turn_index": 53
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Michelle Chang",
+      "text": "Yeah. Look. I think, you know, look. Many quarter to quarter, you're gonna see fluctuations. We've had a very consistent RPO trend in the current I'm very pleased with the current quarter RPO that went up. Which really reflects a couple large contact center and AI deals in particular. And so look, I would say it varies from quarter to quarter, but we're very pleased with the upsell progress that we have relative to our upsell base as well as kind of what I was referencing earlier, which is bringing in new customers. To the Zoom Communications, Inc. ecosystem. And, you know, in particular to the duration of deals, I would say sort of a stabilized.\nThere's obviously AI and contact center that brings in sort of longer-term nature of contracts, but a relatively stable trend within.",
+      "turn_index": 54
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question is from Mark Murphy with JPMorgan.",
+      "turn_index": 55
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Mark Murphy",
+      "text": "Hey. This is Artie on for Mark Murphy. Thanks for taking my question and congrats on the strong quarter. We recently spoke with a Zoom Communications, Inc. partner who is very positive on Zoom Communications, Inc.'s products. Pricing, just overall, value prop. And they kinda called out particular momentum within the mid-market legacy migrations, adoption of contact center AI products. From where you sit, are you seeing this relative strength in the mid-market segment as well? Thanks.",
+      "turn_index": 56
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Michelle Chang",
+      "text": "Yeah. I would say to that end, I think, we are. We're seeing strong uptick of AI usage as well as strong uptick of use in our three plus products. And, certainly, this is, I would say, is a sweet spot for Zoom Communications, Inc. from small business down to low end enterprise and something that we're pleased with the results that we're seeing. Then I think you can see play out, in many of our financial metrics.",
+      "turn_index": 57
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Eric S. Yuan",
+      "text": "Yeah. By the way, to add on to what Michelle Chang's side the reason why that middle market of a sweet spot is, number one, know, those middle market customers, they really embrace technology fast than any other segment. Right? Two, you know, middle market customers really truly care about employee experience. Right? And really they really wanna deploy the best solution is a much better, you know, total cost of ownership. That's the reason why that's our sweetest sport. That's the reason why we're winning. Over there. So Thank you, Mark Murphy.",
+      "turn_index": 58
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Mark Murphy",
+      "text": "Great. Thanks, Eric S. Yuan and Michelle Chang.",
+      "turn_index": 59
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question is from Citi Panigrahi with Mizuho. Hi. Thanks, guys. This is Chad TVB on here for Citi Panigrahi. Just wondering if you could touch on sort of the broader demand environment. I know there were some moving pieces earlier in the year, sort of how that shaped out during the quarter? And expectations for the rest of the year?",
+      "turn_index": 60
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Michelle Chang",
+      "text": "Yeah. So, look, I think, in the quarter, we saw further improvement. I think we see it in metrics like our customers over a 100,000, you know, growing at 9%. Look. That doesn't mean that we're not gonna see some, you know, seat pressure like we talked about earlier, where that's certainly our business model, and we won't be immune. But we saw broad consistent demand across both enterprise and online. And full abatement, if that was your specific question to what we referenced in our Q1 earnings. So with respect to our forecast, it assumes, similar conditions to what we saw. In the third quarter. And maybe to end with sort of where Eric S.\nYuan left us in the last quest You know, at Zoom Communications, Inc., what we're gonna focus on is not know, any conditions from one day to the next, given we are in a dynamic environment. But on providing sustainable TCO and business value our customers. So sort of in the line of in uncertain conditions, you control what you can control. And to Eric S. Yuan's point earlier, we have a fantastic TCO story that we're leaning in on. Our customers.",
+      "turn_index": 61
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Chad TVB",
+      "text": "Awesome. Thank you.",
+      "turn_index": 62
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Eric S. Yuan",
+      "text": "Yeah.",
+      "turn_index": 63
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Next, we'll hear from Jackson Adair with KeyBanc.",
+      "turn_index": 64
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Jackson Adair",
+      "text": "Great. Guys. Good to see you. Thanks for taking our question. Michelle Chang, on the know, call it the nonrevenue top line metrics. You've talked about billings. You've talked about RPO. I'm just curious, like, you know, as you shift more of your business toward the enterprise, when should we expect you know, those nonrevenue metrics to start to outgrow maybe your overall revenue metrics. On the top line?",
+      "turn_index": 65
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Michelle Chang",
+      "text": "I mean, in terms of the nonrevenue metrics, I would point to things like our AI usage. I would point to, you know, product momentum type stats to which they already are outpacing our revenue growth. So I don't know. Jackson Adair, correct me if I'm I'm sort of missing your question, but I think those are the sorts of nonspecific explicit revenue drivers that I look at I would say they're already outpacing.",
+      "turn_index": 66
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Jackson Adair",
+      "text": "Got it. No. No. No. That's helpful. Yeah. Just curious about the dynamics there.",
+      "turn_index": 67
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Michelle Chang",
+      "text": "Thanks, Michelle Chang.",
+      "turn_index": 68
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Eric S. Yuan",
+      "text": "Yeah. Just to quickly add, Jackson Adair. You're right. And that's your right. Right? AI usage really number one. You know, the metrics about looking. You know, looking at that every day. The same time, it's CSAT. It's it's not a metric. It's also look at that. Right? The customers are pretty happy. Know, not only for online customers, online bars, SMB, and all the way to enterprise customers. We also manage CSAT as well. So",
+      "turn_index": 69
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Jackson Adair",
+      "text": "Got it. Thanks, Eric S. Yuan.",
+      "turn_index": 70
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Eric S. Yuan",
+      "text": "Thank you, Jackson Adair. Appreciate it.",
+      "turn_index": 71
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Jackson Adair",
+      "text": "See you guys.",
+      "turn_index": 72
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question is from Peter Levine with Evercore.",
+      "turn_index": 73
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Peter Levine",
+      "text": "Great. Thank you for taking my question. Maybe just to follow-up, I think, on Jim Fish's question. If you think about Eric S. Yuan, you mentioned a lot about employee experience on a call. And I look at BrightHire. I mean, is this like the on ramp in into, like, Zoom Communications, Inc. getting into the HR stack if it's interviewing, onboarding, you know, engagement. Just curious if you can maybe just talk about how you view you know, is this beyond what happened to HR? And then if you think about other segments that you can get into, like, can you maybe just help us understand, like, where else Zoom Communications, Inc. can go, with the platform expansion?",
+      "turn_index": 74
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Eric S. Yuan",
+      "text": "Well, Peter Levine, this is a great question. So look at our core competency. Look at our technology, right, in the collaboration and the productivity suite under the AI. Is our core technology. And how to apply those technologies. Right? Into the use case? That's kind of every you know, quarter, every year we are looking to. Right? Now the reason why you know, few years ago, we introduced the contact center. Essentially, to targeted support, you know, IT help desk those kind of use cases department. We also have Zoom Communications, Inc. revenue accelerator. Right, to target a sales department. Right? We also have Zoom Communications, Inc. webinar also target a marketing department. You look at HR.\nYou know, HR is, you know, is the I would say it's a huge use case. We are not gonna focus on every use case at all, but we're focused on the remote hiring. Right? Because we can leverage our technology. That's a very different use case. Right? For those easy department, you know, how to leverage our product AI and data, right, to improve the use case. That's our focus. Including the vertical segment as well. You know, like, educators, clinicians as well. So, you know, you know, if we understand our strategy, you know, expanding strategy, you look at which department, which vertical market, might benefit from our technology AI and data. Right?\nThat's kind of thing we are going to focus So, you know, remote hiring, broad hire for sure, you know, fits very well. To our strategy for expansion. So",
+      "turn_index": 75
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Peter Levine",
+      "text": "Thank you very much.",
+      "turn_index": 76
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Eric S. Yuan",
+      "text": "Thank you, Peter Levine.",
+      "turn_index": 77
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question is from Tom Blakey with Cantor Fitzgerald.",
+      "turn_index": 78
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Tom Blakey",
+      "text": "Eric S. Yuan and Michelle Chang, thank you for taking questions. I have for you, Michelle Chang. Eric S. Yuan, you were couple of quick ones. Really just one for you, Eric S. Yuan, and a clarification you know, key in leading the charge in terms of, the higher pricing tiers in CX. It's great to see the success you've had you're having there. So another Zoom Communications, Inc. heritage is just disrupting markets and terms of technology and pricing and products. You have some peers CX market. in CX talking about maybe possibly disrupting the CX market with regard to consumption-based pricing.\nI would love to hear your comments in terms of some forward-looking possible kind of statements there in terms of, how Zoom Communications, Inc. could compete in a consumption-led And just, Michelle Chang, from a from a clarification perspective, think you made some comment about online growth kind of up thinking Off of fiscal three q, maybe possibly in fiscal four q. You know, and there was a decel in enterprise. Could you maybe clarify what we Possibly could expect in terms of that mix would be helpful in fiscal four q? Thank you.",
+      "turn_index": 79
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Eric S. Yuan",
+      "text": "Yeah. Yeah. Tom Blakey, thank you for a good question. But just curious, your background is your background or real? I'm so jealous. It's so beautiful. That is that is as fake as it can be.",
+      "turn_index": 80
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Tom Blakey",
+      "text": "Oh my god. I even do not know how it I cannot work so well. I did not realize that's real how people buy. So, anyway, let your yeah. Thank you. So back to your question. So you are so right, Remember, I was Zoom Communications, Inc. accounting center general manager for a while. Right? Very excited about our contact center workforce management and portal management. Right? You know, those product over the past few years. Guess what? And because of AI, know, we have Lever AI introduced a new product, which is a virtual agent. It's a chat-based agent or the voice agent. You know? I feel like it has become more and more important. Right?\nAnd because we have a boats, You know? We have, you know, the traditional contact center solution. We have a virtual agent solution. Terms of consumption of the business model, I think it fit very well. To our virtual agent. Right? And because, you know, like, customer deploy technology. Right? How often the user virtual agent how many times use a virtual agent. Right? So, you know, we gotta do, you know, based on, you know, how happy a customer they are right, for every call. Right? If a virtual agent can truly help address the customer issues, you know, customer should pay for us. Otherwise, they should not. Because you fall back to the traditional the agent distribution. Right?\nI think from that perspective, what indeed are thinking about, the consumption-based model for the virtual agent or AI-based agent technology. And, yeah, we're working on that. This is a great question. So",
+      "turn_index": 81
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Michelle Chang",
+      "text": "Thank you. Just to clarify, the virtual agent, well, our agent-assisted product is a per user model. Our ZVA product that Eric S. Yuan is referencing is already a consumptive business model. And, certainly, then I think many in the industry talk about tying it more to outcome-based, and then, you know, we obviously are looking into that. But I just wanna make sure it was clear that we are already consented based on our ZBA product. To my to my comments, to clarify on the online, was just with one more quarter clarity and the full year guidance out there, full year guidance of 4.1% at the midpoint.\nAll I was trying to do in my comments is say that we've used consistent forecast methodology And previously to the investors, we've been saying sort of flattish online revenue. And, obviously, with now most the year playing out and the results realized in the online, We're just adjusting that to a tweak of slightly increasing. That's all.",
+      "turn_index": 82
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Tom Blakey",
+      "text": "Super helpful. Thank you, Michelle Chang. Thank you,",
+      "turn_index": 83
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Eric S. Yuan",
+      "text": "Thank you, Tom Blakey.",
+      "turn_index": 84
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question is from William Power with Baird. Great. Thanks for taking the question.",
+      "turn_index": 85
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "William Power",
+      "text": "Eric S. Yuan. Maybe let's stick with your contact center GM hat for a moment. Can you maybe remind us and maybe update us where we are on contact center go to market? Where are you in terms of the opportunity in terms of channel partner reach? And I guess if you extend that the opportunity outside The US, US versus international, and I assume international is still on the on the earlier front.",
+      "turn_index": 86
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Eric S. Yuan",
+      "text": "Yes. So William Power, by the way, I was the current energy. I'm I'm not that anymore likely. So you know, if I do that and maybe focus on the virtual agent, You know? But, anyway, so back to your question, I think know, for you know, look at our you know, the customers, right, you know, suited to our platform. You know, last quarter, you know, many of them are switching from other cloud vendors. To Zoom Communications, Inc. Contact Center. Right? That's The Reason Why Channel And Partners Are Becoming A Most Important Go To Market Strategy For Our Content Center Solution. We Are Doubling Down Not Only For US market, for international market as well.\nBecause the content center is very different buyers, and the channels become increasingly important. We already invested there now and also we're going to invest more. Right? And for the know, in terms of the virtual agent, and not only do we leverage the our sales team channel partners, we're also thinking about the product led growth. You know, guess what? Some developers, you know you know, for, like, let's say, take a SMB customers. You know, they can leverage our API. You know, deploy those virtual agent and technology by Right? That's why I think about how to monetize center to leverage our product led growth to target developers as well. So",
+      "turn_index": 87
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Michelle Chang",
+      "text": "And if helpful, maybe just to punctuate Eric S. Yuan's comments to your GTM question. In particular. We look at top 10 deals in contact center as sort of a of the demand and the customer signal that we see. If helpful, nine out of 10 of our largest deals were channel driven. So a very important investment to us and one that we're very pleased with the results.",
+      "turn_index": 88
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "William Power",
+      "text": "Great. Thank you.",
+      "turn_index": 89
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Eric S. Yuan",
+      "text": "Thank you.",
+      "turn_index": 90
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Next, we'll hear from Arjun Bhatia with William Blair. Thank you. This is Alinda on for Arjun Bhatia. A question here on like, what type of customers are adopting custom AI companions in particular, and what incremental value are they seeing from the custom AI companions versus customers using the free AI companions?",
+      "turn_index": 91
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Eric S. Yuan",
+      "text": "I think we you know, for sure, we wanted to, you know, SMB medium size all the way to enterprise customers adopt customer companion as quickly as possible. But to start off is, we focus on the relatively large enterprise customers for customer AI company. You know, the reason why the demand and other reasons is because, you know, look at our you know, the value of a customer We can integrate with customer sort of part applications, You can have a framework and for the data search as well. And a lot of functionality features is beautiful. Those are little bit complicated enterprise use cases. Right? And that's the reason why we start from there.\nSo for sure, we do have you know, we want to introduce the SKU or online buyers as well. To empower the a small and a medium-sized business as well. So",
+      "turn_index": 92
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Alinda",
+      "text": "Thank you. Thank you.",
+      "turn_index": 93
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question is from Catherine Trebnick with Rosenblatt Securities.",
+      "turn_index": 94
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Andrew King",
+      "text": "Hey there. This is Andrew King on for Catherine Trebnick. Thanks for taking the Just since Nick Tidd has come in and started revamping your channel partners program, can you just give us any more color to how that channel partner platform is performing? Obviously, that nine out of 10 is great metric to hear. So any further color there? And then also within that, you were one of the earliest to a partner led, part a professional services, organization. Can you just give us a little bit of color as to how that may be helping you win certain deals?",
+      "turn_index": 95
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Michelle Chang",
+      "text": "Yeah. Maybe I can lay down on that one. So first, you know, for a company that's gonna focus on phone and experience, you know, having a healthy, vibrant channel ecosystem is just part of the game. Meaning, it's how customers opt and wanna buy, They're certainly part of the deployment and services after. And so Zoom Communications, Inc. offers both a deep direct as well as, a three channel. It's also to Eric S. Yuan's comments earlier. I think one of the questions earlier, interval to sort of our international expansion where Zoom Communications, Inc. has, opportunity to go. In terms of how to think about success, I shared the earlier contact center.\nBut, also, we're just very pleased with a lot of the forward-looking metrics that we see with our channel ecosystem. Pipe up 30%, The majority of contact center deals I talked about are coming from partner over 50% of our large phone deals coming from partner. And the types of partners, that are transacting with us is also growing. So all in all, you know, it's been a very big investment. And to my earlier comments, something that we're very pleased with the results.",
+      "turn_index": 96
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Andrew King",
+      "text": "Great. Thank you.",
+      "turn_index": 97
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our final question comes from Peter Weed with Bernstein.",
+      "turn_index": 98
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Peter Weed",
+      "text": "Hey, thank you very much. Know, I guess the Peters on this call are at similar mind. I was really interested in BrightHire and I was appreciated your response around kind of the vertical specific focus that you have, which makes a lot of sense, and I can understand why, you're excited about that. Should we think about that opportunity? Like, when you think of it at, you know, relative to your existing customer base, how much of this is a more of an upsell opportunity to them versus expanding the TAM to new customers?\nAnd when you kind of think about the monetization, how does this add to your stack and really could expand the TAM or generate revenue upside for the business?",
+      "turn_index": 99
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Michelle Chang",
+      "text": "Yeah. Maybe I can take that one. And give you sort of the finance version because Eric S. Yuan talked about BrightHire earlier. First of all, you know, it starts a lot at those critical conversations. One thing Zoom Communications, Inc. is fantastic at is really nailing those critical conversations with our customers. And, look, there couldn't be a more critical conversation for our customers than who and how they hire. It also offers, you know, Zoom Communications, Inc. the ability as AI monetization plays out across different markets to have a very tangible scenario customers where the value point, is very clear and so certainly represents you know, one of those vertical AI monetization scenarios.\nIt's a large and unpenetrated market at roughly $3 billion. And so, certainly, allows us to help them scale. And also then gives us sort of an upsell piece beyond it. And they're a category leader in sort of a large TAM that is growing. So it's something we're very excited about.",
+      "turn_index": 100
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Peter Weed",
+      "text": "Thank you.",
+      "turn_index": 101
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Alright. This concludes the Q&A portion of today's call. I'll turn it back over to Eric S. Yuan for closing remarks.",
+      "turn_index": 102
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Eric S. Yuan",
+      "text": "So yeah. Thank you. Thank you, Megan. Thank you for every investor customer, and partner's greatest support and trust We truly appreciate. Thank you for every Zoom Communications, Inc. employee's hard work and dedication. Wishing you all have a wonderful holiday season. Thank you.",
+      "turn_index": 103
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Michelle Chang",
+      "text": "Thanks, everyone.",
+      "turn_index": 104
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "This concludes today's earnings call. Thank you all for attending, and have a happy holiday season.",
+      "turn_index": 105
+    }
+  ]
+}

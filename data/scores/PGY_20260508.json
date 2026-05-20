@@ -1,0 +1,28 @@
+{
+  "ticker": "PGY",
+  "call_date": "2026-05-08",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.04644542276369243,
+  "cosine_distance": 0.12375543302269243,
+  "sentiment_shift": 0.0070492712849820095,
+  "question_difficulty_mean": 0.2052324899767805,
+  "baseline_mean": 0.02888044074154808,
+  "baseline_std": 0.01646049422602109,
+  "z_score": 1.0670993094713561,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6026162449883903,
+    "call_mean_answer_length": 284.75,
+    "call_hedge_density": 0.022912401787192352,
+    "call_pos_sentiment_mean": 0.21573831513524055,
+    "call_neu_sentiment_mean": 0.7674673646688461,
+    "call_neg_sentiment_mean": 0.016794322757050395,
+    "call_qa_similarity_mean": 0.4958374851220155,
+    "baseline_neg_sentiment_mean": 0.023843594042032405
+  },
+  "generated_at": "2026-05-20T06:33:50+00:00"
+}

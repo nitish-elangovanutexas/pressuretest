@@ -1,0 +1,28 @@
+{
+  "ticker": "CRTO",
+  "call_date": "2026-05-07",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 8.020377783601663e-17,
+  "cosine_distance": 2.220446049250313e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.20401901325330193,
+  "baseline_mean": 8.020377783601663e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.602009506626651,
+    "call_mean_answer_length": 212.0,
+    "call_hedge_density": 0.021054108739418712,
+    "call_pos_sentiment_mean": 0.22209880713905608,
+    "call_neu_sentiment_mean": 0.7596428649766105,
+    "call_neg_sentiment_mean": 0.01825832642082657,
+    "call_qa_similarity_mean": 0.46249665914229704,
+    "baseline_neg_sentiment_mean": 0.01825832642082657
+  },
+  "generated_at": "2026-05-20T05:07:04+00:00"
+}

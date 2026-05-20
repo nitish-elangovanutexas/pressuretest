@@ -1,0 +1,28 @@
+{
+  "ticker": "WD",
+  "call_date": "2026-05-08",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.3309827271392058,
+  "cosine_distance": 0.9027935778914098,
+  "sentiment_shift": 0.07182702445425093,
+  "question_difficulty_mean": 0.16051434281413668,
+  "baseline_mean": 0.0,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5802571714070683,
+    "call_mean_answer_length": 35.0,
+    "call_hedge_density": 0.0,
+    "call_pos_sentiment_mean": 0.6606119871139526,
+    "call_neu_sentiment_mean": 0.32307133078575134,
+    "call_neg_sentiment_mean": 0.01631677895784378,
+    "call_qa_similarity_mean": 0.3968198971325296,
+    "baseline_neg_sentiment_mean": 0.08814380341209471
+  },
+  "generated_at": "2026-05-20T07:27:48+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "COHR",
+  "call_date": "2026-05-06",
+  "quarter": 3,
+  "year": 2026,
+  "pressure_score": 0.017107501780717346,
+  "cosine_distance": 0.04514207585938457,
+  "sentiment_shift": 0.005517070405561516,
+  "question_difficulty_mean": 0.16806354980941673,
+  "baseline_mean": 0.010633389663700426,
+  "baseline_std": 0.005609874594032393,
+  "z_score": 1.1540564781793652,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5840317749047084,
+    "call_mean_answer_length": 160.75,
+    "call_hedge_density": 0.006202241054710969,
+    "call_pos_sentiment_mean": 0.6008791476488113,
+    "call_neu_sentiment_mean": 0.38612953666597605,
+    "call_neg_sentiment_mean": 0.012991306643622616,
+    "call_qa_similarity_mean": 0.5903347004850302,
+    "baseline_neg_sentiment_mean": 0.018508377049184132
+  },
+  "generated_at": "2026-05-20T05:04:03+00:00"
+}

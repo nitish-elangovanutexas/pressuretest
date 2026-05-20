@@ -1,0 +1,28 @@
+{
+  "ticker": "HL",
+  "call_date": "2026-05-06",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.03954553851461685,
+  "cosine_distance": 0.11574935127931274,
+  "sentiment_shift": 9.966090808367911e-06,
+  "question_difficulty_mean": 0.1387614207659789,
+  "baseline_mean": 0.035290582479565895,
+  "baseline_std": 0.006017416532070305,
+  "z_score": 0.7071067811865478,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5693807103829894,
+    "call_mean_answer_length": 121.81818181818181,
+    "call_hedge_density": 0.019132549216441197,
+    "call_pos_sentiment_mean": 0.2838166928426786,
+    "call_neu_sentiment_mean": 0.6872865219007839,
+    "call_neg_sentiment_mean": 0.0288967765359716,
+    "call_qa_similarity_mean": 0.5597926259120455,
+    "baseline_neg_sentiment_mean": 0.028906742626779967
+  },
+  "generated_at": "2026-05-20T05:40:53+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "QTWO",
+  "call_date": "2026-04-30",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.015932630250842114,
+  "cosine_distance": 0.03481814818249662,
+  "sentiment_shift": 0.017776362508573017,
+  "question_difficulty_mean": 0.13798674027808497,
+  "baseline_mean": 0.0192608722010637,
+  "baseline_std": 0.004706844904862447,
+  "z_score": -0.7071067811865471,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5689933701390425,
+    "call_mean_answer_length": 137.0,
+    "call_hedge_density": 0.0204552554482297,
+    "call_pos_sentiment_mean": 0.23721811378544028,
+    "call_neu_sentiment_mean": 0.7403961182995276,
+    "call_neg_sentiment_mean": 0.022385758940469135,
+    "call_qa_similarity_mean": 0.4997436566547771,
+    "baseline_neg_sentiment_mean": 0.04016212144904215
+  },
+  "generated_at": "2026-05-20T06:43:02+00:00"
+}

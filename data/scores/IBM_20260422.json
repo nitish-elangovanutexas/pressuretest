@@ -1,0 +1,28 @@
+{
+  "ticker": "IBM",
+  "call_date": "2026-04-22",
+  "quarter": 3,
+  "year": 2024,
+  "pressure_score": 0.028920973538638053,
+  "cosine_distance": 0.07927974626907608,
+  "sentiment_shift": 0.009712347489160795,
+  "question_difficulty_mean": 0.12417520454872648,
+  "baseline_mean": 0.02261903080284162,
+  "baseline_std": 0.008744325793976165,
+  "z_score": 0.7206893800935169,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5620876022743633,
+    "call_mean_answer_length": 452.25,
+    "call_hedge_density": 0.026720471415963603,
+    "call_pos_sentiment_mean": 0.4245094880461693,
+    "call_neu_sentiment_mean": 0.5590164326131344,
+    "call_neg_sentiment_mean": 0.016474116826429963,
+    "call_qa_similarity_mean": 0.5381090700158381,
+    "baseline_neg_sentiment_mean": 0.026186464315590758
+  },
+  "generated_at": "2026-05-20T05:44:16+00:00"
+}

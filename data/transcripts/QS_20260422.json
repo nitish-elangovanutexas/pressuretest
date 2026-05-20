@@ -1,0 +1,220 @@
+{
+  "ticker": "QS",
+  "company_name": "Quantumscape",
+  "call_date": "2026-04-22",
+  "quarter": 1,
+  "year": 2026,
+  "prepared_remarks": "Earnings Call Transcript\nQuantumScape (QS) Q1 2026 Earnings Transcript\nBy\n\nMotley Fool Transcribing\n\n–\n\nApr 22, 2026 at 7:25PM EST\n\n\n\n\nImage source: The Motley Fool.\n\n\nDATE\nWednesday, April 22, 2026 at 5 p.m. ET\nCALL PARTICIPANTS\nPresident and CEO — Siva Sivaram\nChief Financial Officer — Kevin Hettrich\nHead of Investor Relations — Sam Kamara\nNeed a quote from a Motley Fool analyst? Email\n[email protected]\nTAKEAWAYS\nEagle Line Commissioning\n-- Installation of the Eagle Line automated pilot production was completed, with initial QSE-5 cell volumes produced and start-up operations underway.\nQSE-5 Cell Ramp\n-- Management stated plans to ramp QSE-5 cell production in Q2 to support customer programs targeting automotive and additional sectors.\nAI Integration\n-- Advanced AI models have been integrated into the Eagle Line, leading to measurable gains in cell quality and manufacturing reliability.\nAutomotive Commercialization\n-- Field testing with Volkswagen Group's PowerCo remains the next phase, with shipped cells undergoing \"demanding set of real-world test conditions.\"\nOEM Engagements\n-- Four of the top ten global automotive OEMs are now actively working with QuantumScape across Europe, North America, and Japan, with two joint development agreements in place and one technology evaluation completed in Q1.\nEcosystem Expansion\n-- The company reported its first ecosystem customer billings in Q1, as partners Murata Manufacturing and Corning invested in ceramic separator production systems based on the Cobra process.\nCustomer Billings\n-- Customer billings were $11 million in Q1, consisting of both customer development activities and payments from ecosystem partners.\nLiquidity\n-- QuantumScape ended the quarter with $904.7 million in liquidity.\nGAAP Results\n-- GAAP operating expenses were $109.2 million, with GAAP net loss of $100.8 million.\nAdjusted EBITDA Loss\n-- Adjusted EBITDA loss for the quarter was $63.2 million, which management said was in line with expectations.\nCapital Expenditures\n-- Q1 capital expenditures were $10 million, primarily for final Eagle Line payments.\nGuidance Reiteration\n-- Management reiterated full-year 2026 adjusted EBITDA loss guidance of $250 million–$275 million, full-year capital expenditures guidance of $40 million–$60 million, and intention to increase customer billings year over year.\nNew Markets\n-- Management highlighted growing customer interest and shipment preparation for AI data centers, as well as military, aerospace, and government sectors, citing energy density, safety, and supply chain benefits as competitive levers.\nSUMMARY\nThe launch and operational start of the Eagle Line has enabled\nQuantumScape\n(NYSE:QS) to initiate commercial sampling and demonstrate scalable production capabilities to key customers. Management confirmed the transition of an additional top-ten automotive OEM from technology evaluation to joint development, marking progress in deepening industry adoption. New market opportunities are being targeted, specifically AI data centers and defense, due to distinct product attributes and minimal platform modification requirements, with sample shipments underway. The quarter also delivered a milestone as ecosystem customer billings began, reflecting substantiated external commitment and the multi-pronged nature of the business model. Financial guidance for 2026, including adjusted EBITDA loss and liquidity expectations, was maintained without revision.\nManagement described the business model’s capital-light nature, citing ecosystem partners’ hardware investments as both validation and an emerging driver of cash inflow and future royalties.\n“Our differentiated technology allows us to do things traditional lithium-ion cannot do. Better performance with better safety lets you get closer to the system and provide power over the last meter.”\nNo change to headcount strategy was revealed; management stated resourcing for new verticals and automotive ramp is already included in annual operating plans.\nField tests on QSE-5 are underway with OEMs, with planned product form-factor adaptation for customer-specific requirements highlighted as a benefit of the licensing model.\nINDUSTRY GLOSSARY\nCobra process\n: Proprietary QuantumScape manufacturing approach for fabricating solid ceramic battery separators at scale.\nQSE-5 cell\n: QuantumScape’s solid-state lithium-metal battery cell, serving as the basis for automotive and other high-performance applications.\nCustomer billings\n: Total invoiced value from customer development projects and ecosystem partnership activities, presented as a key operational, non-GAAP metric indicative of engagement and future inflows.\nJoint Development Agreement (JDA)\n: Contractual partnership with an OEM to co-develop and integrate QuantumScape technology for future production intent.\nLast meter power\n: The capability to deliver battery power extremely close to the point of end use, a critical feature for applications like AI data centers.\nFull Conference Call Transcript\nSiva Sivaram:\nThank you, Sam. First, an update on our Eagle Line. This is our highly automated pilot production line to demonstrate scalable production of our solid-state lithium metal battery technology. In Q1, we completed the installation of the Eagle Line and commenced start-up operations. We are producing initial volumes of QSE-5 cells. We have been working to continuously improve all aspects of Eagle Line functionality, such as equipment uptime, line throughput control systems and process stability. We've been integrating advanced AI models into the Eagle Line, and we have seen substantive progress on cell quality and reliability.\nWe believe that the increased production capacity at the Eagle Line will help drive a virtuous cycle of higher data volume, more rapid learning cycles and enhanced quality. In Q2, we plan to ramp QSE-5 cell production to support customer programs across automotive and other applications. Development work for EV applications remains our core focus and our largest source of customer billings. We continue to work closely with the Volkswagen Group's PowerCo as we advance through the phases of our automotive commercialization road map. The next phase is field testing. Sales from the Eagle Line will be put through a demanding set of real-world test conditions, and that some feedback will be used to learn and iterate.\nBeyond our work with Volkswagen. In Q1, we shipped cells to an automotive JDA partner for testing. We continue to work through our 2 JDAs with top 10 global automotive OEMs to bring our solid-state lithium-metal technology into their vehicle programs. In addition, this quarter, we successfully completed our technology evaluation with another top 10 global automotive OEM customer. Their engineers performed hands-on testing of our technology and ran competitive benchmark against other solid-state technology approaches. With the success of this effort, we are moving into the next phase of this engagement: joint development activities with the ultimate goal of deploying QS technology in their automotive and other applications. Next, an update on our QS ecosystem.\nThis is the cornerstone of our capital-light business model. By teaming up with world-class companies across the value chain, we can bring our technology to global scale faster and more efficiently. These alliances are a force multiplier for our commercialization efforts as we distribute our technology know-how to trust it partners. We continue to work closely with both Murata Manufacturing and Corning on scaling up production of our solid ceramic separator using our groundbreaking Cobra process to build a global value chain necessary for our gigawatt tower scale production of QS technology. Our ecosystem partners are also investing in QS proprietary hardware and systems to produce our ceramic separator.\nWe see this as a clear sign of their commitment to our ecosystem as well as a source of customer billings. In Q1, we recorded our first customer billings from our ecosystem. Next, a word on new markets. We believe our high-performance solid-state design has compelling attributes to address the evolving energy storage needs of AI data centers, where conventional lithium-ion technology faces safety and performance limitations. Driven by massive compute demand, data centers are transitioning to 800-volt DC designs, and adopting power systems architecture and technology from the electric vehicle industry. We see this as a natural fit for our no-compromise solid-state battery.\nIn-rack energy storage and power delivery is a large and fast-growing market, and the higher energy density of our battery technology can enable increased compute density for AI factories. In addition, we have seen strong customer interest in our battery technology from global players in the military, aerospace and government sectors. Our battery technology unlocks step-change improvements in both energy density and power simultaneously. Combined with the superior safety of our solid-state design, this is a highly attractive combination for these advanced applications. Our anode-free architecture also has supply chain benefits for these customers. Conventional lithium-ion batteries require graphite that is almost exclusively sourced from China.\nIn contrast, our battery design is graphite-free, eliminating a major pain point for defense applications. To conclude, I want to take a moment to look at the big picture. The world's energy system is experiencing rapid change. The way we produce, store and use energies are going a once-in-a-century transformation. From electric vehicles and AI data centers to grid storage, drones and aerospace, the future of the world economy is being built on electrification, electrotech. To give just one example, the speed of change and growth in the AI data center market is breathtaking. The technology of the past is struggling to keep up and innovations in energy storage are essential to this transformational change.\nThanks to our years of careful planning, consistent execution and constancy of vision, QS is in the middle of this electrotech story. From geopolitical disruptions to the energy system and supply chain risks for critical materials to the explosive growth of electrification across the world economy, the tailwinds for our technology have never been stronger. We believe we have the differentiated technology, world-class team, ecosystem partners and customer relationships to capitalize on this revolution. Even as we tackle the challenges still ahead, our dedicated team is motivated by a market opportunity that is global in scale and growing every day. We look forward to updating you on our progress over the months to come.\nWith that, I'll turn things over to Kevin for a word on our financial outlook.\nKevin Hettrich:\nThank you, Siva. GAAP operating expenses and GAAP net loss in Q1 were $109.2 million and $100.8 million, respectively. Adjusted EBITDA loss was $63.2 million in Q1, in line with expectations. For full year 2026, we reiterate our adjusted EBITDA loss guidance of between $250 million and $275 million. A table reconciling GAAP net loss and adjusted EBITDA is available in the financial statement at the end of the shareholder letter. Capital expenditures in the first quarter were $10 million. Q1 CapEx was primarily composed of final payments related to the Eagle Line. For full year 2026, we reiterate our capital guidance of between $40 million and $60 million.\nCustomer billings for Q1 were $11 million, representing a mix of customer development activities and ecosystem partner payments. Customer billings as a metric represents the total value of all the invoices issued by QS to our customers and partners in the period regardless of in treatment. As a reminder, customer billings may vary from quarter-to-quarter due to fluctuations in activity as we progress through various phases of engagement. Customer billings is a key operational metric meant to give insight into customer activity and future cash inflows. The metric is not a substitute for revenue under U.S. GAAP. We ended Q1 with $904.7 million in liquidity and will remain prudent with our strong balance sheet going forward.\nAs always, we encourage investors to read more on our financial information, business outlook and risk factors in our quarterly and annual SEC filings on our Investor Relations website.\nSam Kamara:\nThanks, Kevin. We'll begin today's",
+  "qa_turns": [
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Siva Sivaram",
+      "text": "Thank you, Sam. The Eagle Line is central to us. We are using the Eagle Line to demonstrate scalable production so that our licensing customers can take our technology and scale it up. You can measure progress in 2 ways, the technical side and the commercial side. On the technical side, the Eagle Line is making the expected progress as we ramp up. The team has been doing great work together with PowerCo. The day-to-day is all about getting the detail right, equipment uptime, line throughput, control systems, process stability and so on.\nThe improvements we have made in reliability are enabled by some of our new AI models that take data from our metrology make determinations of the quality faster, more accurately and more consistently than a human could possibly do. This enables an accelerated feedback and feed-forward loop which drives the continuous improvement cycle faster. We shipped samples in Q1. And in Q2, we'll be ramping to support more shipments. That's the technical side. On the overall commercial side, we have great customer traction across major geographies in the automotive business, Europe, North America and Japan. We are working closely with VW on field testing in the near term, leading to large-scale production transfer.\nWe have shipped cells to an auto JDA partner, successfully completed the technology evaluation with an additional top 10 automaker. All told, that 4 of the top 10 that are well engaged in our auto [indiscernible]. We are seeing our ecosystem business model also gaining momentum. Our ecosystem partners are making investments in hardware and systems to make our technology, which shows their commitment to the opportunity. Not only that, but these investments are beginning to flow through into QS customer billings. Our work on automotive ecosystem engagements and the higher throughput of the Eagle Line comes together to give us the resources that we need to go after some new markets faster.",
+      "turn_index": 0
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Sam Kamara",
+      "text": "Thanks, Siva. On the new markets you've described, what makes the opportunity in AI data centers and defense interesting?",
+      "turn_index": 1
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Siva Sivaram",
+      "text": "Sam, we think the opportunity for our technology in AI data centers is obvious and compelling. It's early days, but right now, I would call it a great addition to our automotive portfolio. It ticks all the boxes. The size of spend in the market, the growth, the product market fit and our ability to create and capture value. The requirements for in-rack power solutions align well with our technology. You need better energy density to increase the compute density of the data center. You need the power performance, charge and discharge, to provide power smoothing for these AI workloads, which from the battery's point of view is almost like being on a racetrack.\nAnd safety really matters for a data center, where operating temperatures are higher and a fire in a GPU rack could easily cost millions in damage and downtime. Our differentiated technology allows us to do things traditional lithium-ion cannot do. Better performance with better safety lets you get closer to the system and provide power over the last meter. We are setting up for this opportunity as well as other markets like military, aviation and space. We have added Ross Niebergall to the Board and Dr. Mark Maybury as an adviser to help us with these opportunities, and their expertise and networks are extremely valuable.\nWe are really excited about these new markets, and we'll be shipping samples from Eagle Line to meet the increasing inbound customer interest.",
+      "turn_index": 2
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Sam Kamara",
+      "text": "Kevin, we report first customer billings from ecosystem partners this quarter. Can you explain why that milestone matters and what it demonstrates about the longer-term economics of our business model?",
+      "turn_index": 3
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Kevin Hettrich",
+      "text": "Our first customer billings from ecosystem partners are an important milestone for 3 reasons. First, this is an indicator of ecosystem investment in our technology platform. We believe this accumulation of investment by partners is an amplifier that is a strength of our capital-light business model. Second, these billings are an additional source of cash flow to the company as we transfer equipment, processes and know-how that enable our partners to move faster while retaining QS ownership of the core technology. Third, similar to our business model with customers, we plan to earn longer-term ecosystem licensing payments and royalties. We believe these ecosystem payments will be an important driver of shareholder value creation.\nAs a reminder, we define customer billings and total value of all the invoices issued by QS to our customers and ecosystem partners during the period regardless of accounting treatment. This is an operational indicator rather than a substitute for GAAP revenue. The amount and accounting treatment can vary by agreement by quarter. But taken together, we believe they demonstrate growing external validation of our technology and the flexibility of our business model as we scale.",
+      "turn_index": 4
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Sam Kamara",
+      "text": "Okay. Thanks so much, Kevin. We are now ready to begin the line portion of today's call. Operator, please open up the line for questions.",
+      "turn_index": 5
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "And our first question for today comes from the line of Winnie Dong from Deutsche Bank.",
+      "turn_index": 6
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Yan Dong",
+      "text": "I was wondering if you can potentially qualitatively characterize the ramp of QSE-5 production in 2Q. It seems like there's going to be some steep, I guess, quarter-over-quarter improvement in terms of the output, but I was wondering if you can characterize it as perhaps like qualitatively or even directionally?",
+      "turn_index": 7
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Siva Sivaram",
+      "text": "Winnie, yes, we are building the ramp of the Eagle Line in Q2. As you would expect with a highly automated lines such as the Eagle Line, once we have installed and started beginning the initial volume of cells, we need to continuously improve the uptime, the throughput, the control systems, the process stability, all of this to continuously improve. And then there is an ongoing demand for samples from our automotive customers and from these new markets that we are attempting to enter, and these demands pile up. So Q2, we'll begin ramping, and we'll continue to go up satisfying these demands through the rest of the year.\nThat gives you a good feel for how fast we are ramping the Eagle Line, Winnie.",
+      "turn_index": 8
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Yan Dong",
+      "text": "Okay. Got it. And then second question is on the expansion to new markets. It seems like you think the sales can really be used for energy storage and data center. Maybe can you talk about some of the potential investments that you may need to put into this, and then what kind of time frame we're looking at in terms of launching a potential product for that? Is it -- does it need like some substantial change in terms of the technology and products? Or is it an easy sort of like transfer into that market?",
+      "turn_index": 9
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Siva Sivaram",
+      "text": "Yes. That's a very interesting question, Winnie. Most of the learning from automotive business transfers here. The data center market is going into the 800-volt architecture. And many of the requirements are very similar with respect to energy density and power density and cycling life, et cetera. However, the most important thing we have to offer in addition is the safety and the no-compromise nature of the product, meaning you don't have to sacrifice performance for safety. You can have the product as close to the compute as possible. This is what we mean by last-meter power.\nAnd in all of these AI data centers and the AI factories, what you need is to be able to maximize the compute density. And so the ability of ourselves to be close and deliver high-quality last mile last meter power is what makes us very attractive. And it is a natural transition from the automotive product to the data center product.",
+      "turn_index": 10
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Kevin Hettrich",
+      "text": "And Winnie, I'm happy to take the capital allocation part of the question. As you know, our strategy is to develop technology platforms that serve multiple markets. The bulk of the investment goes into developing platform. It's more incremental to tailor our product and to engage customers and where we see incremental investment opportunities in the best interest of shareholders, of course, we're going to go after them. We're very excited about the new high-value markets that we mentioned in the letter in our remarks. And as a reminder, one of our goals, number three, is to expand into high-value markets. our annual operating plan and the financial guidance upon which base already contemplate that.\nAnd in today's call, we reiterated our adjusted EBITDA guidance, our CapEx guidance. And we also reiterate that we are tracking to our year-over-year increase in customer billings, all reiterated on today's call.",
+      "turn_index": 11
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "And our next question comes from the line of Ben Kallo from Baird.",
+      "turn_index": 12
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Ben Kallo",
+      "text": "Congrats on the first billings. Just maybe on the last question, if you could expand just would it be similar in a license model? Or is it something that you could do under [indiscernible] the expanded purview that you guys did a while back?",
+      "turn_index": 13
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Siva Sivaram",
+      "text": "Ben, it's exactly correct. So we will be looking at both of those. Initially, the samples will come out of the Eagle Line. Additionally, PowerCo has 5 gigawatt hours of capacity tenor markets outside the automotive. And we will continue to find other opportunities for these markets as well. And so all of these are, as you said, right in our path of how we want to take it through. The ecosystem also plays a big role. Our ability to ramp the separated production from either Corning or Murata helps with this. And we expect to see the same phenomena to happen with our equipment and materials partner who all will help us with this ramp.",
+      "turn_index": 14
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Ben Kallo",
+      "text": "And then just taking to that, just moving on to the other auto OEMs that you're working with, could you just talk about kind of what -- if there is kind of a view on the progression of turning those to the formal licensing partner with the JDA and the formal licensing partner like a time frame or any kind of like what they're looking for to solidify that relationship?",
+      "turn_index": 15
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Siva Sivaram",
+      "text": "Yes. Ben, thank you. Thanks for the question. Yes, upfront, I want to say, 4 of the top 10 auto OEMs level are now actively involved with us across the major geographies North America, Japan and of course, Europe with Volkswagen. And in all cases, we are carefully going on the progress with evaluation to joint development working towards licensing. As you know, Volkswagen is the most advanced in that relationship. The others are well on their way for us to progress towards a license from that. And all of these, of course, run through the Eagle Line. The Eagle Line makes the difference in our ability to sample and move this process along towards licensing.",
+      "turn_index": 16
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "And our next question comes from the line of Mark Shooter from William Blair.",
+      "turn_index": 17
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Mark Shooter",
+      "text": "Congrats on all the progress this quarter in the Eagle Line and the new auto engagement. So regarding the OEMs and the field testing as the next step, my understanding is that you'll need to size up the cell from the QSE-5 to fit into VW's unified cell architecture. So do you still need to do that for field testing with them? Or are they now taking the QSE-5 to field test? Or is another customer that you're working with, leapfrogging VW and beating [indiscernible]?",
+      "turn_index": 18
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Siva Sivaram",
+      "text": "Mark, big interesting question. Yes, we are field listing with the QSE-5. As we demonstrated with the Ducati bike last year and onwards, they will be field testing. But you are absolutely right, we have the unified self to work with, and they are working closely with us to design that still as well. And I expect that each one of our OEM customers will want their specific form factors as well. And we work with each of them. This is one of the biggest advantages of the licensing business model is that our separator can handle all these form factors, but they -- I will be working with us on how to ramp on their specific needs.",
+      "turn_index": 19
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Mark Shooter",
+      "text": "Great. Siva, that's very helpful. Switching to some other markets here. it's very evident where you're trying to go by the people you've added to the Board with the former military defense contractors. So I'll ask about the potential drone market in aerospace and defense. Your auto sample cell, the QSE-5 has a significant performance advantage for autos, but I'm wondering if there's some juice left per se. And if you were to redesign that for a drone spec because drones they require a higher specific energy density, but also they don't need as much cycle life.\nSo I'm wondering if there is an [indiscernible] term like separator thickness and cell packaging where that could give you some torque on some performance improvements.",
+      "turn_index": 20
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Siva Sivaram",
+      "text": "You are 100% correct, Mark. One of our goals for this year is go beyond QSE-5. As we keep repeating, we are just at the start of this S-curve. There are many levers still left to move us up the performance curve. And please allow us to come and show you what we are developing sometime later this year. And they'll be applicable not just to the drone market but to all other markets as well. So we will continue to push the technology frontier for all of this.\nThe separated technology, the ceramic separator is the key to our sales architecture and its performance, and we will continue to evolve in all fronts to make the self-adapted to different applications.",
+      "turn_index": 21
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "[Operator Instructions]\nOur next question comes from the line of Mark Delaney from Goldman Sachs.",
+      "turn_index": 22
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Unknown Analyst",
+      "text": "You've got Ayush Ghosh on for Mark Delaney. On billings, how should we think about the potential increases in billings going forward, considering you recorded the first billings from the Go system and also with the new JDA and other non-auto end markets?",
+      "turn_index": 23
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Kevin Hettrich",
+      "text": "Ayush, thank you for the question. In fiscal year 2025, we recorded approximately $19.5 million in customer billings. In Q1 '26 on this call, we recorded $11 million in the quarter. If you recall, our guidance is to increase billings year-over-year 2026 compared to 2025. And we reiterate that guidance today.",
+      "turn_index": 24
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Unknown Analyst",
+      "text": "Got it. And then separately, you also mentioned you transitioned from the technology evaluation to the JDA with the top 10 OEM and congrats on that. Can you sort of speak on some of the benchmarking tests what they were and how QS performed and also what some of the initial feedback was?",
+      "turn_index": 25
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Siva Sivaram",
+      "text": "Yes. I would love to talk about it. These are hands-on in-lab evaluation by these customer engineers in our pilot facilities. They spend a lot of time working with us, making the cells and measuring them here. And they have a lot of experience in solid state in their own labs and of course, all OEMs [ kick ] the tires from around the world. And these are top 10 OEMs. They are not novices to this technology, and they get actively involved with this. And for us to feel good about moving to the next stage, that makes us feel good and sort of ratifies our own confidence in how far we have been in this differentiated technology.",
+      "turn_index": 26
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "And our next question comes from the line of Laisha Zaack from HSBC.",
+      "turn_index": 27
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Laisha Zaack Carrillo",
+      "text": "Can you hear your me?",
+      "turn_index": 28
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Kevin Hettrich",
+      "text": "Yes.",
+      "turn_index": 29
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Laisha Zaack Carrillo",
+      "text": "I just have one very quick on timing. I wanted to know how this is going into these new markets changed the time frame that you've set for your automotive goals? Are they like -- are these new possibilities on some of the human capital that you does on [indiscernible] and the teams that you have established for automotive? Or are you going to start to expand your workforce, your teams, your resources, like how does this work? How should we take on it?",
+      "turn_index": 30
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Siva Sivaram",
+      "text": "Laisha, a great question. The automotive marketplace still remains an important focus for us. We are adding these additional markets to our automotive portfolio. We are adding customers in the automotive marketplace. 4 of the top 10 are joining us. So it is not like we are taking our eye away from the ball with respect marketplace to automotive. However, these new big growing marketplaces with respect to data center and different set of space are very good fits for our product. So as Kevin mentioned earlier, at the start of the year, we had looked at these markets and appropriately sized our resourcing for this as part of our annual operating plan.\nSo we have well resources, and we'll continue to invest as needed. This is not an either or. We are looking at both of these opportunities with capturing and -- creating and capturing careful the value.",
+      "turn_index": 31
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you. This does conclude the question-and-answer session of today's program. I'd like to hand the program back to Siva Sivaram for any further remarks.",
+      "turn_index": 32
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Siva Sivaram",
+      "text": "Thank you, operator. Finally, today, I want to recognize the entire QS team for their execution and thank our shareholders for their continued support. We look forward to updating you on our progress in the months ahead. Thank you.",
+      "turn_index": 33
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you, ladies and gentlemen, for your participation in today's conference. This does conclude the program. You may now disconnect. Good day.",
+      "turn_index": 34
+    }
+  ]
+}

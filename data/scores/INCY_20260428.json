@@ -1,0 +1,28 @@
+{
+  "ticker": "INCY",
+  "call_date": "2026-04-28",
+  "quarter": 2,
+  "year": 2025,
+  "pressure_score": 0.03686410625231825,
+  "cosine_distance": 0.09670368685034547,
+  "sentiment_shift": 0.012923960537937956,
+  "question_difficulty_mean": 0.16673708917848626,
+  "baseline_mean": 0.05138338800435426,
+  "baseline_std": 0.01807769981337415,
+  "z_score": -0.8031597991960477,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5833685445892431,
+    "call_mean_answer_length": 132.4375,
+    "call_hedge_density": 0.02281226847181783,
+    "call_pos_sentiment_mean": 0.11818138766102493,
+    "call_neu_sentiment_mean": 0.8563519045710564,
+    "call_neg_sentiment_mean": 0.025466691877227277,
+    "call_qa_similarity_mean": 0.2934194209590451,
+    "baseline_neg_sentiment_mean": 0.03839065241516523
+  },
+  "generated_at": "2026-05-20T05:45:43+00:00"
+}

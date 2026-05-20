@@ -1,0 +1,28 @@
+{
+  "ticker": "SEDG",
+  "call_date": "2026-05-07",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": -7.786576055353462e-17,
+  "cosine_distance": -2.220446049250313e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.16892070071272933,
+  "baseline_mean": -7.786576055353462e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5844603503563647,
+    "call_mean_answer_length": 177.30769230769232,
+    "call_hedge_density": 0.017343955237729358,
+    "call_pos_sentiment_mean": 0.47461518100821054,
+    "call_neu_sentiment_mean": 0.49253766124065107,
+    "call_neg_sentiment_mean": 0.0328471574645776,
+    "call_qa_similarity_mean": 0.4467168287208185,
+    "baseline_neg_sentiment_mean": 0.0328471574645776
+  },
+  "generated_at": "2026-05-20T06:51:48+00:00"
+}

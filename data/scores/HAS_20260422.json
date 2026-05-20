@@ -1,0 +1,28 @@
+{
+  "ticker": "HAS",
+  "call_date": "2026-04-22",
+  "quarter": 4,
+  "year": 2024,
+  "pressure_score": 0.027141445106178917,
+  "cosine_distance": 0.05315224706143151,
+  "sentiment_shift": 0.03653830157903333,
+  "question_difficulty_mean": 0.16720658634738825,
+  "baseline_mean": 0.023175317008789532,
+  "baseline_std": 0.005608952145437069,
+  "z_score": 0.7071067811865472,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5836032931736941,
+    "call_mean_answer_length": 144.5,
+    "call_hedge_density": 0.0394543890648543,
+    "call_pos_sentiment_mean": 0.27065755729563534,
+    "call_neu_sentiment_mean": 0.6180696325997511,
+    "call_neg_sentiment_mean": 0.11127281980589032,
+    "call_qa_similarity_mean": 0.36063774175288565,
+    "baseline_neg_sentiment_mean": 0.07473451822685699
+  },
+  "generated_at": "2026-05-20T05:39:11+00:00"
+}

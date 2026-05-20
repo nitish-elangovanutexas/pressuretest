@@ -1,0 +1,28 @@
+{
+  "ticker": "V",
+  "call_date": "2026-04-29",
+  "quarter": 2,
+  "year": 2026,
+  "pressure_score": 0.17251105907507897,
+  "cosine_distance": 0.49698970418249444,
+  "sentiment_shift": 0.011940918415390623,
+  "question_difficulty_mean": 0.1387988973164794,
+  "baseline_mean": 0.025995258873009196,
+  "baseline_std": 0.003060620478261682,
+  "z_score": 47.87127356779801,
+  "flagged": true,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5693994486582397,
+    "call_mean_answer_length": 290.0,
+    "call_hedge_density": 0.041379310344827586,
+    "call_pos_sentiment_mean": 0.1389995664358139,
+    "call_neu_sentiment_mean": 0.8417384624481201,
+    "call_neg_sentiment_mean": 0.019261978566646576,
+    "call_qa_similarity_mean": 0.44619901436116016,
+    "baseline_neg_sentiment_mean": 0.0312028969820372
+  },
+  "generated_at": "2026-05-20T07:20:49+00:00"
+}

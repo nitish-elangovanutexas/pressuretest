@@ -1,0 +1,28 @@
+{
+  "ticker": "ORCL",
+  "call_date": "2026-03-10",
+  "quarter": 3,
+  "year": 2026,
+  "pressure_score": 0.017496726422407842,
+  "cosine_distance": 0.04590665184649012,
+  "sentiment_shift": 0.003949473844841123,
+  "question_difficulty_mean": 0.20154224722282008,
+  "baseline_mean": 0.03481472977551027,
+  "baseline_std": 0.02449135521518019,
+  "z_score": -0.7071067811865476,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.60077112361141,
+    "call_mean_answer_length": 390.0,
+    "call_hedge_density": 0.019244510404477586,
+    "call_pos_sentiment_mean": 0.13066462986171246,
+    "call_neu_sentiment_mean": 0.8439531127611796,
+    "call_neg_sentiment_mean": 0.025382276624441147,
+    "call_qa_similarity_mean": 0.6082311206196461,
+    "baseline_neg_sentiment_mean": 0.02933175046928227
+  },
+  "generated_at": "2026-05-20T06:29:23+00:00"
+}

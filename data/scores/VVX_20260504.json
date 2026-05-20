@@ -1,0 +1,28 @@
+{
+  "ticker": "VVX",
+  "call_date": "2026-05-04",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.0366642104730894,
+  "cosine_distance": 0.09898817261024906,
+  "sentiment_shift": 0.009492713494150117,
+  "question_difficulty_mean": 0.1604436422385807,
+  "baseline_mean": 0.02972823441163002,
+  "baseline_std": 0.005619257125294206,
+  "z_score": 1.2343225993767335,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5802218211192903,
+    "call_mean_answer_length": 60.07142857142857,
+    "call_hedge_density": 0.010053991215588004,
+    "call_pos_sentiment_mean": 0.4120456986129284,
+    "call_neu_sentiment_mean": 0.5720531506729978,
+    "call_neg_sentiment_mean": 0.015901141799986362,
+    "call_qa_similarity_mean": 0.4118005526241548,
+    "baseline_neg_sentiment_mean": 0.02539385529413648
+  },
+  "generated_at": "2026-05-20T07:25:42+00:00"
+}

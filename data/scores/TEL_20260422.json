@@ -1,0 +1,28 @@
+{
+  "ticker": "TEL",
+  "call_date": "2026-04-22",
+  "quarter": 3,
+  "year": 2025,
+  "pressure_score": 0.012106722343439192,
+  "cosine_distance": 0.02809569289121583,
+  "sentiment_shift": 0.010508217256177566,
+  "question_difficulty_mean": 0.14969785690383502,
+  "baseline_mean": 0.013020607870521332,
+  "baseline_std": 0.0012924293068560452,
+  "z_score": -0.7071067811865482,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5748489284519175,
+    "call_mean_answer_length": 231.58333333333334,
+    "call_hedge_density": 0.02935626624121306,
+    "call_pos_sentiment_mean": 0.2257186775871863,
+    "call_neu_sentiment_mean": 0.5987166000219682,
+    "call_neg_sentiment_mean": 0.1755647026002407,
+    "call_qa_similarity_mean": 0.526581650964871,
+    "baseline_neg_sentiment_mean": 0.16505648534406314
+  },
+  "generated_at": "2026-05-20T07:07:12+00:00"
+}

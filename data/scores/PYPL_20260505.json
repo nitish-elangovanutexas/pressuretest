@@ -1,0 +1,28 @@
+{
+  "ticker": "PYPL",
+  "call_date": "2026-05-05",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.03703546711953727,
+  "cosine_distance": 0.10498178231924649,
+  "sentiment_shift": 0.0023997550812998314,
+  "question_difficulty_mean": 0.15828187052274043,
+  "baseline_mean": 0.027990646371664346,
+  "baseline_std": 0.008144160090701132,
+  "z_score": 1.1105897535339653,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5791409352613702,
+    "call_mean_answer_length": 293.5,
+    "call_hedge_density": 0.01141569134660142,
+    "call_pos_sentiment_mean": 0.4490283504128456,
+    "call_neu_sentiment_mean": 0.5385575219988823,
+    "call_neg_sentiment_mean": 0.012414118624292314,
+    "call_qa_similarity_mean": 0.5591841453506533,
+    "baseline_neg_sentiment_mean": 0.014813873705592145
+  },
+  "generated_at": "2026-05-20T06:41:35+00:00"
+}

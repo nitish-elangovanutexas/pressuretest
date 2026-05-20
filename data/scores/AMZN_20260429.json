@@ -1,0 +1,28 @@
+{
+  "ticker": "AMZN",
+  "call_date": "2026-04-29",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.01707251788913934,
+  "cosine_distance": 0.047961694664139465,
+  "sentiment_shift": 0.0018750409078266868,
+  "question_difficulty_mean": 0.1563991407937257,
+  "baseline_mean": 0.01687238051638085,
+  "baseline_std": 0.001105239254482508,
+  "z_score": 0.18108058680217437,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5781995703968629,
+    "call_mean_answer_length": 531.8333333333334,
+    "call_hedge_density": 0.01727957279504896,
+    "call_pos_sentiment_mean": 0.12528591168423495,
+    "call_neu_sentiment_mean": 0.8535352547963461,
+    "call_neg_sentiment_mean": 0.02117884469528993,
+    "call_qa_similarity_mean": 0.6519733433596323,
+    "baseline_neg_sentiment_mean": 0.019303803787463242
+  },
+  "generated_at": "2026-05-20T04:35:28+00:00"
+}

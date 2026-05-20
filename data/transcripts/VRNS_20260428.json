@@ -1,0 +1,388 @@
+{
+  "ticker": "VRNS",
+  "company_name": "Varonis",
+  "call_date": "2026-04-28",
+  "quarter": 1,
+  "year": 2026,
+  "prepared_remarks": "Earnings Call Transcript\",\"datePublished\":\"2026-04-29T03:32:19.000Z\",\"dateModified\":\"2026-04-29T03:32:19.000Z\",\"author\":{\"@type\":\"Person\",\"name\":\"Motley Fool Transcribing\",\"url\":\"https://www.fool.com/author/20032/\",\"jobTitle\":\"Contributing Analyst\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://g.foolcdn.com/avatar/2041746765/large.ashx\",\"height\":\"80\",\"width\":\"80\"}},\"about\":[{\"@type\":\"Corporation\",\"tickerSymbol\":\"NASDAQ VRNS\"}],\"publisher\":{\"@type\":\"Organization\",\"@id\":\"https://www.fool.com/\",\"name\":\"The Motley Fool\",\"url\":\"https://www.fool.com/\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://g.foolcdn.com/misc-assets/logo-tmf-primary-7-magenta-royalpurple.svg\",\"width\":\"157\",\"height\":\"43\"},\"brand\":\"The Motley Fool\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"Media Inquiries\",\"email\":\"pr@fool.com\"},\"publishingPrinciples\":\"https://www.fool.com/about/\",\"sameAs\":[\"https://www.fool.com/about/\",\"https://en.wikipedia.org/wiki/The_Motley_Fool\",\"https://www.wikidata.org/wiki/Q7752442\",\"https://www.linkedin.com/company/the-motley-fool\",\"https://www.facebook.com/themotleyfool/\",\"https://x.com/themotleyfool\",\"https://www.instagram.com/themotleyfoolofficial/\",\"https://www.youtube.com/channel/UCpRQuynBX9Qy9tPrcswpPag\",\"https://www.pinterest.com/themotleyfool/\",\"https://www.tiktok.com/@themotleyfoolofficial\",\"https://www.google.com/search?kgmid=/m/0578mk\"]},\"description\":null,\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.content.foolcdn.com/images/1umn9qeh/production/b4204f36ed605fc54d4ba32e2cb31d1dd892afd6-800x450.jpg?w=800&q=75&fit=max&auto=format\",\"height\":\"630\",\"width\":\"1200\"}}\nEarnings Call Transcript\nVaronis (VRNS) Q1 2026 Earnings Call Transcript\nBy\n\nMotley Fool Transcribing\n\n–\n\nApr 28, 2026 at 11:32PM EST\n\n\n\n\nImage source: The Motley Fool.\n\n\nDATE\nTuesday, April 28, 2026 at 4:30 p.m. ET\nCALL PARTICIPANTS\nChief Executive Officer — Yakov Faitelson\nChief Financial Officer & Chief Operating Officer — Guy Melamed\nHead of Investor Relations — Tim Perz\nNeed a quote from a Motley Fool analyst? Email\n[email protected]\nTAKEAWAYS\nSaaS ARR (excluding conversions)\n-- $522.6 million, up 29% year over year, identified as the primary long-term growth metric.\nTotal SaaS ARR (including conversions)\n-- $683.2 million, with $11.3 million of ARR attributable to conversions and $83.7 million of non-SaaS ARR remaining at the end of the quarter.\nFree Cash Flow\n-- $49 million, down from $65.3 million year over year, reflecting end-of-life headwinds from the on-prem platform and $12.6 million in acquisition-related costs; adjusted free cash flow would be $61.6 million excluding those costs.\nTotal Revenue\n-- $173.1 million, up 27% year over year; SaaS revenue was $161.1 million, term license subscription $6.9 million, and maintenance and services $5.2 million.\nSaaS Renewal Rate\n-- Over 90% for the quarter.\nGross Profit\n-- $134.9 million, equating to a 77.9% gross margin versus 80.2% the prior year; in line with long-term targets.\nOperating Loss\n-- $1.4 million or an operating margin of negative 0.8%, narrowing from $6.5 million or negative 4.7% year over year.\nARR Contribution Margin\n-- 14.1%, down from 16.7% year over year, impacted by the self-hosted platform end-of-life.\nNet Income\n-- $7.5 million, or $0.06 per diluted share, up from $0.7 million or $0.00 per diluted share the prior year.\nCash, Equivalents, and Marketable Securities\n-- $900 million on March 31, 2026.\nShare Repurchase\n-- 5,355,445 shares bought at an average price of $24.67, totaling $132.1 million in the quarter.\nQ2 2026 Guidance\n-- SaaS ARR growth (excluding conversions) guided to 24%-25%; total revenue between $175 million and $178 million, representing 15%-17% growth; non-GAAP operating loss expected between $1 million and breakeven; non-GAAP net income per diluted share between $0.00 and $0.01 with 131.1 million diluted shares expected.\nFull-Year 2026 Guidance\n-- Total SaaS ARR expected between $814 million and $845 million (27%-32% growth); SaaS ARR excluding conversions guided to 20%-21% growth; total revenue $731 million-$737 million (17%-18% growth); free cash flow targeted at $100 million-$105 million; non-GAAP operating income $7 million-$9 million; non-GAAP net income per diluted share $0.11-$0.12 based on 132.1 million diluted shares.\nProduct Adoption\n-- Significant uptake in MDDR and AI-driven products, database activity monitoring, Interceptor, and Atlas, with new features from acquisitions contributing early traction.\nCustomer Wins\n-- Closed a major deal with a global technology company (over 50,000 employees) and expansion by ServiceNow into internal AI system security and phishing countermeasures.\nStrategic Positioning\n-- Management emphasized\nVaronis\n\n(\nVRNS\n\n0.57%\n)\n' platform as foundational to secure AI adoption, highlighting automation in the context of data and agent security, with discovery, permission remediation, and behavioral alerts as critical functions.\nSales Motion\n-- Shifted sales focus to new customer acquisition and upselling additional SaaS products, which management stated led to \"an acceleration in the new customer contribution.\"\nSUMMARY\nManagement increased full-year guidance for both total SaaS ARR and ARR growth excluding conversions after a documented acceleration in new customer acquisitions in the first quarter. The quarter saw heightened demand for Varonis' AI and cloud security solutions, evidenced by increased uptake and early positive feedback on recently acquired products, especially Atlas and Interceptor. Leadership stated their sales force is now concentrated on capturing new logos and upsell opportunities, supported by compensation incentives aligning with this strategic shift. Customer case studies point to Varonis' effectiveness in securing major enterprises’ AI-enabled environments, differentiating its comprehensive automation from point discovery tools. Varonis also reported over 90% SaaS renewal rates and completed material share repurchases within the period.\nGuy Melamed said, \"we are excited to raise our full year guidance after our strong start to the year,\" reaffirming confidence in pipeline strength for both Q2 and the remainder of 2026.\nManagement explained that the previously communicated free cash flow guidance incorporates both expected churn and a conversion range of $50 million-$75 million for on-prem customers transitioning to SaaS, with Q1 conversions considered \"on track.\"\nYakov Faitelson described agent-driven data access as an urgent security challenge, stating, \"Agents can move fast, behave unpredictably and maximize privileges by design.\"\nAtlas yielded \"nice contribution\" with sales since closing in February, and management stated actual and potential revenue from Atlas and AllTrue.ai were not reflected in current guidance.\nVaronis was selected over \"several DSPM point solutions.\" by a major new enterprise customer, highlighting distinction from data discovery tools and underlining platform breadth.\nManagement identified the remaining non-SaaS ARR base as primarily federal, state, and government clients, acknowledging this cohort's lower likelihood of conversion as SaaS transition winds down.\nINDUSTRY GLOSSARY\nMDDR\n: Managed Data Detection and Response — a platform function automating the detection, remediation, and alerting for abnormal or excessive data access, especially in AI environments.\nDSPM\n: Data Security Posture Management — tools or solutions focused primarily on discovering data holdings and partial classification, contrasted here with Varonis' comprehensive data security automation approach.\nARR Contribution Margin\n: Percentage of additional annual recurring revenue that converts into contribution profit, factoring in costs directly associated with delivering ongoing SaaS services.\nAtlas\n: A recently acquired Varonis product enabling centralized AI agent, model, and pipeline governance and monitoring across enterprise data platforms.\nInterceptor\n: Varonis' advanced security solution focused on detecting and defending against AI-powered phishing, social engineering, and supply chain attacks.\nAllTrue.ai\n: Varonis' February 2026 acquisition providing AI-powered security capabilities, contributing early to product conversations and customer evaluations.\nAthena AI\n: A feature within the Varonis platform enabling natural language queries and \"no touch value\" for automated remediation and visibility, reportedly driving customer adoption as part of the product suite.\nFull Conference Call Transcript\nTim Perz:\nThank you, operator. Good afternoon. Thank you for joining us today to review Varonis' first quarter 2026 financial results. With me on the call today are Yaki Faitelson, Chief Executive Officer; and Guy Melamed, Chief Financial Officer and Chief Operating Officer of Varonis. After preliminary remarks, we will open the call to a question-and-answer session. During this call, we may make statements related to our business that would be considered forward-looking statements under federal securities laws, including projections of future operating results for our second quarter and full year ending December 31, 2026. Due to a number of factors, actual results may differ materially from those set forth in such statements.\nThese factors are set forth in the earnings press release that we issued today under the section captioned Forward-Looking Statements, and these and other important risk factors are described more fully in our reports filed with the Securities and Exchange Commission. We encourage all investors to read our SEC filings. These statements reflect our views only as of today and should not be relied upon as representing our views as of any subsequent date. Varonis expressly disclaims any application or undertaking to release publicly any updates or revisions to any forward-looking statements made herein. Additionally, non-GAAP financial measures will be discussed on this conference call.\nA reconciliation for the most directly comparable GAAP financial measures is also available in our first quarter 2026 earnings press release and our investor presentation, which can be found at varonis.com in the Investor Relations section. Lastly, please note that a webcast of today's call is available on our website in the Investor Relations section. With that, I'd like to turn the call over to our Chief Executive Officer, Yaki Faitelson. Yaki?\nYakov Faitelson:\nThanks, Tim, and good afternoon, everyone. We appreciate you joining us to discuss our first quarter 2026 results. Our Q1 results reflect our strong performance as we execute on the growing need to secure data and safely enable the usage of AI. In Q1, SaaS ARR, excluding conversions, increased 29% year-over-year to $522.6 million and total SaaS ARR, including conversions was $683.2 million. Guy will review our results and our guidance in more detail shortly. We continue to see strong demand from both accelerating new logos and existing customers because companies understand that they must secure their data and their AI stack. Varonis helps them to do that with minimal effort because of the automation built into our platform.\nIn Q1, we saw continued adoption of MDDR and AI-related products as well as traction in securing cloud environments. Early feedback on our newer products driven by acquisitions over the last year, including database activity monitoring, Interceptor and Atlas reinforces our belief that these offerings are a strong fit to our platform and can help drive ARR growth over time. Now I would like to take a step back from our near-term results and discuss why we believe we are best positioned to help companies safely adopt AI and prevent data breaches. Varonis founded on the belief that managing and protecting data would be impossible without automation.\nThat belief is even more important today as customers work to adopt AI securely. The security model of the last 30 years was not built with AI in mind. Many organizations want to capitalize on the productivity gains from AI, but only connected a small portion of their data to AI because of security concerns. Companies want to connect more of their data to take advantage of the productivity gains, but need the right guardrails in place to confidently move faster. When we look at what's standing in the way of broader AI adoption, we see three barriers: securing the data itself, securing the AI systems and agents that touch that data and fighting AI-powered adversaries.\nThe first barrier is securing the data and making sure only the right data is accessed by the right agents and systems. AI pushes existing access controls to their limits because many systems and agents inherit user access that is far too broad. One classic example of this is an employee asking an AI chatbot, a basic question and getting confidential information that they should not have access to such as salary data, financial record or intellectual property in a response. This is content a human mistakenly had access to, but was less likely to find without AI. Previously, a human employee had to log in, navigate, download and take action.\nThere was friction because it took time and effort that reduces risk. In the agentic world, an agent can access a huge amount of your data estate in seconds. Agents can move fast, behave unpredictably and maximize privileges by design. And if an agent doesn't have permissions, it will try to get them. Connecting agents and models to data is what's blocking organizations from safely adopting AI faster. They need remediation at scale and to understand abnormal behavior, visibility alone is not enough. The second barrier is securing the AI systems themselves.\nIn Q1, Varonis found a vulnerability called Reprompt, which allowed attackers to bypass safety controls in Microsoft Copilot [ personal. ] The vulnerability, if exploited, would give the attacker access to everything the Copilot [ personal ] session itself could access, including prompts, conversation history and all of the data [ consumer assist ] could access. The third barrier is fighting the AI-powered adversary.\nWe have already seen examples of this, including last year when attackers used cloud code to breach a major organization with minimal human involvement or earlier this year, when a lone unskilled attackers use AI to scale an attack across 600-plus firewalls in 55 countries, an attack that would have previously required a team of experts to execute. AI-powered phishing doesn't just target humans. It targets agents too. Agents can read e-mail, Slack and key messages. One human clicking maliciously is one compromised identity. An army of agents can multiply the attack surface.\nThe three barriers together, overexposed data, unsecured AI systems, AI-powered adversaries create a dangerous environment and companies must build foundational controls that operate at the speed and scale of AI starting from the inside out. Varonis does just that by securing the data itself using the automated find, fix and alert approach. The first piece is find. Know what you have across the entire data store, structured, unstructured, semi-structured and application data, classified for sensitivity, context and staleness, so you know what should and should not be connected to AI. The second is fix, rightsized permissions, label data and masking. Manual process can't work anymore. The remediation must be automated and AI-driven.\nAnd finally, alert, monitoring who and what is accessing your data and detect abnormal behavior quickly to stop breach before it happens. This is the basis for AI detection and response. AI security and data security are intertwined with one another. You need an inventory of every model, agent and pipeline running in your environment and you need access posture to know what data they can touch, what permissions they have and where they are vulnerable. You need runtime guardrails to block malicious inputs before they reach the model, preventing sensitive data from leaking in outputs and restricting tool use. Finally, you must fight AI-powered adversary, the volume and speed these attacks demand automation.\nThese layers only work if they are connected. AI inventory and runtime protection is significantly more meaningful when you know what sensitive data they access and what data they are trained on. Guardrails that leverage the same accurate classification and labeling applied to enterprise data store reduce friction and increase control. We knew it would be impossible for humans to control data risk without tremendous automation. Only AI can defend AI risk. When you trust your brakes, you feel safe driving faster. When you have the right guardrails, data and AI become a force multiplier, not a breach waiting to happen. With that, I would like to briefly discuss a couple of key customer wins from Q1.\nThis quarter, a global technology company with over 50,000 employees became a Varonis customer. They needed to quickly and safely roll out AI tools and also wanted to better protect customers and company proprietary intellectual property data to meet compliance requirements and perform forensics analysis in an event of the breach. During the risk assessment, our MDDR team detected multiple active threats. We also identified risks in Salesforce and Microsoft 365 and provided an operational plan to fix these risks with intelligent automation. Our ability to provide these outcomes and safely enable the usage of AI were the key reasons why we were selected over several DSPM point solutions.\nThey ultimately purchased Varonis for AWS, Salesforce, Google Cloud Platform and Google Drive as well as Varonis SaaS for hybrid with MDDR and Varonis for Copilot. We also continue to see existing customers expand into new use cases as they consolidate point tools and utilize the breadth of our platform. In Q1, ServiceNow, a global leader of workflow automation, expanded its Varonis investments to cover internal AI systems and e-mail security, including protection against advanced phishing and social engineering attacks used by AI-powered adversaries.\nIn summary, AI is forcing companies to prioritize data and AI security, and Varonis is uniquely positioned to help with our unified platform that allows customers to put the right guardrails in place in order to accelerate their AI deployment plans. With that, let me turn the call over to Guy. Guy?\nGuy Melamed:\nThanks, Yaki. Good afternoon, everyone. Thank you for joining us today. Our first quarter performance represents a strong start to 2026, and we are excited by the momentum we are seeing in the business. Demand was healthy across both new logos and existing customers, and we are excited to raise our full year guidance after our strong start to the year. As a reminder, we are focusing on SaaS ARR growth, excluding conversions, which reflects our ability to add new SaaS customers and also expand with existing ones as this is the primary growth driver of our business in the years ahead.\nIn the first quarter, SaaS ARR, excluding conversions, increased 29% year-over-year to $522.6 million, and total SaaS ARR was $683.2 million. In Q1, we had $11.3 million of conversion ARR, and we finished the quarter with approximately $83.7 million of non-SaaS ARR remaining. This quarter, we generated $49 million of free cash flow, down from $65.3 million in the same period last year, which reflects the previously communicated headwind from the end-of-life announcement of our on-prem platform and also includes approximately $12.6 million of acquisition-related costs related to the accounting treatment of our acquisitions. Adjusting for the acquisition-related costs, free cash flow would have been approximately $61.6 million in Q1.\nWe remain on track to achieve our full year free cash flow guidance. Now I'd like to recap our Q1 results in more detail. In the first quarter, total revenues were $173.1 million, up 27% year-over-year. SaaS revenues were $161.1 million. Term license subscription revenues were $6.9 million, and maintenance and services revenues were $5.2 million. Our SaaS renewal rate was over 90%. Moving down to the income statement.I'd be discussing non-GAAP results going forward. Gross profit for the first quarter was $134.9 million, representing a gross margin of 77.9% compared to 80.2% in the first quarter of 2025. Our gross margin continues to be healthy and in line with our long-term target set at our Investor Day.\nOperating expenses in the first quarter totaled $136.3 million. As a result, first quarter operating loss was $1.4 million or an operating margin of negative 0.8%. This compares to an operating loss of $6.5 million or an operating margin of negative 4.7% in the same period last year. First quarter ARR contribution margin was 14.1%, down from 16.7% last year. This is in line with our expectations and as a reminder, is impacted in 2026 due to the end of life for our self-hosted platform. During the quarter, we had financial income of approximately $5.7 million, driven primarily by interest income on our cash, deposits and investments in marketable securities.\nNet income for the first quarter of 2026 was $7.5 million or net income of $0.06 per diluted share compared to net income of $0.7 million or $0.00 per diluted share for the first quarter of 2025. This is based on 132.8 million and 136.7 million diluted shares outstanding for Q1 2026 and Q1 2025, respectively. As of March 31, 2026, we had $900 million in cash, cash equivalents, short-term deposits and marketable securities. For the three months ended March 31, 2026, we generated $55 million of cash from operations compared to $68 million generated in the same period last year, and CapEx was $5 million compared to $2.3 million in the same period last year.\nDuring the first quarter, we repurchased 5,355,445 shares at an average purchase price of $24.67 for a net total of $132.1 million. As a reminder, we will provide quarterly SaaS ARR, excluding conversion guidance for this year only. We are doing this because of the difficulty in modeling the year-over-year growth rates due to the impact of conversions in 2025 and 2026. We are also providing a bridge to quarterly total SaaS ARR in our investor deck, which again assumes zero conversions from a guidance perspective for the upcoming quarter. For the full year 2026, we will provide annual guidance for both SaaS ARR, excluding conversions and total SaaS ARR.\nFor more information, please see our earnings deck in our Investor Relations website, which includes a more detailed breakdown of our financial guidance. For the second quarter of 2026, we expect SaaS ARR growth of 24% to 25%, excluding conversions, total revenues of $175 million to $178 million, representing growth of 15% to 17% non-GAAP operating loss of negative $1 million to breakeven and non-GAAP net income per diluted share in the range of $0.00 to $0.01. This assumes 131.1 million diluted shares outstanding. For the full year 2026, we now expect total SaaS ARR of $814 million to $845 million, representing growth of 27% to 32%. This represents SaaS ARR growth of 20% to 21%, excluding conversions.\nFree cash flow of $100 million to $105 million, total revenues of $731 million to $737 million, representing growth of 17% to 18%; non-GAAP operating income of $7 million to $9 million, non-GAAP net income per diluted share in the range of $0.11 to $0.12. This assumes 132.1 million diluted shares outstanding. In summary, we are excited by the strong start to the year and continue to see healthy momentum from both accelerating new customer wins and expansion within our installed base. Our Q1 results, coupled with the underlying drivers of our business, give us the confidence to raise our full year guidance for total SaaS ARR growth to 27% to 32%.\nIn addition, we increased our guidance for SaaS ARR growth, excluding conversions, to 20% to 21%, and we believe we can sustain this level of growth as a fully SaaS company. With that, we will be happy to take questions. Operator?\nOperator:\n\n[Operator Instructions]\nOur first question comes from Saket Kalia with Barclays.\nSaket Kalia:\nNice start to the year. Maybe a question for both of you. I think one of the thoughts this year has been that Varonis sales teams could spend more time now on new business rather than on both new business and conversions as they did last year. Guy, maybe for you, can you expand on how that's looking the first quarter into that new model? And Yaki, for you, where are you having that success in driving new business?\nGuy Melamed:\nSaket, you're right. We talked a lot about the fact that the conversions from on-prem subscription to SaaS, we're cannibalizing the time of the reps. And that in 2026, the way we've structured the commission plan and the way we've focused our reps is to go back and focus on upselling SaaS customers with additional products and going into new TAMs and selling new products and selling our SaaS offering to new customers. And we saw an acceleration in the new customer contribution, which we're extremely happy with, and it very much fits with what we were trying to achieve and the strength of the platform.\nSo our sales force is able to go and with the simplicity of the SaaS offering, sell to customers that we wouldn't be able to sell before, and that's worked really well in Q1, and we expect that to continue in the year ahead.\nYakov Faitelson:\nIn terms of what's in the market, the reality that for organizations to realize the value from AI for models and agents, they need to connect their organization and information into it. The AI is as good as the data. And this is the biggest problem that we see for organizations. We call it the 3% paradox. It's very hard for them to securely connect the data. So the MDDR becoming this AI detection and response, automated remediation of excessive permissions is the holy grail. If not, just these agents will create and read a massive amount of information that they should never touch.\nAnd you also see just a lot of attacks that are AI based, and this is hitting on all cylinders with the value proposition of the platform. You need just foundational security that is automated, but it needs to be security. It can be just partial discovery at scale and AI just hits every data type, structured, unstructured application in the cloud and on-prem, this works very well for us, and we see that it's driving the business.",
+  "qa_turns": [
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from Rob Owens with Piper Sandler.",
+      "turn_index": 0
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Robbie Owens",
+      "text": "I want to build on Saket's question a little bit and just drill down into the selling efforts. And I know in the prepared remarks, you talked about accelerating new logos and expansion. Anything you can do to quantify that for us or give us a sense of how and where that's trending?",
+      "turn_index": 1
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Yakov Faitelson",
+      "text": "Just in terms of the conversion, we see that just organizations need to convert all the data stores and definitely AI creates more urgency around it because what happened essentially, and it's happened very fast that just the tech stack, if you will, that organizations have is changing completely. Before we had a user that is accessing data through a user interface to a file system or just through a user interface to an application, and it changes completely.\nStarting to have an agent that is accessing in robotic speed and many times by using tools, from any kind and our customers and prospects understand that they need to understand what they have and to protect this data immediately because before, in the model, you had a lot of friction. User needs to be malicious or to do just a gross mistake in order to get to information they shouldn't get. The agents will get to it immediately. So what happened fairly fast is that the most important security controls are moving to two places to the agents and to the data, and this works very well for Varonis.",
+      "turn_index": 2
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Guy Melamed",
+      "text": "And Rob, just to quantify in terms of the new customer contribution, we saw, as we mentioned in the prepared remarks, an acceleration in the actual total number of new customers. It was pretty significant from our end. And what we also think and believe is when we look at the contribution from some of the new products, even though Atlas only closed in February, we saw some nice contribution there, nothing too material, but definitely something that gives us the confidence that we can continue to sell that at an accelerated pace throughout the year, and that's not baked in the guidance.\nSo when we look at the Q1 behavior, it was definitely kind of driven by the new customer side with a lot of opportunity throughout the year from an upsell opportunity with some of the products that we have that isn't baked in the numbers that we put out there.",
+      "turn_index": 3
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Moving next to Meta Marshall with Morgan Stanley.",
+      "turn_index": 4
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Abhishek Murli",
+      "text": "This is Abhishek Murli on for Meta Marshall. Congrats on the quarter. I was wondering if we could get an update on the Microsoft Copilot partnership and whether there are any channels that are driving new customers there.",
+      "turn_index": 5
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Yakov Faitelson",
+      "text": "So Microsoft Copilot is one of them, but what we see is that organization needs just control plan for every AI from just -- a lot of just models and Copilot and just -- there is just so much technology and so much innovation that is just happening in a neck break speed, and we are protecting everything. With the acquisition of Atlas, we have the ultimate control plan for agents, models and pipeline. We protect every data type. And what happened is that I think that what is important to understand is that the overall velocity. You have these agents that accessing data, you need to be ahead of them in your remediation.\nYou need to understand any abnormal behavior. If a weather forecasting agent is accessing HR records in 2 a.m. in the morning, you better know about it, and you will be amazed how often things like that are happening. So Copilot is one of them, but we definitely see that in order for these AI agents and models to be useful, they need to be connected to data. And the only way that you can do it is in a secure way. And it just slowly but surely, we are becoming the foundation for organizations to adopt AI in a secure way.",
+      "turn_index": 6
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Next, we have Joshua Tilton with Wolfe Research.",
+      "turn_index": 7
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Joshua Tilton",
+      "text": "Congrats on a pretty solid quarter. I have one. It's more of a clarification. I think maybe you addressed it in the beginning. I'm not sure if I heard you correctly, but I was kind of under the impression that the free cash flow guidance for the year is the way it was because there was an assumption around churn because you guys are basically guiding to no conversion or some assumption that some of these remaining on-premise customers would convert. And then you have a quarter where you did convert some customers, but the free cash flow guidance for the year kind of stayed the same.\nSo I'm just wondering why the free cash flow guide isn't moving up as you actually execute on converting customers that I'm assuming were assumed to churn originally in the guidance.",
+      "turn_index": 8
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Guy Melamed",
+      "text": "Let me clarify that. When we gave guidance on the full year numbers, we assumed the bear case scenario and a bull case scenario on the conversions, which was $50 million to $75 million. We are on track to achieve those numbers, and that's part of our free cash flow guide. It's not that the free cash flow guide assumed zero conversions. It assumed that midpoint range, that base case scenario of that $50 million to $75 million. And we're actually -- when we look at the Q1 conversion numbers, they were actually on track, and we felt very good with the numbers that we were able to convert in Q1.\nSo the actual reduction that we announced last quarter on the free cash flow side was on the delta, the expectation of churn with the announcement of the end of life. And that was the headwind that we were talking about, but it was still baking in that $50 million to $75 million, and we feel very good with that guidance for the year on the free cash flow side and still assuming to be within that base case scenario of conversions for the year.",
+      "turn_index": 9
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "We'll take our next question from Roger Boyd with UBS.",
+      "turn_index": 10
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Roger Boyd",
+      "text": "Congrats on the quarter. For Yaki or for Guy, you mentioned enterprises prioritizing AI security. I think this has been kind of the bull case around Varonis for a while now. I'd love to get your sense of like did something change this quarter? And how did that actually manifest as you look at kind of the -- on a monthly basis throughout the quarter? Would you characterize demand from enterprises as ramping throughout the quarter and guide, just any sense of what you're seeing through April and how that kind of factors into the guide for -- I think it was kind of flat net new SaaS ARR ex-conversions.",
+      "turn_index": 11
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Yakov Faitelson",
+      "text": "I think that what you mainly see just from a broader marketing, obviously, everybody just investing a lot in AI tooling and understanding how they can just derive real value from it. And there are obviously some use cases that are unbelievably strong, but the realization that we see is that they get -- they understand that they need to connect data securely and to make sure that these agents can work like employees, they need to make sure that they can connect it to all the universe of knowledge that the organization has.\nThis is something that is just very hard to do because what happened that before, if you have excessive access control or data was exposed, the user need to be malicious in order to get to it. The agents are getting it immediately by design and making many times all efforts to remove very important security controls. So more than anything else, what you see is that just slowly but surely just an understanding that you need to secure the AI systems and the data that powers it. And this is something that works very well for us. We see more strategic conversation. We definitely see that organizations understand that they need to look at everything.\nEven when you look at databases, historically, databases was DBAs accessing databases and you have what we call connection pool. But now with agents, they can access it like a collaboration. So just a lot of the way that these agents and models consume information, it's something that put the security and AI security is a top priority.",
+      "turn_index": 12
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Guy Melamed",
+      "text": "And I'd like to address the second part of your question. When we look at the Q2 guide, it really is kind of just following the same responsible guidance philosophy. And we're really excited with the start for the year and the performance that we had in Q1, and we feel very good about Q2 and the pipeline that we have for the rest of the year. So it really is just keeping the same philosophy guidance.",
+      "turn_index": 13
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Moving on to Matt Hedberg with RBC Capital Markets.",
+      "turn_index": 14
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Matthew Hedberg",
+      "text": "Congrats on the results. Obviously, a lot of moving parts here. I guess there's a lot of uncertainty in the market, whether it's the Iran war, maybe demand trends in the Middle East or even some of the headcount reductions that we've seen out there from customers in different verticals. I'm just kind of curious if that's starting to creep in any customer conversation? And Guy -- is SaaS NRR trending up? It sounds like renewals are strong, but I'm kind of curious on the SaaS NRR side.",
+      "turn_index": 15
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Yakov Faitelson",
+      "text": "In terms of just the conversation with organizations, it was primarily about just data and AI security. If you look at our pricing scheme and model, so much of it is just based on the volume of data and data store. And for us, it's just the identities that are accessing data. So just reduction in headcount is not something that we are feeling and affecting our pricing in any way. But our teams are just tremendous, and I want to thank them that during this conflict, we're able to maintain the right productivity levels, and we were just in front of customers, helping them secure the data.",
+      "turn_index": 16
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Guy Melamed",
+      "text": "And from an NRR perspective, obviously, we provide the NRR on an annual basis. But in talking about the trends, we feel very good about our ability to go back to customers, SaaS customers and sell them additional licenses. And we talked a lot about the being able to finish the transition quickly and have our sales force focus on selling additional products. And it's definitely something that we saw in Q1, and we believe that we can actually continue and do even better throughout the year with the platform offering that we have.\nSo when we look at the trends and when we look at the conversations and when we look at the pipeline and look at and track the meetings, it's definitely trending in a positive way, and we feel very good with our platform ability to go back and have the sales force focus on what they know how to do best, which is sell to new customers and upsell to our existing SaaS customers.",
+      "turn_index": 17
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "We'll go next to Brian Essex with JPMorgan.",
+      "turn_index": 18
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Brian Essex",
+      "text": "Great to see a Q1 beat and raise in such an uncertain macro. I guess I wanted to poke on the non-SaaS ARR remaining, and it was great to see that you had $11.3 million of conversion business in the quarter, and you guided to 0. I wanted to understand what the composition of that outperformance was. And then of the remaining $83.7 million of non-SaaS ARR, can you help us understand what the composition of that cohort is? Have the weaker or single-threaded customers churned off? Have we seen like a front-loaded churn rate and maybe it's higher quality?\nOr maybe just to give us a sense of your level of confidence in that portion of business that may convert over?",
+      "turn_index": 19
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Guy Melamed",
+      "text": "Brian, there's a lot to unpack. I'll try and tackle them one by one. I'll start with the conversion guidance. We said at the beginning of the year that we're giving a base case scenario, a bull and a bear case range, basically, that $50 million to $75 million. We stand with that number and feel good about our ability to get to the conversions. We saw very healthy conversions in Q1. And the reason we didn't guide for any numbers on a quarterly basis, it's not that we don't expect conversions to happen. We just didn't guide for them. And there are two reasons for that.\nReason number one is we want to focus investors on what matters the most, which is SaaS ARR, excluding conversion, which is a KPI that puts the emphasis on how this business would grow post transition. And we don't want to put too many numbers out there that would confuse everyone. We know that there's a lot of moving parts during this transition. And keep in mind at the end of this year, SaaS ARR would be ARR. We will -- with the announcement of end of life, we're condensing everything, and this will be very, very simple. And there's only three quarters to kind of go through with the moving parts.\nSo that was reason number one of not putting a number on the guidance from a conversion perspective. And the second reason is that there are a lot of customers that kind of fluctuate on their conversion period. And some of the customers in Q1 where the renewal was up for renewal on the on-prem subscription side, will convert later on in the year. So we're definitely seeing those numbers kind of move, and we didn't want to put a number out there that would confuse investors and analysts. And that's why we're just giving that full year range of $50 million to $75 million, and we feel very good with that number.\nIn terms of the single-threaded breakdown, we saw that continue in the same trends that we have seen in the past. And if you remember, the focus of those on-prem subscription customers that will not convert was mostly on the federal and state and government customers. That was the cohort that we felt would be impacted the most by not moving to SaaS, and we still think that is the case. But when we look at the numbers of that single threaded that converted, they continue to convert at the same rate that we have seen in the past. So we felt very good about that as well. I hope I answered all of your components of the question.\nBut really, just the highlight of my answer is that we felt good with the conversions in Q1, and we feel good with what's yet to be converted for the rest of the year.",
+      "turn_index": 20
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "And Richard Poland with Wells Fargo has our next question.",
+      "turn_index": 21
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Richard Poland",
+      "text": "On the cash flow, I just wanted to clarify one point. I think you called out $12 million to $13 million of acquisition-related costs that seem to affect the cash flow side of things, but obviously not the non-GAAP operating income. I just wanted to see if there's anything for the remainder of the year with respect to some of those acquisition-related costs. And is it a scenario where we should try to back that out for a cleaner, I guess, year-over-year compare?",
+      "turn_index": 22
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Guy Melamed",
+      "text": "So the biggest impact, obviously, was in the Q1 numbers, and that's why we broke it out. Obviously, we're still -- we remain on track to achieving the full year free cash flow guidance, and we want to emphasize that and highlight that. But for visibility perspective, we wanted to highlight that $12.5 million headwind coming from the accounting treatment of the acquisitions, and that's mostly the AllTrue that took place in February. We wanted to put that out there so investors can understand the apple-to-apple comparison, and that's why we highlighted that.",
+      "turn_index": 23
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "We'll go next to Mike Cikos with Needham & Company.",
+      "turn_index": 24
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Michael Cikos",
+      "text": "Congrats on the quarter here. I just wanted to come back to the commentary, whether it's the press release or the prepared remarks here, but it seems like the company is being more assertive as far as what the sustainable growth is for this company ex conversion, citing that 20% to 21% growth. If I'm just looking at the trend rate here, last quarter was 32%, [indiscernible] 29%. We're guiding to 24% to 25% this coming quarter. Can you just give us a better indication of what gives you the confidence to be putting that bogey out there today, just to help draw the lines for some of the longer-term investors who are looking at this asset post conversion?",
+      "turn_index": 25
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Guy Melamed",
+      "text": "So first of all, you're right. When you look at kind of the full year guidance, we went from 18% to 20% to kind of having the low end starting with a two handle, and we feel very good about that. And we feel -- we believe we can continue that growth rate. We talked for a long, long time about our ability to continue to grow 20-plus percent with the platform that we have and with our ability to sell to new customers and go to the base and sell to -- upsell to existing SaaS customers. And I think that when you look at the trends that we've had in Q1, they give us the confidence.\nWhen you look at the environment out there, being able to accelerate with new customers is definitely something that we feel very good about and gives us the confidence. And when we see how our existing SaaS customers are receptive to additional licenses and the platform offering that we have, we definitely believe that there's a lot for us from a customer value perspective, customer lifetime value perspective to go back. And we've seen how many of the customers consume more and more. And that's part of the reason that we feel very good about that and noted it in our Q1.",
+      "turn_index": 26
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Moving next to Joseph Gallo with Jefferies.",
+      "turn_index": 27
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Joseph Gallo",
+      "text": "Can you just talk a little bit more about Atlas initial traction, feedback and who you're competing with? Is it against pure plays? Or are people trying to do this themselves use a platform? And then if at all, did the AllTrue.ai acquisition contribute to ARR this quarter?",
+      "turn_index": 28
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Yakov Faitelson",
+      "text": "We see just a lot of momentum around Atlas in terms of just the overall interest. In terms of the AI life cycle, we strongly believe that it's the most comprehensive product out there, but it also has a massive force multiplier with the Varonis platform. So the key is how you connect everything to data. Atlas is your best way to manage agent models and pipelines and then connect it to Varonis is what will give you the ability to use AI in a secure way. So there is just a lot of noise in the market.\nBut at this point, no one has -- just on the actual pipelines, tools and models, no one has something that is so comprehensive. And the sales motion is together with everything that we have.",
+      "turn_index": 29
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Guy Melamed",
+      "text": "I want to clarify that when we acquired AllTrue, there was no ARR that was added as part of the acquisition. So really, if you remember that the transaction closed in February, and it's not that we expected that it would have a significant impact, and it didn't have a significant impact in Q1, but there were definitely early signs that were encouraging in terms of conversations and in terms of some of the evals that were put in and even some several POs that we were able to get. But again, nothing significant that impacted the quarter from an ARR perspective.\nHowever, and as Yaki mentioned, the conversations and the pipeline that we're seeing is definitely giving us the encouragement and the expectation that we would see AllTrue contribute more throughout the remainder of the year. And as I mentioned before, that is not part of our guidance. We didn't bake in any optimistic assumptions with AllTrue selling throughout the year, but it's the upside ability and the conversations that give us the confidence to actually see that happen in Q2, Q3 and Q4.",
+      "turn_index": 30
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Yakov Faitelson",
+      "text": "The initial conversations and more so the results from the POCs are very encouraging.",
+      "turn_index": 31
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from Shaul Eyal with TD Cowen.",
+      "turn_index": 32
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Shaul Eyal",
+      "text": "Congrats on the solid performance and guidance. Yaki, supply chain attacks remain a major threat, especially when sensitive data moves beyond your original provider. As you look at your platform today, do you believe your supply chain security capabilities are sufficient? Or is this an area where you plan to invest and expand? And maybe a second one, who are you displacing given some of those big logos that you just announced one of them earlier on the call?",
+      "turn_index": 33
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Yakov Faitelson",
+      "text": "Yes. Thanks. So in terms of supply chain attacks, this is how bad actors are getting in and with AI, it's much, much easier for them to get in and Interceptor is doing an unbelievable job. But -- and we believe that what we have in terms of the phishing sandbox and all the assets that we have with the browser extension and the mobile devices, we are just in the best position in the market. But as attacks becoming more sophisticated, we keep investing in it. And we -- and I think that this is in terms of just overall phishing, spear phishing and phishing attacks of this nature.\nThis is how adversaries will get in, and we are extremely well positioned, and it's also worked unbelievably well with our MDDR and in terms of just replacements, it can be just database activity monitoring, other point solutions that related to DSPM. But what we started to see this quarter is that AI security and overall AI budgets starting to move slowly towards our platform.",
+      "turn_index": 34
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from Rudy Kessinger with D.A. Davidson.",
+      "turn_index": 35
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Rudy Kessinger",
+      "text": "I'm curious, I want to dive in on the makeup of the SaaS net new ARR ex conversions, up 31% year-over-year. Was that primarily driven by higher new logo contribution or similar expansion rates on a larger renewal pool? And then also, how did the composition of that net new ARR look relative to recent quarters in terms of the workloads that you're protecting, specifically maybe in Microsoft for the Azure ecosystem versus everything else?",
+      "turn_index": 36
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Guy Melamed",
+      "text": "So I'll start, and then Yaki can provide some color. When we look at the contribution in Q1, it was definitely driven by new customer acquisitions, and that's why we highlighted the acceleration on the new logo side. But as I mentioned before, we saw very encouraging signs in terms of our platform ability and our additional upsell opportunity throughout the year and our ability to go back to SaaS customers and sell to them additional licenses, both the SaaS offering that we have and some of the additional tuck-in acquisitions that we have made.\nSo I think when we look at the holistic view of that, the new customer was the encouraging part and the upsell was definitely there, and we think that it can actually do better throughout the year.",
+      "turn_index": 37
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Yakov Faitelson",
+      "text": "In terms of just the Microsoft ecosystem is a very small part of the data. We are doing very well with all the SaaS applications, AWS, GCP, Azure, data on-prem, databases everywhere. So it's just AI consume data wherever it lives, and we protect it. But overall, Microsoft is starting to be a small portion of the entire information estate that organizations have.",
+      "turn_index": 38
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "And moving next to Jason Ader with William Blair.",
+      "turn_index": 39
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Jason Ader",
+      "text": "You guys talk a little bit more about the kind of the broader competitive landscape? I know that some of the cyber guys have some overlap with what you're doing and you have some of these start-ups. Maybe just talk through if you're seeing different players than you normally have seen? Are you seeing more people at the table during bake-offs? I mean you had a strong new customer acquisition quarter. Were those competitive deals versus what you've seen in the past? Just some more kind of specifics on the competitive landscape would be great.",
+      "turn_index": 40
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Yakov Faitelson",
+      "text": "Yes. So obviously, now the platform is so much broader now. But if you look at what they call this [ DSPM ] market, this is not data security. We have a comprehensive data security platform that provides automated outcomes. So what there is in the market is data discovery tools that doing something that 20 times what's called sampling, the partial classifications, we see them from time to time. But when customers are [indiscernible] versus just data security and AI is pushing data security because you need to do automated remediation and understand abnormal behavior to data and understand the identity component, there is -- we just usually crush them immediately.\nOn the interceptor, this is sometimes we can see just companies like Abnormal or Proofpoint. But primarily, we sell it with the platform. In the database activity monitoring, we're replacing the incumbent like Imperva and -- Imperva and Guardium. So this is really the dynamics that we see. But what happens is that the platform is starting to address more and more use cases. And what we're starting to see that is interesting, we can take budgets from point solutions, but we're also starting to get budgets from just AI.\nDigital transformation and security is such a key fundamental component out of it and these organizations that pushing AI hard understand that, first and foremost, they need to secure the data and have the observability to what's going on in the life cycle of the AI tools, and this is another source of budget for us.",
+      "turn_index": 41
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Moving next to Jonathan Ruykhaver with Cantor Fitzgerald.",
+      "turn_index": 42
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Jonathan Ruykhaver",
+      "text": "I'm curious, Yaki, to hear your thoughts on where you see the boundary between Varonis and identity vendors, particularly given the convergence we're seeing between identity and data security strategies. There does seem to be a question related to who ultimately owns that control and governance layer around AI agents. So any color on how that strategy might be resonating? Any customer feedback or color on adoption of identity -- of your identity solutions would be helpful.",
+      "turn_index": 43
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Yakov Faitelson",
+      "text": "Thanks for the question. I think what happened early on is that organizations thought that they can use identity solutions to solve the problem, but failed. The identity is critical. You need to provision an identity, understand how they are going to use it. But the identity itself, if you can see what data it's touching and if there is any abnormal behavior and exactly what are the AI tools they are using, you have -- you are very limited in the value that you will get and you can provision identity in the right way and then the agent will use the wrong tools and will access the wrong data, and it will end in a catastrophe.\nSo I think what we benefited from in Q1 was actually the understanding that the identity provisioning is very important but limited. And what you need to do is really to manage this whole thing from -- inside out from one side is the data and one side is the pipeline and tools. And obviously, we coexist. Organization needs both of them. But to get the value, you need to connect it to data and the only way to do it to get the benefit without the downside is to do it in a secure way. You need very good brakes in order to drive fast in this AI era.",
+      "turn_index": 44
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "And next, we have Erik Suppiger with B. Riley. Hearing no response, we'll go next to Todd Weller with Stephens.",
+      "turn_index": 45
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Todd Weller",
+      "text": "Just a question on the expansion opportunity. Could you talk about the relative opportunity between data workload expansion versus cross-selling the new products you have? And then from a workload type perspective, what do you see driving kind of the strongest growth?",
+      "turn_index": 46
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Yakov Faitelson",
+      "text": "So I will start from the end. The workload is everything. So if you really think about what applications are accessing and what users are accessing to do their job, this is what the agent needs to access in order to be useful. So most data in organizations and a lot of the time in order really to build this data estate and derive good conclusion, they also take a lot of historical data. So the overall data estate becoming very super critical, even data that is stale. So it's really everything. What the AI does essentially, it really drives -- it really drives to protect all data.\nAnd with that is whatever data you want to connect to your AI systems, this is how we can expand. And I also think that some use cases that were a bit more compliance driven like database activity monitoring becoming just a top priority for security risks because the consumption change with the AI usage. So this is really what we see. The data is everywhere, and these technologies are accessing all the data in just a neck break speed, and you need to be ahead of it with robotic value proposition.",
+      "turn_index": 47
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "And we'll go back to Erik Suppiger with B. Riley.",
+      "turn_index": 48
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Erik Suppiger",
+      "text": "I apologize for that. Congratulations on a nice quarter. Say, in your conversations with customers, how much of your new ARR is driven by the traditional threat of outsiders exfiltrating data versus how much of your discussion is focused on AI and securing agents? And then on the former, has the news that came out of Anthropic about enhanced capabilities for vulnerability, identifying vulnerabilities, has that made a difference in terms of some of the discussions with customers? Are they more looking at securing data in a more urgent manner in terms of some of these vulnerabilities coming out?",
+      "turn_index": 49
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Yakov Faitelson",
+      "text": "I think that -- I think what the security concerns regarding information that we had with humans becoming it's the same concerns. But just if you think what happened in the agentic world, the probability that something will happen just increases by orders of magnitude, it's very easy. They start to deploy agents and especially something happened that really triggered the need for organizations to understand it. In general, with everything that is happening with these models that finding vulnerabilities, organizations understand that many times because you can find the vulnerability, it can be easier for bad actors to come in. And then when they are coming in, essentially what they want is data.\nIf you had a breach and no one touch any data, nothing happened. If data was taken, you have what we call the lasting damage. So it's just -- it's -- everything works together, but it just amplifies the need to secure your data. And also there is an understanding that this needs to be completely automatic.",
+      "turn_index": 50
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Moving next to Shrenik Kothari with Robert W. Baird.",
+      "turn_index": 51
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Shrenik Kothari",
+      "text": "Congrats on the solid quarter. So you sounded especially encouraged by the acceleration in the new customer contribution in the quarter driven by new logo with a lot of upsell expansion opportunities still in front of you. So just as the field is spending more time on true new and upsell rather than conversion, like how should we think about the current mix between the new and expansion? And over time, like in supporting your durable 20% plus organic growth algorithm you talked about, what does the steady-state balance of those new versus expansion look like?",
+      "turn_index": 52
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Guy Melamed",
+      "text": "The ability to go to new customers with our SaaS offering is very clear to us, and we have seen it throughout the transition. But obviously, where reps had to focus on the conversion, we talked a lot about the cannibalization of time. And as we kind of move past the transition, they can go back and focus on the new customer sell. And we've definitely seen that with the offering we have, we can reach to new customers that we didn't have the opportunity to do it before. If you look longer term, the expectation is that the platform that we have, the majority of the ACV should come from the existing base.\nWe definitely see that opportunity as a significant one with the offering that we have. And when you have such a large base, and when you think about the run rate that we have, we're expected to finish the year just under $850 million, that's a big base of customers, thousands of customers that you can go back and sell them additional products and protect them in a way that will give them the comfort to use AI and be able to address the needs. So if you look longer term, we definitely believe that the contribution from existing SaaS customers should drive our growth.\nBut again, with a focus on new customers and when you look at the comp plan, we made sure that reps would focus on both new customers and existing SaaS customers, and that's how they can make the most amount of money because we believe that, that should drive our trajectory and growth in the years ahead.",
+      "turn_index": 53
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "And moving next to Junaid Siddiqui with Truist Securities.",
+      "turn_index": 54
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Junaid Siddiqui",
+      "text": "I just wanted to ask, what are you seeing from customers that are adopting Athena AI? Specifically, what are you seeing? How quickly are they adopt -- how quickly is adoption ramping up post deployment? And what's distinguishing customers who embed Athena into their daily workflows versus those where usage stalls after initial enablement? And is that -- are you seeing any change in deal sizes or close rates or post-sale expansion versus customers that are not using it?",
+      "turn_index": 55
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Yakov Faitelson",
+      "text": "It's part of the product. And this is the key that you are able to use it in just natural language without any enablement, and it works very well for our customers. And big part of the platform and the automated outcome is what we call no touch value. That a lot of the value just from the remediation and threat detection and automated classification, everything is happening automatically. And when you need to do something, you can do it by just talking to the platform, and it works very well. But just part of day-to-day usage of the platform.",
+      "turn_index": 56
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "We'll go next to Fatima Boolani with Citi.",
+      "turn_index": 57
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Fatima Boolani",
+      "text": "Guy, I wanted to ask you about ARR contribution margin and how we should think about the linearity of that over the course of the year, understanding the ebbs and flows of how conversions are trending. But maybe if you can help us map it back to the Bull and Bear case as you framed it for conversions and the relationship to ARR contributions against what are appearing to be very responsible organic OpEx investments.",
+      "turn_index": 58
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Guy Melamed",
+      "text": "Absolutely. We talked about the conversion kind of breakdown behavior throughout 2026. And the expectation is that a big part of the churn on the on-prem side will be related to Q3 because if you remember, that's the quarter with the largest federal and state and government. So the expectation was that a lot of the conversions would actually happen in Q4 towards the end of the year. Obviously, we will try to convert many of them before, and we're focused on that. But if you look at kind of the behavior throughout the year, I think it will be somewhat back-end loaded from a yearly perspective.\nAnd as such, the ARR contribution margin will look -- will kind of even out throughout the year with the contribution that you see on the conversion itself. So that's kind of the framework to think about. That's the way to think about generally kind of the profile there. And also, if you look at the actual -- regular seasonality of SaaS sales, we do have a significant portion of our sales that take place in Q4. So when you look at that as well, you can see that from a cost perspective, they are somewhat, I'd say, for the most part, relatively flat.\nAnd therefore, when you look at the profile margin in previous years, you would see that the biggest contribution does take place in Q4, and I expect that to be the case in 2026 as well.",
+      "turn_index": 59
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "And this now concludes our question-and-answer session. I would like to turn the floor back over to Tim Perz for closing comments.",
+      "turn_index": 60
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Tim Perz",
+      "text": "Thanks again for the interest in Varonis. Please reach out if you'd like a call back. We look forward to seeing everybody at the investor conferences this quarter.",
+      "turn_index": 61
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Ladies and gentlemen, thank you for your participation. This does conclude today's teleconference. You may disconnect your lines, and have a wonderful day.",
+      "turn_index": 62
+    }
+  ]
+}

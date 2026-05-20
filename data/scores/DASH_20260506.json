@@ -1,0 +1,28 @@
+{
+  "ticker": "DASH",
+  "call_date": "2026-05-06",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.01256588905671245,
+  "cosine_distance": 0.03523039266655781,
+  "sentiment_shift": 0.0015778101585579643,
+  "question_difficulty_mean": 0.1544564701058545,
+  "baseline_mean": 0.011686192462070307,
+  "baseline_std": 0.0012440788549163443,
+  "z_score": 0.7071067811865475,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5772282350529272,
+    "call_mean_answer_length": 359.54545454545456,
+    "call_hedge_density": 0.01573332643414884,
+    "call_pos_sentiment_mean": 0.1252595805986361,
+    "call_neu_sentiment_mean": 0.8486851453781128,
+    "call_neg_sentiment_mean": 0.026055261662060566,
+    "call_qa_similarity_mean": 0.5247181254742466,
+    "baseline_neg_sentiment_mean": 0.0244774515035026
+  },
+  "generated_at": "2026-05-20T05:11:06+00:00"
+}

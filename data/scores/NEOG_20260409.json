@@ -1,0 +1,28 @@
+{
+  "ticker": "NEOG",
+  "call_date": "2026-04-09",
+  "quarter": 3,
+  "year": 2025,
+  "pressure_score": 0.037163756685291434,
+  "cosine_distance": 0.09516477204893947,
+  "sentiment_shift": 0.012580675627729854,
+  "question_difficulty_mean": 0.19630061785310607,
+  "baseline_mean": 0.056381957413510396,
+  "baseline_std": 0.041268029665866436,
+  "z_score": -0.46569222916195335,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5981503089265531,
+    "call_mean_answer_length": 105.71428571428571,
+    "call_hedge_density": 0.030264986377555397,
+    "call_pos_sentiment_mean": 0.305157670751214,
+    "call_neu_sentiment_mean": 0.6316812591893333,
+    "call_neg_sentiment_mean": 0.06316106433847121,
+    "call_qa_similarity_mean": 0.37290489776263075,
+    "baseline_neg_sentiment_mean": 0.05058038871074136
+  },
+  "generated_at": "2026-05-20T06:21:05+00:00"
+}

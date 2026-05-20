@@ -1,0 +1,28 @@
+{
+  "ticker": "GEF",
+  "call_date": "2026-04-21",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.03151414980439178,
+  "cosine_distance": 0.07622522363546669,
+  "sentiment_shift": 0.005569717672187835,
+  "question_difficulty_mean": 0.3141019469990058,
+  "baseline_mean": 0.026906101610824157,
+  "baseline_std": 0.0065167642514121745,
+  "z_score": 0.7071067811865476,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6570509734995029,
+    "call_mean_answer_length": 77.875,
+    "call_hedge_density": 0.0085042830957992,
+    "call_pos_sentiment_mean": 0.38359162397682667,
+    "call_neu_sentiment_mean": 0.4997566002421081,
+    "call_neg_sentiment_mean": 0.11665176879614592,
+    "call_qa_similarity_mean": 0.4484709869973686,
+    "baseline_neg_sentiment_mean": 0.12222148646833375
+  },
+  "generated_at": "2026-05-20T05:34:10+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "JJSF",
+  "call_date": "2026-02-03",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.036414404704426015,
+  "cosine_distance": 0.10005196771257951,
+  "sentiment_shift": 0.008129876905253956,
+  "question_difficulty_mean": 0.15084079769105826,
+  "baseline_mean": 0.03872353748710146,
+  "baseline_std": 0.003265606898579932,
+  "z_score": -0.7071067811865486,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5754203988455291,
+    "call_mean_answer_length": 87.16666666666667,
+    "call_hedge_density": 0.02301211875965863,
+    "call_pos_sentiment_mean": 0.647005325804154,
+    "call_neu_sentiment_mean": 0.31191251426935196,
+    "call_neg_sentiment_mean": 0.041082170791924,
+    "call_qa_similarity_mean": 0.34679116315084973,
+    "baseline_neg_sentiment_mean": 0.032952293886670043
+  },
+  "generated_at": "2026-05-20T05:50:52+00:00"
+}

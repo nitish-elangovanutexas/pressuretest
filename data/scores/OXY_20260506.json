@@ -1,0 +1,28 @@
+{
+  "ticker": "OXY",
+  "call_date": "2026-05-06",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.021928650144335808,
+  "cosine_distance": 0.05691435721959248,
+  "sentiment_shift": 0.007421745271939371,
+  "question_difficulty_mean": 0.181586095678104,
+  "baseline_mean": 0.018350827587215696,
+  "baseline_std": 0.0050598051840436515,
+  "z_score": 0.7071067811865472,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.590793047839052,
+    "call_mean_answer_length": 204.88888888888889,
+    "call_hedge_density": 0.011863273266040662,
+    "call_pos_sentiment_mean": 0.5127360928389761,
+    "call_neu_sentiment_mean": 0.4660299809442626,
+    "call_neg_sentiment_mean": 0.021233910280797217,
+    "call_qa_similarity_mean": 0.45360760642020537,
+    "baseline_neg_sentiment_mean": 0.028655655552736588
+  },
+  "generated_at": "2026-05-20T06:31:00+00:00"
+}

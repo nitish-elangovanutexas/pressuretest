@@ -1,0 +1,28 @@
+{
+  "ticker": "VRT",
+  "call_date": "2026-04-22",
+  "quarter": 3,
+  "year": 2024,
+  "pressure_score": 0.016778314486036176,
+  "cosine_distance": 0.04634167772947406,
+  "sentiment_shift": 0.0017913482777145752,
+  "question_difficulty_mean": 0.17653611877652017,
+  "baseline_mean": 0.01885848960414846,
+  "baseline_std": 0.0035076681506114073,
+  "z_score": -0.5930364643387651,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5882680593882601,
+    "call_mean_answer_length": 111.16666666666667,
+    "call_hedge_density": 0.010715838196130858,
+    "call_pos_sentiment_mean": 0.2330255058283607,
+    "call_neu_sentiment_mean": 0.747747095922629,
+    "call_neg_sentiment_mean": 0.019227410511424143,
+    "call_qa_similarity_mean": 0.5299376770375408,
+    "baseline_neg_sentiment_mean": 0.021018758789138718
+  },
+  "generated_at": "2026-05-20T07:24:24+00:00"
+}

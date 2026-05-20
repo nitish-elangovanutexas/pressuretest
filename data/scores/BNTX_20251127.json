@@ -1,0 +1,28 @@
+{
+  "ticker": "BNTX",
+  "call_date": "2025-11-27",
+  "quarter": 3,
+  "year": 2025,
+  "pressure_score": -7.943107873240123e-17,
+  "cosine_distance": -2.220446049250313e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.1924192552695958,
+  "baseline_mean": -7.943107873240123e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5962096276347979,
+    "call_mean_answer_length": 48.0,
+    "call_hedge_density": 0.0,
+    "call_pos_sentiment_mean": 0.1906847581267357,
+    "call_neu_sentiment_mean": 0.7894024848937988,
+    "call_neg_sentiment_mean": 0.019912742543965578,
+    "call_qa_similarity_mean": 0.39994428762666967,
+    "baseline_neg_sentiment_mean": 0.019912742543965578
+  },
+  "generated_at": "2026-05-20T04:49:37+00:00"
+}

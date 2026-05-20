@@ -1,0 +1,328 @@
+{
+  "ticker": "FSLY",
+  "company_name": "Fastly",
+  "call_date": "2026-05-06",
+  "quarter": 1,
+  "year": 2026,
+  "prepared_remarks": "Earnings Call Transcript\nFastly (FSLY) Q1 2026 Earnings Transcript\nBy\n\nMotley Fool Transcribing\n\n–\n\nMay 6, 2026 at 6:07PM EST\n\n\n\n\nImage source: The Motley Fool.\n\n\nDATE\nMay 6, 2026 at 4:30 p.m. ET\nCALL PARTICIPANTS\nChief Executive Officer — Kip Compton\nChief Financial Officer — Richard Wong\nTAKEAWAYS\nTotal revenue\n-- $173 million, a 20% increase year over year, reaching a record high and at the high end of guidance.\nSecurity revenue\n-- $38.8 million, 22% of total revenue, up 47% year over year and 9% sequentially, marking four consecutive quarters of accelerating growth.\nCompute / other revenue\n-- $8 million, up 67% year over year; largest-ever sequential revenue step-up in this category, driven by AI and edge workload demand.\nNetwork services revenue\n-- $126.2 million, up 11% year over year, approximately twice the market growth rate.\nLTM net retention rate (NRR)\n-- 113%, up from 110% in the prior quarter and 100% a year ago, driven by broader customer expansion, including mid-market accounts.\nRemaining performance obligations (RPO)\n-- $369 million, up 63% year over year, with current RPO (next twelve months) at 75% of total and up 77% year over year.\nGross margin\n-- 65.1%, a record, exceeding guidance midpoint by 110 basis points, aided by a 190 basis point one-time accounting policy benefit.\nOperating income\n-- $19.1 million, above guidance, with operating margin expanding from negative 4% to positive 11% year over year.\nNet profit\n-- $22.9 million, or $0.13 per diluted share, compared to net loss of $6.6 million a year ago.\nAdjusted EBITDA\n-- $29.5 million, or 17% of revenue, up from $7.8 million and 5% of revenue a year ago.\nInfrastructure CapEx\n-- $21 million in the first quarter (12% of revenue), front-loaded to secure hardware amid supply chain constraints; normalized to 6% absent deferred 2025 spend.\nCash and investments\n-- $330 million at quarter end, after retiring $39 million of current debt.\nFree cash flow\n-- $4.1 million, down from $8.2 million a year ago due to $18.4 million higher infrastructure spend offsetting operating cash flow growth.\nLarge customer count\n-- 634 customers generating over $100,000 each in annualized revenue this quarter; single customer concentration below 10% of revenue.\nGuidance: fiscal Q2 2026 revenue\n-- $170 million to $176 million (midpoint 16% annual growth); gross margin of 64%, plus or minus 50 basis points.\nGuidance: full year 2026 revenue\n-- $710 million to $725 million (midpoint 15% annual growth); operating margin guide raised to 9%; gross margin also guided at 64%, plus or minus 50 basis points.\nGuidance: 2026 free cash flow\n-- $40 million to $50 million; infrastructure CapEx expected at 10%-12% of revenue for the year.\nProduct innovation\n-- New security launches in the first quarter include ContentGuard (AI bot detection), advanced API governance, and a Fastly agent toolkit; compute offering enhanced with new programming languages.\nExecutive hire\n-- Joan Jenkins appointed Chief Marketing Officer to drive global expansion and the AI go-to-market narrative.\nForrester recognition\n-- Fastly named one of two leaders in edge development, receiving a perfect innovation score and unique 'halo' designation for customer feedback.\nNeed a quote from a Motley Fool analyst? Email\n[email protected]\nRISKS\nInfrastructure CapEx as a percentage of revenue is expected to double from 5% in 2025 to 10%-12% in 2026, as stated: \"be front-loaded to ensure we have adequate equipment given recent supply chain constraints.\"\nComponent costs, particularly memory, increased as much as 2x to 3x, pressuring capital expenditure planning, though hardware procurement was completed for 2026.\nPrice erosion continues in the network services segment at mid single-digit percentage rates year over year, due to volume discounts and competitive pricing dynamics.\nGross margin guidance reflects that higher infrastructure investments \"will serve as a modest headwind in 2026\" as the company invests in expanding platform capacity.\nSUMMARY\nFastly\n(NYSE: FSLY) delivered record quarterly revenues, gross margins, and profitability driven by rapid expansion in security and compute, with security achieving 47% year-over-year growth. The company reported its largest-ever sequential increase in compute revenue, fueled by AI and agentic workloads, and cited a 63% increase in remaining performance obligations, indicating strong future demand. Management raised full-year revenue and operating margin guidance, highlighted broad-based customer expansion, and introduced multiple new products targeting AI-driven security needs. Cash and liquidity remain solid despite elevated near-term capital investments, with free cash flow guidance unchanged for the year.\nRecord growth in security and compute was attributed to both seven-figure new wins and diversified adoption of next-generation product lines.\nThe platform’s efficiency and modern architecture were emphasized as providing competitive cost advantages amid rising hardware and memory costs.\nManagement stated, \"we have not seen a material change in the pricing environment,\" but noted price increases from competitors could filter through the market in future quarters as contracts renew.\nStrategic hires in marketing and regional expansion, including APJ, were described as central to supporting sustained go-to-market momentum.\nFastly’s forward outlook is underpinned by multi-year customer contracts, high recurring revenue concentration, and continued investment in infrastructure to meet anticipated AI and edge-compute demand.\nINDUSTRY GLOSSARY\nLTM NRR (Last Twelve Months Net Retention Rate)\n: Percentage measure of recurring revenue growth or shrinkage with existing customers over the latest twelve-month period.\nRPO (Remaining Performance Obligations)\n: Total value of contracted future revenue not yet recognized as of the quarter’s end.\nEdge compute\n: Computing architecture that processes data near the source or \"edge\" of the network rather than in centralized cloud data centers, enabling lower latency and improved performance for real-time applications.\nAgentic traffic\n: Internet or network activity generated by autonomous software agents (such as AI-powered bots or chatbots) rather than human users.\nWAF (Web Application Firewall)\n: Security solution protecting web applications by filtering and monitoring HTTP traffic to and from a web service.\nContentGuard\n: Fastly’s proprietary tool launched in the first quarter of 2026 to protect intellectual property against unauthorized AI bot access through granular, precache content inspection.\nFull Conference Call Transcript\nKip Compton, and CFO, Richard Wong, with us today. The webcast of this call can be accessed through our website, fastly.com, and will be archived for one quarter. A copy of today's earnings press release, related financial tables and supplements, all of which are furnished in our 8-K filing today, can be found in the Investor Relations portion of Fastly, Inc.’s website, along with the investor presentation. During this call, we will make forward-looking statements related to the expected performance of our business, future financial results, products and services, sales and growth strategy, long-term growth, and overall future prospects.\nThese statements are subject to known and unknown risks, uncertainties, and assumptions that could cause actual results to differ materially from those projected or implied during the call. For further information regarding risk factors for our business, please refer to our filings with the SEC, including our most recent Annual Report filed on Form 10-Ks and Quarterly Reports filed on Form 10-Q filed with the SEC and our first quarter 2026 earnings release and supplement, for a discussion of the factors that could cause our results to differ. Please refer in particular to the sections entitled Risk Factors. We encourage you to read these documents.\nAlso note that the forward-looking statements on this call are based on information available to us as of today's date. We undertake no obligation to update any forward-looking statements except as required by law. Also during this call, we will discuss certain non-GAAP financial measures. Unless otherwise noted, all numbers we discuss today other than revenue will be on an adjusted non-GAAP basis. Reconciliations to the most directly comparable GAAP financial measures are provided in the earnings release and supplement on our Investor Relations website and filed with the SEC. These non-GAAP measures are not intended to be a substitute for our GAAP results.\nBefore we begin our prepared comments, please note that during the second quarter, we will be attending the William Blair 46th Annual Growth Stock Conference in Chicago on June 2 and the D.A. Davidson 2026 Technology and Consumer Conference in Nashville on June 11. And also mark your calendars for our Investor Day taking place on September 23 at the Nasdaq MarketSite in New York. I will now turn the call over to Kip.\nKip Compton:\nGood afternoon, everyone, and thank you for joining us. We had a great start to the year at Fastly, Inc. In Q1, we delivered $173 million in revenue, up 20% year over year and near the high end of our guidance range. Fastly, Inc.’s value proposition is resonating with our customers, driving strong performance and growth in security and compute. Our focus on traffic engineering and platform efficiency continues to deliver results, with another quarter of record gross margins. Security growth accelerated to 47% year over year, and represented 22% of our total revenue. Our industry-leading WAF continues to perform well, and we are also seeing increasing momentum across our portfolio.\nIn fact, among instances of security products sold to new customers in the quarter, almost half were of our newer products: DDoS protection, bot management, and API discovery and inventory. We believe these are clear signals that our broader security suite is opening opportunities for wallet share expansion with existing customers while attracting new customers to the Fastly, Inc. platform. Increased demand for our compute offering drove the other category up 67% year over year, marking our largest quarter-on-quarter revenue step-up ever in this category. Expect continued momentum in compute as customers address increasingly demanding edge workloads and prove out high value AI use cases. On a combined basis, security and other saw impressive growth of 50% year over year.\nWe anticipate these product lines will exceed the $200 million annual run rate milestone by late 2026. In network services, our platform's superior performance, reliability, and value are driving continued share gains and delivered 11% year over year growth in the quarter, roughly double the market growth rate. We believe the Fastly, Inc. platform's appeal is fueling momentum across the portfolio, as customers increasingly prioritize secure, reliable, and innovative solutions where performance matters. Our go-to-market execution continues to deliver strong results, including growth in new customers across key verticals in Q1. At the same time, our continued expansion within our existing base remains robust and drove LTM NRR to 113% as Richard will discuss later in the call.\nWe also saw broad-based strength year over year across all geographies. We are continuing our investment in APJ, highlighted by the recent opening of our new office in Singapore. Following key leadership hires in Q1, we remain committed to scaling our regional presence with additional strategic talent this year. To further accelerate the momentum of our go-to-market transformation, we hired Joan Jenkins as our new chief marketing officer. Joan brings over two decades of experience leading global marketing organizations at world-class companies, including Informatica, Druva, Oracle, and Cisco. Joan has a proven track record of building high-performing teams, driving category leadership, and importantly, strengthening the AI narrative to drive growth.\nJoan will be instrumental in bringing the Fastly, Inc. platform story to a global audience, and we are excited to have her on the leadership team. Turning to AI, we see the rise of autonomous agents as a long-term growth driver. The edge has become critical for scaling and securing AI across multi environments. Fastly, Inc.’s flexible programmable platform is built for this moment. For our customers, traffic generally passes through the Fastly, Inc. platform regardless of where agents are hosted. We are co-innovating with them to secure and scale their AI use cases and helping them manage and optimize a massive new wave of automated traffic. AI bot management is an early example of this.\nMost importantly, this strategy is working. It is actively building our pipeline. As a result, we believe AI is a tailwind for our business. Now let me shift gears and provide details on some outstanding customer wins in Q1, including several seven-figure deals. We closed a multimillion dollar ARR full platform win to support a large social media platform’s API and video on demand operations. By meeting rigorous availability and security standards, we mitigated downtime and data breach risk and enabled 24/7 continuity for millions of users. To enhance user trust, a privacy-first browser customer leveraged our platform to power a native in-browser VPN.\nThe Fastly, Inc. platform enabled them to fulfill their core privacy promise critical to their brand at global scale and support long-term user retention. A global social media corporation chose Fastly, Inc. in a critical cross-sell security win. After a high-profile industry outage, the customer turned to Fastly, Inc., an established and reliable partner, to help secure its global API traffic. By adding Fastly, Inc., the customer reduced their infrastructure risk, improved reliability, and supported uninterrupted platform availability. Lastly, a multinational tech company chose Fastly, Inc. for our network security and privacy offerings to accelerate and secure their critical workloads.\nWe are also seeing momentum in AI bot management wins in conjunction with our leading NG WAF offering, including an enterprise cloud storage provider that replaced a fragmented legacy setup by consolidating app security and delivery on the Fastly, Inc. platform. Deploying our next-gen WAF and advanced bot management provided robust, scalable security and compliance without sacrificing performance. Facing daily malicious AI bot traffic, a long-standing media company added ContentGuard, a new product in the Fastly, Inc. security portfolio introduced this quarter, to protect their intellectual property without compromising the reader experience. A leading digital payment conglomerate expanded its Fastly, Inc. footprint by adding 10 new products and services on our platform.\nWith this expansion, they maximized network availability, safeguarded revenue, and enabled 24x7 availability against cyber incidents. We were especially pleased to see a partner-enabled deal with a Japanese financial services provider. Working through a regional partner offering 24/7 local support, this customer chose the Fastly, Inc. platform to enable and secure a critical international expansion. Through the adoption of Fastly, Inc.’s security and network services offering, the customer is able to build a highly reliable, compliant infrastructure for its regulated, business-critical payment systems. This is an example of our international go-to-market expansion at work.\nAs these wins illustrate, our flexible platform and continuous innovation uniquely position Fastly, Inc. to capture growing AI demand, and our expanded security portfolio directly drives customer wins and growth. Highlights of our expanding security portfolio from Q1 include: ContentGuard. Managing the exploding AI bot requires more than just a simple switch. It requires continuous intelligence. We launched ContentGuard to give publishers precise control over access to their content. Leveraging Fastly, Inc.’s precache inspection, customers can stop unauthorized AI agents without sacrificing the speed or performance of their authorized traffic. This unmatched visibility provides the critical data our customers need to secure and monetize their intellectual property. API security.\nAs AI accelerates code delivery, it creates security blind spots through shadow APIs. We have addressed this customer need by enriching our web application API protection portfolio, enabling enhanced API discovery and inventory tools. Automated API cataloging gives enterprises continuous, at-scale visibility to secure their ecosystems without slowing developer velocity. Fastly agent toolkit. We released a toolkit that equips AI coding agents with Fastly, Inc.-specific skills. This toolkit accelerates the customer development life cycle, enabling customers to build, deploy, and secure edge services faster and with expert-level precision, ultimately driving quicker time to value on the Fastly, Inc. platform. We also enhanced our compute and security offerings by adding support for additional programming languages.\nThis completes the core suite of languages requested by our enterprise customers, extending our premium security layer to a wider set of edge applications. Given these highlights, we are proud that Fastly, Inc. was named one of only two leaders in the Forrester Wave for edge development platforms. Fastly, Inc. also earned a perfect score for innovation, and was the only vendor to receive a top five out of five rating for workload and network isolation as well as observability. This recognition underscores our platform's differentiated strength, built-in resilience, and the observable, actionable insights we deliver to customers.\nAdditionally, Fastly, Inc. was the only company to receive a halo designation, highlighting superior customer feedback and our continued commitment to delivering business value for our customers. Next month marks my first year as CEO of Fastly, Inc. I am incredibly proud of what we have accomplished. We have a leadership team in place that is deeply committed to our core mission, making the Internet a better place where all experiences are fast, safe, and engaging. We believe our platform is the gold standard for flexibility and resilience without compromising performance. We see our story resonating with the market, and we are delivering tangible value through our expanded portfolio and relentless customer-centric approach.\nAs we scale, Fastly, Inc. is positioned to drive better business outcomes for our customers and long-term value for our shareholders. Richard will now walk through our Q1 financial results and guidance in more detail. Richard, over to you.\nRichard Wong:\nThank you, Kip, and thank you, everyone, for joining us today. I would like to remind you that unless otherwise stated, all financial results in my discussion are non-GAAP based. Revenue for the first quarter increased 20% year over year to $173 million, coming in at the high end of our guidance range of $168 million to $174 million. This result was a record high for Fastly, Inc., and was driven by continued success in our go-to-market upsell and cross-sell motions with our expanded product platform, highlighted by strong security momentum. In the first quarter, network services revenue of $126.2 million grew 11% year over year. Our typically flat Q1 revenue seasonality was amplified this year by a record-breaking Q4.\nDespite the seasonality and strong Q4 results, we delivered quarter-over-quarter sequential revenue improvement in Q1. Security represented 22% of revenue, or $38.8 million, both record levels, representing growth of 47% year over year—our fourth consecutive quarter of accelerating security revenues—and 9% sequentially. This was due to the expansion of our security product portfolio, which has resulted in larger seven-figure wins in the first quarter. Additionally, we are seeing new security wins expanding beyond our WAF product into DDoS protection, bot management, and API discovery and inventory. This sets us up very well for long-term growth opportunities with new and existing customers.\nOur other products revenue of $8 million grew 67% year over year, driven primarily by sales of our compute products. As Kip mentioned, other revenue grew a record $1.6 billion quarter over quarter, as we are seeing momentum in our compute revenue driven by new customer requirements in AI and related areas. In the first quarter, our top 10 customers represented 34% of revenue, and grew 25% year over year. Revenue from customers outside our top 10 grew 17% year over year. Also, no single customer accounted for more than 10% of revenue in the first quarter. No affiliated customers that are business units of a single company generated more than 10% of the company's revenue for the quarter.\nAs we mentioned in our previous earnings call, we have made changes to our customer metrics. Given that typically over 90% of our revenue has historically been generated by our large customers, formerly referred to as enterprise customers in prior reporting periods, we believe it is a more meaningful metric to track our customer acquisition compared to total customers. Thus, as previously mentioned, starting this quarter, we will no longer disclose our total customer count on a go-forward basis. Our large customer count, which represents customers with more than $100,000 in annualized revenue in the quarter, was 634 customers.\nOur trailing twelve-month net retention rate was 113%, up from 110% in the prior quarter and up from 100% in the year-ago quarter. The quarter-over-quarter and year-over-year increases were due to revenue increases across a broader range of customers. Note that the LTM NRR is shifting from primarily being driven by our largest customers to now extending into our mid-market customers. We exited the first quarter with record RPO of $369 million, growing 63% year over year. This is our fourth consecutive quarter of accelerating RPO. The current portion of RPO was 75% of total RPO, and grew 77% year over year.\nOur improved RPO continues to benefit from improved go-to-market discipline with our customer onboarding, which resulted in larger upfront commitments. I will now turn to the rest of our financial results for the first quarter. Our gross margin was 65.1% in the first quarter, a record high for Fastly, Inc. Gross margin was 110 basis points above our guidance midpoint of 64%, and up 780 basis points from 57.3% in 2025. This outperformance was primarily due to a 190 basis point one-time benefit from a change in accounting policy regarding server useful life to align with industry standards.\nOur incremental gross margin flow-through on a trailing twelve-month basis increased to 89% in the first quarter, up from 54% a year ago. Operating expenses were $93.5 million in the first quarter. OpEx was in line with our expectations for increased expense levels as we encounter a seasonal payroll impact in the first half of the calendar year. We continue to execute with OpEx spend discipline, while balancing our growth investments and headcount. We had operating income of $19.1 million in the first quarter, coming in above our operating income guidance range of $14 million to $18 million. We intend to continue to drive leverage in our operating results as we scale our revenue.\nThis is demonstrated by our operating margin expanding from negative 4% to positive 11% in the first quarter—expansion of approximately 1,500 basis points year over year. This is underscored by our incremental operating margin flow-through of 68% of revenue on a trailing twelve-month basis, significantly above our long-term target of 25% to 40%. In the first quarter, we reported net profit of $22.9 million or $0.13 per diluted share, compared to a net loss of $6.6 million or negative $0.05 per diluted share in 2025. Our adjusted EBITDA was $29.5 million or 17% of revenues in the first quarter, compared to $7.8 million or 5% of revenues in 2025.\nTurning to the balance sheet, we ended the quarter with approximately $330 million in cash, cash equivalents, marketable securities, and investments, including those classified as long term—a sequential decrease of $31 million over Q4 2025. This was primarily driven by the retirement of our current portion of the long-term debt, totaling $39 million that became due in March 2026. Our cash flow from operations was positive $28.9 million in the first quarter, compared to positive $17.3 million in Q1 2025. Our free cash flow for the first quarter was positive $4.1 million, representing a $4.1 million decrease from $8.2 million in the Q1 2025 quarter.\nThis was primarily due to a year-over-year increase in infrastructure spend of $18.4 million offsetting an operating cash flow increase of $11.6 million. Moving to our CapEx plans and strategy. Last quarter, we shared that we will focus only on infrastructure capital expenditures and remove capitalized internal-use software, which is not a meaningful indicator of our capital spend. We believe this change more accurately represents the inherent capital costs to growing our business and more closely aligns reporting to our peers. Our infrastructure capital expenditures were approximately 12% of revenues in the first quarter. As we highlighted in our last earnings call, approximately $10 million in CapEx was pushed to 2026.\nThis delay in CapEx resulted in our Q1 infrastructure CapEx spend coming in at the high end of our 10% to 12% full year expectation. Normalizing this timing impact, infrastructure CapEx would have been 6% of revenue in the first quarter. I will now discuss our outlook for the second quarter and full year 2026. I would like to remind everyone again that the following statements are based on current expectations as of today and include forward-looking statements. Actual results may differ materially, and we undertake no obligation to update these forward-looking statements in the future, except as required by law. Our revenue model is primarily based on customer consumption, which could lead to variability in our quarterly results.\nOur revenue guidance reflects these dynamics in our business and is based on the visibility that we have today. As Kip discussed, we saw revenue strength from successful sell and cross-sell motions, highlighted by new customer velocity in our bookings across the platform. Additionally, our newer security features are proving to be strong vectors into existing and new customer wallet share, supported by compute and network services growth. In the second quarter, we expect revenue in the range of $170 million to $176 million, representing 16% annual growth at the midpoint. We anticipate our gross margins for the second quarter will be 64%, plus or minus 50 basis points.\nAs a reminder, our gross margin performance is dependent upon incremental revenue increases or, as demonstrated by our improving gross margin through 2025 on accelerating revenue growth, it is also dependent on our infrastructure spend levels, which will serve as a modest headwind in 2026 as we invest in our platform capacity. For the second quarter, we expect a non-GAAP operating profit of $12 million to $16 million, reflecting an operating margin of 8% at the midpoint. We expect a non-GAAP net earnings per diluted share of $0.05 to $0.08. For calendar year 2026, we are raising our revenue guidance to a range of $710 million to $725 million, reflecting annual growth of 15% at the midpoint.\nWe anticipate our 2026 gross margins will be 64%, plus or minus 50 basis points. We are increasing our non-GAAP operating profit expectations to a range of $58 million to $68 million, reflecting an operating margin of 9% at the midpoint, and highlighting our improved profitability compared to 2025’s operating margin of 4%. We expect our non-GAAP net earnings per diluted share to be in the range of $0.27 to $0.33. We are closely monitoring supply chain dynamics, particularly regarding memory components, and have taken strategic actions to mitigate potential impact. Our software-defined infrastructure is continuously improving, typically with lower capital requirements for expansion than legacy providers.\nWe are also implementing server component upgrades in our compute to efficiently expand our capacity. This structural efficiency underpins our expanding gross margins, positioning us to stay ahead of global traffic trends while maintaining strict capital discipline. For 2026, we continue to anticipate our infrastructure capital spend will be in the range of 10% to 12% of revenue, compared to 5% in 2025, as we ramp our capacity to meet our growth objectives. As demonstrated in Q1, we believe the spend will be front-loaded to ensure we have adequate equipment given recent supply chain constraints. We are actively monitoring our capacity plans relative to demand in this dynamic environment and may increase our capital infrastructure spend in 2026.\nAs a result, we maintain our 2026 free cash flow guidance in the range of $40 million to $50 million. Before we open the line for questions, we would like to thank you for your interest and your support in Fastly, Inc. Operator?\nOperator:\nWe will now",
+  "qa_turns": [
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Jackson Ader",
+      "text": "Great. Thanks for taking our questions, guys. First one is on network services. It came in kind of light of our, and I think, consensus expectations. So just curious what was the driver there to the pretty big material slowdown in the year-over-year growth? And then also, can we get an update on what role agentic use of the Internet is playing in your kind of core network services and maybe even the attach rates for security? And then I have a quick follow-up. Thank you.",
+      "turn_index": 0
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Richard Wong",
+      "text": "I would remind that Q4 was particularly strong for two primary reasons. We had a gaming download, and we had particular strength in network services in Q4, overperformance where we did see record traffic in Q4. Then we also have a seasonally strong e-commerce online holiday shopping period. And so, despite that strength of Q4, we did see a little bit of a dip, but it is not related to pricing. It is really just the seasonality that we would normally see in the business.",
+      "turn_index": 1
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Kip Compton",
+      "text": "I would just add we have not seen a material change in the pricing environment. And I think in Q4, we mentioned that we saw stronger-than-expected seasonality, and of course, coming off of that, you might expect a little bit more of a drop out of that seasonality after all, the seasons do change. On agentic, we are seeing tailwinds across different parts of our business. Certainly in network services there is a volume component that we believe is being driven by agentic traffic.\nIn terms of security attach, it may be more pronounced in the security part of our business, as we have customers looking to protect AI workloads and provide privacy capabilities to agentic workloads and AI cloud compute use cases that require privacy. So we are seeing significant security uplift that I think we could attribute to those trends, likewise on compute. So we see an increase in volume over time in network services, but more specific attach in some of those other businesses.",
+      "turn_index": 2
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Jackson Ader",
+      "text": "Okay. Cool. And then you guys mentioned pricing a couple of times. I know that some competitors in the network services market are explicitly raising prices because of the memory component prices that are impacting you and others. I am just curious what is your current strategy on maybe passing some of those component pricing on to your customers, or whether you are taking this as an opportunity to be, you know, a little strategic on price. Thank you.",
+      "turn_index": 3
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Richard Wong",
+      "text": "Sure, Jackson. From a Q1 perspective, pricing environment was very similar to Q4. I think in the last earnings call, I mentioned Q4 kind of price erosion in the mid single digits. We did see very similar mid single-digit in Q1. A good reminder is that price erosion is a year-over-year metric, and as customers spend more on our platform and as they increase the volumes, they are actually unlocking additional volume discounts and even the cross selling. So we are naturally going to see some of the price erosion. Also, another reminder is that this only applies to our network services business. That phenomenon is not on our security or our compute business.\nAnd so we continue to focus on the value we create for our customers, and the pricing discipline reflects this. With regard to what Akamai is doing versus what we are doing, we feel like the right thing to do was to maintain the pricing that we negotiated with our customers, and we are honoring the contracts that we have with our customers. And as they continue to unlock those volume discounts, we are going to continue to honor that. We think it is the right thing to do from a customer relationship perspective.",
+      "turn_index": 4
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Kip Compton",
+      "text": "I would just add two things. First of all, of course, we see pricing changes when we experience renewals with our customers, not on a continuous basis. So there is some lag in us seeing changes in market pricing, just driven by when customers renew, and that is the time when prices are negotiated or potentially changed, not generally mid contract. So you think about actions that others have said they are taking in the market starting in April. We are very closely monitoring that. We have not seen a change in the pricing environment yet.\nBut it is conceivable that those changes are simply going to take a few more months to filter through the market as others have renewals and as our customers’ renewals come up as well. The other thing I will add, we believe that we have a more efficient platform. It is a more modern platform, and I think if you look at the capital intensity of our business compared with other similar platforms out there, you can see that it is more efficient. That does, in our view, give us a potential structural advantage in an environment with rising component costs. They certainly affect us, but it appears likely that they may affect us less than our competitors.\nAnd so we may not have as many cost increases that we need to pass through to customers.",
+      "turn_index": 5
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Jackson Ader",
+      "text": "Okay. Alright. That is interesting. Alright. Thank you very much, guys.",
+      "turn_index": 6
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you. Our next question comes from the line of Frank Louthan with Raymond James. Please proceed.",
+      "turn_index": 7
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Frank Louthan",
+      "text": "Great. Thank you. Two quick ones. What is the percentage of your revenue that has revenue commitments with it now? That is the first question. And the second one, your network is deployed largely in Equinix and similar data centers with power and connectivity. Is there a reason that you could not facilitate the distributed compute nodes, the GPUs, combined with your network delivery out of those, and is that something you are pursuing? What would it take to have a product like that?",
+      "turn_index": 8
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Richard Wong",
+      "text": "Yeah, Frank. I will take the first one, and I will let Kip take the second one. In terms of the revenue commitment, I think the best number to really point you to is the current portion of RPO. We mentioned on the earnings call that we had RPO of $369 million, which grew 63% year on year. The current portion represents the next twelve-month component of that. That was 75% of the total. So 75% of that is $275 million as a next twelve-month commit. And if you look at current RPO on a year-over-year basis, our current RPO is growing 77% year on year.",
+      "turn_index": 9
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Kip Compton",
+      "text": "So to your question on GPUs and the opportunity that our global network presents there, we are staying in very close contact with component vendors, including in the GPU space, and looking strategically at that market. The observation I would make is our network, as most of our peers’ networks, is highly distributed around the world, and we do not concentrate as much capacity and compute power in a single location as, for example, a centralized cloud does. When training was the primary driver of GPU demand, with training being extremely large scale, that meant that our network was not well positioned to drive training and therefore GPU-based demand.\nAs we are seeing, as many in the industry are seeing, the workloads and the focus shift from training to optimal inference, and how different chip architectures can help with very high-performance and highly efficient inferencing, that may very well open up a bigger opportunity for us, given the way our network is built and given how software-defined it is. So that is absolutely something that we are tracking very closely.",
+      "turn_index": 10
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Richard Wong",
+      "text": "Great. Thank you very much.",
+      "turn_index": 11
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you. Our next question comes from the line of Charlie Zhou with Evercore. Please proceed.",
+      "turn_index": 12
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Charlie Zhou",
+      "text": "Hi. It was great to see the step up in compute revenue this quarter. Richard, could you maybe help us frame how we should best think about the trajectory of that business from here—particularly what needs to happen for compute to become a more meaningful contributor to overall growth? And, Kip, maybe could you walk us through some of the use cases where Fastly, Inc. is seeing the strongest customer interest for edge compute today, and how do you expect AI edge inference to evolve over the next twelve to eighteen months? Thank you very much.",
+      "turn_index": 13
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Richard Wong",
+      "text": "Thank you for the question. From a compute perspective, we reported $8 million in our other bucket, which was a nice 67% year-over-year growth in our other business. When we think about compute, that is a good business today, and we are co-innovating with our customer base right now on agentic and AI, and what we are doing there. I do think that as the agentic market really starts taking off and maturing, those co-innovations that we are doing become much better and real products that we will go out to market with.\nSo for now, from a co-innovation perspective, we are working with some of our best customers on the biggest and hardest opportunities and problems, and I think those are really unique opportunities for Fastly, Inc. in that space.",
+      "turn_index": 14
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Kip Compton",
+      "text": "I would add, just to echo Richard’s comment, we have definitely seen an uptick in customers’ interest in additional optimizations and features in our compute platform specifically related to interoperability with LLMs so that they can drive some of those workloads from the edge. And as Richard described, we are actually working with them to optimize it and continue to enhance the platform. So I think the edge compute opportunity is a large opportunity overall and one that we are certainly well positioned to garner a good share of.",
+      "turn_index": 15
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Charlie Zhou",
+      "text": "Awesome. Thanks, guys.",
+      "turn_index": 16
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from the line of James Fish with Piper Sandler.",
+      "turn_index": 17
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "James Fish",
+      "text": "Hey, guys. Just curious what you are seeing at this point from some of the competitor exits slash the EdgeQ/EdgeO side of things, in terms of traffic and how that is rolling through? And is it still that roughly 90% of the time you are replacing some of those legacy CDN providers, more incumbents like an Akamai?",
+      "turn_index": 18
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Richard Wong",
+      "text": "Yeah, James, thanks for the question. We have lapped Edgeo probably for about two to three quarters now in terms of that opportunity. What we are doing on the network services, as Kip mentioned on the earnings call, is growing almost 2x the market. The way we are doing that is increasing share with customers, so we continue to really support them and increase volumes with our existing customers, but we also do have takeout campaigns. We have been pretty good about doing that where we go out there, sell the value that we win where performance matters—where customers care about speed, reliability, security in their network.\nThat is probably more reflective of the last two to three quarters in terms of being able to beat the growth rate of the market—doing those takeouts versus our competitors—versus the ones that went out of business, which we lapped two to three quarters ago.",
+      "turn_index": 19
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "James Fish",
+      "text": "Yeah. At the end of the day, those guys are seeing renewals that kind of shift over and mix shift anyways. But my follow-up question was more around the emergence of, say, Anthropic/ETHOS and how you see the value of your portfolio in security changing with some of the advancements there? Thanks, guys.",
+      "turn_index": 20
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Kip Compton",
+      "text": "It is a great question. We believe that the threat environment is only becoming more dynamic and more challenging for our customers. As these technologies come out, they can be quite disruptive on the security landscape. We are seeing more interest in our security products, not less. We actively use AI technologies in our security work. We believe that we have a modern approach that is well equipped to respond to these evolving threats. We see more and more customers seeing value in products like web application firewall because as the velocity of threats increases, they cannot patch all of their systems in time.\nHaving something like a web application firewall that can be patched quickly and managed by a company like Fastly, Inc., which sees the global threat landscape in real time, is very attractive in terms of reducing their time to protect their workloads. We think it is an evolution of the security space that makes platforms like ours even more important.",
+      "turn_index": 21
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "James Fish",
+      "text": "Thanks, guys.",
+      "turn_index": 22
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you. Our next question comes from the line of Rudy Kessinger with D.A. Davidson. Please proceed.",
+      "turn_index": 23
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Rudy Kessinger",
+      "text": "Hey, guys. Thanks for taking my questions. There has been a lot of noise and questions around AI traffic. Can you help us break it down a bit further or provide more color? When you look at the year-over-year growth in the traffic on your network in Q1, what percent of that was driven by AI chatbots and agentic traffic?",
+      "turn_index": 24
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Kip Compton",
+      "text": "I do not have a robust number on exactly how to break that traffic out for you. What we have seen is that traffic is growing faster than human browsing traffic, so we see it becoming a greater share of traffic over time. But I do not think Richard or I have a percentage or a number that we could share on this call.",
+      "turn_index": 25
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Rudy Kessinger",
+      "text": "Okay. Fair enough. And then on security—another really strong step up in revenue on a quarter-over-quarter basis and the year-over-year growth acceleration. Were there any large deals in Q1 that contributed to that we should be mindful of—similar to Q3 last year, I believe—or was that pretty broad-based?",
+      "turn_index": 26
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Richard Wong",
+      "text": "Security this quarter was more broad-based. We did not highlight it because it is multiple customers that won security. Compared to Q3 where we mentioned we had one big customer deal, here we mentioned multiple seven-figure deals that we closed in the quarter that involve security. Beyond just those three, we also had a number of smaller ones that are also using security. As we see agentic traffic increase, our customers are getting more focused on the use of security and the use of compute on our platform. For us, we are seeing it much more broad-based than we did in Q3.",
+      "turn_index": 27
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Kip Compton",
+      "text": "That is helpful. One thing I will mention before we move on is another characteristic we talked about in the earnings script: we are seeing broader interest across our expanded security portfolio. Our newer products are starting to perform very well alongside the next-gen WAF, which continues to perform well. From a revenue concentration perspective, we saw a lot of different-sized deals during the quarter. From a product diversification perspective, we saw broader interest and adoption across our portfolio, which is exactly our strategy.",
+      "turn_index": 28
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you. One moment for our next question. It comes from the line of Jonathan Ho with William Blair. Please proceed.",
+      "turn_index": 29
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Jonathan Ho",
+      "text": "Hi. Good afternoon. I wanted to start with the hiring of Joan and the potential opportunity that you see in terms of the CMO role, and maybe what the biggest opportunity could be for the business to accelerate just given the hiring there?",
+      "turn_index": 30
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Kip Compton",
+      "text": "Absolutely. We see a big opportunity there. We are proud of the efforts that we have made in marketing, but really look forward to Joan helping us take those to the next level, especially as we reach more markets around the world. I think there is a significant opportunity to better position the value of our platform and our services with specific buyers and specific verticals. There is also an opportunity to build awareness, particularly in APJ, but also other markets where we believe we are underpenetrated from a market perspective. I am very impressed with Joan's background, and she has a very systematic, scalable, and repeatable approach to marketing.\nI think that will serve us well, especially as we work to expand our brand recognition not only as a world-class network service and delivery provider, but also as a first-class security and edge compute brand.",
+      "turn_index": 31
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Richard Wong",
+      "text": "The one thing I would add is that we were founded by technologists. We have always been a very technology-first company, and I think our brand really resonates well with a lot of technologists who are deep in the edge platform. Bringing Joan brings this level of “how do we speak about the performance we have and the technological capabilities we have” beyond just the technologist organization. That is exciting to me, because being able to appeal to a broader audience beyond just technologists is very important.",
+      "turn_index": 32
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Jonathan Ho",
+      "text": "Got it. And as a follow-up, given the strength in your security business this quarter, can you help us understand what has driven the strong uptake and what inning we are in, particularly given how early agentic rollout is around some of these use cases you mentioned? Thank you.",
+      "turn_index": 33
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Kip Compton",
+      "text": "Great question on what inning we are in. I am not sure I know how to quantify that, but we have had a few different things come together to drive that growth higher. As Richard mentioned, one was new deals and some significant new deals in the quarter. We have also had continued robust expansion of some of the deals we have won in the last several quarters, and we continue to see growing volume and growing adoption. Over the last five or six quarters, we dramatically expanded our security portfolio from what was really one product—a phenomenal product in our next-gen WAF—to include five or six very solid products that solve important business problems for our customers.\nAnother thing compounding into that growth is us being able to land more customers with that broader portfolio and having existing customers adopt more of the portfolio. It is hard to quantify, but AI is a driver here. We have seen increased interest in our privacy products that are part of our security portfolio, and also in our API governance products, which include our API discovery and schema enforcement products. That appears in many cases to be driven by AI use cases, and we will continue to track that. We see significant relevance with aspects of our security product and important AI use cases.",
+      "turn_index": 34
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Richard Wong",
+      "text": "The one quantification I would chime in with is that if you think about the midpoint of our guide for the full year 2026, that is a $93.5 million increase in incremental revenue. If you look at where that incremental revenue is coming from, based on the growth rates of the various businesses, more than half of our incremental revenues will actually come from security and other—which I am very positive and bullish on. Those are areas that we are investing in. Those are areas that create the biggest opportunities for Fastly, Inc., and you can see that reflected in our growth rate, and you will see that reflected in incremental revenue year on year for 2026.",
+      "turn_index": 35
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "One moment for our next question. It comes from the line of Jeff Van Rhee with Craig-Hallum Capital Group.",
+      "turn_index": 36
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Jeff Van Rhee",
+      "text": "Great. Thanks for taking my questions, guys. A few for me. First, on the network side, I think you said last quarter bit growth was in the mid-20s. Just wanted to confirm it is still in that range, and then what are the assumptions implicit in the annual outlook?",
+      "turn_index": 37
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Richard Wong",
+      "text": "For network services, we have talked about traffic growth being in the mid-20s, and then we have talked about mid single-digit price compression. Nothing right now is really changing that. From a prudence perspective, we are seeing mid double-digit traffic growth rates, and that is offset by price erosion that we see in the mid single digits. When we see the contracts coming up for renewal, we still layer in expectations of both volume discounts that our customers start unlocking plus some price discounting that we do give. From a modeling perspective, we are still assuming low double-digit renewal impact, which is probably the prudent thing to do in the environment we are in.",
+      "turn_index": 38
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Jeff Van Rhee",
+      "text": "That is helpful, thank you. And on the CapEx side, just like-for-like on hardware, what is the assumption in terms of increased prices on hardware built into your CapEx outlook?",
+      "turn_index": 39
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Richard Wong",
+      "text": "We guided 10% to 12% of revenues. That implies roughly a $70 million to $80 million infrastructure CapEx spend for the full year. We are front-loading that spend. We have placed all the server orders already. The majority of the infrastructure CapEx orders for the year will come in Q1 and Q2. The server orders we have already received in Q1. One of the things you may notice in our financial statements is a big pickup in AP—orders that we placed arrived in Q1, and we have not yet made payment. They arrived literally in the last two to three weeks in the quarter. That is normal, and those prices have been locked in.\nWe have already received the equipment, so we are good to go on the hardware side. We did see price increases; in some areas we saw increases of 2x to 3x, especially when it comes to memory pricing.",
+      "turn_index": 40
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Kip Compton",
+      "text": "Mhmm. Yep.",
+      "turn_index": 41
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Jeff Van Rhee",
+      "text": "Last, in terms of the high-level revenue guide, can you help us with what you are thinking—network versus security—what is implicit in that annual guide in terms of growth rates for those subsegments? Even just some ranges would be helpful.",
+      "turn_index": 42
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Richard Wong",
+      "text": "By business outlook, we think network services is probably a 5% to 6% market grower. For us, from a growth rate perspective, we could be anywhere between 9% to 11% year-over-year growth in network services. For security, we should continue to see growth. It would not be unheard of to be in the 25% to 30% year-over-year growth perspective, especially after delivering a 47% quarter in Q1. And then the other is just the delta between what we have guided for the full year, less those two growth rates.",
+      "turn_index": 43
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Jeff Van Rhee",
+      "text": "Okay. Got it. Thanks so much. Appreciate it.",
+      "turn_index": 44
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you so much. One moment for our next question. It comes from Param Singh with Oppenheimer. Please proceed.",
+      "turn_index": 45
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Param Singh",
+      "text": "Yeah. Hi. Thank you so much for taking my questions. I actually had a couple. First, I appreciate the insight you have shared so far on the AI side and some of the products that you are bringing on the security side. In that vein, when you talk to your customer base, what do they feel is missing so far, either from a security or a compute perspective, that should help them deploy and manage the agentic AI platform, and how would you price some of these incremental products versus how you are pricing the current platform to the customer base? And then I had a follow-up. Thank you.",
+      "turn_index": 46
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Kip Compton",
+      "text": "That is a great question, and one that I think a lot of people in the industry have. What we are seeing is that at enterprises, it is relatively early days in terms of agentic adoption. Many of them are seriously looking at how their processes evolve to embrace agentic AI and get the full capabilities out of it. We have certainly seen interest, as I said before, in the security area. If they have coding tools writing code and executing it, how can they use API discovery and schema enforcement to make sure that they are comfortable with what that code is doing to other systems? I mentioned the privacy aspect.\nWe have had a lot of interest in that. But I would characterize our work with customers as relatively early for the majority of enterprises. That is why we talked about the design partner program where we are working very closely with those customers to make sure that we meet their need. In terms of specific products and pricing, it is probably premature to comment on it in this forum at this time. As we continue to develop those products and work with our customers and assess the value creation potential, we will provide more detail.",
+      "turn_index": 47
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Param Singh",
+      "text": "Understood. That is really helpful. Thank you. Maybe one for Richard. If I am not mistaken, you still have some converts—",
+      "turn_index": 48
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Richard Wong",
+      "text": "Eight. And so we have a little bit of ways to do it. It is high interest rate relative to the interest rate environment we are in. These bonds are trading at a significant premium to where they are. So, you know, refinance opportunity is quite expensive given the trading values they are at. Right now, we are focused on just what we have. From a liquidity perspective, we feel good about the maturity in 2028 and 2030—that they are ways out—to not have to focus on that and focus on growing the business and really operating the business the way we have been doing.",
+      "turn_index": 49
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Param Singh",
+      "text": "And, Richard, do you feel you are sufficiently capitalized to fund the CapEx to attend to all this growth opportunity you have in front of you?",
+      "turn_index": 50
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Richard Wong",
+      "text": "Absolutely. We guided free cash flow for the year, even after the CapEx spend, of $40 million to $50 million. We feel very good about how we are operating, the liquidity we have with $330 million in cash, and still generating cash flow.",
+      "turn_index": 51
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Param Singh",
+      "text": "Fantastic. Thank you so much for the insight. Appreciate it. On the security side, as we think about the broadening portfolio and the traction you are seeing with the products outside of the core WAF solution, can you help me understand: are you seeing customers—and maybe net new customers—actually land with the newer solutions, or is it still predominantly a cross-sell, upsell motion?\nAnd then, separately, on the network services side, as we think about what would be fair to describe as a fluid macro environment, with ongoing conflicts in the Middle East and higher energy prices, supply chain disruptions, etc., and the impact that could have on consumer budgets, particularly at the low end, could you just remind me how much of that business is impacted by e-commerce traffic? And how are those contracts structured? Really, the question is: could that slower traffic show its head?",
+      "turn_index": 52
+    }
+  ]
+}

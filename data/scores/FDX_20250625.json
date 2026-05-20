@@ -1,0 +1,28 @@
+{
+  "ticker": "FDX",
+  "call_date": "2025-06-25",
+  "quarter": 4,
+  "year": 2025,
+  "pressure_score": 4.0737582486202645e-17,
+  "cosine_distance": 1.1102230246251565e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.22310507536558064,
+  "baseline_mean": 4.0737582486202645e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6115525376827903,
+    "call_mean_answer_length": 114.875,
+    "call_hedge_density": 0.020241337951967055,
+    "call_pos_sentiment_mean": 0.3302807994186878,
+    "call_neu_sentiment_mean": 0.6358385104686022,
+    "call_neg_sentiment_mean": 0.033880686038173735,
+    "call_qa_similarity_mean": 0.43456436248125074,
+    "baseline_neg_sentiment_mean": 0.033880686038173735
+  },
+  "generated_at": "2026-05-20T05:28:12+00:00"
+}

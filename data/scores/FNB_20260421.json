@@ -1,0 +1,28 @@
+{
+  "ticker": "FNB",
+  "call_date": "2026-04-21",
+  "quarter": 4,
+  "year": 2025,
+  "pressure_score": 0.0,
+  "cosine_distance": 0.0,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.1527437127562677,
+  "baseline_mean": 0.0,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5763718563781338,
+    "call_mean_answer_length": 160.11764705882354,
+    "call_hedge_density": 0.01728152755133579,
+    "call_pos_sentiment_mean": 0.36529402873095346,
+    "call_neu_sentiment_mean": 0.6056298508363611,
+    "call_neg_sentiment_mean": 0.02907612958156011,
+    "call_qa_similarity_mean": 0.4405469915987654,
+    "baseline_neg_sentiment_mean": 0.02907612958156011
+  },
+  "generated_at": "2026-05-20T05:29:45+00:00"
+}

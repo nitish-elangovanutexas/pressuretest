@@ -1,0 +1,28 @@
+{
+  "ticker": "WTFC",
+  "call_date": "2026-04-21",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.03711371310019612,
+  "cosine_distance": 0.07883839282436167,
+  "sentiment_shift": 0.04062139651453717,
+  "question_difficulty_mean": 0.1679868462385345,
+  "baseline_mean": 0.04113023415997638,
+  "baseline_std": 0.02165490273381439,
+  "z_score": -0.1854786008116496,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5839934231192673,
+    "call_mean_answer_length": 59.15384615384615,
+    "call_hedge_density": 0.030226321818687115,
+    "call_pos_sentiment_mean": 0.56665015908388,
+    "call_neu_sentiment_mean": 0.40214364144664544,
+    "call_neg_sentiment_mean": 0.031206209857303362,
+    "call_qa_similarity_mean": 0.4824005055698143,
+    "baseline_neg_sentiment_mean": 0.07182760637184053
+  },
+  "generated_at": "2026-05-20T07:33:47+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "SRAD",
+  "call_date": "2026-05-06",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.04431066506372673,
+  "cosine_distance": 0.07790355844980357,
+  "sentiment_shift": 0.07393783108434743,
+  "question_difficulty_mean": 0.16122252573113352,
+  "baseline_mean": 0.03546339339673021,
+  "baseline_std": 0.008718223706013392,
+  "z_score": 1.0148020933317095,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5806112628655667,
+    "call_mean_answer_length": 170.25,
+    "call_hedge_density": 0.008817826636625519,
+    "call_pos_sentiment_mean": 0.1898596636019647,
+    "call_neu_sentiment_mean": 0.682766375442346,
+    "call_neg_sentiment_mean": 0.12737396095568934,
+    "call_qa_similarity_mean": 0.5041459551395902,
+    "baseline_neg_sentiment_mean": 0.053436129871341914
+  },
+  "generated_at": "2026-05-20T06:59:59+00:00"
+}

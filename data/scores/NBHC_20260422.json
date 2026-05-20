@@ -1,0 +1,28 @@
+{
+  "ticker": "NBHC",
+  "call_date": "2026-04-22",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.0443221663540684,
+  "cosine_distance": 0.0886773556084649,
+  "sentiment_shift": 0.042771938312639535,
+  "question_difficulty_mean": 0.26067119152271634,
+  "baseline_mean": 0.037494238003839164,
+  "baseline_std": 0.009656148875805943,
+  "z_score": 0.7071067811865474,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6303355957613581,
+    "call_mean_answer_length": 62.44444444444444,
+    "call_hedge_density": 0.04062781476405546,
+    "call_pos_sentiment_mean": 0.3005869769387775,
+    "call_neu_sentiment_mean": 0.5556431884566942,
+    "call_neg_sentiment_mean": 0.14376982849919134,
+    "call_qa_similarity_mean": 0.4244570555407241,
+    "baseline_neg_sentiment_mean": 0.10099789018655181
+  },
+  "generated_at": "2026-05-20T06:17:30+00:00"
+}

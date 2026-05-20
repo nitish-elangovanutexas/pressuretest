@@ -1,0 +1,28 @@
+{
+  "ticker": "CORT",
+  "call_date": "2026-05-04",
+  "quarter": 4,
+  "year": 2025,
+  "pressure_score": 0.06804555966206959,
+  "cosine_distance": 0.18337107082470705,
+  "sentiment_shift": 0.0008402564562857151,
+  "question_difficulty_mean": 0.23317023248830526,
+  "baseline_mean": 0.04689224665928432,
+  "baseline_std": 0.029915302137662067,
+  "z_score": 0.7071067811865474,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6165851162441527,
+    "call_mean_answer_length": 34.5,
+    "call_hedge_density": 0.020126612517916864,
+    "call_pos_sentiment_mean": 0.0918857716023922,
+    "call_neu_sentiment_mean": 0.8796482185522715,
+    "call_neg_sentiment_mean": 0.02846600068733096,
+    "call_qa_similarity_mean": 0.16074128656148912,
+    "baseline_neg_sentiment_mean": 0.029306257143616676
+  },
+  "generated_at": "2026-05-20T05:05:17+00:00"
+}

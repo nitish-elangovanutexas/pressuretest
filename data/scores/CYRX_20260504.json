@@ -1,0 +1,28 @@
+{
+  "ticker": "CYRX",
+  "call_date": "2026-05-04",
+  "quarter": 3,
+  "year": 2025,
+  "pressure_score": 0.034409463557773926,
+  "cosine_distance": 0.07512257940017175,
+  "sentiment_shift": 0.03506956495056373,
+  "question_difficulty_mean": 0.16442178751454342,
+  "baseline_mean": 0.030496760606566937,
+  "baseline_std": 0.005533397579134158,
+  "z_score": 0.7071067811865475,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5822108937572718,
+    "call_mean_answer_length": 90.07142857142857,
+    "call_hedge_density": 0.027247131151917788,
+    "call_pos_sentiment_mean": 0.22661099982048785,
+    "call_neu_sentiment_mean": 0.7425027569489819,
+    "call_neg_sentiment_mean": 0.030886251146772077,
+    "call_qa_similarity_mean": 0.37799103076077445,
+    "baseline_neg_sentiment_mean": 0.0659558160973358
+  },
+  "generated_at": "2026-05-20T05:10:10+00:00"
+}

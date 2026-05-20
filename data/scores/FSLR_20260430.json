@@ -1,0 +1,28 @@
+{
+  "ticker": "FSLR",
+  "call_date": "2026-04-30",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.012535947290868639,
+  "cosine_distance": 0.02755994838724163,
+  "sentiment_shift": 0.011099364416348557,
+  "question_difficulty_mean": 0.19528201170387438,
+  "baseline_mean": 0.015806204786952317,
+  "baseline_std": 0.004624842503413817,
+  "z_score": -0.7071067811865474,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5976410058519372,
+    "call_mean_answer_length": 224.11111111111111,
+    "call_hedge_density": 0.018577557932466904,
+    "call_pos_sentiment_mean": 0.30885879985160297,
+    "call_neu_sentiment_mean": 0.6683764656384786,
+    "call_neg_sentiment_mean": 0.022764730784628127,
+    "call_qa_similarity_mean": 0.5694308886943126,
+    "baseline_neg_sentiment_mean": 0.033864095200976684
+  },
+  "generated_at": "2026-05-20T05:31:15+00:00"
+}

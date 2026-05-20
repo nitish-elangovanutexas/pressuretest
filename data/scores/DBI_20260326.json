@@ -1,0 +1,28 @@
+{
+  "ticker": "DBI",
+  "call_date": "2026-03-26",
+  "quarter": 4,
+  "year": 2025,
+  "pressure_score": 0.0,
+  "cosine_distance": 0.0,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.23222610292212578,
+  "baseline_mean": 0.0,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6161130514610629,
+    "call_mean_answer_length": 386.5,
+    "call_hedge_density": 0.028453896721157838,
+    "call_pos_sentiment_mean": 0.5830535739660263,
+    "call_neu_sentiment_mean": 0.2518386170268059,
+    "call_neg_sentiment_mean": 0.1651077875867486,
+    "call_qa_similarity_mean": 0.6315694842673456,
+    "baseline_neg_sentiment_mean": 0.1651077875867486
+  },
+  "generated_at": "2026-05-20T05:11:15+00:00"
+}

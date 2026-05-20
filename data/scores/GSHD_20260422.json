@@ -1,0 +1,28 @@
+{
+  "ticker": "GSHD",
+  "call_date": "2026-04-22",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.06520224249109716,
+  "cosine_distance": 0.17491247388472964,
+  "sentiment_shift": 0.009131071261233751,
+  "question_difficulty_mean": 0.20077891019972585,
+  "baseline_mean": 0.03804025936881877,
+  "baseline_std": 0.03841284491247521,
+  "z_score": 0.7071067811865475,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.600389455099863,
+    "call_mean_answer_length": 88.66666666666667,
+    "call_hedge_density": 0.0014947683109118087,
+    "call_pos_sentiment_mean": 0.22358772903680801,
+    "call_neu_sentiment_mean": 0.7600012024243673,
+    "call_neg_sentiment_mean": 0.01641106264044841,
+    "call_qa_similarity_mean": 0.3983941055645565,
+    "baseline_neg_sentiment_mean": 0.02554213390168216
+  },
+  "generated_at": "2026-05-20T05:38:36+00:00"
+}

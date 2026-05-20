@@ -1,0 +1,28 @@
+{
+  "ticker": "OI",
+  "call_date": "2026-04-30",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.04633112185975926,
+  "cosine_distance": 0.08878985931095396,
+  "sentiment_shift": 0.050550140155893236,
+  "question_difficulty_mean": 0.26081420884631173,
+  "baseline_mean": 0.034533907126278136,
+  "baseline_std": 0.010911488923874682,
+  "z_score": 1.0811736891074917,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6304071044231558,
+    "call_mean_answer_length": 210.0,
+    "call_hedge_density": 0.02650446288875891,
+    "call_pos_sentiment_mean": 0.2569394465535879,
+    "call_neu_sentiment_mean": 0.5372626855969429,
+    "call_neg_sentiment_mean": 0.20579786784946918,
+    "call_qa_similarity_mean": 0.4963152108499622,
+    "baseline_neg_sentiment_mean": 0.15524772769357595
+  },
+  "generated_at": "2026-05-20T06:28:16+00:00"
+}

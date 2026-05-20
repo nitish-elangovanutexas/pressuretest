@@ -1,0 +1,280 @@
+{
+  "ticker": "TXG",
+  "company_name": "10X Genomics",
+  "call_date": "2026-05-07",
+  "quarter": 1,
+  "year": 2026,
+  "prepared_remarks": "Earnings Call Transcript\n10x Genomics (TXG) Q1 2026 Earnings Transcript\nBy\n\nMotley Fool Transcribing\n\n–\n\nMay 7, 2026 at 6:20PM EST\n\n\n\n\nImage source: The Motley Fool.\n\n\nDATE\nThursday, May 7, 2026 at 4:30 p.m. ET\nCALL PARTICIPANTS\nChief Executive Officer and Co-Founder — Serge Saxonov\nChief Financial Officer — Adam Taich\nSenior Director, Investor Relations and Strategic Finance — Cassie Corneau\nTAKEAWAYS\nRevenue\n-- $150.8 million, representing 9% growth when excluding prior-year nonrecurring settlement revenue.\nConsumables Revenue\n-- Increased 13% due to both single cell and spatial growth.\nSingle Cell Consumables\n-- Revenue rose 6%, with double-digit reaction volume growth driven by FLEX and FLEX Apex.\nSpatial Consumables\n-- Revenue climbed 31%, attributable to Xenium momentum.\nTotal Instrument Revenue\n-- Declined 24%; Chromium instrument revenue fell 12% and spatial instrument revenue dropped 32%.\nGeographic Revenue\n-- Americas up 9%, EMEA and APAC revenues grew 165%, each excluding 2025 license and royalty revenue.\nGross Margin\n-- 70%, up from 68%, primarily due to lower warranty costs and inventory write-downs, partially offset by decreased license and royalty revenue.\nOperating Expenses\n-- Decreased 15%, explained by lower outside legal and personnel costs; excluding prior-year settlement gains, OpEx fell 20%.\nCash Position\n-- $540 million in cash, cash equivalents, and marketable securities, up $113 million year over year and $16 million sequentially.\n2026 Revenue Outlook\n-- Maintained at $600 million to $625 million; projects 0%-4% growth versus full year 2025, excluding 2025 litigation settlements.\nQuarterly Cadence Guidance\n-- Q2 revenue expected to decline sequentially from Q1, with Q3 forecasted to be broadly similar to Q2, and Q4 showing initial, limited contributions from Atara shipments.\nAtara Platform Launch\n-- Marked as the company's largest product introduction; enables spatial whole transcriptome analysis with single cell sensitivity and step-change throughput.\nAtara Commercial Demand\n-- “Extraordinary” early customer response and strong preorders, with initial shipments anticipated in 2026.\nInitial Atara Shipments\n-- Between Q3 and Q4, approximately 40 units are expected to be sold, mostly in Q4.\nGross Margin Outlook\n-- Full-year gross margin expected in the mid-60% range, with Atara launch causing some pressure, especially in Q4, but confidence maintained in margin guidance.\nOperating Expenses Forward View\n-- Year-over-year operating expenses anticipated to be roughly flat, allowing for continued investment flexibility.\nAI and Partnerships\n-- Partnerships including Biooptimus, Chan Zuckerberg Initiative, and Arc Institute demonstrate rising demand for high-quality biological data to power large-scale AI models.\nProduct Stickiness\n-- Ongoing studies, workflow familiarity, and established data needs contribute to continued use of existing platforms despite Atara launch.\nVisium Platform\n-- Will remain supported, with continued customer usage despite trend toward Xenium and Atara for spatial assays.\nNeed a quote from a Motley Fool analyst? Email\n[email protected]\nRISKS\nAdam Taich highlighted, \"We expect second quarter revenue to step down sequentially from Q1, reflecting lower spatial sales as customers wait for Atara to start shipping.\"\nSerge Saxonov acknowledged, \"Atara will put pressure on both spatial platforms, including Visium,\" with the transition risk reflected in current guidance.\nAdam Taich indicated, \"instrument margins will come in at margins that are less than that of our standard portfolio,\" leading to anticipated margin pressure during the Atara launch phase, particularly in Q4.\nManagement repeatedly referred to a \"challenging capital equipment environment,\" which is constraining capital expenditures and impacting instrument sales velocity.\nSUMMARY\n10x Genomics\n\n(\nTXG\n\n+2.05%\n)\nreported revenue growth of 9% excluding nonrecurring 2025 settlement revenue and improved gross margins to 70%, supported by a 13% rise in consumables revenue and strong demand for single cell and spatial products. The quarter marked the launch of the Atara platform, driving sizable preorders and high customer interest across research, translational, and AI-enabled applications. Management reaffirmed their full-year 2026 revenue outlook, flagged sequential revenue declines in Q2 and Q3 due to Atara-related purchasing delays, and projected a limited, supply-constrained Atara ramp in Q4. Operating expenses declined meaningfully, supporting cash accumulation, while explicit guidance acknowledged margin headwinds tied to new product introductions and capital spending constraints in the sector.\nAtara demand has shifted purchasing behavior in the spatial product line, with management noting increased customer focus on the forthcoming platform rather than existing products.\nAround 40 Atara units are expected to be shipped in the latter half of the year, initiating a measured production ramp that will extend into 2027.\nLarge-scale partnerships—such as with Biooptimus and Chan Zuckerberg Initiative—are driving broader adoption and usage of 10x platforms for next-generation AI-powered research initiatives.\nDespite some cannibalization risk, management asserted that existing platforms like Visium will maintain relevance for specific customer segments and applications.\nThe company’s guidance builds in both a sequential revenue decline due to delayed purchasing and the margin pressure associated with scaling new hardware, reflecting a risk-aware and transparent operating approach.\nINDUSTRY GLOSSARY\nAtara\n: 10x Genomics' newly launched spatial biology instrument platform, enabling high-throughput, whole transcriptome analysis at single cell sensitivity.\nXenium\n: Imaging-based spatial platform used for high-resolution molecular and cellular tissue analysis.\nFLEX Apex\n: Advanced single cell assay on the Chromium platform supporting high-throughput translational studies, including those with FFPE samples.\nVisium\n: Slide-based spatial gene expression solution for tissue analysis, distinct from Xenium and Atara platforms.\nSpatial Biology\n: Field focused on analyzing molecular data within the spatial context of tissue and cellular organization.\nSingle Cell\n: Analytical solutions profiling individual cells’ gene expression or molecular content to capture biological heterogeneity.\nTAM (Total Addressable Market)\n: The total potential revenue opportunity available for a product or service, referenced during discussion of AI-driven growth segments.\nFFPE (Formalin-Fixed, Paraffin-Embedded)\n: A sample preservation method frequently referenced as a key sample type for single cell and spatial workflows.\nFull Conference Call Transcript\nwe will conduct a",
+  "qa_turns": [
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Cassie Corneau",
+      "text": "Thank you, and good afternoon, everyone. Earlier today, 10x Genomics, Inc. released financial results for the first quarter ended 03/31/2026. If you have not received this news release or would like to be added to the company's distribution list, please send an email to\n[email protected]\n. An archived webcast of this call will be available on the company's website at 10xgenomics.com for at least 45 days following this call. Before we begin, I would like to remind you that management will make statements during this call that are forward-looking statements within the meaning of federal securities laws.\nThese statements involve material risks and uncertainties that could cause actual results or events to materially differ from those anticipated, and you should not place undue reliance on forward-looking statements. Additional information regarding these risks, uncertainties, and factors that could cause results to differ appears in the press release 10x Genomics, Inc. issued today and in the documents and reports filed by 10x Genomics, Inc. from time to time with the Securities and Exchange Commission. 10x Genomics, Inc. disclaims any intention or obligation to update or revise any financial projections or forward-looking statements, whether because of new information, future events, or otherwise. Joining the call today are Serge Saxonov, our CEO and Co-Founder, and Adam Taich, our Chief Financial Officer.\nWe will host a question and answer session after our prepared remarks. We ask analysts to please keep to one question so that we may accommodate everyone in queue. With that, I will now turn the call over to Serge.",
+      "turn_index": 0
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Serge Saxonov",
+      "text": "Thanks, Cassie, and good afternoon, everyone. What a really nice start to the year, with solid sales momentum, a step-change advance in our product roadmap, and strong execution across the business. Revenue for the first quarter was $151 million, representing 9% growth over Q1 2025 when excluding the nonrecurring settlement revenue in the prior-year period. In single cell, we again saw double-digit growth in consumable reaction volumes, driven by FLEX and FLEX Apex. As we have been seeing over the past several quarters, our new products with more accessible pricing have been unlocking new waves of single cell demand. Similarly, in spatial, we again delivered double-digit growth in consumables revenue, which was driven by Xenium momentum.\nSpatial biology remains in the very early stages of adoption, and the vast majority of the opportunity is still untapped. The biggest highlight since our last call is without question the launch of our new instrument platform, Atara. Atara represents the most significant product introduction in our history. Among many other benefits, it enables, for the first time, spatial whole transcriptome analysis with single cell sensitivity at scale. We believe Atara is poised to redefine how biology is measured and understood. We went into the launch expecting a very strong response from researchers and the broader scientific community, and what we have heard so far has been extraordinary.\nBefore I talk about what Atara is and what it does, I want to spend a moment on why we built it. The central challenge of biology is that it is very complex. It is complex in just about every system, in just about every sample. Biological systems comprise massive numbers of molecules, themselves interacting with each other in a bewildering diversity of ways. Addressing this complexity requires tools that can measure biology at large scale and high resolution. Historically, technologies available to researchers have lacked the necessary scale and resolution. Furthermore, the toolset of biology has been very fragmented.\nWe have used one set of technologies for analyzing tissues, another for measuring cells, and yet another for working with molecules. But that is not how biology works. It works by specific cells expressing specific molecules at specific locations within tissue. That has always been the promise of spatial biology. It represents the convergence of the different tools for analyzing biological systems. It entails measuring molecules, cells, and tissues together, preserving the full context at massive scale and incredibly high resolution. However, until now, despite many advances, spatial biology has been fundamentally constrained by the limitations of existing technologies. Researchers have been forced into frustrating trade-offs between the critical attributes they care about—throughput, specificity, sensitivity, scale, performance.\nIf they gain in one area, they have to compromise in others. We built Atara to address all of these trade-offs and to unlock the full potential of spatial biology. Atara is the product of a long, helicon book about where biology needed to go and years of deliberate work to get there. It is poised to become the large-scale discovery engine—whether for basic research, AI-driven science, or translational applications. We believe that now spatial will increasingly become the default approach for analyzing biological samples. It is important to appreciate that Atara brings together a set of capabilities that until recently were not even thought possible for a single platform.\nIt delivers very high levels of plex, including whole transcriptome, at sensitivity comparable to FLEX Apex, the gold standard for single cell analysis. Enabled by refined probe chemistry, it delivers high specificity and data quality—nonnegotiable for researchers and their collaborators to be able to trust the data. And Atara delivers step-change throughput, with a single instrument capable of processing up to 800 whole transcriptome, one-centimeter-squared samples per year—more than 3 thousand if using the targeted Atara Select panels. This increase in throughput now enables large cohort studies at a pace and scale that were not previously feasible. Equally important is the user experience.\nAtara builds on a proven Xenium workflow, which is already highly robust and widely and well regarded by our customers. Atara runs on standard, off-the-shelf glass slides, which makes the platform inherently scalable across labs and experiments and enables distributed sample collection. Using standard slides also allows customers to access archived samples from biobanks and other repositories. In addition, Atara uses a universal sample preparation approach that works across tissue types, supporting different sample types on the same slide to provide extra flexibility and scalability. We have also developed powerful computation and software tools so that customers can effectively work with the data.\nTo handle spatial biology at this unprecedented scale, the most computationally intensive part of the workflow—image processing—is performed directly on the instrument, driven by high-performance onboard GPUs and optimized algorithms. Data is processed efficiently at the source and translated into actionable biology in real time. From there, customers have the flexibility to use their own on-premise infrastructure or leverage our 10x Cloud platform for analysis and collaboration, ensuring that Atara is not just generating more data, but also making that data easy to use. We built Atara to be a long-duration upgradable platform, and we intend to continue delivering new capabilities over the years ahead.\nThe roadmap on the platform includes workflow automation, designed to enable true sample-in/data-out capability; protein multiomics; in situ sequencing for spatial mutation and variant detection; and continued development of our 10x Cloud platform for multisample analysis and collaboration. As I mentioned, the early customer response has been extraordinary. We had high expectations coming into this launch, and the reception has exceeded even those expectations. One customer told us that this was the largest technology leap they had seen in their career. Another called the Atara data capabilities “the holy grail.” Others, to convey their enthusiasm, have used the kind of language that would not be appropriate for me to repeat in this forum.\nAnd this enthusiasm is translating directly into demand, as we take preorders ahead of initial shipments expected in 2026. Even in a challenging capital equipment environment, customer conversations have immediately centered on how to incorporate Atara into their research programs, not whether to buy it. In many cases, the discussion starts from the assumption that this is a must-have platform and quickly moves to multiyear programs, large cohort studies, and the scale of insight generation that is now within reach. Atara fundamentally expands our addressable market across three high-growth segments. In discovery research, initiatives like the Human Cell Atlas can now map entire organs and tissues at unprecedented scale and speed.\nIn translational research, clinical cohorts can be comprehensively characterized to understand patient response patterns—something our collaborators are already validating, as shown by Carl June at AACR. And, critically, large AI models represent an entirely new opportunity, where Atara’s billion-cell-per-year capability enables creation of virtual models at a new level of scale and sophistication. Each segment unlocks distinct applications while reinforcing our position as the essential platform for spatial biology. As we have been saying for some time, we believe AI represents a significant and structural tailwind for our business. The potential to transform our understanding of biology is enormous, but progress depends critically on generating vastly more of the right kinds of data.\nFrom the beginning, we have built our platforms precisely for that purpose. Products like FLEX Apex and now Atara exemplify this imperative and are seeing intense interest from customers building AI models of biology. The partnerships we have announced over the past year reflect and reinforce these trends, including the Chan Zuckerberg Initiative on the Building Cell Project, the Arc Institute around the Virtual Cell Challenge, and Zira Therapeutics to build the largest perturbation dataset ever reported. And just last month, we announced a partnership with Biooptimus, an AI-focused biotech company. Biooptimus is building Stella, a global initiative aiming to profile up to 100 thousand patient tissue specimens across three continents.\nThe goal is to build a data backbone for a world model of biology. The initiative is starting this effort on our Xenium platform and plans to expand to Atara over time. And just last week, the Chan Zuckerberg Biohub announced its new $100 million virtual biology initiative. The goal of the effort is to build AI models that can accurately simulate cells and tissues in silico. This initiative is an incredibly ambitious undertaking that would not have been conceivable even a few years ago. Now, because of progress in AI and in technologies for measuring biology, there is a path to that vision.\nThere is increasing evidence that scaling laws apply in biology just like they do in other domains. What we now need is many orders of magnitude more data—specifically of molecules, cells, and tissues across vast numbers of contexts. This initiative is galvanizing the broader scientific ecosystem with an aligned view that this direction is the next grand challenge for advancing science and medicine, analogous to the Human Genome Project and its role in catalyzing the genomics era. Taken together, these programs are exactly the type of large, multiyear initiatives our single cell and spatial platforms are built to enable.\nAI is poised to fundamentally reshape how science is done, and large-scale, high-quality biological data sits at the center of that transformation. As AI models improve, we expect an exponential increase in the demand for the kind of data our technologies produce. This reinforces our conviction in the importance of what we are building and the vast size of the opportunity ahead. Building on another theme that has become increasingly prominent in our business, we are seeing growing interest in translational applications across both academia and biopharma. Customers are increasingly focused on identifying human-relevant drug targets and, critically, biomarkers of response for therapies that only work in subsets of patients.\nThere is now a growing body of evidence of the value of single cell and spatial approaches in uncovering these signals. At the same time, our recent product advances have made these technologies far more practical to deploy in translational settings. In single cell, FLEX Apex has been a game changer for large-scale translational studies, because of strong performance on FFPE samples, streamlined workflows, and a cost profile that enables large cohorts. In spatial, Xenium has proven to be a robust and powerful platform for extracting meaningful insights from clinical samples. Atara is now poised to extend that momentum by enabling much larger studies with significantly more information content per sample.\nWhile our technologies are relevant across the drug development continuum, a particularly large opportunity lies in later-stage translational settings where biomarker strategies are essential to understand patient response and potential toxicity. This is where our solutions can meaningfully improve the probability of success and where we are increasingly focused. Over time, these trends also reinforce the potential for single cell and spatial in diagnostics applications. To realize that potential, the critical next step is the generation of robust clinical evidence on large patient cohorts.",
+      "turn_index": 1
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "As we have discussed previously",
+      "text": "one, we are continuing to support our customers in their studies and will partner with them to enable clinical deployment in the future; and two, we are advancing our own internal efforts to generate clinical evidence for specific high-value applications. We are making progress in the two previously announced areas—tissue-based spatial profiling for oncology and blood-based single cell monitoring in autoimmune disease. Stepping back, this quarter has been emblematic of the great work by the whole 10x team.\nWe launched a game-changing new platform, saw continued sales momentum, and engaged in powerful partnerships with our customers to drive the future of research and health care, all while maintaining laser focus on tight execution. This progress continues to reinforce our strategy and puts us in a great position for the opportunities ahead. With that, I will turn the call over to Adam.",
+      "turn_index": 2
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Adam Taich",
+      "text": "Thanks, Serge. Before walking through the detailed financials, I want to reflect on the last 12 months. A year ago on our Q1 call, we were operating in a highly uncertain macro environment after drastic changes to government research funding that led us to withdraw our full-year guidance. Since then, and despite persistent challenges in the macro environment, we have consistently executed, improved our operating profile, and have grown our cash balance by over $100 million. The business is in a meaningfully stronger position today. With that, I will now walk through our first quarter 2026 financial results in more detail. Unless otherwise noted, all growth rates referenced reflect year-over-year comparisons. We had a solid start to 2026.\nRevenue for the first quarter was $150.8 million. Excluding the impact of nonrecurring settlement revenue in the prior-year period, revenue for the first quarter was up 9% year over year. This reflects continued momentum in the key drivers of our business, as well as some benefit from orders received late in the fourth quarter that shipped in early January. Total consumables revenue was up 13%, with growth in both single cell and spatial. Single cell consumables revenue was up 6%, supported by double-digit growth in reaction volumes, and FLEX continued to be the most popular assay by volume in the quarter. Spatial consumables continued to perform well in the quarter with revenue up 31%, driven by Xenium consumables.\nTotal instrument revenue declined 24%, with Chromium instrument revenue down 12%, and spatial instrument revenue down 32%. Looking at revenue by geography, excluding the impact of license and royalty revenue in 2025, Americas revenue was up 9%. EMEA and APAC grew 165%, respectively. Turning to the rest of the P&L, gross margin was 70% for 2026, as compared to 68% for the prior-year period. The increase was primarily driven by lower warranty costs and lower inventory write-downs, partially offset by a decrease in license and royalty revenue. Total operating expenses decreased 15% in the quarter, primarily driven by lower outside legal expenses and lower personnel costs.\nAs a reminder, Q1 2025 included a one-time gain on settlement related to patent litigation. Excluding this impact in the prior-year period, operating expenses decreased 20%. We ended the quarter with $540 million in cash, cash equivalents, and marketable securities, up $113 million year over year and up $16 million sequentially. Turning to our outlook for the rest of the year, we are maintaining our full-year outlook and expect 2026 revenue to be in the range of $600 million to $625 million. Excluding upfront revenue related to patent litigation settlements in 2025, this represents 0% to 4% growth over the full year 2025.\nAt the midpoint, our outlook remains consistent with what we provided in February, including double-digit growth in both single cell consumables reactions and spatial consumables revenue. We built our initial outlook with the Atara launch in mind, reflecting our expectation that some customers may delay additional purchases of our current spatial products in anticipation of Atara. Looking at our quarterly cadence, as previously discussed, first quarter revenue represents a higher proportion of our expected full-year revenue, driven in part by orders received late in 2025 that shipped in January. We expect second quarter revenue to step down sequentially from Q1, reflecting lower spatial sales as customers wait for Atara to start shipping.\nWe anticipate the third quarter to be broadly similar to the second quarter. In the fourth quarter, we expect Atara shipments to begin contributing meaningfully to revenue, though initial production capacity for Atara will be limited in 2026 as we ramp production. Looking ahead, we remain focused on customer success, disciplined execution, and strengthening our financial position, which support continued investment in innovation across our portfolio. With that, I will turn the call back to Serge.",
+      "turn_index": 3
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Serge Saxonov",
+      "text": "Thanks, Adam. Before we open it up for questions, I want to pick up on Adam's earlier remarks and reflect on how much difference a year makes. While our internal conviction never wavered, the external circumstances a year ago put incredible pressure on our 10x team. Yet we executed with relentless discipline, met every challenge, and significantly improved our operating profile, all while launching multiple critical products including FLEX Apex, to change the world of single cell, and now Atara, the biggest product introduction in our history. To the 10x team, I could not be more proud or thankful for how you responded and what you have delivered. Thank you. Thank you for everything that you do.\nWith that, we will now open the call for questions. Operator?",
+      "turn_index": 4
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you. As a reminder, to ask a question, please press star. In the interest of time, we ask that you please limit yourself to one question. Thank you. Our first question comes from Patrick Donnelly from Citi. Please go ahead. Your line is open.",
+      "turn_index": 5
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Patrick Donnelly",
+      "text": "Hey, guys. Thank you for taking the question. Maybe on Atara—you know, Serge, a lot of color there, appreciate it—could you talk about the early conversations in terms of the funnel? What end customer you are seeing the highest reception or interest level from, and then secondly, also on Atara, just how we should think about the launch timing and what that impact is on the portfolio? It sounds like you guys are preparing for some customers to delay other spatial purchases in Q2 and Q3. Would love just a little more color on how you are thinking about that. Thank you, guys.",
+      "turn_index": 6
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Serge Saxonov",
+      "text": "Thanks, Patrick. Thanks for the question. Like I said earlier in my prepared remarks, we are really excited about Atara. We had really high expectations going into the launch, and it has been incredibly gratifying to see the response from customers, which I would say has probably exceeded our really high expectations. As far as how that translates into demand and the preorders, that has been really encouraging and really strong, and the interest is coming from everywhere. I cannot point to any particular area of the market or any particular area of our customers that are not expressing interest in this.\nOur efforts are on customers who can quickly scale, serve demand for others like service providers, and generally evangelize the platform for the future. That is how we are approaching the market and the signal has been resounding. Now, as far as the second part of your question, obviously Atara is a really compelling product. We have known that for a long time. We have been anticipating and planning for this launch for a long time, and we also anticipated there would be some changes to ordering from our customers. Overall, it is going very much in accordance with our expectations.\nWe have lots of experience with past product launches and new versions of things and new capabilities, and we have been prepared. Naturally, customers adjust their thinking about future projects in light of Atara, which puts some pressure on some of our spatial business like we talked about earlier, but all of that is incorporated into our guide. At the same time, while people are starting to contemplate the future with Atara, right now our customers are running their experiments because they have established workflows, ongoing studies, grants and budgets. They are used to the workflows and really like the data. Our spatial products are leading. There is a lot of great resonance with them among customers.\nAlso, realistically, if people are just now deciding whether to go forward with Atara, they probably will not be getting their instruments until well into 2027, most of them. So the existing spatial products continue on a robust base consistent with our expectations. We feel really good about that, and I think all of that information has been incorporated into our guide pretty well.",
+      "turn_index": 7
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from Matthew Larew from William Blair. Please go ahead. Your line is open.",
+      "turn_index": 8
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Matthew Larew",
+      "text": "Everyone—Serge, you called out one of the new TAMs around AI. I think last quarter you mentioned that was a relatively low percentage of revenue, but you referenced today a number of new initiatives you are involved in, both on the single cell and spatial side. As you have had those discussions and gotten some sense for how customers are going to be building out their plans, what is your sense for what ultimately that TAM could look like and how it might grow over time? Thank you.",
+      "turn_index": 9
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Serge Saxonov",
+      "text": "That is a really good and really important question. A couple of things. We fundamentally believe and are seeing that AI is a structural tailwind to our business. With the progress in AI and the emergence of increasingly large models that are more powerful in making predictions and inferences, what they universally need is large amounts of data across many different kinds of contexts and, specifically, the right kinds of data. For biology, measuring the right biology means molecules, cells, and tissues, and being able to measure them at large scale and high quality is imperative. That is precisely what we have built. In fact, that is the central premise of the mission of the company.\nIt is an exciting moment for us because the emergence of these models and AI capabilities resonates strongly with our mission and strategy from day one. As to how that translates into revenue and what the TAM is, the fact is when you look at our customers and how AI is used and what it is driving, it is really pervasive at this point across our customer base and applications. I do not think at this stage there is a large project where AI is not a big driver, if not the biggest driver. Even smaller-scale experiments are often performed with an eye toward feeding data into AI models and scaling up down the road.\nSo when we look at our business, this AI wave is lifting all of it across products and applications, and in many ways, that is by design.",
+      "turn_index": 10
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from Douglas Schenkel from Wolfe Research. Please go ahead. Your line is open.",
+      "turn_index": 11
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Madeline Mollman",
+      "text": "Hi. This is Madeline Mollman on for Doug. Gross margin in the quarter, I think, came in a little better than we and the Street were expecting. As we think about the full year, are you anticipating any impact to gross margin from increased inflationary pressures related to memory or petroleum-based plastics? And then thinking about Atara ramping up as the year goes on, should there be any dilution to margins from the Atara launch?",
+      "turn_index": 12
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Adam Taich",
+      "text": "Hey, Madeline. Thanks for the question. We are absolutely monitoring costs closely—the couple that you mentioned, and other input costs that have inflationary pressure. The team is managing that quite well, so we are still anticipating margins for the year to be in the mid-60s. To your question on Atara specifically, as that launch progresses—we mentioned we start shipping units in the second half and it will be heavily weighted towards Q4—and as has been typical in our portfolio, the instrument margins will come in at margins that are less than that of our standard portfolio.\nI would anticipate as that starts to move in, particularly in Q4, we will see a little bit of margin pressure, but we still feel highly confident that we will end up in the mid-60s for the full year.",
+      "turn_index": 13
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from Mason Carrico from Stephens. Please go ahead. Your line is open.",
+      "turn_index": 14
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Mason Carrico",
+      "text": "Hey, guys. Just wondering if you could provide a bit more detail on spatial instrument revenue this year. How material is the Q1 to Q2 sequential decline? How many Atara instruments do you ultimately expect to place in Q4? And then as a follow-up, how many placements do you think production will be able to support in 2027 as you ramp production?",
+      "turn_index": 15
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Adam Taich",
+      "text": "Sure. As I mentioned in the prepared remarks, we are anticipating a step down from Q1 to Q2 and Q3. We will continue to sell Xenium, but it will be at a lower rate than what we saw last year, particularly over the next two quarters. We built that into the guidance, as Serge mentioned earlier. As it relates to total number of Atara, we are ramping up production right now and anticipate between Q3 and Q4 we will sell approximately 40 units. That is all factored into the guidance range we have provided, and those will be mostly weighted towards Q4.",
+      "turn_index": 16
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from Barclays. Please go ahead. Your line is open.",
+      "turn_index": 17
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Analyst",
+      "text": "Great, thanks for the question. I want to talk about the pricing strategy and positioning with Atara versus Xenium and the rest of the spatial portfolio. You are calling it the biggest launch in the history of the company. As you look toward spatial, is this where you will launch Atara and then cannibalize or essentially put all the other platforms and applications that customers use onto one box? Or are you trying to segment the market here? It seems like there is risk of cannibalization versus Xenium.",
+      "turn_index": 18
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Serge Saxonov",
+      "text": "Thanks for the question. First, yes, calling this the most significant launch in our history was intentional, and I am very aware of our history and success with single cell. I do think this is a platform that will change how we measure biology and will fundamentally reshape many aspects of science. As far as where this is headed, in the short term we planned carefully for the dynamics and incorporated them into the guide. We feel confident about that and about what Atara opens up as we look into next year.\nAtara is poised to break open a lot of markets, opportunities, customer samples, and new users by removing constraints that kept existing spatial users from running more and others from entering spatial. To list a few technical enablers: whole transcriptome capability addresses constraints around customization and tissue types—people can move forward confidently across applications; throughput has been a huge constraint—now you can run full large cohorts and studies; and with off-the-shelf slide capability, there is access to archived samples and biobanks that multiply the availability of samples. This feedback is consistent with what we are hearing from customers and points to a fundamental expansion of TAM and potential for these platforms.\nOur pricing thinking is consistent with enabling this expansion across discovery, translational research, and AI-driven applications. People really like Xenium and Visium—powerful products and capabilities—and we expect them to be robustly used for the foreseeable future. Further out, more applications, customers, and samples will migrate to Atara, and that will be a great thing for us.",
+      "turn_index": 19
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from Dan Brennan from TD Cowen. Please go ahead. Your line is open.",
+      "turn_index": 20
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Analyst",
+      "text": "Hey, good afternoon. This is Kyle on for Dan. Thank you for taking my question. I wanted to ask on your OpEx. OpEx was down quite materially year over year and quarter over quarter. You mentioned it a few times, but can you talk about where the jumping-off point is for OpEx going forward, given SG&A and R&D were down quite a bit year over year?",
+      "turn_index": 21
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Adam Taich",
+      "text": "Sure. We have been managing our costs in a very disciplined way and are on a good trajectory. Keep in mind last year had the one-time gain on settlement. Excluding that, OpEx is down 20% year on year. We are still anticipating, and giving ourselves some flexibility, to continue to invest in the business, and we anticipate that OpEx year on year will be roughly flat.",
+      "turn_index": 22
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Next question comes from Kyle Mikson from Canaccord. Please go ahead. Your line is open.",
+      "turn_index": 23
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Kyle Mikson",
+      "text": "First, could you talk about the spatial instruments in the quarter? It seemed a little bit weaker than what we had, and I thought I heard you had some benefit in January or something like that. How should we think about that line going forward, especially with potential market freezing? And secondly, Adam, on the guidance for Q2, are you talking about a mid-single-digit decline quarter over quarter or more like a low single digit? Thanks.",
+      "turn_index": 24
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Adam Taich",
+      "text": "Let me take the second part first. Think about a low single-digit decline quarter over quarter—that is how we are thinking about Q2, and then fairly similar for Q3, with the balance getting us there on the guide in Q4. For spatial instruments in Q1, there was significant anticipation regarding what we were going to announce in April. As you may recall, we did a campaign at AGBT, word started to spread, and we were working with early-access customers under NDA to make sure we were going down the right track. Customers that would have been adding either a new Xenium or to their Xenium fleet decided in Q1, and will decide, to wait for Atara.\nWe do not see the macro backdrop being meaningfully different for CapEx than where it has been—it is still fairly constrained—but the predominant rationale for Q1 spatial instrument performance was anticipation of the product launch. I would also echo what Serge said earlier: the enthusiasm around Atara is extremely high. Even in a constrained capital environment, customers are finding CapEx. We have orders, and this is the type of launch where folks go out and find money.\nWe were thoughtful about timing to ensure it is built into budgets, whether for customers with fiscal year-ends in the fall, customers that need to get this into grant submissions, and to ensure customers are well positioned as they think about their 2027 budgets and earmark funds for Atara.",
+      "turn_index": 25
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from Michael Ryskin from Bank of America. Please go ahead. Your line is open.",
+      "turn_index": 26
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Analyst",
+      "text": "Hi. This is Ivanka on for Mike. Thank you for taking our question. On Atara manufacturing capacity, you noted initial production would be limited in 2026. What are the primary bottlenecks to scaling from here, and how quickly do you think you can ramp toward meeting the level of demand you will see? Thank you.",
+      "turn_index": 27
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Serge Saxonov",
+      "text": "The question is around scaling up production of instruments. This is a really sophisticated instrument, and we want to be very smart and measured around how we build and test it. We are very careful with these kinds of launches. We feel good about what we can do in 2026, and we will keep ramping production as we exit the year into next year.",
+      "turn_index": 28
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from Subhalaxmi Nambi from Guggenheim Securities. Please go ahead. Your line is open.",
+      "turn_index": 29
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Thomas VonDerVellen",
+      "text": "Hi, guys. This is Thomas on for Subbu. Thanks for taking our question. There has been a lot of focus on spatial—some on single cell here. Can you share any color on what pricing headwind you may have experienced, if any, in the quarter from Apex, and what you are anticipating for the second quarter? Thank you.",
+      "turn_index": 30
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Serge Saxonov",
+      "text": "The general trend has been similar to what we saw in Q4 as far as mix and pricing dynamics around FLEX Apex. I would point out it is still very early in the launch—we only have a partial Q4 and then Q1, so just a bit over one quarter. We are very happy with the progress—great feedback from customers and large scaling up of volumes. Overall, we feel good about single cell and how it is proceeding. It is still early, but all in all, a really strong trajectory.",
+      "turn_index": 31
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from Deutsche Bank. Please go ahead. Your line is open.",
+      "turn_index": 32
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Analyst",
+      "text": "Hi. This is Sam Martin on for Justin Bowers at Deutsche Bank. I want to ask a couple of quick questions around the Visium platform. I think last quarter you mentioned Xenium had become the spatial platform of choice. Now with the launch of Atara, another upgrade within the spatial realm, can you share your updated thoughts on customer demand for Visium year to date with the launch of Visium HD just over two years ago? And your thoughts on the future of the Visium platform and whether it still has a place in your portfolio? Thank you.",
+      "turn_index": 33
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Serge Saxonov",
+      "text": "As I have been saying for the past several quarters, there is clearly a trend in the market toward imaging-based readout and, in particular, toward Xenium. There has been huge resonance for the Xenium platform within spatial. With the launch of Atara, we anticipate that trend to be reinforced. That said, Visium has its place as well. Many customers absolutely love the platform and run it very robustly and consistently across large numbers of samples. We expect it to continue to have its place. It is a great assay for many applications and well regarded by many of our customers. We will continue to support it and ensure customer success.",
+      "turn_index": 34
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from Puneet Souda from Leerink Partners. Please go ahead. Your line is open.",
+      "turn_index": 35
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Puneet Souda",
+      "text": "Hi, Serge. Thanks for taking my questions. Does the Atara launch have any additional impact or maybe accelerate a decline in Visium usage? If so, what can you do to mitigate that before the launch? And is there a desire from customers to pull the launch forward given the high level of interest?",
+      "turn_index": 36
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Serge Saxonov",
+      "text": "There is going to be some effect—Atara is a spatial platform, and there has been a trend of converting toward Xenium that will continue with Atara’s arrival. There is definitely a place for Visium—customers really like the data and will keep running it. While the launch of Atara will put pressure on both spatial platforms, including Visium, that is all incorporated into our guide. One thing people sometimes underestimate is the built-in stickiness with products—ongoing projects, established workflows, and data customers are used to and really like. That is what we are seeing in the field—robust use of these products and capabilities.\nAs for Atara and demand, customers are very interested, and the team is working really hard to deliver the instrument to the world as fast as possible. We are being very deliberate and rigorous, and we are excited to get it out there.",
+      "turn_index": 37
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from Jefferies. Please go ahead. Your line is open.",
+      "turn_index": 38
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Analyst",
+      "text": "Hi, guys. This is Priya on for Tycho. Thanks for taking our question. On clinical adoption, you mentioned Atara can analyze up to 3 thousand core biopsies per year. What is the specific feedback from biopharma partners regarding the platform's readiness for integration into large-scale phase 2 and phase 3 clinical trials? Thank you.",
+      "turn_index": 39
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Serge Saxonov",
+      "text": "When I talked about the number of samples a platform can process, I specifically referred to one-centimeter-squared areas. It is possible to put more samples onto a slide if you are doing tissue microarrays and similar formats, so there is additional scaling depending on biopsy format and measurement interests. The platform enables really massive scaling. Conversations with biopharma have been very encouraging. Both Apex and Atara have been resonant by opening up translational applications, sample types, and scaling. All are very enabling, and we feel this will be a big driver, especially as we think about next year and beyond.",
+      "turn_index": 40
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "And last question today comes from Dan Arias from Stifel. Please go ahead. Your line is open.",
+      "turn_index": 41
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Analyst",
+      "text": "This is Paul on for Dan. Thanks for the questions. There has been some messaging of Atara as providing sensitivity at the level of single cell sequencing. Obviously there will still be lots of use cases for single cell, but on the margin, do you expect any FLEX volumes over time to potentially move to Atara? And on a related point, you mentioned in your prepared remarks that the double-digit Chromium reaction volume growth was driven by FLEX Apex. Just wondering if reaction volume is growing at what kind of level excluding FLEX Apex?",
+      "turn_index": 42
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Serge Saxonov",
+      "text": "As far as single cell relative to Atara, it is a reasonable question, but not something we are expecting to be an issue in the near term, nor is it anything we are hearing from customers. The configuration of the products, capabilities, pricing, and workflows are sufficiently different. We do expect in the long run there will be really massive experiments with single cell that will be possible with Atara that had not been previously possible, but we see that as the future. We are not seeing any effect on our single cell business at this stage or in the near term. In terms of reaction growth, we are seeing it across multiple applications.\nSince this was the last question, I want to finish with a couple of closing thoughts. I am personally very excited about the setup we have for 2027 and beyond. Through the product lens, 2027 will be the first full year of Atara—really the year of Atara. For FLEX Apex, by that point it will have gained widespread adoption and pricing on the single cell side will stabilize, so growth in volume will naturally translate into growth in revenue. Through the market lens, we expect an exponential increase in AI-driven research and scaling of translational cohorts to really take off as we look to next year.\nFrom the macro perspective, at the very least we will have good compares, and to the extent conditions improve, we should see an acceleration to all the other trends.",
+      "turn_index": 43
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "This will conclude today's conference call. Thank you for your participation. You may now disconnect.",
+      "turn_index": 44
+    }
+  ]
+}

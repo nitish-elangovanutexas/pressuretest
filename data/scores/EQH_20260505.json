@@ -1,0 +1,28 @@
+{
+  "ticker": "EQH",
+  "call_date": "2026-05-05",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.08368307047019766,
+  "cosine_distance": 0.2420799492596406,
+  "sentiment_shift": 0.0023275824108471496,
+  "question_difficulty_mean": 0.14493968391496884,
+  "baseline_mean": 0.058785378537534266,
+  "baseline_std": 0.03521065360295977,
+  "z_score": 0.7071067811865475,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5724698419574844,
+    "call_mean_answer_length": 69.5,
+    "call_hedge_density": 0.003703703703703704,
+    "call_pos_sentiment_mean": 0.41502857208251953,
+    "call_neu_sentiment_mean": 0.5714099407196045,
+    "call_neg_sentiment_mean": 0.013561505358666182,
+    "call_qa_similarity_mean": 0.3456226294915137,
+    "baseline_neg_sentiment_mean": 0.01588908776951333
+  },
+  "generated_at": "2026-05-20T05:23:42+00:00"
+}

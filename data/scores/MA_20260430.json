@@ -1,0 +1,28 @@
+{
+  "ticker": "MA",
+  "call_date": "2026-04-30",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.020953185361060403,
+  "cosine_distance": 0.056406695333009904,
+  "sentiment_shift": 0.0073280492538793235,
+  "question_difficulty_mean": 0.13952687332854954,
+  "baseline_mean": 0.02353995910838235,
+  "baseline_std": 0.00365825051625337,
+  "z_score": -0.707106781186548,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5697634366642748,
+    "call_mean_answer_length": 269.125,
+    "call_hedge_density": 0.018642819483280587,
+    "call_pos_sentiment_mean": 0.13166958093643188,
+    "call_neu_sentiment_mean": 0.8506956622004509,
+    "call_neg_sentiment_mean": 0.017634745221585035,
+    "call_qa_similarity_mean": 0.4753294204650846,
+    "baseline_neg_sentiment_mean": 0.02496279447546436
+  },
+  "generated_at": "2026-05-20T06:04:50+00:00"
+}

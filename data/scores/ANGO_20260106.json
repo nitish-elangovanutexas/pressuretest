@@ -1,0 +1,28 @@
+{
+  "ticker": "ANGO",
+  "call_date": "2026-01-06",
+  "quarter": 3,
+  "year": 2025,
+  "pressure_score": 0.0,
+  "cosine_distance": 0.0,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.16405532052677416,
+  "baseline_mean": 0.0,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.582027660263387,
+    "call_mean_answer_length": 209.5,
+    "call_hedge_density": 0.012022087277399984,
+    "call_pos_sentiment_mean": 0.47390536591410637,
+    "call_neu_sentiment_mean": 0.5130427181720734,
+    "call_neg_sentiment_mean": 0.013051933841779828,
+    "call_qa_similarity_mean": 0.4384701169555733,
+    "baseline_neg_sentiment_mean": 0.013051933841779828
+  },
+  "generated_at": "2026-05-20T04:36:05+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "DXCM",
+  "call_date": "2026-04-30",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.030052133481356155,
+  "cosine_distance": 0.06614252469173121,
+  "sentiment_shift": 0.028332258642397145,
+  "question_difficulty_mean": 0.17808958016445725,
+  "baseline_mean": 0.023539730259074146,
+  "baseline_std": 0.007411401388672178,
+  "z_score": 0.8787006506267185,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5890447900822287,
+    "call_mean_answer_length": 178.7,
+    "call_hedge_density": 0.017648802831289733,
+    "call_pos_sentiment_mean": 0.460903899371624,
+    "call_neu_sentiment_mean": 0.5262607365846634,
+    "call_neg_sentiment_mean": 0.012835377175360919,
+    "call_qa_similarity_mean": 0.4725614767745022,
+    "baseline_neg_sentiment_mean": 0.041167635817758064
+  },
+  "generated_at": "2026-05-20T05:19:34+00:00"
+}

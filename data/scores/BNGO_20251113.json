@@ -1,0 +1,28 @@
+{
+  "ticker": "BNGO",
+  "call_date": "2025-11-13",
+  "quarter": 3,
+  "year": 2025,
+  "pressure_score": 3.85804724731228e-17,
+  "cosine_distance": 1.1102230246251565e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.15834000969155676,
+  "baseline_mean": 3.85804724731228e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5791700048457784,
+    "call_mean_answer_length": 125.25,
+    "call_hedge_density": 0.027237915350400654,
+    "call_pos_sentiment_mean": 0.21774772182106972,
+    "call_neu_sentiment_mean": 0.7636996358633041,
+    "call_neg_sentiment_mean": 0.01855261204764247,
+    "call_qa_similarity_mean": 0.4765146773991785,
+    "baseline_neg_sentiment_mean": 0.01855261204764247
+  },
+  "generated_at": "2026-05-20T04:49:30+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "ASND",
+  "call_date": "2026-05-08",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.09486656480475406,
+  "cosine_distance": 0.268374637728908,
+  "sentiment_shift": 0.007562218657158542,
+  "question_difficulty_mean": 0.15655904393840836,
+  "baseline_mean": 0.06276636362520631,
+  "baseline_std": 0.03593405126616269,
+  "z_score": 0.8933087155072579,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5782795219692042,
+    "call_mean_answer_length": 167.35714285714286,
+    "call_hedge_density": 0.023032351828542196,
+    "call_pos_sentiment_mean": 0.15365604470883096,
+    "call_neu_sentiment_mean": 0.8195425122976303,
+    "call_neg_sentiment_mean": 0.026801445787506446,
+    "call_qa_similarity_mean": 0.4449076707132419,
+    "baseline_neg_sentiment_mean": 0.03436366444466499
+  },
+  "generated_at": "2026-05-20T04:40:16+00:00"
+}

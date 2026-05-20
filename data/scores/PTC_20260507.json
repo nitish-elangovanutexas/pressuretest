@@ -1,0 +1,28 @@
+{
+  "ticker": "PTC",
+  "call_date": "2026-05-07",
+  "quarter": 2,
+  "year": 2026,
+  "pressure_score": 0.007560399033563071,
+  "cosine_distance": 0.020979326729701264,
+  "sentiment_shift": 0.0015367274671526897,
+  "question_difficulty_mean": 0.14531656817168317,
+  "baseline_mean": 0.020375616484101338,
+  "baseline_std": 0.018123454323311576,
+  "z_score": -0.7071067811865475,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5726582840858416,
+    "call_mean_answer_length": 273.5,
+    "call_hedge_density": 0.012952219044982463,
+    "call_pos_sentiment_mean": 0.16971096256747842,
+    "call_neu_sentiment_mean": 0.8089806027710438,
+    "call_neg_sentiment_mean": 0.021308437222614884,
+    "call_qa_similarity_mean": 0.47083988463575693,
+    "baseline_neg_sentiment_mean": 0.019771709755462195
+  },
+  "generated_at": "2026-05-20T06:39:54+00:00"
+}

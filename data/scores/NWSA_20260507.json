@@ -1,0 +1,28 @@
+{
+  "ticker": "NWSA",
+  "call_date": "2026-05-07",
+  "quarter": 3,
+  "year": 2026,
+  "pressure_score": 0.03550062325789329,
+  "cosine_distance": 0.06535343702634422,
+  "sentiment_shift": 0.058538935209314025,
+  "question_difficulty_mean": 0.1337047142607392,
+  "baseline_mean": 0.030755256142754882,
+  "baseline_std": 0.004303359812272362,
+  "z_score": 1.1027121417097234,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5668523571303696,
+    "call_mean_answer_length": 150.4,
+    "call_hedge_density": 0.017967914438502673,
+    "call_pos_sentiment_mean": 0.6142390340566635,
+    "call_neu_sentiment_mean": 0.2655033379793167,
+    "call_neg_sentiment_mean": 0.12025763895362615,
+    "call_qa_similarity_mean": 0.5449285428212239,
+    "baseline_neg_sentiment_mean": 0.061718703744312126
+  },
+  "generated_at": "2026-05-20T06:26:02+00:00"
+}

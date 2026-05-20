@@ -1,0 +1,28 @@
+{
+  "ticker": "STRL",
+  "call_date": "2026-05-05",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.02569693304631151,
+  "cosine_distance": 0.054938754480312824,
+  "sentiment_shift": 0.024808131028088477,
+  "question_difficulty_mean": 0.19836918334747605,
+  "baseline_mean": 0.028776975469405233,
+  "baseline_std": 0.006003406761294391,
+  "z_score": -0.5130490978808238,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.599184591673738,
+    "call_mean_answer_length": 301.3,
+    "call_hedge_density": 0.010879103847481992,
+    "call_pos_sentiment_mean": 0.2879786267876625,
+    "call_neu_sentiment_mean": 0.6870440661907196,
+    "call_neg_sentiment_mean": 0.024977314099669457,
+    "call_qa_similarity_mean": 0.5520936677047527,
+    "baseline_neg_sentiment_mean": 0.049785445127757934
+  },
+  "generated_at": "2026-05-20T07:02:26+00:00"
+}

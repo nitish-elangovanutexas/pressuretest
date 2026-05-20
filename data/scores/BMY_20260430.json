@@ -1,0 +1,28 @@
+{
+  "ticker": "BMY",
+  "call_date": "2026-04-30",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.021729593954484247,
+  "cosine_distance": 0.0506686371011138,
+  "sentiment_shift": 0.014038212325734399,
+  "question_difficulty_mean": 0.20664771696081655,
+  "baseline_mean": 0.052217484143460835,
+  "baseline_std": 0.043116387793392316,
+  "z_score": -0.7071067811865475,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6033238584804083,
+    "call_mean_answer_length": 25.833333333333332,
+    "call_hedge_density": 0.008867747239840263,
+    "call_pos_sentiment_mean": 0.16887798144792518,
+    "call_neu_sentiment_mean": 0.78499835729599,
+    "call_neg_sentiment_mean": 0.046123666455969214,
+    "call_qa_similarity_mean": 0.06887912356678837,
+    "baseline_neg_sentiment_mean": 0.032085454130234815
+  },
+  "generated_at": "2026-05-20T04:49:21+00:00"
+}

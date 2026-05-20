@@ -1,0 +1,28 @@
+{
+  "ticker": "JELD",
+  "call_date": "2026-05-05",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.011182745043087736,
+  "cosine_distance": 0.019408394444344834,
+  "sentiment_shift": 0.019439766835421327,
+  "question_difficulty_mean": 0.1516170777410572,
+  "baseline_mean": 0.02525922845567795,
+  "baseline_std": 0.019907153752604986,
+  "z_score": -0.7071067811865476,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5758085388705286,
+    "call_mean_answer_length": 157.2,
+    "call_hedge_density": 0.015202831229699154,
+    "call_pos_sentiment_mean": 0.6497233033180236,
+    "call_neu_sentiment_mean": 0.21726740188896657,
+    "call_neg_sentiment_mean": 0.13300926182419062,
+    "call_qa_similarity_mean": 0.4729467301780466,
+    "baseline_neg_sentiment_mean": 0.1135694949887693
+  },
+  "generated_at": "2026-05-20T05:50:39+00:00"
+}

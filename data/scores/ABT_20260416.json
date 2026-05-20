@@ -1,0 +1,28 @@
+{
+  "ticker": "ABT",
+  "call_date": "2026-04-16",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.030407419276749285,
+  "cosine_distance": 0.07602363604261553,
+  "sentiment_shift": 0.014472263516632444,
+  "question_difficulty_mean": 0.18309700962855546,
+  "baseline_mean": 0.018842569547348132,
+  "baseline_std": 0.010031601334312027,
+  "z_score": 1.1528418389041053,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5915485048142777,
+    "call_mean_answer_length": 388.90909090909093,
+    "call_hedge_density": 0.01333860348266283,
+    "call_pos_sentiment_mean": 0.29319697144356643,
+    "call_neu_sentiment_mean": 0.6452282044020566,
+    "call_neg_sentiment_mean": 0.06157483380626549,
+    "call_qa_similarity_mean": 0.5227467756777542,
+    "baseline_neg_sentiment_mean": 0.04710257028963304
+  },
+  "generated_at": "2026-05-20T14:43:11+00:00"
+}

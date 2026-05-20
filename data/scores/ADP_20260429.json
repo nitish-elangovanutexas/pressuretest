@@ -1,0 +1,28 @@
+{
+  "ticker": "ADP",
+  "call_date": "2026-04-29",
+  "quarter": 3,
+  "year": 2026,
+  "pressure_score": 0.02467203804715718,
+  "cosine_distance": 0.07244134685127468,
+  "sentiment_shift": 0.0010742617006867343,
+  "question_difficulty_mean": 0.1241513564398719,
+  "baseline_mean": 0.019909856443146193,
+  "baseline_std": 0.006734741810876,
+  "z_score": 0.7071067811865475,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.562075678219936,
+    "call_mean_answer_length": 308.8888888888889,
+    "call_hedge_density": 0.03711584621205446,
+    "call_pos_sentiment_mean": 0.25221434359749156,
+    "call_neu_sentiment_mean": 0.7296127097474204,
+    "call_neg_sentiment_mean": 0.018172961038847763,
+    "call_qa_similarity_mean": 0.5239255581521881,
+    "baseline_neg_sentiment_mean": 0.019247222739534497
+  },
+  "generated_at": "2026-05-20T14:43:39+00:00"
+}

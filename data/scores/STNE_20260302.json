@@ -1,0 +1,28 @@
+{
+  "ticker": "STNE",
+  "call_date": "2026-03-02",
+  "quarter": 4,
+  "year": 2025,
+  "pressure_score": 0.027444283144262283,
+  "cosine_distance": 0.03714148067360923,
+  "sentiment_shift": 0.057408238637746654,
+  "question_difficulty_mean": 0.21305567664870112,
+  "baseline_mean": 0.03361712178786034,
+  "baseline_std": 0.008729712128117111,
+  "z_score": -0.7071067811865476,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6065278383243505,
+    "call_mean_answer_length": 174.23076923076923,
+    "call_hedge_density": 0.019531154230717333,
+    "call_pos_sentiment_mean": 0.30122868487468135,
+    "call_neu_sentiment_mean": 0.6531443469799482,
+    "call_neg_sentiment_mean": 0.045626965494683154,
+    "call_qa_similarity_mean": 0.4388376659563098,
+    "baseline_neg_sentiment_mean": 0.10303520413242981
+  },
+  "generated_at": "2026-05-20T07:01:51+00:00"
+}

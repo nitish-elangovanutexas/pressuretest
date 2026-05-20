@@ -1,0 +1,28 @@
+{
+  "ticker": "KSS",
+  "call_date": "2026-03-10",
+  "quarter": 4,
+  "year": 2025,
+  "pressure_score": 3.984274404571871e-17,
+  "cosine_distance": 1.1102230246251565e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.19623844825144568,
+  "baseline_mean": 3.984274404571871e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5981192241257228,
+    "call_mean_answer_length": 179.5,
+    "call_hedge_density": 0.012779941577409934,
+    "call_pos_sentiment_mean": 0.2461418410142263,
+    "call_neu_sentiment_mean": 0.7306922028462092,
+    "call_neg_sentiment_mean": 0.023165950396408636,
+    "call_qa_similarity_mean": 0.35830819186660007,
+    "baseline_neg_sentiment_mean": 0.023165950396408636
+  },
+  "generated_at": "2026-05-20T05:55:21+00:00"
+}

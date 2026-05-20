@@ -1,0 +1,298 @@
+{
+  "ticker": "FSLR",
+  "company_name": "First Solar",
+  "call_date": "2026-04-30",
+  "quarter": 1,
+  "year": 2026,
+  "prepared_remarks": "Earnings Call Transcript\nFirst Solar (FSLR) Q1 2026 Earnings Transcript\nBy\n\nMotley Fool Transcribing\n\n–\n\nApr 30, 2026 at 5:59PM EST\n\n\n\n\nImage source: The Motley Fool.\n\n\nDate\nThursday, April 30, 2026 at 4:30 p.m. ET\nCall participants\nChief Executive Officer — Mark R. Widmar\nChief Financial Officer — Alexander R. Bradley\nTakeaways\nNet sales\n-- $1.0 billion, a record for the first quarter, reflecting 24% growth driven by a 31% increase in module volume, partially offset by a lower average selling price from higher India deliveries.\nGross margin\n-- 47%, expanding six percentage points over 2025, due to higher qualifying Section 45X volumes and reduced freight costs.\nModule production\n-- 4.3 GW total, comprising approximately three GW from U.S. facilities and one GW from international plants, with U.S. facility utilization at about 96%.\nAdjusted EBITDA\n-- $520 million, above the upper end of preview guidance, with a 50% adjusted EBITDA margin.\nNet income and EPS\n-- $347 million in net income and diluted EPS of $3.22, representing a 65% increase.\nBacklog\n-- 47.9 GW contracted at a $14.4 billion aggregate transaction price (excluding technology adjusters), with deliveries scheduled through 2030.\nBookings\n-- Gross bookings of one point seven GW during the quarter (0.9 GW U.S. at $0.34/watt average; 0.8 GW India at $0.20/watt average); gross bookings of one point nine GW since the last call, including 1.4 GW U.S. utility-scale at $0.35/watt average (some at $0.36–$0.37/watt).\nCURE technology launch\n-- Successfully completed at Perrysburg with the first Series 6 ramping as anticipated, enabling up to $600 million potential additional revenue (majority anticipated for 2027 and 2028) via technology adjusters as rollout continues.\nOperating expenses\n-- $141 million, including $67 million R&D, up $15 million, reflecting perovskite and CURE initiatives.\nOperating cash flow\n-- $215 million outflow, significantly down from $608 million prior year due to improved working capital dynamics.\nCash and equivalents\n-- $2.4 billion total, with $2.0 billion net cash, at the high end of the internal target range.\nManufacturing outlook\n-- South Carolina finishing facility remains on track for a 2026 production start; equipment installation underway this quarter and intent to optimize for U.S. content and Section 45X credits.\nInternational operations\n-- Malaysia and Vietnam plants operating at reduced utilization due to trade dynamics and lower ASP expectations; sequentially increased underutilization charges expected for fiscal Q2 ending June 30, 2026.\nFull-year guidance\n-- No change in full-year 2026 outlook; fiscal Q2 guidance of 3.4–four GW volumes sold and $400 million–$500 million adjusted EBITDA.\nRisks\nBradley stated, \"we ran Malaysia and Vietnam at higher utilization rates in the first quarter than we anticipate running in [the] second quarter,\" indicating increased underutilization charges and \"a little bit of headwind in the second quarter because of lower utilization.\"\nContinued booking selectivity in the U.S. market driven by the need to \"await clarity from current policy and regulatory matters,\" especially the outcome of the Section 232 tariff and proposed FEOP rulemaking, which could delay incremental contract wins.\nSummary\nFirst Solar\n\n(\nFSLR\n\n2.24%\n)\nreported record first-quarter sales and margin expansion despite international headwinds, with U.S. manufacturing achieving near full utilization and India volumes contributing significant backlog at lower average price points. The CURE technology launch was completed at the Perrysburg facility, positioning First Solar for continued operational differentiation and potential future revenue gains tied to technology adjusters as fleet-wide deployment progresses. Management reaffirmed unchanged full-year guidance and indicated continued discipline in U.S. bookings ahead of key trade and policy decisions, maintaining a strong balance sheet and strategic emphasis on U.S. and India supply chain independence.\nManagement described U.S. backlog through 2028 as \"substantially committed,\" providing pricing clarity amid booking selectivity.\nWidmar stated that the Section 337 IP investigation, targeting the U.S. TOPCon import market, was instituted by the U.S. ITC in March with determinations expected in 11 to 15 months.\nBradley noted a sequential $22 million reduction in warehouse costs from fiscal Q4 2025, supported by ongoing rationalization initiatives targeting $100 million by 2027.\nIndia accounted for approximately one GW sold at $0.20/watt in the quarter, with management indicating the domestic market offers the \"highest gross margin\" within the company's portfolio (including 45X benefits).\nThe South Carolina finishing facility is expected to process Series 6 modules from international plants and leverage Section 45X for tax credits, with operational start scheduled for 2026.\nNext-generation perovskite technology pilot line is slated for a 2027 launch in Perrysburg, with First Solar planning to validate field performance and durability before broader scale or tandem constructs.\nPolicy outcomes for Section 232 tariffs remain a deciding factor for future Southeast Asian facility utilization, with potential outcomes ranging from full capacity operation to possible shutdown of international module manufacturing.\nWidmar said, \"If Tesla chooses to use a TOPCon product that uses our IP, then we will enter into a commercial conversation with them and happily engage on licensing that IP,\" clarifying the company's patent strategy on TOPCon.\nIndustry glossary\nCdTe (Cadmium Telluride)\n: A thin-film photovoltaic technology utilized by First Solar for high-temperature and humidity solar power generation.\nCURE\n: First Solar's next-generation module technology, designed to improve lifetime energy yield through enhanced bifaciality and durability profiles.\nTOPCon\n: Tunnel Oxide Passivated Contact; advanced crystalline silicon solar cell architecture referenced in relation to patent enforcement and competitive module imports.\nSection 45X\n: U.S. federal tax credit for domestic manufacture of eligible solar and clean energy components, including solar modules.\nALMM\n: Approved List of Models and Manufacturers; an India policy mandating listed models and manufacturers for project eligibility and expected to be expanded with additional domestic content criteria.\nSection 232\n: U.S. trade regulation enabling tariffs on imports (notably steel and aluminum) where national security is a concern, significantly impacting international solar module trade and manufacturing strategy.\nFEOP\n: Foreign Entity of Concern Proposed Rulemaking; a proposed U.S. regulation affecting solar supply chain sourcing and project eligibility for incentives.\nUnderutilization charges\n: Costs recorded due to unused manufacturing capacity when facilities operate below optimal throughput.\nBook-and-bill market\n: Sales model where production is contracted and recognized as revenue as goods are produced and delivered within the same reporting period, prevalent in India for First Solar.\nFull Conference Call Transcript\nThank you, and good afternoon. Beginning on slide four, we delivered a strong start to 2026, with record first quarter revenue, record sales in India, meaningful margin expansion, and adjusted EBITDA above the top end of our first quarter preview range. Since our last earnings call on February 24, we secured gross bookings of 1.9 GW. Excluding domestic India volume, we booked 1.4 GW into our key U.S. utility-scale market at an ASP of approximately $0.35 per watt, inclusive of applicable adjusters. Turning to slide five. Our technology strategy is anchored in the premise that customers value not just nameplate efficiency, but lifetime energy production as well. CURE is central to that strategy. Extensive testing data has validated our expected bifaciality advantage, temperature coefficient, and degradation profile, with CURE anticipated to deliver up to 8% more lifetime specific energy yield than crystalline silicon TOPCon. I am pleased to report that CURE launch is complete in Perrysburg, and the first Series 6 line is ramping consistent with expectations. CURE is scheduled to be replicated across the Series 6 and 7 fleet through 2028 which, if achieved, supports the potential realization of up to $600 million of additional revenue from technology adjusters in the backlog, with the majority anticipated in 2027 and 2028. Turning to slide six. We produced 4.3 GW of modules in the quarter, with approximately 3 GW from our U.S. facilities and 1.3 GW from our international fleet. Our U.S. facilities operated at approximately 96% utilization. The South Carolina finishing facility is on track for production start in 2026, with equipment installation beginning this quarter. Upon completion, this facility is expected to provide finishing capacity for Series 6 modules initiated at our international factories and optimize freight, tariff, and domestic content outcomes, while benefiting from Section 45X module assembly tax credits. Our international facilities in Malaysia and Vietnam continue to operate at a significantly reduced utilization, consistent with current trade dynamics and lower ASP expectations for internationally produced modules. Turning to slide seven. Our competitive position in the United States and India continues to strengthen, underpinned by differentiated technology, a domestic manufacturing footprint and bill of material, and independence from Chinese crystalline silicon supply chains. In the United States, headwinds for crystalline silicon continue to build in our view, including trade remedy enforcement, indications of restrictive FEOP regulations, and the intellectual property litigation actions we have discussed on recent calls. On IP specifically, in March the U.S. International Trade Commission instituted our Section 337 investigation with respondents representing a significant share of TOPCon modules currently imported into the United States. We expect an initial determination within approximately 11 months and a final decision within 15 months. In India, our presence reflects the same strategic logic that underpins our U.S. manufacturing investment:\nenergy security and supply chain independence. The policy framework, including the existing Approved List of Models and Manufacturers, or ALMM, and the anticipated implementation of the ALMM at the cell level, as well as domestic content requirements, currently favors vertically integrated manufacturers such as First Solar, Inc. Near-term demand is supported by both utility-scale and distributed solar applications, including agricultural land developments, where our CdTe technology’s energy yield in hot, humid conditions is a meaningful differentiator. Overall, our differentiated technology, our domestic manufacturing footprint, and our independence from Chinese supply chains are attributes that are increasingly valued by our customers, and we remain well positioned to deliver on our 2026 commitments.\nI will now turn the call over to Alexander to discuss our bookings, financial results, and outlook.\nAlexander R. Bradley:\nBeginning on slide eight, as of 03/31/2026, our contracted backlog was 47.9 GW at an aggregate transaction price of $14.4 billion, exclusive of technology adjusters, with deliveries through 2030. During the first quarter, we sold approximately 3.8 GW, recorded gross bookings of approximately 1.7 GW, and recorded debookings of 0.1 GW. In India, our guidance assumes that production is largely sold domestically in a book-and-bill market at near full capacity. In the first quarter, we sold approximately 1 GW in-country at an average selling price of approximately $0.20 per watt. In the United States, our domestic production is substantially committed through 2028 under existing contracts, resulting in relative pricing clarity through this period.\nWe continue to take a highly selective approach to incremental U.S. bookings as we await clarity from current policy and regulatory matters, in particular, the pending 232 polysilicon derivatives tariff decision and proposed FEOP rulemaking. During the first quarter, our U.S. gross bookings of 0.9 GW were at an average selling price of approximately $0.34 per watt, inclusive of applicable adjusters. With respect to our international fleet, demand for Series 6 modules produced end-to-end in Malaysia and Vietnam remains constrained, which is reflected in the reduced production Mark mentioned earlier. Turning to slide nine. Net sales of $1.0 billion were a record first quarter for the company and grew 24% year-over-year.\nThis was driven by a 31% increase in volume, partially offset by a lower average sales price reflecting a higher proportion of India deliveries. Our gross margin in the first quarter was 47%, and expanded approximately six percentage points as compared to 2025. The drivers were primarily a higher volume of modules qualifying for Section 45X tax benefits, and significantly lower sales freight costs, including lower detention and demurrage. On a per-watt basis, sales freight cost fell to approximately $0.017 per watt, or roughly half of first quarter costs last year. Furthermore, as part of our plan to rationalize approximately $100 million of warehouse costs by 2027, we delivered a $22 million sequential reduction in warehouse costs from Q4 2025.\nOn balance, these savings were partially offset by a lower average sales price due to a higher mix of India sales and an increase in tariff costs year-over-year. Operating expenses for the quarter were $141 million, including R&D of $67 million, up $15 million year-over-year, primarily reflecting perovskite development and ongoing CURE launch work. Adjusted EBITDA was $520 million, above the high end of our first quarter preview range of $400 million to $500 million. Adjusted EBITDA margin was 50%. Net income was $347 million, up 65% year-over-year, with diluted EPS of $3.22. Moving to slide 10.\nWe ended the quarter with $2.4 billion of cash, cash equivalents, restricted cash, and marketable securities, and a net cash position of $2.0 billion, at the high end of our targeted resilient cash range of approximately $1.5 billion to $2.0 billion. Operating cash outflows of $215 million reflected normal first quarter working capital dynamics, a meaningful decrease from outflows of $608 million in 2025. Capital expenditures were $119 million, primarily for our South Carolina finishing facility. We also completed a $45 million scheduled principal payment on our India DFC loan. Turning to slide 11. Our full-year 2026 guidance remains unchanged.\nFor the second quarter, we expect volumes sold between 3.4 and 4.0 GW, and adjusted EBITDA of $400 million to $500 million. In summary, our first quarter performance reaffirmed guidance for the full year and reflects the strength of our strategy of reshoring and scaling domestic manufacturing, progressing our technology roadmap, enforcing our intellectual property, and maintaining a selective approach to new bookings in light of key pending trade and policy determinations. We will now open the call for questions. Operator?\nOperator:\nWe will now begin the",
+  "qa_turns": [
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Brian K. Lee",
+      "text": "Hey, good afternoon. Thanks for taking the questions. Just had two here. First, on the module gross margins, I think it is around 7% in Q1 when we adjust out the 45X even with the high India mix. So curious, the guide for Q2 implies margins are flattish. Why not more improvement given some of the sequential improvement in freight costs, warehousing, etcetera? And then what kind of tailwinds maybe help into Q3 and Q4 for the margins beyond just volume growth? And then on the ASPs, maybe I will just squeeze in the second question here. This could be nitpicking, but on slide eight, you show 900 MW of U.S. bookings at $0.34 in Q1.\nYou mentioned 1.4 GW since the last quarter at $0.35. So it maybe implies recent bookings in March and April are higher at $0.36–$0.37 per watt. Anything to read into that? What kind of customer engagements and discussions are you having here more recently ahead of more policy certainty? Thanks.",
+      "turn_index": 0
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Mark R. Widmar",
+      "text": "I will do the ASP first, Brian, and then Alexander will talk to the gross margin. So the 1.4 is call-to-call, so that is a little bit of a clarification there, which would include a fair half-and-half. So half of that happened after the last call but before the quarter end, and the other half happened after quarter end. And the average ASP for the call-to-call volume of that 1.4 was $0.35. One other note to include in there is that there is about another 700 or so that is an option. We are seeing a lot of M&A activity.\nWhat is great about First Solar, Inc., we have had very strong strategic partnerships with very competent, obviously well-capitalized, partners, and they are actually seeing a lot of development acquisition opportunities. We are actually talking with the team about another deal right now that one of our customers is in the process of acquiring. It is looking for incremental volume to support that acquisition. So what happened was we booked a deal for about 700 MW. Our customer is actually now in the process of looking to acquire another development asset, of which then they would exercise that option, which would have to be exercised here over the next several quarters upon completion of that acquisition.\nSo what I would say is there is still a lot of momentum and activity going on, Brian, from a market standpoint. We are being very disciplined, as we have in the prior quarters, with how we are engaging the market and how we are seeing through pricing. So still good momentum, discipline on our part, trying to realize good ASPs, which I think we did here in the last, call it, eight weeks since the last earnings call.",
+      "turn_index": 1
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Alexander R. Bradley",
+      "text": "Brian, on the gross margin, if you think about India on an aggregate per-watt or dollar-contribution basis, it is certainly lower than the U.S. If you look at where India’s pricing sits on a gross margin percent basis, it is not materially different to the U.S. So despite having a high India mix, on a percentage gross margin basis, not a material impact. If you look at the full-year guide, it was 7%. We have not changed the guide. That still holds, and that is right where we came in ex-IRA benefit in Q1.\nThinking forward, next quarter we are guiding to the same guide that we had in Q1, so it is relatively flat, which implies the second half is going to be stronger. Incremental volume will be beneficial to gross margin. There is a little bit of value on the fixed-cost side. The other piece in terms of the back end of the year is that right now our assumption on tariffs is that Section 122 tariffs carry through 150 days from announcement, which takes us through to the July timeframe. After that, we are not modeling tariffs beyond that for finished goods coming in. There is still other tariff impact in there on the 232.\nThat is the modeling assumption we have today given uncertainty around what could happen. As you are probably aware, the administration has launched several 301 cases with the intent, we believe, to try and replace the 122 with that 301 later in the year. But as of now, I am not modeling that. So the guide has stayed where it is. The guide assumes no tariff replacement back end of the year. That would imply you might get some incremental gross margin; however, if we do see additional tariffs, we will reflect that in a guide later.\nAnd operationally, quarter-on-quarter from a gross margin standpoint, we ran Malaysia and Vietnam at higher utilization rates in the first quarter than we anticipate running in second quarter. So you are going to see more underutilization charges in the second quarter. To your question about sequential gross margin performance, we will see a little bit of headwind in the second quarter because of lower utilization rates for Malaysia and Vietnam.",
+      "turn_index": 2
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question comes from the line of Julien Patrick Dumoulin-Smith from Jefferies. Please go ahead.",
+      "turn_index": 3
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Julien Patrick Dumoulin",
+      "text": "Hey, guys. This is Deshaun here for Julien. I guess two quick ones. Could you quantify the amount of adders on that $0.34 or $0.35 ASP? Is it like $0.02 to $0.03 that you discussed before? And then second, real quick one. How do you think about the Southeast Asian capacity going forward? Thank you.",
+      "turn_index": 4
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Mark R. Widmar",
+      "text": "I will take the adders and Alexander can talk to Southeast Asia. One of the things is now with the launch of CURE, the product we are going to price going forward, given that CURE is being launched, is going to be the technology which we anticipate to deliver in its full entitlement. If you look at the bookings that we reported at 1.4 GW since the last earnings call, half of that volume actually sits out in 2029. So it is encouraging, and we are starting to see more momentum in the outer years, and that is a pure product that we expect to deliver.\nWhen you look at the adder, in some cases the volumes that we are seeing right now, there are no adders because we are pricing the technology; therefore, you will not see an adder to that deal. When you look at the blended average of the adder, the entitlement of the adders is still, call it, $0.03 or so, but half of the volume that we booked did not have adders on it; the other half did. So the blended average of the adder is going to be, call it, a penny and a half or something along those lines.\nAs we move forward, especially now with the launch of CURE, we are pricing the technology we will deliver, and we will price all the energy attributes embedded in the base price. We are still in that transitionary period. You are going to see some contracts that potentially have the combination of two: the base being our current semiconductor, which we refer to as QED, plus an adder. For the windows in which we, for sure, are going to be delivering the CURE product, we will just price it as the contract and you will not necessarily continue to see the adders.\nSo as we transition in that direction, you are probably going to see less volume with adders on it and just full entitlement of the technology being priced.",
+      "turn_index": 5
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Alexander R. Bradley",
+      "text": "As it relates to Malaysia and Vietnam, we talked on our previous call about maintaining an option around that capacity, and we are still doing that. What we are waiting on is policy clarity around the 232, which really could spur potential demand around fully finished international product. If you go back to the original guide, we had $115 million to $155 million of underutilization costs. That was a function both of Malaysia/Vietnam underutilization running at very low capacity through the year as well as some of those costs associated with the new finishing line that we are bringing up. Right now, we are continuing to maintain that near-term option. We will continue to evaluate that.\nLikely, the decision point we are waiting on is around the 232, which we expect most likely to come in Q2.",
+      "turn_index": 6
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question comes from the line of Analyst from Barclays. Please go ahead.",
+      "turn_index": 7
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Analyst",
+      "text": "Good evening. Thank you for taking my question. I actually wanted to know if we should think that there is an impact from the Section 232 changes on steel and aluminum for the Southeast Asian imports. I was under the impression that aluminum might be less than 15% of the weight of a full module, but now that you are going to be importing just the front of the module, how should we think about that? And then I think you also said on the last call that 5 GW of the backlog was international modules. Was the plan just to mostly import that at the beginning of the year, and it tails off at the end of the year?\nIf you could just talk about the cadence of that as well.",
+      "turn_index": 8
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Alexander R. Bradley",
+      "text": "I got the first one. Repeat your second question, and I will make sure I have it.",
+      "turn_index": 9
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Analyst",
+      "text": "",
+      "turn_index": 10
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "My second question",
+      "text": "the 5 GW of the backlog—I thought that was the international portion. Was it not?",
+      "turn_index": 11
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Mark R. Widmar",
+      "text": "Yes, that is about right. I think that is the approximate number. That was entering the year. We had about 5 GW of Series 6 international backlog. Those shipments would go across 2026, 2027, and then into 2028. So that was a multiyear backlog. We will run that production to meet that demand. That portion of the backlog—call it a little bit more than 25%, around 25%—would be for this year. The balance would sit in the outer years as it relates to that. On the 232, yes, aluminum is still included in the tariffs. I think part of your question was as well, what happens with the semi-finished product that comes into the U.S.\nThat will come in; the glass will come in obviously without the aluminum frame. As of now, we will continue to import the aluminum frames into the U.S., and because they continue to be imported, they will be subject to the applicable rates associated with the 232 for aluminum. So yes, 232 is still applicable for aluminum based on the classification of the product we are bringing in, and no real change to that just because we are bringing in a semi-finished product from Malaysia.",
+      "turn_index": 12
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Analyst",
+      "text": "Okay. And then you have been doing a lot of India volumes in this quarter and the full year assumes full utilization. I just saw in one of your disclosures about India there is a proposal to increase the minimum efficiency of PV modules for manufacturers to be included in the ALMM beginning in 2027. Could you talk through what is going on there and what your options are to work around it? I realize that it is still just a proposal.",
+      "turn_index": 13
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Mark R. Widmar",
+      "text": "A couple of things. There is a lot of moving pieces in India, including the requirements by 2028 to have qualification of the wafer being domestically manufactured in India in order to qualify for any projects that actually connect to the federal grid or the state grid. That is moving in and will, I think, further enhance our opportunity to continue to support the India market given a vertically integrated model. As it relates to the consideration for the efficiency threshold, we will be launching CURE beginning of next year in India.\nSo our first Series 6 facility that we will launch in India will be CURE, which will give us an opportunity to improve the efficiency of the technology as well as continue to enhance the energy attributes—better bifaciality, better temperature coefficient, better long-term degradation rate—as we continue to work with MNRE in particular and other parts of the administration, informing and educating them on the value of energy attributes, which is also what our customers pay for: energy, not labeled efficiency. We have a very good and constructive dialogue in that regard. The key enabler to make sure we manage through any potential revisions to those requirements will be the launch of our next-generation CURE technology in India.",
+      "turn_index": 14
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question comes from the line of Analyst from RBC Capital Markets. Please go ahead.",
+      "turn_index": 15
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Analyst",
+      "text": "Thank you. I just wanted to follow up on the earlier question from Jefferies in regards to the Southeast Asia offtake agreement. Can you maybe walk through a bit of the possible decision tree here depending on the tariff outcome or an offtake agreement you are thinking about for that facility, and when would we have a potential decision as to what you all do longer term? Thanks.",
+      "turn_index": 16
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Alexander R. Bradley",
+      "text": "Right now, there is ample demand for the product at a certain price, but when you factor in the tariff implications of bringing that product in, and then the risk allocation around that tariff, it is not necessarily the right risk profile for us to take today. Depending on an outcome of a 232, you could potentially see much higher pricing or risk tolerance from buyers whereby we will be able to more appropriately price that product and more appropriately allocate the risk around changes in tariff policy, which would then enable us to be comfortable long-term contracting that product.\nSo a lot of it depends on availability of supply in the U.S. and where tariff and risk can be allocated. We think the 232 is most likely the main determinant of that. The outcomes there could be: we continue to run that product at full capacity end-to-end and ship fully finished goods into the U.S.; it could be that there is demand and we could add an incremental finishing line in the U.S. and finish that capacity here; or it could be that neither of those occur and then we are into potential shutdown of that capacity. Those are really the pieces we are looking at.",
+      "turn_index": 17
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Mark R. Widmar",
+      "text": "",
+      "turn_index": 18
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "One thing to help remind everyone",
+      "text": "historically, we have had about 7 GW of capacity between Malaysia and Vietnam. Half of that is now going to come to the U.S. to support our South Carolina finishing line—so 3.5 GW. That leaves the other 3 to 3.5 GW. As we indicated on the last earnings call, about half of that 3.5 is largely no longer available because we are moving some of that back-end capacity to the U.S. to support our perovskite pilot line. Our perovskite full-size Series 6 pilot line will be available in 2027, so we lose the back-end capacity. As a result, we are losing some throughput for the facility.\nWhen you really look at how much of the Malaysia/Vietnam facility would be available as fully manufactured, assembled modules to be shipped into the U.S., there is only about, call it, 1.8 GW—maybe closer to 2 GW—of real capacity. So from a full-size finishing module capacity perspective, there is slightly less than 2 GW that is in play, and that would tether back to a 232 decision point.\nAs you think through your analysis, half of the 7 GW is already going to be coming to the U.S. as a semi-finished product; some capacity has been reduced because we are moving the back-end tools to support our perovskite pilot line; and now we are left with slightly less than 2 GW in Malaysia/Vietnam that will be tethered back to whatever decision is made with 232.",
+      "turn_index": 19
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question comes from the line of Philip Shen from Roth Capital Partners. Please go ahead.",
+      "turn_index": 20
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Philip Shen",
+      "text": "Hey, thanks for taking my questions. On the 232, I was wondering if you might be able to share a little bit more color on what the framework of that decision might be. I think we published earlier this week that there could be a minimum import price in the $0.38 per watt level. Does that resonate with you at all? And on your slide number seven, you talked about the timing being Q2. We have seen this push a bunch. It was supposed to be year end 2025, but then the shutdown happened, and a bunch of other reasons have driven this a little bit later.\nAs we are a month into Q2, what is the confidence level that it comes out in May or June? And then on the technology front, Mark, I think you just talked about a full-scale line of perovskite in 2027, which is really interesting. Could you give us a little more color on that—what kind of costs are you seeing? Is that a base CdTe on the bottom cell and then perovskite on the top cell? Any other color in terms of efficiency and durability?",
+      "turn_index": 21
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Mark R. Widmar",
+      "text": "On the 232 framework, there are still a lot of moving pieces. What I can say right now is that the engagement we are having with the administration and the structure of what we are proposing—which again is not a percent; it is basically a cents-per-watt metric on the cell or module, and could include a minimum import price, to your point—the feedback we continue to get is very positive to looking at that as the best way to address polysilicon and its associated derivatives. It is encouraging feedback, but as you know, these things continue to evolve, and we have to stay well connected to continue to advocate for that type of position.\nOn the timing, the feedback we are getting is still a resolution by the end of this quarter. It could move into early Q3 potentially, but it is dependent on other events. The intention is to bring this to a conclusion and communicate an outcome, but, as you know, these things can move. What we represented on the slide is our best information and expectations based on communications around an outcome and communication around 232. On technology, we are currently on a timeline that would have us running a pilot line in 2027 for perovskites. I am not going to get into specific costs.\nThat pilot line, which is a 1 GW pilot line, by definition is not going to be an HVM-type cost entitlement. To get cost out, you need high throughput and scale. For an initial product to get it into the market and to get field validation and customer feedback, we think it is appropriate to do that upon launch. As we continue to evaluate, we will move into scaling, but it is going to be a higher-cost product upon launch. As it relates to the construct—single junction or tandem—we are looking at two different paths and still evaluating the right launch product.",
+      "turn_index": 22
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question comes from the line of Vikram Bagri from Citibank. Please go ahead.",
+      "turn_index": 23
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Vikram Bagri",
+      "text": "Good evening, everyone. My first question, Mark, probably for you. We understand that the market for contracting panels at $0.33 a watt or higher is not as deep, and customers are hesitant in pricing the Section 232 risk as of now. Once it comes out—based on your assumption sometime in late Q2—how quickly can you move to book volumes? Put it another way, how much demand is waiting for Section 232 to come out? What should we look for in bookings immediately after 232 comes out?",
+      "turn_index": 24
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Mark R. Widmar",
+      "text": "There are unknowns. Once it gets communicated, the key will be what the impact is. We have some customers looking at multiple gigawatts of volume, and they are waiting. We have also said to some of those customers that once this gets communicated, depending on the outcome, it could impact the current price at which we are negotiating. The risk we run is that it ends up being lower than anticipated; the risk they run is it ends up being higher than anticipated. There is quite a bit of demand that should provide an opportunity for us to move through and book over a multi-month period. It really depends on the outcome; that is what the current bid-ask relates to.\nWe are trying to create a price point reflective of the midpoint, and we will see what comes out. If we are wrong, we may see a little bit of ASP pressure; if we are right, we may see a little bit of upside relative to that marker we have engaged the market with right now.",
+      "turn_index": 25
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question comes from the line of Analyst from Oppenheimer. Please go ahead.",
+      "turn_index": 26
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Analyst",
+      "text": "Thanks so much. It is a two-part question. First, as you move from Series 6 to Series 7 with CURE, can you talk about the key technical elements that you are working on right now and things that we should be watching for success? And then can you talk about any impact that you are seeing from the incremental domestic capacity that is coming online to some of your pricing negotiations?",
+      "turn_index": 27
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Mark R. Widmar",
+      "text": "From a technical standpoint, Series 6 to Series 7 is not really a significant technical challenge; it is more of a form-factor change. For the Series 7 launch, for the front contact buffer, we are working with our glass suppliers to allow them to deposit within their facility so we will receive glass that includes the revised front contact buffer needed for CURE. That will simplify factory operations versus depositing that layer in-house as we do now for Series 6. There are a couple of new tools because the BCAM process is different for CURE versus our existing product, and those tools need to be seasoned and validated for the larger form factor.\nSo it is less about core technical risk and more about process differences and tool scaling. We are validating now and will replicate as quickly as we can across the fleet once comfortable. On capacity, excluding our fully integrated capacity in Ohio, Alabama, and Louisiana, the new facility in South Carolina is semi-finished product. It is a Series 6 form factor; it does have domestic content but not as much as the product manufactured in Ohio.\nIt creates a nice opportunity to blend for our customers, adding value through domestic content and enabling a broader portfolio of projects to benefit from the domestic content bonus, which is extremely valuable—often $0.15 to $0.20 or more per watt at the project level for the ITC.",
+      "turn_index": 28
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question comes from the line of Praneeth Satish from Wells Fargo. Please go ahead.",
+      "turn_index": 29
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Praneeth Satish",
+      "text": "Good evening. Thanks. With the IPA tariffs repealed and import tariffs on India-produced modules down to 15%, how are you thinking about selling the India capacity into the U.S. versus selling it in the Indian market? Is that something you are still considering, maybe if we get a positive 232 outcome? And to the extent that you are, what is the lead time and retooling cost required to enable that? And then just a quick housekeeping question on the 1.7 GW of bookings this quarter. Are you able to break out roughly how much of that is from U.S. capacity versus international? Thanks.",
+      "turn_index": 30
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Mark R. Widmar",
+      "text": "Right now, there is a lot of demand in India. We just sold 1 GW last quarter, and if you look at the actual gross margin on that product, effectively it is the highest gross margin that we have, including the benefits of 45X. So the gross margin, on a percentage basis, is attractive. The changeover from fixed-tilt to tracker is not efficient, even though we try to optimize it. We are looking at this through a lens of keeping that product running given demand, at least through the first half of the year. Q3 we see a little bit of softness in India, and then a stronger Q4.\nThere may be a little bit of volume in Q3—tens to low hundreds of megawatts—of WIP share product from India brought into the U.S. and finished here, and we are doing some of that in the first half to help enable U.S. demand. The challenge is the 122s expire in July, and we do not know what happens with the 301s, so until we have a better understanding of the long-term tariff environment after the 150-day window from January, we will focus on a market with very strong demand and continue to support it.",
+      "turn_index": 31
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Alexander R. Bradley",
+      "text": "Praneeth, on the housekeeping question, of the 1.7 GW, 0.9 GW was U.S. and 0.8 GW was India bookings.",
+      "turn_index": 32
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question comes from the line of Analyst from Mizuho. Your line is open. Please go ahead.",
+      "turn_index": 33
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Analyst",
+      "text": "Hey, thanks for the questions. Just one housekeeping on the first half versus the second half cadence. If I look at EBITDA versus the volumes, it looks like EBITDA is 36% in the first half, but 44% of the volumes. Is that because India shipping is higher in the first half, or is it SG&A skewing the EBITDA in the first half/second half?",
+      "turn_index": 34
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Alexander R. Bradley",
+      "text": "It is mostly driven by India volumes. As Mark said, we had a strong Q1 for India. It will drop down in Q2 and Q3, and potentially pick back up in Q4. The guide assumes that imbalance, which is why you are seeing that.",
+      "turn_index": 35
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Analyst",
+      "text": "Got it. Thank you.",
+      "turn_index": 36
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question comes from the line of Joseph Osha from Guggenheim Securities. Please go ahead.",
+      "turn_index": 37
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Joseph Osha",
+      "text": "Hi. Thank you. I am still trying to understand the composition of 3.5 GW in South Carolina. Is perovskite part of that, and are you saying that no matter what happens, you are going to run 1 GW and change it through a fixed route there, and the rest is optional? I am trying to put together where this 3.5 comes from. Thank you.",
+      "turn_index": 38
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Mark R. Widmar",
+      "text": "Thanks for the question, Joseph. The 3.5 GW in South Carolina is our CURE Series 6 product and has nothing to do with perovskite. Think about it as the substrate glass with deposition on it with cell scribing, then shipped to the U.S. to be finished, which will include the cover glass, junction box, frame, interlayer, and all other components. That is CdTe product. In addition, we will be launching a perovskite pilot line next year. We announced we acquired IP from Oxford PV for perovskites, which enhances the IP we already have. That pilot line will have up to 1 GW of capacity and will be in our Perrysburg facility, leveraging existing space and some back-end processing capabilities there.\nSo South Carolina will be CdTe product started in Vietnam/Malaysia and finished in South Carolina.",
+      "turn_index": 39
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Alexander R. Bradley",
+      "text": "",
+      "turn_index": 40
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Maybe part of the confusion",
+      "text": "of the original 7 GW capacity in Malaysia/Vietnam, 3.5 GW will be used for the front end of the product that then comes to be finished in South Carolina. The remaining 3.5 GW—some of those back-end tools will go into the perovskite line in Perrysburg. That is why the remaining CdTe capacity in Southeast Asia comes down. It is not mixing CdTe and perovskite; it is that some back-end tools will no longer be used there and will be used in that 1 GW pilot line for perovskite.",
+      "turn_index": 41
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our final question comes from the line of Ben Kallo from Baird. Please go ahead.",
+      "turn_index": 42
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Ben Kallo",
+      "text": "Hey, guys. I just have a follow-up question, and then another one. Just to Joe’s question, after all that is done—because I think, Mark, you said that you lose some capacity in Vietnam and Malaysia—I want to make sure we have the volume number correct as we enter next year. And then my follow-up question is on TOPCon and your patent and what Tesla is doing. How do you think about them starting manufacturing here and if that is going to violate your patent? Thank you.",
+      "turn_index": 43
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Alexander R. Bradley",
+      "text": "If you go back to the deck that we presented in February, we gave capacity and production for 2026–2027, and the assumptions have not changed. On a production basis, we said 2027 would be around 19 to 20.5 GW, with $19.7 billion as the midpoint production—those numbers and the geographical breakout are unchanged from that deck.",
+      "turn_index": 44
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Mark R. Widmar",
+      "text": "",
+      "turn_index": 45
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "On Tesla and our TOPCon patent",
+      "text": "what we know is that TOPCon products, as reflected by our filings and the number of manufacturers who have produced TOPCon and sold it into the U.S., have been infringing on our IP. If Tesla chooses to go with TOPCon, my assessment, given what I see in the market, is that unless Tesla redesigns the product such that they would not infringe on our IP, there would be some form of infringement. We are more than willing to work with any counterparty to engage in a commercial conversation around the licensing of our IP. We are not prohibiting that conversation. We just want to be paid fair value.\nThat is why we licensed the IP to Trina; Trina is demonstrating willingness to pay fair value for the technology enabling the product they will manufacture. We will do that with other counterparties. If Tesla chooses to use a TOPCon product that uses our IP, then we will enter into a commercial conversation with them and happily engage on licensing that IP. Tesla establishing capability here in the U.S. market—we have always said we need a robust and resilient domestic supply chain, completely vertically integrated, beyond just thin film CdTe; it is also why we are evolving toward perovskite as next-generation thin film.\nTesla bringing in that capacity and capability and creating a domestic supply chain enhances and supports the overall strategic intent around long-term energy independence and national security.",
+      "turn_index": 46
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "At this time, there are no further questions. This concludes today’s call. Thank you all for attending. You may now disconnect.",
+      "turn_index": 47
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "MPC",
+  "call_date": "2026-05-05",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": -7.79123158783581e-17,
+  "cosine_distance": -2.220446049250313e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.1696195891911529,
+  "baseline_mean": -7.79123158783581e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5848097945955765,
+    "call_mean_answer_length": 179.72727272727272,
+    "call_hedge_density": 0.015407120168756411,
+    "call_pos_sentiment_mean": 0.26653407446362753,
+    "call_neu_sentiment_mean": 0.7155445624481548,
+    "call_neg_sentiment_mean": 0.017921360040252857,
+    "call_qa_similarity_mean": 0.45751323436148694,
+    "baseline_neg_sentiment_mean": 0.017921360040252857
+  },
+  "generated_at": "2026-05-20T06:12:31+00:00"
+}

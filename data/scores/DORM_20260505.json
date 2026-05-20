@@ -1,0 +1,28 @@
+{
+  "ticker": "DORM",
+  "call_date": "2026-05-05",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.031713853006209394,
+  "cosine_distance": 0.08006015760056151,
+  "sentiment_shift": 0.022553689789492626,
+  "question_difficulty_mean": 0.11164400241943928,
+  "baseline_mean": 0.024110341387939643,
+  "baseline_std": 0.006651217128033868,
+  "z_score": 1.1431759739464988,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5558220012097197,
+    "call_mean_answer_length": 141.1,
+    "call_hedge_density": 0.016343706328198156,
+    "call_pos_sentiment_mean": 0.42509694434702394,
+    "call_neu_sentiment_mean": 0.5228117637336254,
+    "call_neg_sentiment_mean": 0.052091294154524806,
+    "call_qa_similarity_mean": 0.5556417854444919,
+    "baseline_neg_sentiment_mean": 0.07464498394401743
+  },
+  "generated_at": "2026-05-20T05:14:52+00:00"
+}

@@ -1,0 +1,376 @@
+{
+  "ticker": "TMUS",
+  "company_name": "T Mobile",
+  "call_date": "2026-04-28",
+  "quarter": 1,
+  "year": 2026,
+  "prepared_remarks": "Earnings Call Transcript\nT-Mobile (TMUS) Q1 2026 Earnings Transcript\nBy\n\nMotley Fool Transcribing\n\n–\n\nApr 28, 2026 at 6:10PM EST\n\n\n\n\nImage source: The Motley Fool.\n\n\nDATE\nTuesday, April 28, 2026 at 4:30 p.m. ET\nCALL PARTICIPANTS\nChief Executive Officer — Srinivasan Gopalan\nChief Financial Officer — Peter Osvaldik\nPresident, Marketing, Strategy, and Products — Mike Katz\nPresident, Consumer Group — André Almeida\nEVP, Chief Technology Officer — John Saw\nInvestor Relations — Quan Yao\nNeed a quote from a Motley Fool analyst? Email\n[email protected]\nTAKEAWAYS\nNet Promoter Score (NPS)\n-- Reached 45, over 20% above the next closest competitor, signaling increased customer satisfaction and market differentiation.\nPostpaid Net Account Additions\n-- 217,000, representing 6% growth year over year, with gains across top 100 cities, smaller markets, and rural areas where household share stands at 24%.\nBroadband Net Additions\n-- Exceeded 500,000, making T-Mobile US, Inc. the fastest-growing ISP in the U.S., with acceleration in 5G broadband net adds year over year.\nPostpaid Average Revenue per Account (ARPA) Growth\n-- Increased 3.9% year over year, attributed to deeper customer relationships, premium mix, and rate plan optimization.\nPostpaid Service Revenue\n-- Grew 15% year over year; total service revenue rose 11%, more than four times the next closest competitor's rate.\nCore Adjusted EBITDA\n-- Increased 12% year over year, with free cash flow margin of 24%, described as industry-leading.\nShareholder Returns\n-- $6 billion returned in dividends and buybacks during the quarter; stockholder return authorization increased by $3.6 billion to $18.2 billion.\n2026 Guidance Updates\n-- Raised full-year postpaid net account additions to 950,000–1.05 million; full-year core adjusted EBITDA to $37.1–$37.5 billion; adjusted free cash flow to $18.1–$18.7 billion; Q2 core adjusted EBITDA guidance set at $9.4 billion.\n5G Network Leadership\n-- Management highlighted nationwide 5G Advanced rollout, enabling lead in broadband speeds (over 50% faster than the next competitor) and supporting new AI applications and physical AI partnerships (e.g., Figure AI).\nFiber Expansion\n-- Announced two new joint ventures to acquire GoNetSpeed, Greenlight Networks, and i3 Broadband as part of a capital-efficient fiber strategy, aiming for double-digit IRRs on these assets.\nAI-Powered Efficiencies\n-- Chatbot adoption achieving 60% containment of customer questions; emphasized ongoing progress toward $2.7 billion in cost synergies targeted for exit 2027.\nBusiness Segment Innovation\n-- Launched \"Super Broadband\" that aggregates 5G FWA and Starlink for business continuity and nationwide coverage under a single management platform.\nCustomer Digital Engagement\n-- T-LIFE app has 25 million monthly active users; experience stores showing higher premium mix and NPS than traditional formats, supporting a retail footprint transition.\nSUMMARY\nT-Mobile US, Inc.\n\n(\nTMUS\n\n+1.28%\n)\nmanagement reported record differentiation in network quality and customer experience, advancing NPS to a new high and securing above-industry net account and broadband adds. Shareholder capital return was further increased, and 2026 guidance for growth, earnings, and free cash flow was raised, reflecting continued business momentum. Notable strategic moves included the entry into additional fiber joint ventures and the integration of AI into both customer engagement and network operations. Partnerships to enable edge computing and physical AI solutions on the 5G Advanced network mark early positioning in emerging connectivity verticals.\nChief Executive Officer Gopalan stated, \"Our postpaid service revenue grew 15% year over year. Total service revenue grew 11%, a rate that is more than four times that of our next closest competitor.\"\nChief Financial Officer Osvaldik confirmed the company's capital allocation philosophy remains focused on core business investment and disciplined shareholder returns rather than announcing specific buyback pacing.\nThe company expects churn patterns to remain consistent with historical trends, with broadband and new customers contributing more to account churn due to structural factors, not customer dissatisfaction.\nU.S. Cellular integration is on track, with migration efforts to be largely completed during 2026 and network advantages reinforced in rural/smaller markets.\nManagement explained that organic versus inorganic ARPA disclosure has become impractical due to customer expansions post-acquisition and blended product adoption patterns.\nDuring the call, it was clarified that pricing power is expressed through ARPA growth rather than targeting parity with competitors’ ARPU, prioritizing a “best value” position alongside network leadership.\nThe \"Super Broadband\" launch leverages integration with Starlink for nationwide business connectivity, positioned exclusively for B2B rather than consumer use.\nINDUSTRY GLOSSARY\nNPS (Net Promoter Score)\n: Quantitative measure of customer loyalty and brand advocacy relative to competitors, based on surveyed likelihood to recommend.\nARPA (Average Revenue per Account)\n: Average billed service revenue per customer account, reflecting value of customer relationships.\nFixed Wireless Access (FWA)\n: Wireless broadband delivery via 5G or LTE, offering internet service to fixed locations as an alternative to wired connections.\n5G Advanced\n: Enhanced generation of 5G technology supporting higher spectral efficiency, capacity, and features tailored for emerging AI/edge applications.\nJV (Joint Venture)\n: A partnership structure among firms for co-investment and operational collaboration in specific assets or markets.\nEdge Inferencing\n: Performing AI model computations on data at network edge sites (closer to end users) rather than centralized data centers, reducing latency for emerging applications.\nFull Conference Call Transcript\nSrinivasan Gopalan:\nThanks, Quan, and good afternoon, everyone. We are here in Bellevue today ready to discuss another extraordinary quarter for T-Mobile US, Inc. This quarter is a powerful demonstration that the strategy we outlined for you in February is working. Our strategy is driven by widening differentiation, providing customers with the best network, best value, and best experience all in the same place, so that they do not need to make trade-offs anymore. We made strong progress on this strategy this quarter, and nothing demonstrates this more succinctly than our NPS score, an industry-leading 45, over 20% higher than that of our next closest competitor.\nThis widening differentiation gives us access to unprecedented growth opportunities, and our industry-leading growth this quarter is a testament to this. One of the largest of these growth opportunities is the 20 million plus families and businesses who are network seekers not currently with T-Mobile US, Inc. This is an opportunity with a lot of runway and one where we are making great progress. In fact, this quarter, amongst recent switchers who chose to come to T-Mobile US, Inc. from another carrier, the highest percentage ever said they chose us for one reason: network quality. Similarly, across multiple third-party surveys like HarrisX, and from the analyst community, we have seen a strong improvement in the perception of our network.\nThat is what has led us once again to grow share of postpaid households in each of our cohorts, in the top 100 cities, in smaller markets, and in rural areas where we have only 24% share of households. We continue to accelerate and capture more switching share with word of mouth driving strong momentum. In addition to our tremendous momentum in consumer across network seekers and other underpenetrated cohorts, our low share in T-Mobile US, Inc. for Business also continues to give us substantial growth runway. This quarter, we continued to capture share with our network-superiority-led value proposition in T-Mobile US, Inc. for Business.\nOur industry-leading nationwide 5G Advanced network continues to allow us to drive TAM creation with advanced network solutions and to leverage that as a thoughtful cross-sell opportunity into traditional voice and broadband offerings. One example of our innovation in action is Major League Baseball’s recent rollout of our automated ball-strike system, which uses the T-Mobile US, Inc. network to allow challenges to umpires’ calls. Let us now turn to broadband. For yet another quarter, we were the fastest-growing ISP in America, adding over half a million total broadband net additions with 5G broadband net adds accelerating year over year. 5G broadband continues to lead the industry in terms of customer experience, topping J.D.\nPower, Forbes, CNET, Consumer Reports, and OpenSignal, just to name a few. Our 5G broadband speeds also continue to lead the peer group at over 50% faster than the next closest competitor. Fiber is tracking great, leveraging the T-Mobile US, Inc. brand to draw strong interest, and I am excited about our announcement earlier today that we are entering into two additional JVs with leading infrastructure partners to acquire GoNetSpeed, Greenlight Networks, and i3 Broadband, as part of our returns-focused, capital-efficient approach. Every piece of the business I have talked about so far helped drive our tremendous postpaid net account additions of 217 thousand in Q1, which was up 6% year over year.\nBut in addition to volume growth, as I said in February, we also have a double-digit advantage in back-book pricing over our leading competitors. That translated to really strong postpaid ARPA growth in Q1 of 3.9%, a powerful proof point that our unique and durable value proposition is resonating as we deepen relationships with customers. T‑Ads and financial services—smart and thoughtful adjacencies that piggyback off the success and scale of our brand and ecosystem—are also delivering strong incremental growth. Now, even as we capitalize on our differentiation to drive growth, we consciously double down on the sources of this differentiation across best network, best value, and best customer experiences. Let us start with the network.\nWe are continuing to push the envelope of what is possible. We are excited to be rolling out Live Translation in beta soon, our first network-native AI application that we demoed for you at our February event. Live Translation uses language learning models embedded into our core and translates your voice into one of 80 different languages anywhere in the world. All you need is just one connected T-Mobile US, Inc. phone. Importantly, this is just the initial step in us building AI capabilities directly into our network core. Longer term, we see a world where our network becomes the connective tissue for physical AI and accommodates inferencing at the edge.\nAs a step towards this, we are delighted to share today that we are connecting our 5G Advanced network to Figure AI’s F3 humanoid robots, enabling seamless and reliable connectivity from the moment they power on. This partnership will allow us to explore how the T-Mobile US, Inc. 5G Advanced network and its capabilities, including assets like the Network Edge, can support the broader evolution of physical AI. This is an important stepping stone towards building an even more capable network of the future with 6G.\nOn value leadership, which we guard zealously, we further strengthened our credentials with the rollout of our Better Value Plan earlier this year, which offers access to our premium wireless experience to even more customers at a great value. Our other key differentiator is our customer experience. T‑LIFE is continuing to drive digital interactions, with about 25 million monthly active users engaging with the app multiple times a month. T‑LIFE will also serve as the unified platform to support growth into considered adjacencies like financial services and advertising. In retail, we are well underway in our journey towards more experience stores, with several hundred already up and running.\nOur experience stores see higher premium mix and higher NPS scores than our traditional outlets. Over time, our mix shift will lead to fewer doors but also more meaningful customer experiences. So even as our differentiation drives industry-leading growth, we continue to feed and stoke it so that the gap to competition only widens further. Pulling all this together, this is what drives the industry-leading financial growth we have delivered yet again across all key metrics in Q1. Our postpaid service revenue grew 15% year over year. Total service revenue grew 11%, a rate that is more than four times that of our next closest competitor.\nOur core adjusted EBITDA also grew an industry-leading 12% year over year, all of this while continuing to deliver industry-leading free cash flow margins of 24%. Alongside this incredible financial growth, we returned $6 billion to shareholders in the form of dividends and share buybacks. I will end by saying our results speak for themselves. The unique differentiation we have as the Un‑carrier continues to lead to best-in-class results. Just look at our NPS score. The best part of all of this is this team’s hunger, and the incredible passion our people have to truly delight customers means we are only at the beginning. Okay, Peter, over to you, to provide an exciting update on our guidance.\nOperator:\nThanks, Srini.\nPeter Osvaldik:\nAs you can see, our growing differentiation not only drove a strong start to the year, but also gives us the confidence to increase our guidance across multiple fronts. Starting with accounts, we are raising our expectation for total postpaid net account additions to be between 950 thousand and 1.05 million on the strength of the underlying momentum in the business. Turning to service revenues, we continue to expect to deliver full-year service revenue of approximately $77 billion, representing 8% growth, with Q2 expectations of approximately $19 billion, up 9% year over year. As part of that service revenue growth, we continue to expect strong postpaid ARPA growth of between 2.5%–3% for the full year.\nWe are also raising our full-year core adjusted EBITDA guide, which is now expected to be between $37.1 billion and $37.5 billion, an increase of $100 million at the lower end of the range. As part of that, we expect Q2 core adjusted EBITDA of approximately $9.4 billion, up 10% year over year. Our expectation for full-year 2026 cash CapEx remains unchanged at approximately $10 billion as we continue to invest to further differentiate the network. And we now expect adjusted free cash flow to be between $18.1 billion and $18.7 billion for the full year, also an increase of $100 million at the lower end of the range.\nAnd finally, last week we announced we are increasing our 2026 stockholder return authorization by up to $3.6 billion to a total authorization of up to $18.2 billion. And as always, we will continue to follow our disciplined capital allocation. To sum it all up, we continue to see strong momentum in the business and could not be more excited for the future. With that, I will now turn the call back to Quan to begin the Q&A.\nQuan Yao:\nThanks, Peter. We will now",
+  "qa_turns": [
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "The first question today comes from Craig Moffett with MoffettNathanson. Please go ahead.",
+      "turn_index": 0
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Craig Moffett",
+      "text": "Hi. Thank you. Let me start with the reports that you are considering a merger with Deutsche Telekom. Can you talk about the logic behind that as well as the logistics? Would that require a vote of the majority of the minority among board members as independents and exactly how would that work, and would there be any premium for U.S. shareholders?",
+      "turn_index": 1
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Srinivasan Gopalan",
+      "text": "Thanks, Craig. Let me pick that up. As a matter of policy, we do not comment on market rumors or speculation, nor is there anything specific to comment on anyway. However, the article has raised a lot of questions inbound on governance. We have looked into the governance, and what I have been told is hypothetically, if someone were to ever consider such a transaction reported in the article, that would specifically require a separate approval process by disinterested shareholders, what many of you refer to as majority of the minority. Thanks, Craig.",
+      "turn_index": 2
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Craig Moffett",
+      "text": "That is very helpful. Thank you.",
+      "turn_index": 3
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "The next question comes from Samuel McHugh with BNP. Please go ahead.",
+      "turn_index": 4
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Samuel McHugh",
+      "text": "Yes. Good afternoon, guys. On the fiber JVs you announced today, I just wonder if you have seen much movement in kind of a bid-ask spread on fiber assets as we have started to see maybe fiber ARPUs come under pressure. I do not know if some of the commentary around broadband growth and pricing impacts your appetite for more fiber JVs going forward. Thanks.",
+      "turn_index": 5
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Srinivasan Gopalan",
+      "text": "Thanks, Sam. And as you well know, and as I have read in all of your stamp surveys, the reason we are doing fiber is much more because we see an equity value creation opportunity rather than the myth of convergence. And that sort of drives the way we think about these assets. When you think about things like bid-ask spread or multiples or compression and the rest, each of these assets is a unique case. The way we think about it is: do we believe that this asset has a strong likelihood of giving us our target IRRs? And those are in the double-digit level.\nWe look at each of these very, very specifically because, as all of you know, each of these assets operates in a specific geography, operates in a specific competitive environment, in a specific pricing environment. So it is really hard to give you an overall sense of “are bid-ask spreads changing, are multiples compressing, what is happening with pricing,” etc. What we know so far is our fiber JVs, the ones we have launched so far, are well on track. They are delivering exactly what we expected. The lift from the T-Mobile US, Inc. brand and our distribution is completely in line with our expectations.\nAnd on the new JVs that we have done, we are very confident of our double-digit IRRs. That is the criteria we will use going forward as well. There is no magic number we are chasing on homes passed, because I could put fiber on the street and claim multiple homes passed. We are looking for places where we can create true equity value, and that will drive whether we have appetite for cases that create true equity value and that tick the box for us in terms of being an opportunity that is monetarily sound. Yes. Are we going to chase a homes-passed number? Absolutely not.",
+      "turn_index": 6
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Quan Yao",
+      "text": "Thank you. Operator, next question, please.",
+      "turn_index": 7
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "The next question comes from Analyst with Morgan Stanley. Please go ahead. Sean, your line is open. You may ask your question.",
+      "turn_index": 8
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Quan Yao",
+      "text": "Let us move on to the next one.",
+      "turn_index": 9
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "The next question comes from John Hodulik with UBS. Please go ahead.",
+      "turn_index": 10
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "John Hodulik",
+      "text": "Great. Thank you. Srini, could you comment on the competition you are seeing in the postpaid market? I think both of your competitors have talked about less handset subsidies going forward, and I think Verizon pointed to what they saw as a less competitive market as they look out. So any thoughts on that side? And then on broadband, the greater than 500,000 was a great number and sounds like you have some real strength in fixed wireless. How does the runway look there? Do you expect similar growth this year as we saw last year? And any issues constraining the network in terms of your ability to grow that? Thanks.",
+      "turn_index": 11
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Srinivasan Gopalan",
+      "text": "Thanks for that question, John. First, on competition and the broader way we think about competing in this market. I think sometimes we tend to over-rotate on promotions and specific subs and how all of that is playing out. In the end, the direction of flow gets driven by differentiation. This is where our unique position of best network, best value, best experience—and therefore no trade-offs for the customer—really drives traffic in our direction. That is what drove not just the 6% growth in accounts year on year, but also the near 4% growth in ARPA. That is the fundamental way we think of competing.\nAll of that happened in a quarter where I would say January was particularly competitive and particularly heavy in one-dimensional competition based on subsidies. I think February and March and going into April, we have seen some cooling down of that environment. But throughout the quarter, we focused very much on what differentiates us, and that differentiator is a much broader set of things than purely subsidy. You saw a lot of our advertising—it was about savings you make every day rather than savings you simply make at the point you get a phone. It was about our network. It was about that more rounded, broad proposition. Then we decide how hard and heavy we go based on CLVs.\nThat ultimately is the test of how much volume we want in any quarter in the context of our overall guidance. That should give you some sense of the competitive dynamic. But Mike, I do not know if you wanted to add anything specific on the subsidy section.",
+      "turn_index": 12
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Mike Katz",
+      "text": "Yes. No. I think you have got it exactly right, Srini. The way that we think about this is we are providing customers the most important technology in their lives that they use every single day. So how—through both best network, best experience, and best value—can we prove that to customers every single day, not once every thousand days when they are replacing their phone? That is where you have really seen us focus, having a great overall value message for our customers where they can save more with T-Mobile US, Inc. than anywhere else.\nIn fact, 3.8 thousand T-Mobile US, Inc. customers save relative to competitors over the last five years, and they can get a suite of benefits that they only get because they are with T-Mobile US, Inc. These are benefits that really matter; they are not throwaway benefits—free Netflix subscription, etc. I think the results that you saw in Q4 as well as in Q1 really demonstrate that is important to customers, and that is why they are choosing us at the rate that they are.",
+      "turn_index": 13
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Srinivasan Gopalan",
+      "text": "Thanks, Mike. On your question on broadband, let me just touch on the big picture, and André, it would be great if you can talk about some of the stats we are seeing in terms of many more users and usage. We are very confident on the runway on fixed wireless access. Just to give you a sense of this, we said we would get to 15 million customers by 2030 a couple of months ago. How do we get to that 15 million? We basically divide the country into almost 36 million hex-bands, order of magnitude, and we look at a hex-band level. We forecast the level of wireless traffic, and what is left is really fallow capacity.\nThen we subject that fallow capacity to saying, yes, we have that fallow capacity, but let us put a reasonable market share on how much we can get to in fixed wireless access. Then we commit to a number. That calculation we did for 2030, remember, assumes we buy no further spectrum, does not assume 6G, and does not assume any further spectral efficiency improvement. That is the basis on which we got to the 15 million and we are tracking strong to that, and this quarter was another demonstration of it. So we feel very good about it. But, André?\nAndré Almeida:\nAs Srini said, I think, one, we are very confident about the 2030 number. And I think one of the reasons that makes us very comfortable is what we are seeing today in reality. So not just the outstanding commercial performance we have had for many quarters in a row, but also the fact that all the leading indicators in terms of capacity and customer satisfaction continue to go up. We continue to increase our NPS. The average speeds our customers have on our product continue to go up quarter over quarter. The new routers we just launched, as mentioned in February, have even higher speed than the existing routers.\nAll of this we have done while increasing 80% the number of customers we have on the network in three years. As Srini said, we plan very carefully. We have a very detailed plan for the next four to five years in terms of the capacity of the business and beyond that time frame to make sure that this is completely sustainable long term. We are seeing it come through every day, every quarter for our customers. So very, very confident on the runway we have.",
+      "turn_index": 14
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Quan Yao",
+      "text": "Thanks, John. Operator, let us go with the next one.",
+      "turn_index": 15
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "The next question comes from Michael Rollins with Citi. Please go ahead.",
+      "turn_index": 16
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Michael Rollins",
+      "text": "Thanks, and good afternoon. Two topics, please. The first one is I was curious if you can unpack the contributors to the ARPA growth of about 4% year over year in terms of price actions, up-tiering, lines per account, the broadband update—just some color on what you are seeing there. And then second, was just curious if you can share what was happening with the postpaid account churn on a year-over-year basis and, given the comments you were just describing competitively, is that something that actually started to get better maybe through the quarter and into the second quarter?",
+      "turn_index": 17
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Srinivasan Gopalan",
+      "text": "Great. Thanks, Michael. Let me pick up the postpaid account churn piece, and I will hand off to Peter for the ARPA piece. Postpaid account churn is doing exactly what we expected. When you look at the underlying postpaid phone churn, that was pretty stable; it was up about 3 bps. Now, there are two things that are worth explaining given this is the first time we are reporting this metric: one, why is account churn higher than line churn; and two, why has account churn gone up more than line churn. The simple answer is basically math. There are two groups of customers who churn more than the average. One is new customers, and the second is broadband-only customers.\nThe reality is the weighting of these customers in accounts is higher than the weighting in lines. That is obvious when you look at broadband-only customers. But also with newer customers, we just have not had enough time to grow that relationship, so the lines per account with newer customers tend to be less. So the two groups that churn quicker than the average have a higher weighting in accounts than they do in lines. That is why account churn is higher than line churn. Why has it increased more than line churn? Again, it is pure math.\nIt is simply that our fastest-growing business by long distance is broadband, which structurally, and we have talked about this before, has higher churn than wireless. So it is really math that explains the postpaid account churn. Line churn looks great. We are really happy with where we are. Account churn is doing exactly what we thought it would do. Peter?",
+      "turn_index": 18
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Peter Osvaldik",
+      "text": "Yes, probably just to add to that, I think one of your questions, Michael, was did it get better in March? Well, I think you have heard some of our competitors kind of cherry pick the “well, March is better than December.” Well, that is every single year. So yes, of course we saw churn improvement in March. And the last week was even better. Absolutely. In terms of ARPA growth, it was all the above—and that is the beauty of this model. Certainly, if you recall back last year, we did a round of rate plan optimizations that impacted particularly Q2 of last year.\nSo you see a little bit of year-over-year impact on the comparatives in Q1 of this year from that. But it is also continually deepening the relationships—an increase in lines per account—and that is across all product categories. The continued success that we are having with rate plan self-selection up the tiers continues to be that over 60% of new account lines are on our premium tier rate plans. Value-add service attach. So it is really every element of the equation that we have been talking about before that is driving the ARPA increase.\nQ2 will be a little bit different because Q1 did not have the impact of the rate plan optimizations, but continually, for the full year, we are seeing strength of 2.5% to 3% growth. Remember, that includes the anticipated dilutive impacts of U.S. Cellular and the acquisitions of MetroNet and Lumos. So the underlying organic growth of ARPA is even stronger than that 2.5% to 3%.",
+      "turn_index": 19
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Quan Yao",
+      "text": "Thanks, Michael. We are going to try Sean Diffely again in the queue. Sean, are you on this time?",
+      "turn_index": 20
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Analyst",
+      "text": "Can you guys hear me? Hi, sorry for the delay. Thank you very much. I was hoping you could further elaborate on the inference-at-the-edge opportunity you referenced. I think you said you signed a Figure AI deal. Maybe just flesh out why T-Mobile US, Inc. is better positioned than peers to capture this. Is it your network architecture, AI RAN, your spectrum position? And how should we think about the business model? Is this something where you would have to buy GPUs? And how big could this revenue opportunity be?",
+      "turn_index": 21
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Srinivasan Gopalan",
+      "text": "Yes. Let me deal with the second part of the question, and then I will hand over to Dr. John Saw. We might be here for a while—certainly. On the “do we need to buy GPUs,” etc.: we are already introducing large amounts of AI into our network. As we move closer towards AI RAN—in fact, during things like Winter Storm Fend—you saw AI in our network being a big reason why things like antenna tilt being done automatically and optimizing our network—a self-healing network in many ways—is not science fiction. It is reality. It is the way our network runs every day.\nAs we do more and more AI in our network, as we build for more and more AI in our network, we will be building compute into our network. Just as in FWA we have the concept of fallow capacity, as we build more AI into our network, we will generate a bunch of fallow compute, especially at the edge. Fallow compute plus low latency creates an incredible opportunity. If you are thinking of scale automation, it is impossible to do that without low latency—just think of robots running into each other, or even worse, someone trying to do remote heart surgery without low latency.\nLow latency has to be essential to any form of robotics or automation that you do. So the combination of low latency as well as fallow compute is what makes us excited about the opportunity. It is too early to size TAM—it depends on who you are listening to at any point in time—but all estimates of this market are very large. John, you want to talk about architecture and how we are different?",
+      "turn_index": 22
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "John Saw",
+      "text": "Sure. We are highly optimistic with the prospects of physical AI because when intelligence moves into the real world, you will start seeing a shift from generative AI to physical AI. When objects move that have built-in intelligence, we believe that we have a big role to play. We are more than prepared to take this on, and we saw this coming a while back. The big advantage we have is our 5G Advanced network that we have built, and we are the only ones that have rolled out 5G Advanced nationwide.\nWith that, we have a bunch of innovations that we have developed with 5G Advanced to increase spectral efficiencies and capacity, especially for the uplink, which is really needed for physical AI—things like uplink transmit switching, higher transmit power, and uplink MIMO. This is why the latest iPhones and the latest Samsung phones actually perform best on our network. We did not build a 5G Advanced network just for faster phones. We actually built it for physical AI and with an eye to the future. Now that we have a 5G Advanced network, we can take on the extra capabilities that are needed to support edge inferencing for physical AI better than anybody else.\nWe believe that we have a multiyear advantage over the competition for this.",
+      "turn_index": 23
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Srinivasan Gopalan",
+      "text": "Thanks, John, very much.",
+      "turn_index": 24
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Quan Yao",
+      "text": "Thanks, John. Operator, let us go to the next question in the queue and then we will probably flip over to social.",
+      "turn_index": 25
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "The next question comes from Kannan Venkateshwar with Barclays. Please go ahead.",
+      "turn_index": 26
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Kannan Venkateshwar",
+      "text": "Thank you. In the broadband business, when we think about the model you guys seem to be adopting, it is obviously a capital-efficient model of joint ventures combined with fixed wireless. But the trade-off, I guess, is there are also some embedded inefficiencies of managing all these JVs, and it is not clear what the economics are, if it is symmetrical. Would be great to get some sense of that as well. But the bigger question is, is there a path here where maybe you look at more scaled deals instead of trying to scale this in bits and pieces across multiple JVs? Thank you.",
+      "turn_index": 27
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Srinivasan Gopalan",
+      "text": "Yes. Let me pick that up, and André, you can add on. It is important to understand scale in the context of fiber. Scale in fiber comes from two things: a national brand and local scale. Scale in fiber is about local zoning, local permitting, local expertise in terms of digging trenches. The fact that you have it in one geography means nothing for the next geography you go into because quite often zoning and permitting are completely different. The important thing for us is local scale. We are not chasing a random number of millions spread all over.\nWe are very focused on where we are creating that local scale so that we are meaningful in that community, so that we can drive the right economics. To your point on scale deals, there are a few different cuts to it. Are we interested in a scale deal purely for homes passed on fiber? No. Are we interested in mixed ILEC and different deals? No. We want to be first to fiber. There would be exceptions where we would look at it where some part of the footprint potentially has some non-fiber, but on the whole, we want to focus on first to fiber and driving the economics out of that.\nThat is the coherent strategy that we are executing. FWA, of course, is a national product. André?\nAndré Almeida:\nTo underpin a couple of things you said, Srini. One, as we said before, we look at all of these partnerships and JVs from a creation-of-shareholder-value perspective. That also includes making sure we have partners that are experts in deploying fiber and in managing this deployment business, but also have strong, local footprints and the ability to build in an efficient manner in each of these geographies. We are not looking at a master plan on having fiber everywhere. We are looking geographically with each of the partners at where it makes sense to build—where we can create value out of these builds.\nThe second thing, as Srini said, which is very important for us, is partners that bring the right technology. When we looked at each of these assets, it is very important for us that these are pure-play fiber assets. We have done it with the first two deals with Lumos and MetroNet, and we have done it now with these two JVs that we set up. On your other question on inefficiencies, the way we have built this is to make sure that we can take the advantages of scale where that scale is meaningful. That scale is meaningful on brand—that is why T-Mobile US, Inc. has taken over all of the retail consumer operations for these assets.\nThat scale is also important in terms of internal processes and IT. The way we have integrated the JVs is we have a common IT platform that runs across all of the JVs that allows us—from the perspective of our customers, our frontline, and our processes—that these JVs all look like one single operation from our perspective and from our customers’ perspective. So we take scale where scale matters; where it is more important to have local knowledge and local scale, we will take that.",
+      "turn_index": 28
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Srinivasan Gopalan",
+      "text": "Kannan, it just struck me that your reference to large deals potentially was you asking the question I get quite often, which is the cable story. I think I have said this at least a couple of times before: we are not going to go do scale for scale’s sake. Specifically, cable is not something we are interested in. We see our strength as attacking incumbents rather than becoming an incumbent. We see a huge opportunity to attack incumbents across fiber and FWA. That will be our key play.",
+      "turn_index": 29
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Quan Yao",
+      "text": "Thank you, Kannan. We are going to go over to X.",
+      "turn_index": 30
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Walt Piecyk",
+      "text": "T-Mobile US, Inc. is packaging Starlink as a backup for businesses using 5G Internet, branding it Super Broadband. Good sign for T-Mobile US, Inc.’s SpaceX relationship. MVNO next?",
+      "turn_index": 31
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Srinivasan Gopalan",
+      "text": "Thanks, Walt. Let me deal with some of that and then hand off to André on some of the pieces on Super Broadband. First, I think it is important—SpaceX, Starlink: are we talking broadband, or are we talking direct-to-cell? We see them as two completely different businesses. We see the broadband business as actually a substitution to broadband, especially in rural areas. We see direct-to-cell very much as a complementary product. If you listen carefully to some of the things SpaceX talked about at MWC as well, they were very clear in positioning it as a complementary product. Let me deal with the MVNO question, and then I can pass on to André on Super Broadband.\nFirst, on direct-to-cell as a whole. Our partnership with SpaceX is very strong. We have worked closely with them to really invent an entire category, and that has been putting an end to dead zones. We are pleased with that. Most of the usage we are seeing is as a national backstop, and if anything, courtesy of the great network that Dr. Saw has built, we are seeing a lot less usage than we were originally thinking. But it is a great complementary product. As you look at the future, we are seeing multiple other space providers show up.\nThe way this will evolve, we think, is as a complementary product it will become more and more of a standard feature of a whole set of offerings—so in some sense, less differentiated. We are good with that at the Un‑carrier because this is our history. We have gone out there to innovate, create a breakthrough, solve a customer problem, and then the others follow. While they are following, we are on to our next big thing. That is how we see D2C as a whole. On MVNOs, we have a very clear philosophy or approach. MVNOs make sense for us when it is a TAM expansion.\nA TAM expansion happens because it is a new customer base that we could not target earlier or a new channel. An example of this is what we did with cable focused on SMB. It is not obvious to me how an MVNO with space or any other LEO operator fulfills those conditions. André, Super Broadband?\nAndré Almeida:",
+      "turn_index": 32
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Thanks",
+      "text": "this is a broadband product, so it is not a direct-to-cell product, and it is B2B only. We see—and I will explain why we see—this as an opportunity in B2B; we do not see any translation of this into the consumer space. First, two things. One, this product is only possible because it is anchored on our 5G FWA product and the best network in America, and that is the core anchor of the product.\nSecond, what we are bringing to the market today, and we announced this morning, is anchored on an innovation by T-Mobile US, Inc., which is our ability, within one single device and within one single network policy, to be able to aggregate and coordinate between 5G FWA for businesses and a second connection, which in this case is satellite. That allows customers to solve three problems that businesses feel today. Number one is reliability and redundancy, which this product has incorporated by default.\nSecond is coverage—obviously, the reason why we are using SAT and Starlink is that it allows us to provide the service nationwide in every single ZIP code in America, which is a challenge we see some of our customers facing. Third is that it is very simple from a customer perspective because this means that to cover all your locations with primary and redundancy, you only need one contract, one provider, and one management platform. We are very excited about this.\nIf you remember when we talked in February, I said that business Internet was one of the areas where we believed there was opportunity and that we were going to announce something in a couple of months, and we did so today. Thank you.",
+      "turn_index": 33
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Srinivasan Gopalan",
+      "text": "Thanks, André. Operator, let us go back to the queue.",
+      "turn_index": 34
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "The next question from the phone comes from Analyst with Goldman Sachs. Please go ahead.",
+      "turn_index": 35
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Analyst",
+      "text": "Hey, good afternoon. Thank you for the question. Just two, if I could. First, on cost synergies, how are you progressing against the $3 billion target exiting 2027, and how much have you realized to date in 2026? Where do the key sources of those cost savings come from? Then just as a housekeeping item, on the two JVs, anything you could share as it relates to how much you are contributing to the JVs or how much they should contribute to EBITDA on a run-rate basis once they close? Thank you.",
+      "turn_index": 36
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Peter Osvaldik",
+      "text": "Happy to take it. Let me start with the JVs. Much like we did with the last ones, from an investment perspective, we laid out in the press release that it is about $2.7 billion of investment across the two JVs when they close. At the time that they close, we will certainly give you a more wholesome update, as appropriate then, around what it means from a subscriber perspective, increase in our target fiber households-passed figures, and all of those things. But it is a little early because they have not closed, so please hold on that.\nIn terms of the cost synergies, I am glad you asked—just two months after we laid it out for you—how the progress is going and what we are doing. Frankly, it is going really well. Remember what we laid out at Capital Markets Day: the source of synergies are across a number of fronts, inclusive of customer care, retail, and back-office efficiency from AI and transformation. We are seeing great progress on that regard. The $2.7 billion that we laid out for you exiting 2027 certainly is on track. I would say most of that will come towards the last part of 2026 and then fully into 2027 and beyond.\nBy the way, there is a lot more runway and opportunity than $2.7 billion; it is just what we see our way to phasing through to 2027, leaving more runway into 2028. Not a lot of metrics I will give you in the intervening two months that have created a lot of updates, but we are seeing great progress on many of them. One, for example, is just the use of the chatbot—an AI-powered chatbot that is actually capturing a lot of customer questions and addressing them in an Un‑carrier fashion that you would expect—actually containing about 60% of those already. So just another proof point on the way as we are going.",
+      "turn_index": 37
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Quan Yao",
+      "text": "Great. Thanks. Operator, next question, please.",
+      "turn_index": 38
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "The next question comes from Peter Supino with Wolfe Research. Please go ahead.",
+      "turn_index": 39
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Peter Supino",
+      "text": "Hello. A question on the cost of getting new customers. Just running some simple math in your income statement, the cost of equipment sales versus equipment revenue produced a greater loss than a year ago by a few hundred million dollars. If I look at a rolling four-quarter average, that number for the last couple of years is gradually climbing. I am wondering what the underlying trend in the business is that is driving up that equipment loss, and if it is positive ARPA or ARPA growth, should we expect that to continue? Thank you.",
+      "turn_index": 40
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Peter Osvaldik",
+      "text": "There are a number of things there. If you just focus on that one line item, then I will step back and give you a view of the business. One, you just have a larger base. You will notice that our upgrade rate was similar, and of course our acquisitions were even higher as we see more share of flow to T-Mobile US, Inc. In a world where you do have device-centric promotionality that is driving switching as well as upgrades on a smart, value-accretive CLV basis, you have a larger base doing the same upgrades and you are capturing more acquisitions. Naturally, you are going to have a higher dollar amount associated with that.\nTo your point, there is an element of our ability—because we very smartly tend to design our most premium device promotions to be associated with our most premium device plans. Customers see that as a great trade-off, inclusive of all the other value that is incorporated in those premium rate plans, and so you do see ARPA increases as a result of that. In fact, we mentioned that we continue to see over 60% of lines on new accounts taking our premium plans.\nYou really have to step back and say, okay, just that one line item—which I think this same dynamic will continue to play out on that one line item—but what is it doing to the totality of the business, and how is that doing? I do not think Q1 could have been a better demonstration of the things we have been talking about for a long time now, which is: if you invest in what is your product—I have heard others in the industry say you do not need to invest in your network, it is not important—and I just, you know, kudos to them if that is what they believe. It is our product.\nIt is what we sell to customers. The differentiation that we are starting to see—with consumer sentiment now following what the actual network progress is, the value that we embed in our plans, as well as the experiences—means that it is not just devices that make customers come here. You see us be very thoughtful around the promotions around devices that we do, inclusive of linking them to our top-tier rate plans in most instances, but you see the flow of customers coming to us. It is not the devices; it is these three other elements.\nNot only did you see that in top-line KPIs—in terms of service revenue of 11%, four times the next nearest competitor, core EBITDA of 12%, the all-important free cash flow generation—but if you double-click down into the next level of KPIs, you see a tremendously stark difference developing in Q1. If you take a look at what we delivered—217 thousand postpaid account net adds year over year and ARPA growth of 3.9%—that is what delivers the top-line service revenue that is so differentiated. If you look at Verizon, for example, they lost 127 thousand postpaid net accounts and their ARPA was almost down 2% year over year.\nIf you back out what you believe the Frontier service revenue contribution was from M&A, their core business ex-Frontier actually declined in service revenue. That is stark, and it shows you why accounts and ARPA are such important metrics to focus on in terms of value creation. Similarly, when you look at&T, they delivered yet again the highest year-over-year postpaid phone churn increase in the industry, proving that all the convergence talk is just that—it is talk. More importantly, they had declines in postpaid phone ARPU sequentially and year over year.\nIf you look at what they just did with contract assets in Q1—where that was a $300 million increase in terms of pulling costs off the P&L and putting them on the balance sheet—if you adjust for that, EBITDA was down year over year there. It shows you—if you step one level down—you see the formula here that is way more than a device-promotionality formula. It is that best network, best value, best experience means customers are choosing to change their whole relationship, coming to T-Mobile US, Inc., and deepening that relationship vis-à-vis ARPA.\nOur ability then, because of the efficient way that we run, to translate that not only into core EBITDA leadership growth but also that all-important free cash flow growth—I think Q1 started showing you a lot more of what we promised this differentiation would bring. It is starkly different in terms of financial performance as well. So, sorry for going on—it was just not equipment revenue and COGS; you really have to step back and see the broad picture of value creation here.",
+      "turn_index": 41
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Quan Yao",
+      "text": "Let us move on to our next question, please.",
+      "turn_index": 42
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "The next question comes from Analyst with JPMorgan. Please go ahead.",
+      "turn_index": 43
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Analyst",
+      "text": "Hi, thanks for taking the question. For either Peter or Srini, on the increase in the capital allocation for the year of $3.6 billion to $18.2 billion: you had the accelerated share repurchase in the first quarter that you announced. Shares have come in here a little bit. How are you thinking about perhaps the appetite for additional share repurchases or an accelerated buyback program here? And then related to the postpaid account metric—great to see the upgrade—maybe help us think about where you are in the process of integration on the U.S.\nCellular base and whether that perhaps led to some of that churn increase that you talked about earlier on the math; where are you in that migration or integration, and what should we anticipate on churn and conversion with the legacy T-Mobile US, Inc. base? Thanks.",
+      "turn_index": 44
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Srinivasan Gopalan",
+      "text": "Peter, maybe you pick up the first bit, and then John, I will do another quick update on your end.",
+      "turn_index": 45
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Peter Osvaldik",
+      "text": "Absolutely. On shareholder returns, you just saw us execute in Q1 an acceleration and deliver $4.9 billion in share buybacks for a significant cumulative amount of share buyback and dividends that have been returned to date under the program. You saw us, more excitingly, just recently announce that the board authorized us to increase by up to $3.6 billion. The way we are going to approach it is the way we have always approached this, which is I am not going to talk about the daily trading dynamics and what we are thinking about for obvious reasons. Really importantly, we are focused on where we see this company and its discount relative to intrinsic value.",
+      "turn_index": 46
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Of course",
+      "text": "investing in the core business, investing in value-accretive M&A, and then shareholder returns consisting of this very balanced dividend and share buyback approach. That is how we are going to approach it. I am not going to be able to say more in terms of what we are thinking about and how and when. But I think you saw us execute in Q1 very smartly and thoughtfully. Where we believe the intrinsic value of the company is—and the discount relative to that—is going to guide us in a lot of these instances.",
+      "turn_index": 47
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Mike Katz",
+      "text": "I will pick up on the U.S. Cellular integration piece. As you know, we closed the U.S. Cellular transaction on August 1, and we stopped promoting U.S. Cellular to new customers right before the holidays last year. We unified everything behind the T-Mobile US, Inc. brand—even at U.S. Cellular-branded stores, we are acquiring all new accounts under the T-Mobile US, Inc. brand. To the premise of your question, we are now just beginning the final big throes of the customer migration. We have done a lot of the network-oriented migration—that is behind us—and now we are handling the customer migration. It is a relatively small base, about 4 million customers or so.\nWe have recent experience with this given that we integrated the Sprint base back in 2020 to 2023, so there are a lot of learnings that we are applying to this overall customer migration effort in terms of communications and how we are mapping customers over, making sure they are getting all the benefits and understanding the full T-Mobile US, Inc. value proposition. All of that is going extremely well. I could not be more satisfied with how it is going in the U.S. Cellular marketplace. We are going to be working through that over the spring, the summer, and the fall.\nI think we will substantially have it wrapped up by this year in terms of the overall integration effort. Then, of course, what that is leaving us with is an incredibly bolstered network advantage in smaller markets and rural areas where we are continuing to do quite well. You heard Srini talk about where our share position is now in smaller markets and rural areas of 24%. The other big thing that we are doing in smaller markets and rural areas is continuing to drive that win share in postpaid switching. We are leading now 12 quarters in a row—so when you think about the majority of 2023, 2024, 2025, and so far in 2026—continuing to lead that position.\nThere is enormous runway ahead of us and it is really fortified by the overall U.S. Cellular assets that we have incorporated into the T-Mobile US, Inc. network.",
+      "turn_index": 48
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Srinivasan Gopalan",
+      "text": "",
+      "turn_index": 49
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Just one thing to clarify",
+      "text": "the math I was laying out about account churn—U.S. Cellular is not a contributor to that. That behaved exactly like we expected it to. This was more weighted-average math.",
+      "turn_index": 50
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Analyst",
+      "text": "Appreciate that. Thank you so much.",
+      "turn_index": 51
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Quan Yao",
+      "text": "Alright. Let us move on to our next question.",
+      "turn_index": 52
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "The next question comes from Analyst with KeyBanc Capital Markets. Please go ahead.",
+      "turn_index": 53
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Analyst",
+      "text": "Great. Thanks for taking the questions. In the last couple of quarters, you gave an organic ARPA growth. I was hoping you could give that organic ARPA growth this quarter. Then, looking at the guide for service revenue in Q2, it seems like the trend on ARPA growth needs to come down—something with a “1.” I was wondering if I got that right. Then it seems like, looking at your guidance to hit $77 billion, we need to reaccelerate. I want to confirm that all of that was correct and get your thoughts there. Thanks.",
+      "turn_index": 54
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Peter Osvaldik",
+      "text": "I can go on with it. You are absolutely right on the ARPA piece, but remember it is a remnant of the fact that we had rate plan optimizations that benefited Q2 of last year but not Q1 of last year, so you had that being an impact over the year over year. When you think about Q2, you are absolutely right in terms of the numbers—probably near 2% on a year-over-year ARPA basis—simply because of the dynamics that you have the rate plan optimizations and you have the dilutive effect that was long anticipated around both U.S. Cellular as well as MetroNet and Lumos, which impact Q2 of this year but not, of course, Q2 of last year.\nWe will see an acceleration for the second half of the year back. This is all just math dynamics here. In terms of ARPA and giving you organic versus inorganic, we moved away from that primarily because I just do not have a great answer for you—it would all be subject to art. For example, as we brought on a U.S. Cellular customer and they expanded their relationship with us post-merger, what do I do there—is that organic or inorganic? Or when we had fiber-only customers come on board and then expand their relationship and take on phone and other products, how do I allocate that away? We are not in the business of creating art here.\nWe want to be very transparent with you. At this point, because of how we have accelerated some of the U.S. Cellular elements and these nuances, we are really not giving organic or inorganic ARPA for that reason.",
+      "turn_index": 55
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Quan Yao",
+      "text": "Thanks. Operator, let us do one last question, please.",
+      "turn_index": 56
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "The last question today comes from Timothy Horan with Oppenheimer. Please go ahead.",
+      "turn_index": 57
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Timothy Horan",
+      "text": "Thanks, guys. With basically the highest-quality service out there in almost every metric, you are at a 20% price discount, give or take, versus your peers. Can you get that pricing to parity over time? With the quality service, it might not even impact subscriber growth at all. How are you thinking about pricing longer term?",
+      "turn_index": 58
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Srinivasan Gopalan",
+      "text": "The way we think about pricing power and pricing as a whole is ARPA growth. We tend to fixate on one number. We love the fact that our back book is actually at a lower price than our front book. Simply put, our existing customers pay less than new customers. That is rare in an annuity business, and it creates incredible dynamics because that means as you bring on customers, you are growing ARPU as well as volume. You are growing value as well as volume. When you have this position of having best network, best experience, and best value, that creates a position of no trade-offs. We are going to protect our position on best value.\nWe are not going to look at it with one variable, which is “what is our ARPU versus other people’s ARPU.” We will, from time to time, do thoughtful moves on our pricing. They are typically more-for-more moves, where what we end up doing is giving our customers more because a lot of the plans, for example, would be outdated. We will end up bringing them up to date with newer, better plans, and that may or may not come with a price change.\nWe do not see a world where we look at a 20% discount and go “let us whack that pricing up” and create a change, because we think titrating the volume and value—making sure that we stay with this position of best network, best value, best experience—is what creates long-term shareholder value and long-term customer loyalty. It is what creates the number I love the most: our NPS, 20% ahead of everyone else.",
+      "turn_index": 59
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Quan Yao",
+      "text": "Thanks, Tim, and thanks, everybody, for joining us today. We are looking forward to speaking with you again soon. In the meantime, if you have other questions, please contact the Investor Relations or Media departments. Thank you.",
+      "turn_index": 60
+    }
+  ]
+}

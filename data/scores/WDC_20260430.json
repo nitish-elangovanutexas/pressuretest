@@ -1,0 +1,28 @@
+{
+  "ticker": "WDC",
+  "call_date": "2026-04-30",
+  "quarter": 3,
+  "year": 2026,
+  "pressure_score": 0.030284938846244485,
+  "cosine_distance": 0.07371922032943612,
+  "sentiment_shift": 0.01903998659261634,
+  "question_difficulty_mean": 0.1682307988496334,
+  "baseline_mean": 0.019432603949487214,
+  "baseline_std": 0.009405901623588942,
+  "z_score": 1.153779332492787,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5841153994248167,
+    "call_mean_answer_length": 145.63636363636363,
+    "call_hedge_density": 0.003935824186562873,
+    "call_pos_sentiment_mean": 0.4851845733144067,
+    "call_neu_sentiment_mean": 0.5033219676803459,
+    "call_neg_sentiment_mean": 0.011493489188565449,
+    "call_qa_similarity_mean": 0.5914018329850598,
+    "baseline_neg_sentiment_mean": 0.03053347578118179
+  },
+  "generated_at": "2026-05-20T07:28:25+00:00"
+}

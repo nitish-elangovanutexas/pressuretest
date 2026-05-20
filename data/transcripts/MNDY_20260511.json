@@ -1,0 +1,352 @@
+{
+  "ticker": "MNDY",
+  "company_name": "Mondaycom",
+  "call_date": "2026-05-11",
+  "quarter": 1,
+  "year": 2026,
+  "prepared_remarks": "Earnings Call Transcript\nMonday.com (MNDY) Q1 2026 Earnings Transcript\nBy\n\nMotley Fool Transcribing\n\n–\n\nMay 11, 2026 at 1:13PM EST\n\n\n\n\nImage source: The Motley Fool.\n\n\nDate\nMonday, May 11, 2026 at 8:30 a.m. ET\nCall participants\nCo-Chief Executive Officer & Co-Founder — Roy Mann\nCo-Chief Executive Officer & Co-Founder — Eran Zinman\nChief Financial Officer — Eliran Glazer\nChief Revenue Officer — Casey George\nTakeaways\nRevenue\n-- $351 million, growing 24% year over year, reflecting continuing demand for platform solutions.\nGross margin\n-- 89% on a non-GAAP basis, down from 90% the year prior due to AI computing costs.\nOperating profit\n-- $49 million, a company record, with a 14% operating margin impacted by negative FX of approximately 190 basis points.\nAdjusted free cash flow margin\n-- 29%, highlighting increased cash efficiency and business durability.\nAI revenue contribution\n-- 10% of net new ARR in the quarter was driven by AI products.\nAdjusted free cash flow\n-- $102.8 million for the quarter.\nAnnual recurring revenue (ARR) composition\n-- 42% of ARR comes from customers exceeding $50,000 in ARR, while new customers with over $500,000 in ARR reached record levels.\nGross retention\n-- Achieved historical highs, with net dollar retention at 110%, although guidance anticipates a slight decline by year-end.\nPlatform and product strategy\n-- Launched monday AI Work Platform and DB 3.0, increasing scalability 100x to over 10 million items per board.\nPricing model update\n-- Introduced a new seats-plus-credits consumption-based pricing for new customers, with current customers offered an opt-in migration and enterprise clients receiving complimentary AI packages for adoption.\nAcquisition of One AI\n-- Announced plans to acquire One AI, integrating native voice capabilities to broaden agent offerings on the platform.\nShare repurchase activity\n-- $553 million in shares repurchased during the quarter, leaving $182 million remaining under the current authorization.\nBalance sheet\n-- Quarter-end cash, cash equivalents, and marketable securities totaled $1.21 billion, down from $1.67 billion due to repurchases.\nHeadcount\n-- 3,211 employees at quarter end, up by 56 sequentially, with expectations for stable staffing for the remainder of the year due to AI-driven productivity gains.\nFull-year financial guidance\n-- Revenue expectation of $1.466 billion to $1.475 billion (19%-20% growth), non-GAAP operating income of $185 million to $191 million (approximately 13% margin), and adjusted free cash flow of $280 million to $290 million (19%-20% margin); all metrics incorporate a negative FX impact of 100 to 200 basis points.\nQ2 financial guidance\n-- Revenue forecast of $354 million to $356 million (18%-19% growth), non-GAAP operating income of $46 million to $48 million (13%-14% margin), with a negative FX impact included.\nAI product impact on internal operations\n-- Since 2025, AI has increased developer output by 32% and reduced product time-to-market by 38% within the company.\nNew products\n-- Over 11% of total ARR comes from new products, with CRM surpassing $100 million in ARR, particularly strong in the SMB segment.\nNeed a quote from a Motley Fool analyst? Email\n[email protected]\nRisks\nNet dollar retention (NDR) decline\n-- Management expects NDR to \"slightly decline by the end of fiscal year 2026\" as previous pricing actions no longer boost results.\nFX headwinds\n-- Non-GAAP operating margin and other full-year metrics include a negative impact from Israeli shekel appreciation of 100 to 200 basis points.\nPotential cost increases from AI usage\n-- Management noted, \"there is going to be additional cost regarding computing costs related to AI.\"\nAdjusted free cash flow reduction\n-- Accelerated share buybacks are expected to reduce full-year adjusted free cash flow by approximately $20 million.\nSummary\nmonday.com\n\n(\nMNDY\n\n6.33%\n)\nreported 24% revenue growth, driven by rising enterprise adoption and the expanding contribution of AI to net new ARR, now comprising 10% of additions. Management introduced a consumption-based pricing model, accompanied by the rollout of its rearchitected AI Work Platform and the strategic acquisition of One AI to deepen native voice capabilities. Cash reserves decreased primarily from share buybacks, while adjusted free cash flow margins signaled continued operational efficiency despite the acknowledgment of FX and AI-related cost pressures for 2026 guidance.\nManagement confirmed broad-based revenue outperformance for the quarter, without concentration in any specific customer segment, product, or geography.\nEnterprise and mid-market segments continued to see double-digit seat and fee growth, with 34% of the 50,000-customer cohort now adopting multiple products—a five-point increase from Q4.\nThe company provided full transparency around AI revenue attribution, stating, \"when we say AI contribution, we mean direct contribution, not contribution made possible by AI,\" and clarified that agent-driven results have not yet meaningfully contributed.\nGuidance for headcount stability reflects realized AI-driven productivity improvements rather than hiring constraints or demand issues.\nManagement provided no quantitative projections for the impact of the new credit-based pricing or further AI-driven revenue, referencing the need for additional quarters of adoption data before updating guidance.\nQ2 revenue guidance reflects moderation, with management emphasizing investment in AI and inherent uncertainty about both AI-related expense ramp and the timing of consumption-driven revenue.\nCRM revenue exceeded $100 million in ARR, with strongest growth in SMB, while service product ARR growth has been predominantly seat expansion and cross-sell related in mid-market and enterprise.\nManagement is incentivizing existing customers—especially enterprises—to opt in to the new AI-based pricing model via package enhancements, not through mandatory migration.\nThe One AI acquisition is expected to be integrated into both the AI platform and CRM, expanding the addressable product suite to include voice-driven automation.\nIndustry glossary\nARR (Annual recurring revenue)\n: Predictable annualized revenue from active subscriptions, calculated by multiplying a customer's current monthly recurring revenue by twelve.\nGross retention\n: The percentage of recurring revenue retained from existing customers, excluding expansion and contraction from upsells or downsells.\nNDR (Net dollar retention)\n: The percentage of recurring revenue retained and expanded within an existing customer base after accounting for churn, downgrades, and upgrades.\nAI agents\n: Automated, software-based entities on the monday.com platform capable of executing discrete tasks across workflows with limited or no manual intervention.\nConsumption-based pricing\n: A fee model where customers pay based on actual usage (in this case, AI credits consumed) rather than or in addition to users/seats licensed.\nDB 3.0\n: The latest generation of monday.com's proprietary data infrastructure, supporting scaling to over ten million records per board for high-performance AI workflows.\nFull Conference Call Transcript\nRoy Mann:\nThank you, Byron, and thank you, everyone, for joining us today. Monday.com delivered a strong start to 2026. Q1 revenue grew 24% year-over-year reflecting sustained demand for our platform as enterprises consolidate their work infrastructure. We generated a record $49 million in operating profit, demonstrating that our growth is increasingly efficient. Adjusted free cash flow margin expanded to 29%, underscoring the financial durability of our business model. Gross retention continued to improve in Q1, reaching historical highs for the company, reflecting how deeply monday.com is embedded in how our customers run their businesses. Enterprise momentum continued to build with 42% of ARR coming from our customers with over $50,000 in ARR.\nA record number of new customers with over $500,000 in ARR and average contract values continue to expand, reinforcing that the consolidation of work Instructure onto monday.com is a durable enterprise-led trend. The market is also responding to our AI product. Approximately 3% of our net new ARR in Q1 was driven by AI, a figure we expect to grow as our AI offering expand and mature. We are also seeing the benefits of AI play out in sanmina.com itself. Since 2025, AI has driven a 32% increase in our output per developer and a 38% reduction in product time to market. AI gives our engineers the bandwidth to be more rigorous about the architecture, edge cases and long-term maintainability.\nThe result is a team that ships more and breaks less. We believe this is an early but meaningful signal of what AI native engineering looks like in practice, and we intend to keep pushing on that frontier. Now let me turn it over to Eran to walk you through some of the significant progress we've made in our AI-driven products during the quarter.\nEran Zinman:\nThank you, Roy. At our Investor Day last September, we laid out a fundamental shift in how we see monday.com. Not a platform that helps teams manage work, but one that actually does the work for them. Last week, we do the most significant step in that journey, changing our core offering from monday Work Management to monday AI work platform. This is not a feature release or a rebrand. We have rearchitectured the core of our platform around single belief that work should be orchestrated between humans and AI agents at scale from a single system of records.\nAI agents that execute work flexible software that adopts to how teams operate and enterprise-grade governance all grounded in monday DV are single source of truth that give AI the context to drive real outcomes. This quarter, we took that foundation further with Money DB 3.0, delivering 100x increase in scale from 100,000 items for our board to over $10 million with high performance low latency execution designed to accelerate AI adoption rather than constrain it. A stand-alone AI tool that can automate a task, monday can run an entire operation. And with more than 250,000 customers already running their work in said monday, we have a data advantage that no point solution can replicate.\nAlongside the platform launch, we're making an equally important change to how customers pay for monday. We recently introduced a new seats credit pricing structure for new customers, moving to consumption-based pricing that aligns what customers pay with the value AI actually delivers. As AI agent takes on more work across organizations, revenue expands naturally without requiring additional seats purchases. We plan to allow existing customers to opt in to this new model with enterprise customers receiving complementary AI packages to support adoption at scale. In addition to that, we are excited to announce our agreement to acquire One AI.\nTheir team spending years, solving one of the hardest problems in enterprise AI, making voice agents that actually work in production environments. With this acquisition, we are bringing native voice capabilities directly into the AI work platform, extending the way agents can engage with customers and teams. We're not managing monday.com as a company defending its position. We are rebuilding it as the company that defines what an AI work platform means for businesses. Q1 was a strong step in that direction. We remain focused on execution, and we look forward to demonstrating continued progress throughout 2026. With that, I'll turn it over to Eliran to cover our financial and guidance.\nEliran Glazer:\nThank you, Eran, and thank you to everyone for joining our call. Today, I'll review our first quarter fiscal year 2026 results in detail and provide updated fiscal year 2026 guidance. As Roy mentioned, we have had a strong start to 2026. Total revenue in Q1 came in at $351 million, up 24% from the year ago quarter. Our overall NDR was 110% in Q1. we now expect overall NDR to slightly decline by the end of fiscal year 2026. As a reminder, our NDR is a trailing 4 quarter weighted average calculation. For the reminder of the financial metrics disclosed unless otherwise noted, I will be referencing non-GAAP financial measures.\nWe have provided a reconciliation of GAAP to non-GAAP financials in our earnings release. First quarter gross margin was 89% compared to 90% in the year ago quarter. Research and development expense was $78.4 million in Q1 or 22% of revenue, up from 19% in the year ago quarter. Sales and marketing expense was $158.2 million in Q1 or 45% in revenue compared to 48% in the year ago quarter. General and administrative expense was $28.6 million in Q1 or 8% of revenue compared to 9% in the year ago quarter. Operating income was $49 million in Q1, up from $40.8 million from the year ago quarter, and operating margin was 14%, similar to the year ago quarter.\nOperating margin in Q1 had an approximately 190 basis points negative FX impact, mainly from the appreciation of the Israeli shekel compared to the U.S. dollar. Net income was $56 million in Q1 compared to $58.4 million from the year ago quarter. Diluted net income per share was $1.15 in Q1 based on 48.9 million fully diluted shares outstanding. Total employee head count was 3,211 an increase of 56 employees since Q4 '25. For the remainder of fiscal year 2026, we expect head count to stay largely flat, reflecting the productivity gains AI is already delivering across our organization. Moving on to the balance sheet and cash flow.\nWe ended the quarter with $1.21 billion in cash, cash equivalents and marketable securities compared to $1.67 billion at the end of Q4 2025, reflecting $553 million of shares repurchase executed during the quarter. As of the end of Q1, approximately $182 million remained available under our existing share repurchase authorization program. Adjusted free cash flow for Q1 was $102.8 million, and adjusted free cash flow margin was 29%. We now estimate that the accelerated share buyback executed during Q1 will reduce full year 2026 adjusted free cash flow by approximately $20 million.\nAdjusted free cash flow is defined as net cash from operating activities, less cash used for property and equipment and capitalized software costs, plus costs associated with the build-out and expansion of our corporate headquarters. Let's now turn to our updated outlook for fiscal year 2026. For the second quarter of fiscal year 2026, we expect our revenue to be in the range of $354 million to $356 million, representing a growth rate of 18% to 19% year-over-year. We expect non-GAAP operating income of $46 million to $48 million with an operating margin of 13% to 14%, which assumes a negative FX impact of 100 to 200 basis points.\nFor the full year 2026, we expect revenue to be in the range of $1.466 billion to $1.475 billion, representing growth of 19% to 20% year-over-year. We expect full year non-GAAP operating income of $185 million to $191 million, with an operating margin of approximately 13%, which assumes a negative FX impact of 100 to 200 basis points. We expect full year adjusted free cash flow of $280 million to $290 million with adjusted free cash flow margin of 19% to 20%, which assumes a negative FX impact of 100 to 200 basis points. Let me now turn it over to the operator for your questions.\nOperator:\n\n[Operator Instructions]\nAnd our first question comes from the line of Raimo Lenschow with Barclays.\nDamon Kogan:\nThis is Damon Kogan of for Raimo. Can you help us understand the new updated NDR guide. As I think about the Q1 results and the full year guide, it seems like stabilization throughout the business and then I look at the NGR guide and print across your cohorts. It just seems like there's more stability in results than maybe the guide. Any help there would be great.\nEliran Glazer:\nRyan, this is Eliran. Thank you for the question. So there is a lot of retention and expansion side that we are very positive on. Gross retention is at historical highs. We're still seeing double-digit fee growth year-over-year in our mid-market and enterprise customers, 34% of our 50,000 customers court has adopted more than one product. It was 29% in Q4. So we're seeing a lot of positive signs. As a reminder, we are lapping the pricing actions from 2024 2 years ago in 2025. And they increased our NDR by 12%. We're going to lap this at the end of Q2 or during -- sorry, at the end of Q2.\nAnd we don't believe that expansion or new adoption will now be enough to offset some of the pricing growth over that we have seen in the past.\nDamon Kogan:\nGot it. And I guess, can you just provide an update on the top of funnel demand that you're seeing now compared to the end of 2025. I know the initial 2026 guide did imply some degradation to telefunnel. So I guess just what is the updated full year guide now implied maybe compared to Q1.\nEran Zinman:\nYes, this is Eran. So look, we have nothing new to report with Pay Search. Overall, the top of funnel environment remains soft, but it's pretty much in line with our expectations that we gave in the beginning of the year. I would say that on top of that, ACV of new lands is increasing across touch and no touch. So we've seen high-quality leads coming into the platform. And we continue to manage performance marketing cautiously. So pretty much in line with what we expected.",
+  "qa_turns": [
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Next question comes from the line of Josh Baer with Morgan Stanley.",
+      "turn_index": 0
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Josh Baer",
+      "text": "Congrats on a good quarter. I wanted to talk a little bit more about the new sets credits pricing model. Maybe to start, like can you just provide a little more context on how exactly that works? And then also wondering what are the impacts in 2026 from the new model?",
+      "turn_index": 1
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Eran Zinman",
+      "text": "Yes. Josh, this is EranSo maybe I can start and then hand it over to Casey. So look, we're very excited for this change. It's the biggest change in the company history we're changing the core offering of our products with the new native agents within the platform, customers be able to do the actual work in addition to managing work. Part of that change is that new customers will have 2 vectors of expansion. One with seats, meaning the more people they add, the more they pay for seats that the same way it used to be. But there's an additional factor on top of that for AI credit.\nSo the more they consume a credit the more they pay, the more they're going to use our agents and other functionality. For existing products, it's going to be gradual. I'll let Casey kind of cover the change we're going to do with existing ones.",
+      "turn_index": 2
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Casey George",
+      "text": "Yes. So we spend a lot of time -- oh, hi, Josh, by the way, we spend a lot of time of getting feedback from our customers. And what we've rolled out is very consistent with how they want to consume value in our platform. As you heard from along with our new customers, it is -- it comes with seeds plus credits. Our existing customers, it's going to be an opt-in motion. So we'll work with them over the next a couple of years as they look to move into this model.\nWe are going to incentivize those customers to move to the new model, especially with our touch customers, where we spend a lot of time with them building use cases and finding new ways for them to consume our platform leveraging AI.",
+      "turn_index": 3
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Josh Baer",
+      "text": "Got it. And so for -- as far as 2026, are there any assumptions on the impacts from the new model, either from the new customers who are on it? Or I guess also, what are the assumptions as far as the adoption from existing customers? And then just last on this subject...",
+      "turn_index": 4
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Eliran Glazer",
+      "text": "It's Eliran. So Josh, it's still early stage. -- we will have a much clearer picture in the coming months, and then we can provide update or more color on what we are going to see. For now, we didn't assume any significant impact or any impact on the numbers.",
+      "turn_index": 5
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Ader with KeyBank Capital Markets.",
+      "turn_index": 6
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Unknown Analyst",
+      "text": "I guess if I can just quickly follow up on that pricing model as well. Are you guys actually seeing either slowing in employee head count or seat growth at existing customers? Or are you just kind of making this change in anticipation just to decouple yourselves from being so dependent on seats. I'm curious whether it's forward-looking or you're actually seeing it today?",
+      "turn_index": 7
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Casey George",
+      "text": "Yes. Thank you for the question. We have not seen any degradation in demand relative to seats. We have seen those customers looking to use our platform leveraging AI. And that's why we've launched this new platform. So overall, the demand continues to be strong for new seats, and we actually see acceleration in some of the emerging markets where we've invested. So upmarket is strong. Seat demand continues to be very solid, and they're taking on new workloads, leveraging AI.",
+      "turn_index": 8
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Unknown Analyst",
+      "text": "Great. Okay. Actually, if we -- I'll stick with you. The larger lands from the direct sales motion with larger trying to land a little bit more upmarket. Curious how that's trended? I know the 50,000, 500,000 seats, but curious whether that's driven by new lands or are people kind of graduating up into that segment of the customer base.",
+      "turn_index": 9
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Casey George",
+      "text": "Yes. And it's both. We saw double-digit growth for both mid-market and enterprise segments relative to seats. -- our ACV grew 22% year-to-year. Gross retention at historical highs. And obviously, with RPO, we see some seasonal decline in which we're anticipating. It's pretty much in line with what we've seen in prior Q1 performance. Pipeline is very strong. As a matter of fact, our March was 1 of the strongest months we've ever had. So as we move upmarket, as we've talked about before, we get exposed to the buying cycles of those larger customers. So we see less linearity in the quarter, but we're delivering in the last month of every quarter seems to be consistent.",
+      "turn_index": 10
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Next question comes from the line of Mark Murphy with JPMorgan.",
+      "turn_index": 11
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Mark Murphy",
+      "text": "And I'll add my congrats on a very nice performance. So with the understanding you had a solid quarter and the gross revenue retention improved. Could you share what you are observing within the customer base in the last several months as Claude code and Claude cowork have proliferated glue pretty rapidly. In other words, I'm just curious what are your customer conversations like regarding those products, they do bring forward some advancements in cogeneration, no, low code, agentic. Wondering if some of your customers are maybe using them in conjunction with monday or maybe something that you just don't see popping up too much?",
+      "turn_index": 12
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Roy Mann",
+      "text": "Yes. It's Roy. So yes, we see a lot of comers having purchased Claude. And what our vision is, is having agents and people work together on the same platform, and that also includes external agents. So if you noticed, we opened up the platform completely to have any agent that is even external to monday sign up on itself and get an account a seat. . And so that touches what Eran said on the hybrid model of having agents, whether they are external, they will have seats and our internal agents, which work really well within the monday platform and also external with other platforms.\nSo this is the future we see, and that's like perfectly aligned, and it's great to see adoption of AI.",
+      "turn_index": 13
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Eran Zinman",
+      "text": "Maybe I'll just add on top of that. I think there's a big difference between people using blood or equivalent products on their own and using that around work with other people in cooperation -- and we see a lot of customers. I think agents essentially -- it's an amazing technology, it can be used in different ways. But I think where we shine is exactly how customers want to adopt it in a way that's kind of integrating their work, working with other people and native agents built within a work platform. So I think a lot of our customers are looking for a solution like that.\nWe're going to can leverage AI and put out into their existing workflows.",
+      "turn_index": 14
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Mark Murphy",
+      "text": "Okay. And then as a quick follow-up, the stat that shows 10% of new ARR in Q1 was driven by AI. It's pretty impressive. Could you drill down into the stats so we just understand how are you driving that? What are you counting in there? Is it monday vibe? Is it the agent for AI workflow? is it the AI credit pack, if someone grades to Pro or enterprise and you deem that to be AI influenced or relating to some project, would you count something like that in there, et cetera?",
+      "turn_index": 15
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Eran Zinman",
+      "text": "Yes. This is Eran. So when we say AI contribution, we mean direct contribution, not contribution made possible by AI. Currently, it doesn't include an agent's product because it was just released about a week ago. Currently, what drives the AI revenue is our existing offering, including 5 AI blocks psychic and so on. Obviously, with agents, we have expectations for this going forward, but it's still early days.",
+      "turn_index": 16
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Next question comes from the line of Howard Ma with Guggenheim Securities.",
+      "turn_index": 17
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Howard Ma",
+      "text": "I want to add my congratulations on a strong quarter as well. I want to ask about pricing and packaging. If we look 6 months from now, so heading into 2027, how much of your customer base do you think will be on this new seat base plus usage-based pricing model. And do you expect different adoption trends between mid-market versus large enterprise? And one more part to is, where does 1 AI fit into pricing, it will be a separate add-on.",
+      "turn_index": 18
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Eran Zinman",
+      "text": "Yes. So this is Eran. So look, as I said, we're opening up the ability to purchase agents from new customers. We feel the adoption for these ones is going to be very gradual. So it's hard to estimate that right now. I think we'll be able to provide more color going forward. New customers will buy both seats and AI credits. But again, it's really hard to give any more information about this right now. I would say that we're very excited for the Wana acquisition. It's a very strong team with a lot of special knowledge about those agents. We plan to integrate that deeply into our AI work platform also into our CRM.\nIn terms of the commercial side, we're still working through the precise package in passing. But definitely, it's going to be part of our AI credit consumption model. So overall, I think it's a great addition to the team. They bring a lot of knowledge and expertise. I think overall voice we need to separate the technology from the adoption. Adoption is very complex among every customer. And I think they bring a lot of knowledge and expertise to help drive more adoption within our existing customer base.",
+      "turn_index": 19
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Howard Ma",
+      "text": "Okay. Got it. And a follow-up for Eliran, I want to ask about the -- your expectation for head count being flattish this year. I think last quarter, you had called out headwinds from the Israeli shekel appreciation -- foregone interest payments due to share buybacks and cash taxes. I think those are the 3 items. I think the head count being flat should give you a lot of cushion relative to those headwinds unless there are any other headwinds that we should consider.",
+      "turn_index": 20
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Eliran Glazer",
+      "text": "So with regards to head count being flat, this is being staged throughout the year. So there is still the impact of the hiring that we have done in prior years and the fact that the shekel is strong versus the dollar. So there is going to be some benefit from that, but we're going to see it more into -- going into next year rather than this year.",
+      "turn_index": 21
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Next question comes from the line of Steve Enders with Citi. Okay.",
+      "turn_index": 22
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Steven Enders",
+      "text": "Great. Maybe just following up on some of the guide philosophy. And I think trying to understand a little bit better just the upside that you saw this quarter. I guess, a, like what was the kind of key factors that drove the revenue upside? And then I guess, the kind of moving forward, how should we think about, I guess, the kind of what's kind of assumed there and maybe what's different in the guide velocity versus what we saw in 1Q?",
+      "turn_index": 23
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Eliran Glazer",
+      "text": "Steve, this is Eliran. So nothing has changed since what we have provided in Q1, but what we have seen is the outperformance was broad-based. It wasn't driven by any single segment and core to region, it was broad-based. Of course, [indiscernible] momentum remains strong, as Casey spoke about. We have record net adds of 500,000, and we continue to grow upmarket. And obviously, the air contribution. As we mentioned, 10% of the net new ARR approximately is coming from -- so this is encouraging drivers that kind of drove the results and the bid for this quarter.",
+      "turn_index": 24
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Steven Enders",
+      "text": "Okay. Okay. That makes sense. And then on -- I guess I want to follow up on some of the agents' discussion. And just kind of curious to how you're kind of viewing the monetization angle for both first-party agents and also for a third party? And I guess, kind of where you kind of feel like you have the right to win on using monday homegrown agents versus where it makes sense for third-party agents to be utilized instead?",
+      "turn_index": 25
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Roy Mann",
+      "text": "Yes, it's Roy. So we see that agents are going to be everywhere. Like really, people will have them for many different things like personal assistance, and maybe other different agents. And those, we want to allow them to monday to help people manage whatever they want to manage, whether it's even to know what's going on. Monday's own agents are really, really good at execution and analyzing and executing work and doing that together with other people.\nSo the collaboration part being built on top of monday give them access to all the data seamlessly and they're out of the box, working really well, while people can customize them to do any kind of work and also connect them to other platforms. So we feel, as part of the future vision we have of doing the work and not only managing the work, those agents are going to be the best collaborative agents between people and agents together.",
+      "turn_index": 26
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Next question comes from the line of Brent Thill with Jefferies.",
+      "turn_index": 27
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Unknown Analyst",
+      "text": "This is John on for Brent Thill. Two questions. On the credit pricing, the table has a lot of parameters depending on what type of usage there is. But -- and even at $0.01 per credit, I mean that could balloon of for customers. So I'm wondering how customers will measure what's been the customer reception on that new pricing table? And then second question, I don't know if you can talk a little bit about the in-quarter NDR since, I guess, thousand-plus has come down a little bit. And you did a little bit pricing lapping defacto.",
+      "turn_index": 28
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Casey George",
+      "text": "This is Casey George. So as it relates to the pricing model for AI credit, so it's been clear from our customers that they want transparency and control and governance of those credits. So we're giving them that as part of the platform, right? So they can see exactly who's using the credits. What is it used for? They can scope out the work that's being done that they can plan accordingly for their AI credit usage. So we're seeing that as a big driver for our platform. We continue to get feedback from customers that, that's what they want to see. So we're giving that power to the customers so that they can cover their credits.\nI'll hand it back to Eliran to answer the follow-on question.",
+      "turn_index": 29
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Eliran Glazer",
+      "text": "This is Eliran. John, I will answer the question on the MDR. So John, to your question, so first of all, lending expand dynamics. So we are seeing recent enterprise deals, they are landing bigger but larger customers typically commit to a multiyear agreement with more tractor expansion. So if you think about the 100,000 customers, they are lending and taking multiyear deals. . So this is 1 of the reasons why we are saying that 100,000 NDR is slightly below the 501. It's not related to churn. Actually, our growth retention is at all-time high.\nAnd we expect -- and it's important to that we expect 1% or 2% of temporary pressure for the upmarket and the metrics for the remainder of fiscal year 2026 as well have the pricing benefit that we spoke about.",
+      "turn_index": 30
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Next question comes from the line of DJ Hynes with Canaccord.",
+      "turn_index": 31
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "David Hynes",
+      "text": "Eliran, does the addition of usage-based elements into the model more effectively match your revenue with your costs tied to AI so that we could see better gross margin preservation over time?",
+      "turn_index": 32
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Eliran Glazer",
+      "text": "So as I said, when we were in the Investor Day, we said that we expect gross margin to be mid-80s. We were used to 90%, but because of the computing cost of AI, we said that we are expecting for the short term or for the foreseen future to have some impact. Overall, again, we're not seeing yet a significant impact on our gross margin. but we believe there is going to be additional cost regarding computing costs related to AI.",
+      "turn_index": 33
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "David Hynes",
+      "text": "Okay. And then, Eran, maybe following up with you 1 on the product side. Does the addition of voice capabilities with 1 AI push you any closer to turning service into more of a customer-facing application over time?",
+      "turn_index": 34
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Eran Zinman",
+      "text": "Yes. So I think currently, we're going to focus mostly on the integration into CR M&A work platform going forward. It's definitely also an opportunity for the service team. But overall, I think voice capabilities are important almost in any product right now. And like I said, the hardest part is not using technology, but actually customize it to your own needs. And I think both with agents and voice, this is exactly where we can shine. I think people are amazed at the technology where it's very hard to use it, especially when it's used through a prompt or a very hard-to-use user interface.\nAnd I think a monday really can help customers adopt agents and also voice agents in a very easy and intuitive way.",
+      "turn_index": 35
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Next question comes from the line of Zukin with Wolfe Research.",
+      "turn_index": 36
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Aleksandr Zukin",
+      "text": "Maybe the first one on new product ARR. It was north of 11% now, it continues to grow nicely. But maybe just -- can you dig in a little bit on the interplay between CRM and service, maybe share some details on that progress in the quarter.",
+      "turn_index": 37
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Eran Zinman",
+      "text": "Yes. So this is Eran. So I'll just give a kind of high-level numbers. So as we said, new products account for over 11% of our ARR. We see significant opportunity to accelerate a cross-sell presentation, especially in mid-market segments. We see more and more customers adopting more than 2 products and even more. CRM, as we said, we suppressed $100 million. We continue to grow very nicely, mostly in the SMB segment. And the new product campaigns is off to a strong start as well. In regards to service, we still see 70% of our ARR coming from mid-market and enterprise. So the ACV is the highest across all products.\nMost of the growth with service is driven by seat expansion and cross-sell with customer support workflows. So overall, we continue to see good demand across the [indiscernible] service. We continue to see acceleration -- not acceleration, but expansion of seats and usage. And we're very happy with the adoption so far.",
+      "turn_index": 38
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Aleksandr Zukin",
+      "text": "Okay. Perfect. And then maybe just a second one. The comment on maybe why the 50,000 and 100,000 ARR sequential adds were a bit lower. I realize some of that is seasonality, but I think in the last 6, 9 months, you talked about shifting performance marketing from lower end resources towards the upmarket, higher end. Maybe just comment on the performance of that shift. Is that driving out performance? Is that something we'll see later this year as seasonality improves?",
+      "turn_index": 39
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Eliran Glazer",
+      "text": "Alex, this is Eliran. So we said that there is some seasonality usually with Q4 and Q2 are the strongest stock market performance. We saw record net adds of $100,000 in Q4 of last year. So there was possibly some pull forward. And when we look at the mid and upmarket metrics, we look at them as a whole. So if you think about the 50,000 and the 500,000 customers, they were very healthy with 500,000 net adds at historical highs. So we look at them all together, and this is what kind of the way we view it.",
+      "turn_index": 40
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Next question comes from the line of Taylor McGinnis with UBS.",
+      "turn_index": 41
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Taylor McGinnis",
+      "text": "So you mentioned that the strength in the quarter was broad-based, but it did seem like a bit of a turnaround from the trends that we saw last quarter and the upside was higher. So I guess anything surprised you in the quarter in terms of areas that were stronger than expected? And then when you think about some of those trends, maybe you could unpack what you're seeing at the start of 2Q as well. And then not to throw too many questions in there, but just a housekeeping item. Do you mind impacting FX impact to revenue in the quarter and what's being expected for the full year guide?",
+      "turn_index": 42
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Eliran Glazer",
+      "text": "Taylor, this is Eliran. So as we said, I think the positive surprise was a contribution with ARR growing to almost 10% of net add ARR coming from the AI product, and this is something that we are very pleased with. . Other than that, we continue to see the upmarket momentum that we have seen in the past and enterprise customers continue to grow with the 500,000 net adds and numbers. With regards to FX, we did see small tailwinds from FX in Q1, but it didn't impact the overall reported growth rate. So it was very small.",
+      "turn_index": 43
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Next question comes from the line of Allan Verkhovski with BTIG.",
+      "turn_index": 44
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Allan M. Verkhovski",
+      "text": "Congrats on the strong quarter here. Can you talk about the level of engagement you've seen with your MCP? What types of customers you've seen use it more? Are there any trends you've seen thus far in terms of expansion activity of customers that have used MCP. And then I've got a quick follow-up.",
+      "turn_index": 45
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Eran Zinman",
+      "text": "Yes. This is Eran. So yes, we see some usage through the MCP protocol. And overall, like we see more and more agents signing up to the platform. We actually did invest a lot of work making monday accessible to agents and make it easy to agents to use the platform and sign up, but it's still not very significant numbers.",
+      "turn_index": 46
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Eliran Glazer",
+      "text": "Yes. It's small numbers, but like the ones who use it have a way stronger retention profile.",
+      "turn_index": 47
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Allan M. Verkhovski",
+      "text": "Got it. And then maybe just as a follow-up to an earlier one about your guidance. It looks like the Q2 revenue guide implies lower sequential growth in Q1 despite being a seasonally stronger quarter. So can you just unpack like what are you factoring in there? How much of it is prudent versus maybe potential impacts from any new dynamics you're seeing there?",
+      "turn_index": 48
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Eliran Glazer",
+      "text": "This is Eliran. So what we said is basically that we provided our guidance based on everything that we know today. And we believe that with the investment that we are doing on AI and the fact that we're going to see the impact throughout the year. We remain focused basically on managing your expectation rather than looking at just the next quarter. So on the cost side, we are investing in our product and GTM capabilities. The potential increase of expenses from AI, as I mentioned earlier, compute. We are expecting this to be increasing throughout the year.\nAnd there is an inherent uncertainty on how that revenue ramps when we are thinking about throughout the rest of the year. So when we take all of this together into account, our guidance does imply some moderation in H2.",
+      "turn_index": 49
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "And our next question comes from the line of Matt Bullock with Bank of America.",
+      "turn_index": 50
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Matthew Bullock",
+      "text": "I wanted to follow up on the 10% of net new ARR comes from AI products. It seems like it was one of the sources of upside in the first quarter. So maybe it would be helpful if you could help us think through the assumptions for consumption-based revenue or AI product revenue for the 2026 guide and how to think about that as a potential upside lever as we move throughout the year.",
+      "turn_index": 51
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Eran Zinman",
+      "text": "Yes. Matt, this is Eran. So look, as I said, all the revenue that we got this quarter was not from agents and consumption, mostly driven by in NAA blocks and sake. We still don't know how to model and expect revenue coming from agents and token-based usage. Happy to give some more color next quarter, but it's really hard to kind of model it out right now.",
+      "turn_index": 52
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Matthew Bullock",
+      "text": "Understood. And then just 1 quick follow-up, if I could, as well. Can you just help me think through some of the incentives you're going to be providing the enterprise customers to migrate them over to the new sees usage model?",
+      "turn_index": 53
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Casey George",
+      "text": "Yes, happy to. So our customers today are buying AI capabilities a la carte. We'll continue to make that offer available to them, but we're also looking at ways for where they can buy just like our new customers where they get incentives for buying AI packages along with their products. So that's how we're looking at it. That has not been announced yet. We'll look to do that. And again, it's an opt-in policy for our existing customers, we are not forcing any of our existing customers to move. But again, we're going to make it highly incentivized for them to do that.",
+      "turn_index": 54
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Roy Mann",
+      "text": "Yes. And just to add to that is it's not a migration. It's like very -- it's like a click the switch kind of thing. There's nothing they really need to do other than agree to it. So there's no sort of migrating anything.",
+      "turn_index": 55
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Ladies and gentlemen, that concludes the question-and-answer session. Thank you all for joining. You may now disconnect.",
+      "turn_index": 56
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "LMNR",
+  "call_date": "2026-03-12",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.05739413755463312,
+  "cosine_distance": 0.08238590931817591,
+  "sentiment_shift": 0.12322739815151468,
+  "question_difficulty_mean": 0.16273665545580876,
+  "baseline_mean": 0.06987205971276964,
+  "baseline_std": 0.018637218331945864,
+  "z_score": -0.6695163374648155,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5813683277279044,
+    "call_mean_answer_length": 374.54545454545456,
+    "call_hedge_density": 0.01920293809408958,
+    "call_pos_sentiment_mean": 0.3731107095425779,
+    "call_neu_sentiment_mean": 0.42937267978083005,
+    "call_neg_sentiment_mean": 0.19751661347055977,
+    "call_qa_similarity_mean": 0.35624401087825763,
+    "baseline_neg_sentiment_mean": 0.07428921531904509
+  },
+  "generated_at": "2026-05-20T05:58:33+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "DIBS",
+  "call_date": "2026-02-27",
+  "quarter": 4,
+  "year": 2025,
+  "pressure_score": 0.0,
+  "cosine_distance": 0.0,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.10826256916538364,
+  "baseline_mean": 0.0,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5541312845826918,
+    "call_mean_answer_length": 249.75,
+    "call_hedge_density": 0.023285695031627068,
+    "call_pos_sentiment_mean": 0.2678862512111664,
+    "call_neu_sentiment_mean": 0.6857771947979927,
+    "call_neg_sentiment_mean": 0.04633649904280901,
+    "call_qa_similarity_mean": 0.49497992421581505,
+    "baseline_neg_sentiment_mean": 0.04633649904280901
+  },
+  "generated_at": "2026-05-20T05:12:40+00:00"
+}

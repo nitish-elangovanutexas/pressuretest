@@ -1,0 +1,238 @@
+{
+  "ticker": "NVCR",
+  "company_name": "Novocure",
+  "call_date": "2026-04-30",
+  "quarter": 1,
+  "year": 2026,
+  "prepared_remarks": "Earnings Call Transcript\nNovoCure (NVCR) Q1 2026 Earnings Transcript\nBy\n\nMotley Fool Transcribing\n\n–\n\nApr 30, 2026 at 4:42PM EST\n\n\n\n\nImage source: The Motley Fool.\n\n\nDate\nThursday, Apr. 30, 2026 at 8 a.m. ET\nCall participants\nExecutive Chairman — William Doyle\nChief Executive Officer — Frank Leonard\nChief Innovation and Medical Officer — Uri Weinberg\nChief Financial Officer — Christoph Brackmann\nVice President, Investor Relations — Adam Daney\nNeed a quote from a Motley Fool analyst? Email\n[email protected]\nTakeaways\nNet revenue\n-- $174 million, up 12% year over year, primarily driven by ex-U.S. markets and currency tailwinds.\nOptune Lua revenue\n-- $3 million, doubling from $1.5 million in Q1 2025.\nRevenue guidance raised\n-- Full-year outlook updated to $690 million to $710 million, representing 5%-8% growth.\nGross margin\n-- 78%, improved from 75% in Q1 2025, attributed mainly to lower array costs and better supplier pricing.\nR&D expense\n-- $58 million, up 8%, driven by costs for the KEYNOTE D58 trial.\nSales and marketing expense\n-- $58 million, an increase of 5%, reflecting Optune Pax U.S. and Optune Lua Japan launches.\nG&A expense\n-- $86 million, up 92%, including a $43 million share-based compensation charge tied to Optune Pax’s approval; charge is non-cash with no share vesting.\nNet loss\n-- $71 million; excluding the share-based compensation charge, adjusted net loss was $28 million; loss per share reported as negative $0.62.\nAdjusted EBITDA\n-- Negative $0.3 million, improving from negative $5 million in Q1 2025.\nFull-year EBITDA guidance\n-- Adjusted EBITDA outlook narrowed to negative $15 million to breakeven, reflecting Q1 performance and launch expenses.\nCash and investments\n-- $432 million at quarter-end.\nActive patients\n-- 9% global growth; leading regions included Japan (20%), Germany (12%), and France (9%).\nOptune Pax FDA launch metrics\n-- 868 health care providers certified within 7 weeks post-approval, including 27 in academic centers; 169 prescriptions received, with 90 patient starts and 83 active patients at quarter-end.\nOptune Pax reimbursement\n-- \"first major payer coverage policy\" initiated via Elevance Health, covering over 30 million lives.\nPANOVA-4 trial\n-- Achieved a 74% disease control rate for TTFields with atezolizumab and Gem-Abraxane in metastatic pancreatic cancer, versus a 48% historical control.\nPersistence rate\n-- Quarterly 90-day persistence rate improved to 73% in 2025, up from below 70% in 2024.\nUpcoming catalysts\n-- Phase III TRIDENT trial top-line data expected in the next quarter to inform earlier use of TTFields in glioblastoma patients.\nProduct pipeline\n-- New cost-effective torso array under final design for Optune Pax and Optune Lua, targeting release for future clinical trials by year-end.\nInternational expansion timing\n-- Anticipated Optune Pax launches in Germany and Japan expected in the second half of the year, pending regulatory approvals.\nSummary\nNovoCure Limited\n\n(\nNVCR\n\n+1.16%\n)\nreported a significant early commercial response to the U.S. launch of Optune Pax for pancreatic cancer, reflected in rapid health care provider certification and prescription activity. Management cited the first national payer policy for Optune Pax and highlighted promising physician interest, particularly from academic centers previously hesitant to adopt TTFields technology. The company noted PANOVA-4 trial results supporting further metastatic pancreatic cancer development and discussed enhanced persistence metrics following product and process improvements. Updated guidance incorporates stronger top-line momentum and increased launch expenditures, emphasizing a pathway to profitability. Leadership identified the upcoming TRIDENT trial results and broader international access for Optune Pax as immediate catalysts for accelerating future growth.\nThe PANOVA-4 trial not only met its primary endpoint but reinforced TTFields’ potential in combination with new therapeutic modalities.\nEnhanced sales operations now allow dual-coverage detailing for multiple indications, broadening commercial reach.\nAcademic center engagement for Optune Pax reflects a shift, with historically slow adopters now participating early in the therapy’s rollout.\nCompany executives stated, \"have a penetration rate in our active markets of around 40%.\" for TTFields in glioblastoma, implying further market opportunity.\nThe guidance range for revenue attributable to Optune Lua and Optune Pax remains unchanged at $15 million to $25 million for the year.\nNew product development, including a torso array, aims to drive both patient usability and manufacturing efficiency.\nCompany confirmed that NCCN guideline inclusion for Optune Pax has been filed and is being closely monitored as a driver of further payer adoption.\nIndustry glossary\nTTFields (Tumor Treating Fields)\n: A noninvasive cancer treatment modality utilizing alternating electric fields to disrupt cancer cell division.\nOptune Pax\n: TTFields device developed by NovoCure for the treatment of locally advanced pancreatic cancer.\nOptune Lua\n: TTFields device indicated for malignant pleural mesothelioma and investigated for other thoracic cancers.\nOptune Gio\n: TTFields device platform used for treating glioblastoma.\nPANOVA-3/PANOVA-4\n: Clinical trials evaluating TTFields devices in pancreatic cancer, with PANOVA-4 targeting the metastatic setting.\nLUNAR trial\n: NovoCure’s clinical program for assessing TTFields in lung cancer populations.\nTRIDENT trial\n: Phase III clinical trial exploring the effect of introducing TTFields earlier, alongside chemoradiation, in glioblastoma treatment.\nKEYNOTE D58 trial\n: Ongoing trial for TTFields used in combination with checkpoint inhibitors in newly diagnosed glioblastoma.\nNCCN (National Comprehensive Cancer Network)\n: U.S. organization that develops evidence-based guidelines for cancer care.\nArray\n: The conductive component of TTFields devices, placed on the patient to deliver electrical fields to tumor regions.\nFull Conference Call Transcript\nAdam Daney:\nGood morning, and thank you for joining us to review NovoCure's First Quarter 2026 financial performance. I'm joined on the phone today with our Executive Chairman, Bill Doyle; CEO, Frank Leonard; Chief Innovation and Medical Officer, Uri Weinberg; and CFO, Christoph Brackmann. Other members of our executive leadership team will be available for Q&A. For your reference, slides accompanying this earnings release can be found on our website, novocure.com on the Investor Relations page under Quarterly Reports. Before we start, I would like to remind you that our discussions during this conference call will include forward-looking statements, and actual results could differ materially from those projected in these statements.\nThese statements involve a number of risks and uncertainties, some of which are beyond our control and are described from time to time in our SEC filings. We do not intend to update publicly any forward-looking statements, except as required by law. Where appropriate, we will refer to non-GAAP financial measures to evaluate our business, specifically adjusted EBITDA, a measure of earnings before interest, taxes, depreciation, amortization and share-based compensation. We believe adjusted EBITDA is an important metric as it removes the impact of earnings attributable to our capital structure, tax rate and material noncash items and best reflects the financial value generated by our business.\nWe do not provide forward-looking guidance for adjusted EBITDA on a GAAP basis due to the inability to predict share-based compensation expenses contained in the reconciled GAAP measure net income without reasonable efforts. Reconciliations of non-GAAP to GAAP financial measures are included in the press release, earnings slides and in our Form 10-Q filed with the SEC today. These materials can all be accessed from the Investor Relations page on our website. Following our prepared remarks, we will open the line for your questions. I will now turn the call over to our Executive Chairman, Bill Doyle.\nWilliam Doyle:\nThank you, Adam. This morning, we reported results for the first quarter of 2026, and I am pleased to say we've had a strong start to the year. Both active patients and net revenues grew at double-digit rates year-over-year. Our launch in pancreatic cancer is off to a promising start, and we are making progress on our journey to profitability. With a number of additional catalysts expected this year, we look forward to building on this strong first quarter. On today's call, we will begin with a review of our pancreatic cancer program. Frank will then provide an update on our GBM and lung cancer programs.\nChristoph will conclude with a review of our first quarter financial performance before we open the line for questions. The leading news in the quarter was the FDA approval and subsequent U.S. launch of Optune Pax for patients with locally advanced pancreatic cancer. Physician feedback has been positive since the PANOVA-3 data were presented and published at ASCO last year. There is broad recognition of the importance of the outcomes observed, including extensions in overall survival and time to pain progression. We believe Optune Pax can play a significant role in the treatment of pancreatic cancer, and we are pleased to be bringing Optune Pax to pancreatic cancer patients.\nThe early days of our Optune Pax commercial launch have been encouraging. We received FDA approval on February 11. In the 7 weeks, between the approval and quarter end, we certified 868 health care providers, 27 of whom are prescribers in academic centers. An exciting development as historically, we've seen slower adoption of TTFields therapy in academic centers. Through March 31, we've received 169 prescriptions and completed 90 patient starts. We ended the quarter with 83 patients on therapy and a backlog of starts in the funnel. We are also pleased to report our first major payer coverage policy for Optune Pax with Elevance Health, covering over 30 million lives.\nIt will take a few quarters to fully understand the Optune Pax adoption curve and reimbursement dynamics. But again, the early signals are very encouraging. During the quarter, we also announced top line data from the Phase II PANOVA-4 trial, evaluating TTFields therapy together with atezolizumab and Gem-Abraxane in metastatic pancreatic cancer. PANOVA-4 met its primary endpoint with a disease control rate of 74% compared to 48% in the historical control. Median duration of therapy was 25.6 weeks, a strong indication that TTFields therapy is feasible for use in the metastatic population. As the pancreatic cancer treatment landscape evolves, we will evolve with it.\nAfter years of limited clinical success in pancreatic cancer, the medical community has seen positive outcomes in the PANOVA-3 and PANOVA-4 trials, and positive data from a trial testing the pan-RAS inhibitor, daraxonrasib in second-line metastatic pancreatic cancer. RAS inhibitors are likely to be an important backbone therapy in pancreatic cancer in the future, and we are working to understand the benefits of their concomitant use with Tumor Treating Fields. Earlier this month, at the American Association of Cancer Research, or AACR Annual Congress, 2 posters were presented, which evaluated in vitro and in vivo use of TTFields with daraxonrasib in pancreatic cancer models.\nThe data presented show that KRAS inhibition, which blocks upstream oncogenic signaling and the down-regulation of the c-Myc protein caused by TTFields produced greater antitumor activity when used together compared to either therapy used alone. These data are promising, warrant clinical investigation and will be important inputs as we consider the next steps in our pancreatic cancer program. Finally, a quick update on our product development initiatives. Over the last year, we've launched a number of product enhancements aimed at making TTFields therapy easier for patients and prescribers. This includes an HCP portal, which simplifies the prescription process, lighter, more flexible, more comfortable HFE arrays for Optune Gio, a mobile app to help patients and caregivers navigate their TTFields experience.\nWe are starting to see the fruits of these enhancements in our 90-day persistent rate, which hovered below 70% as recently as 2024. In 2025, we have seen quarterly persistence rates tick up to 73%. Our next major product improvement will be a new array for the torso. We are now finalizing the design, which will be compatible with Optune Pax and Optune Lua. The new arrays are designed to make major improvements in comfort and usability. We also expect these arrays to be more cost effective to manufacture. We have completed usability testing in healthy volunteers and are evaluating performance in non-small cell lung cancer patients.\nOur next aim is to have the new arrays available for use in future pancreatic and lung cancer clinical trials by year-end. I'll now pass the call over to Frank for an update on our GBM and lung cancer programs.\nFrank Leonard:\nThank you, Bill. Our Optune Gio business remains the core driver of our commercial portfolio. We are off to a strong start to the year with 9% year-over-year growth in active patients globally. We saw our strongest growth in Japan, Germany and France, which contributed 20%, 12% and 9% year-over-year active patient growth, respectively. Our global market segment also had an outstanding quarter with 17% active patient growth, driven by a promising launch in Spain. We believe we can maintain low to mid-single-digit active patient growth in our mature markets and even higher growth in new markets like Spain and Czechia.\nThe next major catalyst in our GBM program will be top line data from the Phase III TRIDENT trial expected in the second quarter. The TRIDENT results will provide us with a better understanding of how TTFields can work with radiation therapy. TRIDENT moves the start of Optune Gio earlier in the GBM treatment journey, beginning with chemoradiation rather than following chemoradiation. In TRIDENT, the patient population eligible for inclusion is broader than our EF-14 trial. In the EF-14 trial, patients who progressed in the short time between chemoradiation and screening were not eligible for randomization.\nIn the TRIDENT trial, where randomization occurs prior to the start of chemoradiation, we are able to assess the use of TTFields in this previously ineligible cohort. We expect TRIDENT to give further insight into whether earlier use of TTFields therapy can drive additional survival benefit to a broader population of eligible patients. Turning now to Optune Lua. In March, we received national reimbursement in Japan and began treating commercial patients. Japan provides a promising market for Optune Lua as our LUNAR clinical trial data more closely reflect the standard of care in Japan. On March 15, we hosted a symposium with approximately 250 Japanese lung cancer physicians in attendance, including a number of leading key opinion leaders.\nWe are in the early stages of our launch, but we're encouraged by the physician interest and engagement thus far. On the clinical trial front, as I have said from the beginning of my tenure as CEO, we need to update our strategy for the LUNAR-2 trial. We are exploring options now to modify the trial with the goals of compressing the time line to completion and significantly reducing the cost. We look forward to engaging with regulators to discuss the potential changes and providing a full update later this year. Overall, this was a very strong quarter, and we are pleased with our progress.\nOur commercial focus is on expanding adoption in GBM, maintaining the momentum of our Optune Pax launch and capturing value in the markets where Optune Lua potential is greatest. We've reached a number of exciting commercial and clinical milestones in the first quarter and look forward to sharing more information on additional catalysts throughout the year. Christoph will now walk through our financial results from Q1.\nChristoph Brackmann:\nThank you, Frank, and thank you all for joining us this morning. We had a strong start to the year, continuing our momentum from 2025. Net revenue in the first quarter was $174 million, an increase of 12% year-over-year. The increase was driven primarily by continued growth in our markets outside the U.S., including increases of $6 million and $5 million from Germany and France, respectively. Germany benefited from increased approval rates, which provided a onetime benefit of $2.5 million and France benefited from contract performance improvements, which provided a onetime benefit of $1 million. We also had a $5.6 million tailwind from changes in foreign exchange rates compared to Q1 2025.\nNet revenue from Optune Lua in the first quarter was $3 million compared to $1.5 million in Q1 2025. Based on the strength of our first quarter results in GBM, we are updating our full year revenue guidance to a range of $690 million to $710 million, representing 5% to 8% growth. We are maintaining the range for combined revenue from Optune Lua and Optune Pax at $15 million to $25 million for the year. Gross margin in the quarter was 78% compared to 75% in Q1 of 2025. This was primarily driven by lower cost for arrays, resulting from improved array utilization and lower supplier prices.\nWe continue to expect annual gross margin in the mid-70s for the full year 2026 as we bring more Optune Pax patients on therapy prior to establishing broad reimbursement. Research and development costs in the quarter were $58 million, an increase of 8% compared to the same period in 2025. This was primarily driven by increased costs associated with the KEYNOTE D58 trial. As a reminder, this is a 700-plus patient trial, which we expect to fully enroll by the end of this year. Sales and marketing expenses in Q1 were $58 million, up 5% from Q1 2025. This was driven by launch costs for Optune Pax in the U.S. and Optune Lua in Japan.\nG&A costs in the quarter were $86 million, up 92% from the same period last year. As we mentioned last quarter, we incurred a $43 million share-based compensation charge triggered by the approval of Optune Pax. I do want to note, this expense is included for GAAP accounting purposes and the grant associated with this charge did not vest and shares were not distributed. Our net loss for the quarter was $71 million compared to $34 million in Q1 2025. Excluding the onetime share-based compensation expense, net loss was $28 million. Loss per share in the quarter was negative $0.62. Adjusted EBITDA in the quarter was negative $0.3 million compared to negative $5 million in the first quarter of 2025.\nWe are updating our full year adjusted EBITDA guidance this morning to a range from negative $15 million to breakeven. This reflects our strong start to the year as well as accelerated expenses from our Optune Pax launch. Our cash and investment balance as of March 31, 2026, was $432 million. Thank you all for joining us this morning. We will now open the line for Q&A.\nOperator:\n\n[Operator Instructions]\nAnd our first question will be coming from Jonathan Chang of Leerink Partners.\nJonathan Chang:\nCan you provide any more color on the early Optune Pax launch, like the number of prescribers, the types of centers where you're seeing utilization, the early clinician-patient feedback and help us contextualize how does this compare to the early lung cancer launch experience?\nFrank Leonard:\nThanks, Jonathan. I appreciate the question. We are seeing -- we're really proud of the Optune Pax launch, both our preparation and also the response from the market. As Bill mentioned in his opening remarks, we had over 800 certified prescribers in just the opening months essentially of approval. And as Bill mentioned, 27% of the certified prescribers are from academic centers. So -- and while we haven't given specific statistics on the number of prescribers who actually wrote in the first quarter, I will say that we were pleased it was a breadth across both community and academic centers as well as prescribers who even in the first 5 weeks wrote multiple prescriptions.\nSo I think as we get into the second quarter, we will be able to give a little bit more color on that, quantitative color on the prescribing trends and who's prescribing and where. But in terms of just the aggregate demand experienced in the first month of launch, we're very pleased. And to your question about how this compares to our lung launch, we would say this is across whatever metric we want to look at, it is multiples of demand and really just a significantly different reception from the prescribing community.",
+  "qa_turns": [
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "And our next question will be coming from the line of Jason Bednar of Piper Sandler.",
+      "turn_index": 0
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Jason Bednar",
+      "text": "Congrats on a really nice quarter here, and let's start with Optune Pax. So I'll start there. The launch here is significantly better than what we were thinking. It's really nice to see. Wondering if you could expand a bit more on those results, where you're at with physician onboarding versus the prescribing process? And I guess what I mean there is your early metrics are so strong and it has me wondering about the steps of converting certified prescribers into active prescribers. Are those prescribers predominantly those that were part of your trial and that's why they were able to move so quickly with prescriptions?\nJust any color you can add here as we think about the launch curve after physicians are certified and then moving into that prescribing of Pax?",
+      "turn_index": 1
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Frank Leonard",
+      "text": "Jason, thank you. I appreciate the question. I -- what I would say is the -- to your question sort of around who are those initial prescribers, I would -- I'd actually start by just referencing back to the fact that this is the first significant approval for this indication. It's really -- if we look just to the stage of locally advanced pancreatic cancer, this is the first successful trial in that space.\nAnd so while we've seen very strong engagement from the PIs who participated in the trial, the interest is much broader and it was essentially a buildup of demand that we were able to meet at centers we've never worked with before, academic centers where we've previously had very difficult times gaining access, wanted to have us in there in the first week so that they could immediately add to the standard of care. So I think we'll really go into some more numbers as we move forward into the next quarters. But it's -- again, I would say this is very broad-based. There's not one single cohort that was able to go first.\nAnd more on that process, to remind everyone, as a device, we do have to train and certify our physicians as a first step. Once that training and certification takes place, they're able to prescribe right away. Those who have worked with us before might be a little bit more sophisticated about how to transfer prescriptions to us. But what I'm also really pleased to say is we've made significant investments over the last year into our HCP portal, the ways in which we work with physicians to transfer the prescription and the related data that's required, such that I think we've lowered the bar in terms of the burden on the physician.\nAnd as a result, we've seen that speed to prescribe.",
+      "turn_index": 2
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "William Doyle",
+      "text": "Yes. And the only thing I'd add is, the enthusiasm really started to build at ASCO last year when the data were first presented. We saw just a great reception from the podium. And so to your specific question, the interest has certainly had an opportunity to build and was far broader than the investigators.",
+      "turn_index": 3
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Jason Bednar",
+      "text": "Okay. Excellent. Maybe one quick follow-up and then a separate one on guidance. But the quick follow-up. Just as we think about that launch curve, you've been in market here for now 3 months or almost 3 months, what does that look like in February to March to April, if you can share any real-time feedback on that launch trajectory? And then separately on the guidance question, for revenue, you bumped the midpoint by $10 million. You beat consensus by $6 million. So that's a pretty strong statement out of the gate here.\nMaybe talk about, if you could, what you're seeing real time over the balance of the year that left you comfortable raising the revenue guide by more than the beat.",
+      "turn_index": 4
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Frank Leonard",
+      "text": "Jason, thank you. I'll comment on the trajectory and then pass to Christopher -- to Christoph. We can't comment on the trajectory in the current quarter, only on the prior quarter. I would just say that when you look at the -- there's FDA approval, then there's a bit of time where we have to refile our labeling with the FDA. And you look at the last quarter really in the context of essentially 4 weeks in market. I'd go back to what I said before that we were very pleased by the results.\nWe see real strength in that initial interaction with our customers, and we are very excited for the rest of the year in terms of continuing the momentum.",
+      "turn_index": 5
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Christoph Brackmann",
+      "text": "And Jason, Christoph here. So to your guidance question, I would say we came off the back of a very strong 2025 and also Q4. And we have seen in Q1 that we were able to carry that momentum into 2026, which gave us the confidence combined with the strong revenue also in Q1 to increase the guidance to what we have seen, $690 million to $710 million.",
+      "turn_index": 6
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "And our next question will be coming from Kevin DeGeeter of Ladenburg Thalmann.",
+      "turn_index": 7
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Kevin DeGeeter",
+      "text": "Congratulations on the great quarter reimbursement payers. Specifically, can you comment on kind of what you're seeing in terms of your funnel for contracting and coverage with some of the commercial payers and provide any updated thoughts on engagement and potential for CMS coverage for initiatives for Optune Pax?",
+      "turn_index": 8
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Frank Leonard",
+      "text": "Sorry, Kevin, I think we were getting a little bit of a breakup as you were speaking. But I believe the question was directed towards our pathway to coverage and reimbursement for Optune Pax in the United States. I'll start by highlighting, we're very pleased to have our first major payer in the United States covering Optune Pax with the coverage policies from Elevance Health. And we will continue to work through the reimbursement process with the other major payers, private payers in the U.S.\nWhat we typically said is that we expect around a year to 2 years to work through a coverage process in the U.S. for private payers and more on that full 2-year window to have a revision to the LCD for the Medicare coverage. In terms of contracting, we have existing contracts in place with most payers in the United States. So we actually do not have a contracting step on Pax. So once a coverage policy is issued, the reimbursement is in place on the private side.\nLastly, I'll just close by noting, yes, we do have a -- we do view NCCN guideline inclusion as an important step, and we are continuing to -- we have filed with the NCCN to request that guideline inclusion, and we are monitoring the situation closely.",
+      "turn_index": 9
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "And our next question will be coming from the line of Vijay Kumar of Evercore ISI.",
+      "turn_index": 10
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Vijay Kumar",
+      "text": "Congrats on a nice print here. I guess, Bill or Frank, my first one was on this pancreatic, you noted RAS inhibitors. I'm curious on -- just to be clear, right, I think Revolution Medicine had some good data. Just to be very clear, their approval is not a headwind to your -- to Pax, correct? Because correct me if I'm wrong, the indications for your trial are very different versus Revolution Medicine. Could you just clarify that, please?",
+      "turn_index": 11
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Frank Leonard",
+      "text": "Thank you. Vijay, thank you very much. Thank you for the question. We are -- when we think about Optune Pax and TTFields for pancreatic cancer, I always want to highlight back to the fact that pancreatic tumors have a low bioavailability for drugs, which is a big reason for why so many drugs have failed in this indication in clinical trials. It's also a reason why we see that excitement from the treating community because using a physical modality against the tumor is intuitive when the tumor has low bioavailability. And so we see this strength of interest in Optune Pax that you see in the commercial launch numbers.\nBut we also do see that in clinical interest in the number of IST proposals we receive and the interest in helping us to design our next wave of trials in pancreatic cancer. And so we think our device has a unique biophysical rationale for being used in this tumor type that is definitely recognized by the treating community. In addition, as you know, we are approved for locally advanced pancreatic cancer, which is a unique indication from where the current RAS inhibitor Phase III data is. And we think -- we feel very confident that we have and we have a path forward to continue the excitement that we've seen in the first quarter.\nAnd I'll ask my colleague, Dr. Uri Weinberg, to comment also on the exciting work that we've been doing to study TTFields with RAS inhibitors.",
+      "turn_index": 12
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Uri Weinberg",
+      "text": "Thank you. Vijay, nice to hear you. So first, we certainly continue to monitor developments in all of our areas of interest, and we are encouraged to see the new advancements in the field of KRAS inhibition, first and foremost, for the patients, but also with a direct relation to TTFields. TTFields were found to inhibit c-Myc, which is a master regulator of cancer cell proliferation and growth. And therefore, TTFields mediation of down regulation of c-Myc may actually complement the upstream KRAS inhibition and that would support a potentially more effective therapeutic strategy when the 2 treatments are used together. And in particular, c-Myc can also be activated through bypass pathways.\nAnd as Bill mentioned in his opening remarks, this data has been recently presented at AACR. And in a very complementary fashion, an independent group of researchers from Mayo Clinic looked into the concomitant use of TTFields and KRAS inhibitors and also repeated these same preclinical effects and reported even a synergy when the 2 therapies were used concomitantly. So we're very encouraged by that.",
+      "turn_index": 13
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "William Doyle",
+      "text": "Yes. And if we take a step back, we have always maintained that with Tumor Treating Fields, there's an opportunity to use with whatever the prevailing pharmacological therapy may be. We've never seen anything less than additivity. And in certain circumstances, we see the synergy. And now we've seen synergy with checkpoint inhibitors, and we're pursuing that strategy with our KEYNOTE D58 trial in newly diagnosed GBM. And we can see a future here where synergy with RAS inhibitors is also a very interesting treatment strategy for these very difficult to cure cancers.",
+      "turn_index": 14
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Vijay Kumar",
+      "text": "That's helpful. And then maybe one big picture question. Look, when I look at the stock, clearly, you're not getting any benefit or credit for some of the positive data you've had, whether it's lung or pancreatic. I'm curious, maybe The Street wants to see a revenue acceleration rate. When I look at your assumptions here for GBM in pancreatic, could NovoCure get back to double-digit growth in fiscal '27? Generally talk about big picture, how we should be thinking about the revenue profile for this company going forward?",
+      "turn_index": 15
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Frank Leonard",
+      "text": "Thank you, Vijay. I'll comment first on big picture themes around the GBM business and the panc launch, and I'll turn it to Christoph to talk a little bit more about how we think about the long-term financial forecast. So first, we were very pleased to see growth last year in our GBM business, not just international growth and opening new markets, but also in the core original business in the U.S. growing. And as we've said before, we believe there are many more patients that can benefit from the therapy as we currently have a penetration rate in our active markets of around 40%.\nAnd so what we've continued to do is invest into our GBM business, both the capabilities on the sales and marketing side to essentially dual cover doctors. So if we have a call in a community practice for pancreatic cancer, that same rep is now able to reach the community doctors to detail on GBM. We've also improved our sales operations and targeting capabilities. And we really do feel like we've -- in our core businesses and particularly in the U.S., we have the right team and the right skill sets in place right now to continue driving growth. And so we think that foundation alone is really an exciting way to think about the next few years.\nAnd what we've seen in panc right now gives us really an incredible amount of confidence that we can turn this into the second major revenue pillar for the company in the coming years.",
+      "turn_index": 16
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "William Doyle",
+      "text": "Yes. And maybe just to add to this. So to reiterate our strategies very clearly to get to double-digit revenue growth and also to profitable growth and to profitability. Now we gave you a revenue guide for this year that is ranging from 5% to 8% at the midpoint, 7% growth, with what I would classify as very initial contributions from new indication launches. So with more material contributions from new indication launches, we expect to get into the double-digit revenue growth in the future.",
+      "turn_index": 17
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "And our next question will be coming from the line of Lawrence Biegelsen of Wells Fargo.",
+      "turn_index": 18
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Larry Biegelsen",
+      "text": "I wanted to ask, of course, about pancreatic launch. When we look at newly diagnosed GBM, I mean, we only have one quarter here, but it looks remarkably similar on prescriptions, better on active patients. I know it's early, but what can you say when comparing prescription launch in the U.S. and active patient ramp for newly diagnosed GBM to pancreatic? Let me just -- I'll just ask all my questions upfront. Was there any pent-up demand for Q1 for panc? And then just OUS timing, remind us of that, please.",
+      "turn_index": 19
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Frank Leonard",
+      "text": "Larry, this is Frank. Thank you for the question. I would say we are -- we haven't really focused on comparing panc to our prior GBM launch for a technical aspect, which is simply that, in GBM, we have been approved in second-line therapy and had existing relationships. And then in first-line therapy, the data had been out for over a year before the FDA approval. So it's sort of, on a technical basis, becomes difficult to take an exact comparison point.\nSo what I would anchor back to is the almost 900 prescribers who sought certification in the first month of commercial availability, that was -- as we said before, that was multiples of the certification levels that we saw in our LUNAR launch. We did -- we do think that reflects some pent-up demand, but I don't -- I wouldn't -- I would absolutely not describe it as a bolus of patients waiting and that it then normalize to a different level. We do just see really strong interest from the community in using Optune Pax to treat their locally advanced pancreatic cancer patients.",
+      "turn_index": 20
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Larry Biegelsen",
+      "text": "And OUS?",
+      "turn_index": 21
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Frank Leonard",
+      "text": "OUS, I'm sorry. Thank you. In terms of OUS, Christoph, can you remind me of the timing?",
+      "turn_index": 22
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Christoph Brackmann",
+      "text": "Yes. So we said second half for both Germany -- PUD approval as well as for Japan approval.",
+      "turn_index": 23
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "William Doyle",
+      "text": "Yes. And all the applications are in. We're now just sort of waiting for those submissions. And if everything proceeds as expected, we would launch in the second half in those regions.",
+      "turn_index": 24
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Larry Biegelsen",
+      "text": "I mean just maybe one follow-up, Frank. I mean do you think pancreatic could ultimately be bigger than GBM overall? I think you've said that in the past.",
+      "turn_index": 25
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Frank Leonard",
+      "text": "Well, I certainly -- so I think the pancreatic -- I think in our current indication in locally advanced pancreatic cancer, we believe there's around 16,000 patients, which is already bigger than the eligible patient population for Optune Gio. As we build our evidence base out and when we're able to secure those additional FDA approvals, it just keeps growing from there. So we are absolutely committed to success in this indication. And we think it has -- as I said before, have a tremendous potential to be our second major revenue driver. And ultimately, the population is bigger than the population for our current business.",
+      "turn_index": 26
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "And our next question will be coming from the line of Emily Bodnar of H.C. Wainwright.",
+      "turn_index": 27
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Emily Bodnar",
+      "text": "Congrats on the strong first quarter. Curious if you could comment a bit on your confidence for converting the full 169 prescriptions to active patients. And if you can kind of comment on what the average timing has been to converting patients from prescription to active therapy?",
+      "turn_index": 28
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Frank Leonard",
+      "text": "Thank you. Yes, I appreciate the question because it was a big difference between prescriptions and active patients. And that simply reflected the timing of having 1 month at the very end of the quarter. So we don't intend to give the number of starts every quarter, but what I will highlight is that we had 90 starts, which led to that active patient number. And we saw typically about 2 weeks -- a little bit less than 2 weeks from a prescription to a start. And so those -- that 163 reflects a lot of prescriptions right at the very, very end of the quarter that we'll be talking about on the next earnings calls.",
+      "turn_index": 29
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Emily Bodnar",
+      "text": "And maybe on metastatic pancreatic cancer, obviously, you have the PANOVA-4 data and then you also touched on kind of potential synergy with RAS inhibitors. So maybe just kind of talk about general strategy moving forward for the metastatic setting.",
+      "turn_index": 30
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Uri Weinberg",
+      "text": "So thank you for the question. Yes, we were very pleased to read out the results of the PANOVA-4 study. As a reminder, our single-arm study in metastatic pancreatic cancer patients using a combination of gemcitabine, Abraxane, atezolizumab, Roche's PD-L1 inhibitor and TTFields. The primary endpoint was met. The primary endpoint was the disease control rate, and it was significantly increased as a result of using the therapeutic regimen in PANOVA-4 from the historical 48% into 74%.\nI think that the most important message and takeaways from the PANOVA-4 study is seeing again the relevance of TTFields therapy as a therapeutic approach to be developed in the metastatic setting in pancreatic adenocarcinoma and following our demonstration of the clinical effectiveness in locally advanced pancreatic cancer in the PANOVA-3 study and the approval, that paves the way to continue the studies and development in this space. And the population used TTFields therapy at a very desirable usage rate. They use it for the entire protocol indicated duration of treatment.\nSo again, a great evidence of TTFields' role in metastatic pancreatic cancer, and we continue to explore directions and may come back to this regimen at a later point in time.",
+      "turn_index": 31
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "And our next question will be coming from the line of Jessica Fye of JPMorgan.",
+      "turn_index": 32
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Tanmay Patwardhan",
+      "text": "This is Tanmay on for Jess. I wanted to ask for Optune Pax. You mentioned the backlog of starts in the funnel. So I was wondering if the conversion from prescriptions to patients on therapy is going on as expected. And what do you expect the ultimate throughput to be from these -- from those getting prescriptions to those patients who eventually initiate on therapy?",
+      "turn_index": 33
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Frank Leonard",
+      "text": "Thank you for the question. We -- again, we wanted to be clear that with 1 month of -- essentially 1 month and a few days of activity where we could take prescriptions and convert to starts, it's hard to give definitive answers around trends about the rate at which prescriptions will convert to starts. But the consistent theme I want to emphasize is that we are very pleased with the results so far. We -- in particular, I'm really proud of our team who helps the patients, our technical support team that's helping our patients. This is a new patient population for them.\nAnd I think the main takeaway in that first month is that we can execute quickly to move from prescription to start. And as I mentioned, we had a good strong correlation between active patients at the end and the starts that occurred in the quarter, which means we're giving them the right support to make the treatment feasible and practical.",
+      "turn_index": 34
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "And I'm showing no further questions at this time. I would like to turn the conference back to Bill Doyle for closing remarks.",
+      "turn_index": 35
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "William Doyle",
+      "text": "Thank you. I'd like to end the call today by noting that NovoCure was able to maintain the momentum of the fourth quarter last year with strong and consistent execution in Q1. We're very pleased to see growth in both -- double-digit growth in both active patients and net revenue compared to Q1 last year and very promising early signals, both from our LUNAR launch in Japan and, of course, from our Optune Pax launch in the U.S. Our 2026 catalysts remain on track. We look forward to continued reporting on the developments in the commercial business as well as the top line data from TRIDENT up next in next quarter.\nWe didn't talk about it much in this call, but our company remains focused not only on achieving the double-digit growth that Christoph underlined, but also on bringing the company to profitability. And we were also very pleased with our numbers in that regard. And we are focused as we have updated in our guidance on our path to profitability. So thanks to the team at NovoCure, thanks to our patients and clinicians. And it's an exciting time to be at the company, and we look forward to reporting our progress in the next quarters.",
+      "turn_index": 36
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "And this concludes today's program. Thank you for participating. You may now disconnect.",
+      "turn_index": 37
+    }
+  ]
+}

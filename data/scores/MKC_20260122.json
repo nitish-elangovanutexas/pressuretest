@@ -1,0 +1,28 @@
+{
+  "ticker": "MKC",
+  "call_date": "2026-01-22",
+  "quarter": 4,
+  "year": 2025,
+  "pressure_score": 0.023428432589728352,
+  "cosine_distance": 0.06760691186104528,
+  "sentiment_shift": 0.00011490527062844175,
+  "question_difficulty_mean": 0.15382268291835258,
+  "baseline_mean": 0.02136760698109803,
+  "baseline_std": 0.0029144475254107897,
+  "z_score": 0.7071067811865475,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5769113414591763,
+    "call_mean_answer_length": 173.76923076923077,
+    "call_hedge_density": 0.05024311310512672,
+    "call_pos_sentiment_mean": 0.28349709854676175,
+    "call_neu_sentiment_mean": 0.6816220787855295,
+    "call_neg_sentiment_mean": 0.03488081127691727,
+    "call_qa_similarity_mean": 0.35161897417100163,
+    "baseline_neg_sentiment_mean": 0.03476590600628883
+  },
+  "generated_at": "2026-05-20T06:09:55+00:00"
+}

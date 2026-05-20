@@ -1,0 +1,28 @@
+{
+  "ticker": "KMB",
+  "call_date": "2026-04-28",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.02856604787308218,
+  "cosine_distance": 0.04753741133923839,
+  "sentiment_shift": 0.042554703092069504,
+  "question_difficulty_mean": 0.25442833837666995,
+  "baseline_mean": 0.03225177833197038,
+  "baseline_std": 0.005212410002211299,
+  "z_score": -0.7071067811865476,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.627214169188335,
+    "call_mean_answer_length": 229.125,
+    "call_hedge_density": 0.05090725150122411,
+    "call_pos_sentiment_mean": 0.37447109166532755,
+    "call_neu_sentiment_mean": 0.516192511189729,
+    "call_neg_sentiment_mean": 0.10933640669099987,
+    "call_qa_similarity_mean": 0.5214071778366453,
+    "baseline_neg_sentiment_mean": 0.06678170359893036
+  },
+  "generated_at": "2026-05-20T05:53:26+00:00"
+}

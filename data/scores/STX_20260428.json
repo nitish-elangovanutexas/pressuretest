@@ -1,0 +1,28 @@
+{
+  "ticker": "STX",
+  "call_date": "2026-04-28",
+  "quarter": 3,
+  "year": 2026,
+  "pressure_score": 0.017424376074918164,
+  "cosine_distance": 0.04441224027917978,
+  "sentiment_shift": 0.010738285267959651,
+  "question_difficulty_mean": 0.12623653211913666,
+  "baseline_mean": 0.02141393310941464,
+  "baseline_std": 0.006455059580740893,
+  "z_score": -0.6180511557785756,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5631182660595684,
+    "call_mean_answer_length": 121.71428571428571,
+    "call_hedge_density": 0.03456770228201105,
+    "call_pos_sentiment_mean": 0.2516990527510643,
+    "call_neu_sentiment_mean": 0.7279881180397102,
+    "call_neg_sentiment_mean": 0.02031283133796283,
+    "call_qa_similarity_mean": 0.4622704754233427,
+    "baseline_neg_sentiment_mean": 0.031051116605922482
+  },
+  "generated_at": "2026-05-20T07:03:05+00:00"
+}

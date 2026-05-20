@@ -1,0 +1,28 @@
+{
+  "ticker": "FCX",
+  "call_date": "2026-04-23",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.1823454950902129,
+  "cosine_distance": 0.5124786221384887,
+  "sentiment_shift": 0.01637751436127084,
+  "question_difficulty_mean": 0.1612950734514743,
+  "baseline_mean": 0.08712222809259797,
+  "baseline_std": 0.08787818231634559,
+  "z_score": 1.0835825740549385,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5806475367257371,
+    "call_mean_answer_length": 53.0,
+    "call_hedge_density": 0.0,
+    "call_pos_sentiment_mean": 0.6584908962249756,
+    "call_neu_sentiment_mean": 0.32959654927253723,
+    "call_neg_sentiment_mean": 0.011912510730326176,
+    "call_qa_similarity_mean": 0.3487338623645515,
+    "baseline_neg_sentiment_mean": 0.028290025091597015
+  },
+  "generated_at": "2026-05-20T05:27:57+00:00"
+}

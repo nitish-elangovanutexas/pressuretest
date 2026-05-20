@@ -1,0 +1,334 @@
+{
+  "ticker": "QTWO",
+  "company_name": "Q2",
+  "call_date": "2026-04-30",
+  "quarter": 1,
+  "year": 2026,
+  "prepared_remarks": "Earnings Call Transcript\",\"datePublished\":\"2026-04-30T16:33:33.000Z\",\"dateModified\":\"2026-04-30T16:33:33.000Z\",\"author\":{\"@type\":\"Person\",\"name\":\"Motley Fool Transcribing\",\"url\":\"https://www.fool.com/author/20032/\",\"jobTitle\":\"Contributing Analyst\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://g.foolcdn.com/avatar/2041746765/large.ashx\",\"height\":\"80\",\"width\":\"80\"}},\"about\":[{\"@type\":\"Corporation\",\"tickerSymbol\":\"NYSE QTWO\"}],\"publisher\":{\"@type\":\"Organization\",\"@id\":\"https://www.fool.com/\",\"name\":\"The Motley Fool\",\"url\":\"https://www.fool.com/\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://g.foolcdn.com/misc-assets/logo-tmf-primary-7-magenta-royalpurple.svg\",\"width\":\"157\",\"height\":\"43\"},\"brand\":\"The Motley Fool\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"Media Inquiries\",\"email\":\"pr@fool.com\"},\"publishingPrinciples\":\"https://www.fool.com/about/\",\"sameAs\":[\"https://www.fool.com/about/\",\"https://en.wikipedia.org/wiki/The_Motley_Fool\",\"https://www.wikidata.org/wiki/Q7752442\",\"https://www.linkedin.com/company/the-motley-fool\",\"https://www.facebook.com/themotleyfool/\",\"https://x.com/themotleyfool\",\"https://www.instagram.com/themotleyfoolofficial/\",\"https://www.youtube.com/channel/UCpRQuynBX9Qy9tPrcswpPag\",\"https://www.pinterest.com/themotleyfool/\",\"https://www.tiktok.com/@themotleyfoolofficial\",\"https://www.google.com/search?kgmid=/m/0578mk\"]},\"description\":null,\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.content.foolcdn.com/images/1umn9qeh/production/b4204f36ed605fc54d4ba32e2cb31d1dd892afd6-800x450.jpg?w=800&q=75&fit=max&auto=format\",\"height\":\"630\",\"width\":\"1200\"}}\nEarnings Call Transcript\nQ2 (QTWO) Q1 2026 Earnings Call Transcript\nBy\n\nMotley Fool Transcribing\n\n–\n\nUpdated Apr 30, 2026 at 12:33PM EST\n\n\n\n\nImage source: The Motley Fool.\n\n\nDATE\nApril 29, 2026\nCALL PARTICIPANTS\nChief Executive Officer — Matthew Flake\nChief Financial Officer — Jonathan Price\nVice President of Investor Relations — Josh Yankovich\nNeed a quote from a Motley Fool analyst? Email\n[email protected]\nTAKEAWAYS\nRevenue\n-- $216.5 million, up 14% year over year and 4% sequentially from fiscal Q4 2025 (period ended Dec. 31, 2025).\nSubscription Revenue\n-- Grew 17% year over year and 5% sequentially, comprising 83% of total revenue.\nAdjusted EBITDA\n-- $60 million, up 47% year over year and 17% sequentially, with a 27.7% margin.\nGross Margin\n-- 62.1%, compared to 57.9% in the prior year period and 58.6% in fiscal Q4 2025, driven by cloud migration and higher subscription mix.\nTotal ARR\n-- $945 million, up 12% year over year; subscription ARR reached $802 million, increasing 14% year over year.\nBacklog\n-- $2.7 billion at quarter end, rising $46 million sequentially and $444 million year over year, equal to 19% growth, with sequential change attributed to booking performance.\nFree Cash Flow\n-- $44.2 million generated in the quarter.\nShare Repurchases\n-- $97 million repurchased in the open market during the quarter, totaling $102 million to date on the $150 million authorization.\nBookings Performance\n-- Record first quarter bookings, highlighted by 9 total Tier 1 and enterprise wins, including a digital banking expansion with Synovus and Pinnacle Financial Partners and the company’s largest-ever fraud deal.\nProfessional Services Revenue\n-- Increased 12% year over year, benefiting from core conversions and favorable prior-year comparison, though future trajectory expected to align with original guidance.\nAI Product Announcements\n-- Two products launched: Q2 Code, an AI-assisted development capability, and new AI-driven fraud prevention focused on account takeover detection.\nGuidance Raised\n-- Full-year revenue guidance increased to $875 million–$882 million (10%-11% year-over-year growth); full-year adjusted EBITDA guidance raised to $237 million–$242 million (approximately 27% of revenue).\nRenewal Cadence\n-- Renewal volume is weighted towards fiscal Q4 2026, but the company sees opportunities throughout fiscal Q2 and Q3 as well.\nChurn\n-- No outsized churn activity reported in the quarter; churn targets remain unchanged from initial 2026 guidance.\nInnovation Studio\n-- Existing customer base has adopted the platform; deeper product penetration and cross-sell activity observed particularly over the past two to three quarters.\nCloud Migration\n-- Completed in January; fiscal Q1 2026 gross margin gains reflect operation fully in AWS for nearly the entire quarter.\nAI Monetization Approach\n-- Early strategy involves a hybrid model pricing for new AI products like Q2 Code, combining subscription fees with usage-based charges as adoption scales.\nSUMMARY\nQ2 Holdings\n\n(\nQTWO\n\n0.63%\n)\ndelivered record results across revenue, gross margin, and adjusted EBITDA in fiscal Q1 2026 (period ended March 31, 2026), driven by ongoing success in shifting its business mix toward high-margin subscription revenues. Management reported that bookings set a first quarter record, fueled by expansion and new wins in both digital banking and fraud solutions, including its largest-ever fraud deal and a high-profile digital banking win related to bank sector M&A. Gross margin climbed due to the completed cloud migration, with management stating all anticipated fiscal Q1 margin expansion was “not onetime in nature.” The quarter also marked the launch of two AI-powered products—Q2 Code and new fraud prevention capabilities—targeted at operational efficiency, real-time fraud detection, and personalized financial experiences. Management raised full-year 2026 guidance for both revenue and adjusted EBITDA, pointing to persistent customer demand, strong pipeline visibility, and increasing term length in expansion deals as positive signals for durable growth and long-term strategic positioning.\nManagement highlighted that nearly one-third of digital banking customers use the company's fraud products, presenting a substantial cross-sell opportunity to further increase wallet share.\n“the top of the funnel increase quite significantly in the first quarter,” according to CEO Flake, indicating a healthy demand environment extending through upcoming quarters.\nCustomer AI adoption is currently focused on “tools that can help them run the bank as opposed to change the bank,” per Flake, with regulatory compliance and security diligence remaining paramount.\nCFO Price confirmed the 62% gross margin is the expected run-rate level for the remainder of the year, with additional optimization and operating leverage anticipated in 2027 and 2028.\nManagement reported that early feedback on Q2 Code has been positive, and the company is developing discrete monetization strategies for this and other AI-driven product SKUs.\nNo significant change in core banking system conversion activity was observed, but Q2’s integration flexibility remains a competitive advantage for institutions seeking independence in platform selection.\nINDUSTRY GLOSSARY\nARR (Annualized Recurring Revenue)\n: The recurring revenue components of the business, annualized to show run-rate performance for subscription-based contracts.\nQ2 Code\n: An AI-assisted software development tool allowing Q2 customers and partners to build and customize digital banking features using natural language on the Q2 platform.\nInnovation Studio\n: Q2's suite of development tools and integration platform enabling customers to deploy, distribute, and monetize partner and proprietary products within the Q2 digital ecosystem.\nBacklog\n: The total value of signed contracts yet to be recognized as revenue, reflecting future business to be delivered.\nTier 1, Tier 2, Tier 3\n: Industry nomenclature for ranking financial institutions by asset size and complexity, with Tier 1 representing the largest organizations.\nFull Conference Call Transcript\nJosh Yankovich:\nThank you, operator. Good afternoon, everyone, and thank you for joining us today. With me on the call are Matt Flake, our CEO; and Jonathan Price, our CFO. This call contains forward-looking statements that are subject to significant risks and uncertainties, including, among other things, with respect to our expectations for the future operating and financial performance of Q2 Holdings and for the financial services industry. Actual results may differ materially from those contemplated by these forward-looking statements, and we can give no assurance that such expectations or any of our forward-looking statements will prove to be correct.\nImportant factors that could cause actual results to differ materially from those reflected in the forward-looking statements are included in our periodic reports filed with the SEC, copies of which may be found on the Investor Relations section of our website, including our quarterly report on Form 10-Q for the first quarter of 2026 and the press release distributed this afternoon and filed in our Form 8-K with the SEC regarding the financial results we will discuss today. Forward-looking statements that we make on this call are based on assumptions only as of the date discussed.\nInvestors should not assume that these statements will remain operative at a later time, and we undertake no obligation to update any such forward-looking statements discussed in this call. Also, unless otherwise stated, all financial measures discussed on this call other than revenue will be on a non-GAAP basis. A discussion of why we use non-GAAP financial measures and a reconciliation of the non-GAAP measures to the most comparable GAAP measures is included in our press release, which is available on the Investor Relations section of our website and in our Form 8-K filed today with the SEC. We have also published additional materials related to today's results on our Investor Relations website.\nLet me now turn the call over to Matt.\nMatthew Flake:\nThanks, Josh, and good afternoon, everyone. Thank you for joining us today. I'll start by sharing our first quarter results and highlights from across the business. I'll then hand the call over to Jonathan to discuss our financial results in more detail and provide our outlook for the remainder of the year. Starting with the quarter. We delivered a strong start to 2026 with financial performance that reflects continued execution across our key priorities. In the first quarter, we generated revenue of $216.5 million, representing 14% year-over-year growth. We also delivered adjusted EBITDA of $60 million or 27.7% of revenue and generated free cash flow of $44.2 million.\nOverall, we're pleased with our performance to start the year, including continued strength in our subscription model, ongoing demand for the mission-critical solutions we deliver to our customers and meaningful progress in our AI journey, which I will provide more detail on momentarily. Starting with sales. We had a strong quarter of bookings activity to start the year, building on the momentum we carried out of 2025 with a record bookings performance for our first quarter. Our performance was highlighted by 9 total Tier 1 and enterprise wins across the portfolio. And as we've seen in recent quarters, our bookings execution continued to be characterized by a balanced mix of net new and expansion activity as well.\nWe saw particularly strong performance in both our Digital Banking and our Risk and Fraud solutions. I want to highlight a few deals from the quarter that exemplify some of the themes that have defined our recent sales performance. First, we closed a significant digital banking expansion driven by an M&A transaction involving existing digital banking customer, Synovus, who merged with Pinnacle Financial Partners. Following the merger, the combined institution selected Q2 as the go-forward platform for commercial digital banking and commercial fraud management solutions. We continue to view bank sector M&A as an opportunity for our business and an area where our platform strategy differentiates us.\nIn scenarios like these, customers are making long-term strategic decisions, and we're proud to be selected as a platform of choice in a highly competitive and complex environment. Second, we also signed the largest fraud deal in our company's history in the quarter. This was a win with a new enterprise customer and represents another example of the growing scale and importance of fraud solutions within our portfolio. As we've discussed in recent quarters, the cost and complexity of fraud continues to increase across financial institutions. What we're seeing now is that fraud is no longer episodic or confined to a single channel.\nIt's becoming a continuous enterprise-wide challenge and one that is driving increasing levels of investment from our customers. This deal is particularly notable because of its size, and it marks another quarter where we've delivered a fraud booking of magnitude, reinforcing both the strength of our solutions and the urgency of this problem for our customers. So from a sales perspective, we were very pleased with the breadth and quality of our bookings performance in the quarter. We're seeing continued demand across our platform, strong engagement from both new and existing customers and increasing alignment between our product portfolio and the strategic priorities of financial institutions.\nOf note, we're also seeing the term length of expansion deals increase compared to historical averages, which we view as a signal of our customers' long-term commitment to us as the partner of choice as they navigate their AI and digital transformations. On AI, we announced 2 product sets in recent weeks, and I want to update you on our strategy and where we're executing. As we've discussed on prior calls, there are 3 key differentiators we see for Q2 in the current wave of AI innovation, data, distribution and incumbency and trust.\nAs AI lowers the cost of generating insights and writing code, we believe the value shifts towards platforms that can apply those insights in a trusted, compliant and operationally sound way. That's where we believe the platform we've been building gives us a real advantage. First, on data. Last quarter, I described Q2 as the system of context for our customers. While the core processor is the transactional system of record, Q2 sits in the flow of every digital interaction, seeing every log-in, transaction, alert, message and user decision. That gives us the context of behavior, not just ledger entries.\nWe see log-in patterns, navigation paths, hesitations, retries and the full path a commercial payment takes from initiation through approval to execution. We believe that's the kind of banking-specific context AI needs to be useful, and it's a meaningful differentiator for us. Second, on distribution. We have an established customer and partner network ready to consume AI as we deliver it. That network took more than 2 decades to build and operate at scale, and it matters because AI is only valuable as the places it can actually be deployed. Lastly, on incumbency and trust, our customers are coming to us for direction on AI because of the trust we've built with them over many years.\nAnd because AI and banking has to be highly secure and compliant from day 1, we have the infrastructure, the technical know-how and the long-term customer relationships needed to deliver bank-grade AI at scale. Our customers are eager to adopt AI, but we have also seen an increase in customer conversations around the importance of managing data, privacy and access. Customers are turning to Q2 to help them work through this transition. And we believe that choice is continuing to show up in our bookings results as they make long-term strategic commitments to Q2 as their AI and digital transformation partner. Importantly, we are already converting those strategic advantages into tangible outcomes and innovation for our customers.\nOur near-term product focus is in 3 areas: improving efficiency for bankers, strengthening fraud detection and prevention, and driving deeper personalization for account holders. We announced 2 new products in those areas over the last few weeks. The first is Q2 Code, our AI-assisted development capability, which improves efficiency. It embeds AI directly into the development experience, allowing customers and partners to build on our platform using natural language while leveraging the full power of our SDK. The second is a new set of AI-driven fraud capabilities focused on account takeover. We're using AI to continuously monitor user activity, identify signs of compromise and intervene in real time.\nThat shifts fraud management from after-the-fact detection to real-time prevention inside the platform where the transaction is happening. Looking ahead, AI is moving toward more agentic models where systems take action on behalf of users. In financial services, that will require trust, transparency and control. The platforms that win will combine context, execution and compliance. We believe that Q2 is uniquely positioned to be one of them and that we can capitalize on the value this creates for our customers. When you combine the progress we're making on our AI journey with our continued sales momentum, we're pleased with our start to the year.\nWe believe that our sustained bookings performance, particularly coming off a strong second half of 2025, suggests that the demand environment remains healthy. And even with the continued sales execution, our pipeline is strong, giving us confidence in our ability to continue executing in 2026. With that, I'll hand the call over to Jonathan to walk through our financial results in more detail and provide our outlook for the remainder of the year.\nJonathan Price:\nThanks, Matt. We're pleased to announce first quarter revenue in line with the high end of our guidance and adjusted EBITDA meaningfully above. We also delivered record results across revenue, gross margin and adjusted EBITDA. The strategic investments we've made over the past several years helped to drive our best ever first quarter bookings performance and reinforces our confidence in the durability of this model. With that, let me start by discussing our financial results in more detail, and I'll finish with our updated second quarter and full year 2026 guidance. Total revenue for the first quarter was $216.5 million, an increase of 14% year-over-year and 4% sequentially.\nOur revenue growth was driven by subscription-based revenues, which grew 17% year-over-year and 5% sequentially, resulting largely from the delivery of new customer go-lives and expansion with existing customers. Subscription revenue as a percentage of total revenue continued to increase, ending the quarter at 83%, highlighting the ongoing shift in our revenue mix towards this higher-margin revenue stream. Total non-subscription revenues increased by 3% year-over-year, driven by a 12% increase in services and other revenue, which benefited from higher professional services revenues, primarily related to core conversions as well as an easier comparison versus the prior year. These increases helped offset ongoing declines in more discretionary professional services offerings, which remain under pressure.\nTotal annualized recurring revenue or total ARR grew to $945 million, up 12% year-over-year from $847 million at the end of the first quarter of 2025. Our subscription ARR grew to $802 million, up 14% from $702 million in the prior year period. Our year-over-year subscription ARR growth was largely driven by bookings from new customer wins as well as expansion with existing customers. Our total ARR growth remains below subscription ARR growth, driven by the trends we previously discussed related to nonsubscription-based revenue. Our ending backlog of $2.7 billion increased by $46 million sequentially or 2% and $444 million year-over-year, representing 19% growth. The year-over-year and sequential increases were supported by booking success across new, expansion and renewal activity.\nAs we have mentioned previously, the sequential change in backlog may fluctuate quarter-to-quarter based on the renewal opportunities available within that quarter. Gross margin was 62.1% for the first quarter, up meaningfully from 57.9% in the prior year period and 58.6% in the previous quarter. Both the year-over-year and sequential increase in gross margin were primarily driven by the completion of our cloud migration in January as well as an increasing mix of higher-margin subscription-based revenue. Total operating expenses for the first quarter was $81.7 million or 37.7% of revenue compared to $77.2 million or 40.7% of revenue in the first quarter of 2025 and $78.9 million or 37.9% of revenue in the previous quarter.\nThe year-over-year improvement in operating expenses as a percent of revenue reflects scaling primarily within sales and marketing and G&A. Total adjusted EBITDA was a record $60 million in the first quarter, up 47% from $40.7 million in the prior year period and up 17% from $51.2 million in the previous quarter. Adjusted EBITDA margin was 27.7%, expanding approximately 630 basis points from 21.5% in the prior year quarter and up approximately 310 basis points from 24.6% compared to the fourth quarter. The year-over-year and sequential improvement was driven by a combination of the completion of our cloud migration and revenue growth.\nWe ended the quarter with cash, cash equivalents and investments of $379 million, down from $433 million at the end of the previous quarter, driven by the repurchase of $97 million of our stock in the open market in the quarter, for a total of $102 million repurchased to date against our $150 million authorization announced in November of 2025. We generated cash flow from operations of $56 million in the first quarter, driven by timing of annual invoicing, collections and overall profitability and delivered $44 million of free cash flow. Let me finish by sharing our second quarter and full year 2026 guidance.\nWe forecast second quarter revenue in the range of $214 million to $218 million and full year 2026 revenue in the range of $875 million to $882 million, representing year-over-year growth of approximately 10% to 11%. We continue to expect subscription revenue growth of at least 14% for full year 2026. We forecast second quarter adjusted EBITDA in the range of $57.5 million to $60.5 million and full year 2026 adjusted EBITDA in the range of $237 million to $242 million, representing approximately 27% of revenue. In summary, we delivered strong results to start the year, finishing at the high end of our revenue guidance while also driving significant profitability expansion above our guidance.\nThis performance, coupled with our outlook for the remainder of the year has given us the confidence to raise our full year guidance on both revenue and adjusted EBITDA for 2026. We intend to continue to execute on our profitable growth strategy by balancing investments to sustain durable subscription revenue growth and drive operating leverage over time while prioritizing effective capital allocation. With that, I'll turn the call back over to Matt for his closing remarks.\nMatthew Flake:\nThanks, Jonathan. I'll close by stepping back and putting the quarter into perspective. We're pleased with our performance in the first quarter, which reflects a strong start to the year across both financial results and bookings execution. We're seeing continued demand across our major product areas, including Digital Banking and Risk and Fraud, and that demand is showing up in both new customers wins and meaningful expansion with our existing base. As we highlighted earlier, expansion continues to be a defining characteristic of our business, and our customers are increasingly choosing to deepen their partnerships with Q2 as they look to address some of their most important priorities.\nOne of those priorities is AI, where we are continuing to execute against the strategy we outlined last quarter, embedding new capabilities like Q2 Code and our latest fraud innovations directly into the platform to deliver real measurable value for customers. As we look ahead, we do so with a strong pipeline, a durable business model and a clear strategy for continued execution. We remain confident in the demand environment and in our ability to deliver profitable growth while continuing to invest in the areas that matter most for our customers and our long-term success. With that, operator, let's open the call for questions.\nOperator:\n\n[Operator Instructions]\nYour first question comes from the line of Andrew Schmidt with KeyBanc Capital Markets.\nAndrew Schmidt:\nMatt, Jonathan, Josh, great results here. It's good to see the top and bottom line execution. I wanted to ask a question just on the demand you're seeing. And I hear you on the strong pipeline bookings execution. But if we drill down a little bit and we look at the funnel, it just seems like we're hearing a lot more urgency out there in terms of tech investment, especially on the commercial side. And then also it seems like part of that is obviously AI driving it. Are you seeing more opportunities in the funnel as a result of that?\nI'm just curious if you think about mid- and upper funnel, if the velocity or the volume has changed there?\nMatthew Flake:\nYes, Andrew, thanks. We are seeing -- we saw the top of the funnel increase quite significantly in the first quarter and the sense of urgency. I wouldn't characterize it as AI at this point, although we're having a lot of those conversations. I would characterize it as our banks are doing really well. Their stocks are doing well, and they're wanting to invest in technology to go get the -- have the technology to be able to go pick up the businesses and consumers in their communities that they work in.\nAnd as I talked to a customer the other day, it's going live in a month, he just -- he said to me, I can't tell you how excited I am to get this product up and running so I can go take some of these bigger customers in our geographies because I'll have the tech to go do it. And I think that's really proud when I hear that, but that's really what the opportunity for them is right now is to go pick up these commercial accounts with this platform and all the feature functionality we have around the commercial functionality as well as the retail piece when they get off those old legacy systems.\nSo it's -- the demand environment, if you look at Q3, Q4 and Q1, it's it certainly is strong. And if I look at the second quarter and the back half, it looks good as well. So top of the funnel looks good and the opportunities look good for us, and we're doing really well out there.\nAndrew Schmidt:\nThat's awesome, Matt. That's great to hear. If I could ask a question just on AI and clearly, good job rolling out the AI products. But if we think about the pipeline of products, what things can we think about? There's obviously Agentic orchestration, there's MCP, threat access. I'm just curious, do you think you have everything in the portfolio you need to kind of serve future demand in that respect? You need to sort of emphasize different areas that might be below the watermark?\nMatthew Flake:\nYes. I think it's so early. We have a long ways to go, and we spent a lot of time with customers and prospects talking about AI and how they think about it. The one thing that in this industry, I think it's important to understand is the diligence around regulatory compliance and security is a significant lift. You got to go through all how you're using it, the security around it, entitlements, rights, all those things. And so right now, I would say most of the customers are looking for AI tools that can help them run the bank as opposed to change the bank. Our Q2 Assistant, Q2 Code are in those areas.\nAnd then also fraud is a big part of that. And that's obviously where our road map has played out. But personalization, cross-selling products, understanding customers and what their next needs are, are definitely part of the road map we're going to begin to attack. But we want to get these right, and we want to get them in their hands and we want to get them happy with it, and we want to distribute and then continue to build on it. But there's a lot of opportunity, and it's early, and we feel like we've got some first-mover advantages.",
+  "qa_turns": [
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "And your next question comes from the line of Ella Smith with JPMorgan.",
+      "turn_index": 0
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Eleanor Smith",
+      "text": "So first, many of your customers might be fraud tech customers, but not digital banking customers or vice versa. What are the benefits for customers if they use Q2 for both digital banking and fraud tech? And how well do customers understand those benefits?",
+      "turn_index": 1
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Matthew Flake",
+      "text": "Yes. So it's a good question, Ella. The value of combining the platform when you're using our digital banking system and you couple it with our fraud products, some of those products were built natively on the platform and others, we've partnered with people and then we built them separately is the data that you get is -- you get the payments, who's logged in, how they logged in, who they pay, when they pay, the Fed districts they pay in. We get all of that information in a real-time way when you're using the platform as opposed to if you're using a separate digital banking system. We may not have that information, it may not be as clean.\nIt may not be as formatted the way we like it. So there's a lot more work when you're using a different digital banking system than a different fraud system. And so the value of putting it together makes you a more secure bank. And so if you look at it, I think 30%, 35% of our digital banking customers use our fraud products. And even the 30% and 35% that are using the fraud products, there's additional products we can add to them. So there's a huge cross-sell opportunity there.\nAnd the stand-alone fraud product customers, we are actively using sales reps to go call them and talk to them about exactly the value that I just mentioned in why they should look at our digital banking platform. So it's -- there's a lot of synergies there, and we continue to leverage them in conversations and marketing.",
+      "turn_index": 2
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Eleanor Smith",
+      "text": "Very clear, Matt. And for a follow-up, do you think in the coming years that digital banking implementation could happen faster either from technology development or your own efficiency? Or do you expect the implementation process to remain fairly long and intensive?",
+      "turn_index": 3
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Matthew Flake",
+      "text": "Well, I've always said that it takes 9 months to make a baby and it takes 12 months to deliver digital banking. So I think that may not be a truth in a couple of years. But right now, what I think we're looking for is to make our teams more efficient to where maybe a delivery team can handle 3 projects at one time now where they can handle 4 or 5. The banks have a buying pattern and a project management approach, which usually revolves around a year before the contracts up, they begin going through an RFP process.\nThey make a decision a year out from the go-live and then the project is kind of forced into that time frame so that they can get off of this other system and get on our system at the same time, so there's not duplicate paying in months. That's largely in the bottom of Tier 1 and Tier 2 and Tier 3. But I do think we will become more efficient. It will be -- hopefully, there will be less work involved in it, not only for us, but for the bank as we begin to use tools that make it easier for the bank to do these conversions.\nBut speeding them up, I think it's going to take a little time for us to have proof points around going and finding prospects that say they want to do it fast and we do it and we do it safe and it's -- they're able to -- a lot of these people do a digital banking conversion, and they got to do their day job at the same time. So I wouldn't pencil in speeding up the delivery process in the next year or 2, but I do think you're going to begin to see more efficiencies out of us.",
+      "turn_index": 4
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "And your next question comes from Terry Tillman with Truist.",
+      "turn_index": 5
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Terrell Tillman",
+      "text": "Hi there Matt, Jonathan and Josh. Can you all hear me okay?",
+      "turn_index": 6
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Matthew Flake",
+      "text": "Loud and clear, Terry.",
+      "turn_index": 7
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Terrell Tillman",
+      "text": "Awesome. So first, really intriguing to hear about this enterprise bank, largest fraud deal ever. I'm curious if -- how that kind of stacks up with just a traditional maybe digital banking deal. And is this kind of more of the exception? Or are you going to see more potential enterprise banks going big with fraud? And then I had a follow-up.",
+      "turn_index": 8
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Jonathan Price",
+      "text": "Yes, Terry, it's Jonathan. From a dollar perspective in terms of the ASP, this would be akin to a Tier 1 digital banking deal, if not bigger. It is a really sizable opportunity. And yes, there are more of those in the pipeline. And whether you're talking about the size of the institution or the size of the deal, both exist where we have deal opportunities that are this size, sometimes even with smaller institutions. But also, as you know, with the fraud product, we are targeting our entire customer opportunity, both down market and upmarket. So those are bigger deals. They have longer sales cycle, but we certainly see those opportunities out there.\nAnd wins like these, once they're live and become referenceable, just become arrows in the quiver for the sales team.",
+      "turn_index": 9
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Terrell Tillman",
+      "text": "Sorry, I'm learning the technology here. I could use an agent maybe to help me. But Matt, you talked about efficiency, fraud and personalization customer engagement. To me, with all the contextual data you all have, all that digital exhaust, it does seem pretty substantial in terms of that personalization and customer engagement. I don't know how much of this would be through Innovation Studio partners versus organic. But when do you actually see that potential unlock? Again, I know this stuff with AI and agents is early, but it does seem like that's to change the business type opportunity. And what do you think of timing on that?",
+      "turn_index": 10
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Matthew Flake",
+      "text": "That's a tricky question, Terry. I'd like to get a couple more quarters before I get ahead of myself on that, the timing perspective. I think what's important is to know that we're working on it. We're talking with customers about it. I just don't want to get ahead of myself. Hopefully, you can understand.",
+      "turn_index": 11
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "And your next question comes from Matt VanVliet with Cantor.",
+      "turn_index": 12
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Matthew VanVliet",
+      "text": "Curious on how much Innovation Studios, not only penetration within the existing customers, I think we've gotten to the point where basically everyone is using something. But are you finding deeper penetration, more use cases in there? And how much of that is influencing some of these larger deals for things like fraud, where you're just fully ingrained in their ecosystem and using their preferred platform is -- makes sense from both an effectiveness and a cost perspective for them?",
+      "turn_index": 13
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Jonathan Price",
+      "text": "Yes. Matt, I mean it's a little bit of all of that. We're seeing, like you said, the financial institution customer base is largely adopted, but they're very early in their adoption cycle of how many products are they consuming and then how penetrated are they with those products within the customer base. Those latter 2 points is where we've seen a lot of progress just in the last 2, 3 quarters. And so we're seeing really good penetration of these products where we're seeing FIs get more than one product live sometimes when they're going through implementation or sometimes as a cross-sell, they're buying multiple products and taking them live.\nAnd then we have a lot of work and AI is helpful around the idea of end-user marketing and how we're actually pushing these products out to the customer base. So we're seeing it have an impact. And yes, you mentioned the fraud arena. That is one area where it is bolstering our value proposition around the fraud intelligence story. And the combination is sort of akin to what Matt talked about earlier. When you marry the data and the signals from our platform, our fraud products and the partner products, you get a better fraud outcome for the financial institution. And so that is really salable to the customer base.",
+      "turn_index": 14
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Matthew VanVliet",
+      "text": "Helpful. And then as you look at the Helix business, it seems as though while the regulatory environment in the financial services has remained relatively unchanged, the ability to build products is certainly being curtailed in terms of timing. Are you seeing more interest in your digital core products? Are you seeing any sort of [indiscernible] buys or alternative institutions looking to build something that is more nimble and can support maybe alternative use cases going forward? Has that picked up at all?",
+      "turn_index": 15
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Jonathan Price",
+      "text": "Yes. I mean where I think it's picked up is the use cases that revolve around the traditional FIs as opposed to the Helix business, which was largely built around the fintech and brands when the BaaS space was more in vogue and was growing faster. So for us, we think that's a real opportunity over the coming years to bring that Helix product closer to the financial institutions with use cases, especially around the retail banking space. And so you're right.\nAnd within Q2, that's one of the teams that's being the most innovative and aggressive in terms of how we're structuring to build with AI and we think that's going to pay dividends in our ability to move quickly in that market and show the FIs a value prop that's different than what they've historically seen from the course.",
+      "turn_index": 16
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "And your next question comes from Alex Sklar with Raymond James.",
+      "turn_index": 17
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Alexander Sklar",
+      "text": "Matt, on the Q2 Code announcement, can you just elaborate on what that incrementally unlocks relative to what's available in Innovation Studio today? And is that a solution you expect to monetize over time? Or is this kind of used as a competitive differentiator or something that can drive higher customer retention longer term?",
+      "turn_index": 18
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Matthew Flake",
+      "text": "Yes, it's separate from Innovation Studio. So it allows the financial institution to write code faster at a lower cost and experiment and personalize their experience in a simple, elegant way that we're seeing more engagement on that largely upmarket. There's some Tier 2s that are playing with it as well. But what it does is it allows them to really leverage -- they may have a product that's specific to them, maybe a credit union with a certain member base where they can roll out products that are specific to them where they don't have to rely on us or work with on our time frame. So it gives them a lot of freedom to do that.\nAnd they continue to leverage the platform. We get a deeper relationship with them and they do more and more. And so we're encouraged by the early adopters of it so far.",
+      "turn_index": 19
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Jonathan Price",
+      "text": "And just to add, that is a -- the products that we talk about, these new AI products, so in the case of Q2 Code, this is a discretely monetizable product SKU. So they shouldn't be confused with AI features built into an existing product. And so obviously, it's early. We're in the early adopter phase. We're working with these beta customers around pricing models and building an idea of what monetization and revenue models could look like in the long run, but this is discretely monetizable product.",
+      "turn_index": 20
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Alexander Sklar",
+      "text": "Okay. Jonathan, maybe then a follow-up for you. Just on the gross margin beat, you've got a few months under your belt now running fully in the cloud. Was there any part of the Q1 upside that was onetime in nature? And then how are you thinking about that opportunity now to really press on further optimizing some of the existing cloud deployments as we think about subscription gross margin?",
+      "turn_index": 21
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Jonathan Price",
+      "text": "Yes. Thanks, Alex. Yes, we're really pleased with the outcome when it comes to the overall project. The teams did a phenomenal job completing the cloud migration project and finished on time. And obviously, from an expectation standpoint, we're ahead of it when it comes to the gross margin outcome in the quarter, and you see that sort of as you think through what we'll talk about and what we put in the press release for the rest of the year. But so no, that's not onetime in nature. That is the outcome of exiting the data centers and really operating now cleanly for almost the entire quarter in AWS. And so that is complete now.\nWe feel good about that. To the second part of your question, as we think about the next leg, once we have time to operate in this environment over the coming months and quarters, we do think as we get into '27 and '28, there's a potential future step function upwards when it comes to another gross margin opportunity as we optimize working in that environment, understand scalability, more automation, more tooling, understanding where we need to rebuild architecturally to get better scale in the cloud. And so that's all coming. It's hard to quantify, and I would not expect that to impact 2026.\nBut to your point about onetime, the step-up to the 62% level, that is where we expect gross margins to be for the remainder of 2026, right in that ballpark. And we will continue to work on the stuff I mentioned in terms of the '27 and '28 opportunity that comes with being in that environment.",
+      "turn_index": 22
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "And your next question comes from Parker Lane with Stifel.",
+      "turn_index": 23
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "J. Lane",
+      "text": "Maybe to go back to Q2 Code. Matt, we've heard from other software companies about more forward deployed engineers and a lot of services folks involved in bespoke Agentic offerings. Do you envision a world where with Q2 Code, you have less reliance on that or less of a need to go in that direction? Or will there be instances in the future where some of that work is supported by you guys and a lot of it is in the IT departments and the hands of the customers themselves?",
+      "turn_index": 24
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Matthew Flake",
+      "text": "Yes. I think that's definitely a possibility that you see less services work from us and they're able to move faster and they get more deeply embedded in our platform by using those tools. So for me, it's definitely a good thing to get the higher-margin revenue and kind of get out of the services business, but we're still going to have a component of that for a while.",
+      "turn_index": 25
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "J. Lane",
+      "text": "Got it. And then, Jonathan, maybe one for you. Can you remind us what the renewal cadence looks like for this year, if there's anything in particular we should be mindful of or things that have changed relative to when you first guided 2026?",
+      "turn_index": 26
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Jonathan Price",
+      "text": "Yes. I mean we -- as we think about the rest of the year, it looks pretty standard. I would say more of the renewal volume exists later in the year as we think about -- we had a pretty strong Q1. As we think about the last 3 quarters of the year, Q4 is definitely the most volume, but there are opportunities all throughout Q2 and Q3. So it's just a question of execution on those and making sure if there are other opportunities, we can execute on ones that may be outside that period. But we feel good about -- we talked about at the beginning of the year.\nReally, we looked at it as a 2-year cohort because that's how we always talked about '24 and '25. And when we looked at '26 and '27 as we headed into this year, they were very comparable in size, both in terms of the number of opportunities and dollars in play. And so now that we're into '26, we had a good start with Q1. And as we think about the year, it's -- yes, it's a little bit heavier on the Q4 side, but there are real opportunities available within each of them.",
+      "turn_index": 27
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "And your next question comes from the line of Michael Infante with Morgan Stanley.",
+      "turn_index": 28
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Michael Infante",
+      "text": "Just on subscription ARR, is there any color you can provide in terms of whether there were any notable churn impacts in the quarter? And if so, maybe how that compared to the more concentrated churn you saw in 2Q of '25? I'm just trying to understand the bridge between the strong bookings activity you're seeing, including on the fraud side and the path to subs ARR acceleration from here as the recent bookings begin to convert?",
+      "turn_index": 29
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Jonathan Price",
+      "text": "Yes. No, there really wasn't, Michael, when it comes to outsized churn activity in the first quarter, and we really don't see a quarter like that in 2026, like what we saw in Q2 of 2025. So no, the churn targets that we put out at the beginning of the year still hold true. We're doing everything we can to execute to beat those targets when it comes to both total churn and digital banking churn itself and feel good about where we're at so far through 3 months.",
+      "turn_index": 30
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Michael Infante",
+      "text": "That's helpful. And then just a quick follow-up on the professional services side. Jonathan, you obviously called out the durability of the professional services revenue you highlighted related to the core conversions. Does that change your posture on the negative mid-single-digit non-subscription revenue growth for the full year?",
+      "turn_index": 31
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Jonathan Price",
+      "text": "No, it doesn't. It really does not because -- well, 2 things. Number one, as we talked about when 2025 was evolving, M&A activity started to pick up. And so unlike Q1, where we had a very favorable comp, we're seeing the same type of elevated M&A activity here in 2026, but Q1 was a very favorable comp. As we get into Q2, Q3 and Q4, you start to see that the services opportunities related to core conversions from M&A are comparable. And so you just don't see the growth relative to those quarters in 2025.\nSo we are still convinced that you are going to see a different look of that services trajectory as we get through the rest of '26, in line with the original guide we gave.",
+      "turn_index": 32
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question comes from the line of Adam Hotchkiss with Goldman Sachs.",
+      "turn_index": 33
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Adam Hotchkiss",
+      "text": "I guess to start, this is a bit of a follow-up to Parker's question, but just maybe take a step back and help us understand your holistic relationship with customers as it relates to AI. Are they generally going about their own strategies where there's a mix of wanting to build things in-house and use Q2 for other things? Or given their size, are they generally totally reliant on you for AI road map and strategy and you guys are leading and they're following? How does that look for you?",
+      "turn_index": 34
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Matthew Flake",
+      "text": "It's the latter. I haven't seen anybody taking their own AI initiative and doing it on their own. They're partnering with us, learning from us, and we're trying to learn the problems they want to solve and build products to solve them.",
+      "turn_index": 35
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Adam Hotchkiss",
+      "text": "Okay. Super clear. Helpful. And then on the Q2 Code being monetizable, I know it's early, Jonathan. I don't want to hold you guys to anything, but just how are you holistically thinking about pricing? And what's been some of the customer feedback around that? And then on profitability, based on how that product is run, how should we think about how token costs, especially given token cost inflation in recent months could impact margins to the extent that begins to scale quickly?",
+      "turn_index": 36
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Jonathan Price",
+      "text": "Yes. Like you said, it's early, but we're having real conversations with these customers. And I think there is an understanding that we're going to have to have a hybrid model and an evolution in our pricing model on these products to account for what you talked about in terms of the underlying cost model. What we're seeing on an early basis with some of these AI products is the concept of what we'll call is a credit, which includes underlying token utilization, but other infrastructure and the value prop that we're delivering through that product priced-in up to a certain cap of token usage.\nAnd then over time, if they exceed that, there would be incremental fees for the excess usage. So that's sort of where it sits today as sort of a vision and a target of what I'll just call a hybrid model because it's still a subscription fee with a lot of that value bundled in, in a base size. And then the excess comes from over that amount and then making sure that we have caps to ensure that we don't go upside down in the interim. So -- but it's going to be a really iterative process, and we're going to learn from initial adoption and usage.\nAnd -- but early indications are there's an understanding that it does look different from a pricing perspective than what we typically have seen in our industry with just straight digital banking historically. On the profitability side, again, we can put in some of those caps and those structures to protect us. But I think it's safe to assume that until we see this at scale, it's hard to imagine like traditional SaaS margins are going to look like that on these early AI products, at least until we figure out sort of an optimal way to scale that's also sort of acceptable to the customer. So long-winded answer there, but hopefully, that gives you a little bit of color.\nWe're working through it, and we're excited by the opportunity, but there's a lot we don't know yet.",
+      "turn_index": 37
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "And your next question comes from Joe Vruwink with Baird.",
+      "turn_index": 38
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Joseph Vruwink",
+      "text": "Just to stay on Q2 Code, if something like this makes it easier, cheaper, faster to build the custom integrations and experiences, what extent do you think that maybe widens the addressable audience you typically go after? And I'm wondering, does it make the platform less intimidating, does faster time to value become a key selling point. So maybe those that have traditionally not thought about Q2 as their digital banking provider, maybe this widens the core demo a bit and they start becoming addressable?",
+      "turn_index": 39
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Matthew Flake",
+      "text": "Joe, the size of our customers range from sub-1 billion to $400 billion on digital banking. And so when we continue to work our way up on the enterprise plus side of things, I think it definitely -- it doesn't hurt on these -- on deals bigger than that to have those tools so they can build the products that they want because they usually have a broader set of products or make them more customizable to them. We'll have to see in the sales process, whether we -- whether that's a differentiator for us, and we'll obviously tell you if it is. So I don't know the answer to that yet. We've got to continue to experiment with this.\nIt's early, and we're excited about it, and the feedback has been extremely positive early on. So I think it's going to create more opportunities for us. It's just a matter of -- I'm not positive on way up market, how much that will do.",
+      "turn_index": 40
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Joseph Vruwink",
+      "text": "Yes. that's good and I appreciate it so early. Just on raising the full year revenue forecast by $4 million. You're also calling out some pretty big deals on fraud, and I think those fraud deals can activate more quickly. Are those starting to layer into kind of the 3Q, 4Q outlook? Is that the right time frame to think about the fraud deals you're winning right now?",
+      "turn_index": 41
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Jonathan Price",
+      "text": "I mean it can be. The big, big fraud deals can have implementation time lines that exceed 6 months. So that -- the one in particular, we talked about that could be tight in terms of any real impact in 2026. But I mean, yes, obviously, we are -- we roll through the beat and are raising on top of that. And there's lots of contributors to that. That goes beyond just the go-live time lines associated with nondigital banking products.\nI mean we've seen great success so far this year when it comes to, obviously, the net new side, we talked about on the call across both digital banking, fraud and other parts of the portfolio, strong renewals and then another good cross-sale quarter and Innovation Studio in particular, had a really, really strong quarter. And like you said, those go to revenue even faster. And so sort of a culmination of all of that has given us the confidence to raise the revenue guide beyond just the beat in the first quarter.",
+      "turn_index": 42
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "And your next question comes from the line of Cristopher Kennedy with William Blair.",
+      "turn_index": 43
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Cristopher Kennedy",
+      "text": "Can you give us an update on kind of new sales activity within Tier 1 -- or Tier 2 and Tier 3 clients?",
+      "turn_index": 44
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Matthew Flake",
+      "text": "Yes. We had a really strong quarter in Tier 2 and Tier 3 and the pipeline, I think probably the second quarter is probably going to be dominated by the lower end of Tier 1 and Tier 2 and Tier 3s with the upper end of Tier 1 and enterprise picking up in the back half of the year. We've obviously closed a lot of Tier 1 deals over the last 3 quarters. So really good activity there. Win rates are holding steady. ASPs are up. It's -- we've got a lot of traction in the kind of the bread and butter of this business, which is banks and credit unions between $500 million and $10 billion.",
+      "turn_index": 45
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Cristopher Kennedy",
+      "text": "Great. And then just going back to the gross margins. Is most of the uplift this year just eliminating the duplication of the costs? And then over time, you should get some nice scaling benefits? Or are we going to see that in 2026?",
+      "turn_index": 46
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Jonathan Price",
+      "text": "Well, certainly, Chris, the uplift in the first quarter was -- that was a big driver. That was what we were expecting in terms of the step-up between the timing and the execution, it was even more than we expected, obviously, given the full year commentary last quarter, about 60% plus is the target. So I feel really good about that. There's also other contributors, though, to be clear. I mean if you think about revenue mix now above 83% subs, that's a big one. We think that's going to continue to move upwards throughout 2026.\nWe have a lot of optimization around efficiencies and ongoing initiatives, obviously, pricing and renewal and packaging that we've been talking about for several quarters now that are all having an impact. And then like I mentioned earlier, when it comes to sort of the next leg of operating in the cloud and seeing another uplift from that specifically, that's more of an opportunity we see in '27 and '28.",
+      "turn_index": 47
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "And your next question comes from Dan Perlin with RBC Capital Markets.",
+      "turn_index": 48
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Daniel Perlin",
+      "text": "Matt, I've got a question to start on -- it sounds like when banks are considering core conversions, and I don't mean by M&A, I mean like the proactive stuff that's happening out there. It sounds like they're coming to you guys early. It's not first in many instances. And it seems to me like this AI opportunity for you guys as that becomes a bigger part of their budgets only accelerates that. So I guess there's 2 things. One is, what are you seeing in relation to core conversion activity and appetite in the market currently? And then secondly, can you just remind us how that benefits you guys?\nI feel like it creates a lot of opportunities, but I oftentimes forget all the incremental products that kind of can get attached and things get switched sometimes. So that would be helpful.",
+      "turn_index": 49
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Matthew Flake",
+      "text": "Yes, Dan, I'm not [ sure ] on that. I don't think I've seen an increase in the number of core conversions that are going on. I don't really know. I think one of the things that we provide and one of the reasons that people go with us is because they have the freedom to go with whatever core they want because we have all the integrations. We have a lot of them to all the ancillary systems, not just the general ledger. And so banks and credit unions, when they get to a certain size, want somebody that wakes up every day and thinks about a customer experience, speed, performance, simplicity, security in the user interface.\nAnd they want to get some leverage on not just the core processors, but us so that they can have freedom to go if they switch out the digital banking, then they can later on switch the core out a lot easier than having to replace the front end and the back end. So for us, for years, it's been a driver of deals for us, which is they pay a little more to go with us, but then they have some leverage in the negotiations on the back end with the core providers. So -- but I don't know. I haven't seen a ton of change in the amount of core conversions that go on.\nThat's Fiserv, FIS and Jack Henry share that every quarter, I guess. I don't know -- I would think.",
+      "turn_index": 50
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Daniel Perlin",
+      "text": "It's a hot topic. Yes. Just a quick follow-up. So I'm trying to make sure I understand the go-to-market motion that you guys have with the introduction of like Q2 Code and others. Like I know it's fully ingrained throughout the organization, but is it the relationship managers that are leading with this? Do you have kind of a SWAT team that's bringing this to market so that all the clients are aware of this? Is it a client conferences? Anything on that would be helpful.",
+      "turn_index": 51
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Matthew Flake",
+      "text": "Yes, it's all that. I mean it starts with product marketing, identifying the marketing with the products, how they're differentiated, how they work and then the marketing team goes and takes that information and puts it in the market. We train our sales reps, net new and our success team, the relationship management team to understand the value of these and why it's differentiated and how we built it. And then it's incorporated in every sales pitch to our prospective customers and our strategic reviews with our quarterly or semiannual strategic reviews with all of our customers. We have a client conference coming up at the beginning of June, where, obviously, we're going to talk a lot about these products.\nIt's going to be really interesting. We're going to have 1,000 of our closest friends there sharing what our road map and our future is, which we're excited about. So we'll have a lot of feedback in the August call or whatever the call is the second quarter call to kind of give you the feedback we got from it. But it's all hands on deck, all in on talking AI.",
+      "turn_index": 52
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "There are no further questions at this time. This concludes today's call. Thank you for attending. You may now disconnect.",
+      "turn_index": 53
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "VRTX",
+  "call_date": "2026-05-04",
+  "quarter": 2,
+  "year": 2025,
+  "pressure_score": 0.031210715367039753,
+  "cosine_distance": 0.07929092822833328,
+  "sentiment_shift": 0.01750003624859321,
+  "question_difficulty_mean": 0.14378233472307625,
+  "baseline_mean": 0.030023074594383154,
+  "baseline_std": 0.010297536356313529,
+  "z_score": 0.11533251561947082,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5718911673615381,
+    "call_mean_answer_length": 165.27272727272728,
+    "call_hedge_density": 0.016054807738853774,
+    "call_pos_sentiment_mean": 0.1775708750567653,
+    "call_neu_sentiment_mean": 0.8067237084562128,
+    "call_neg_sentiment_mean": 0.015705425884913315,
+    "call_qa_similarity_mean": 0.489285174614732,
+    "baseline_neg_sentiment_mean": 0.03320546213350652
+  },
+  "generated_at": "2026-05-20T07:24:56+00:00"
+}

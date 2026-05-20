@@ -1,0 +1,28 @@
+{
+  "ticker": "VNO",
+  "call_date": "2026-05-05",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.019202349303759813,
+  "cosine_distance": 0.04683828585247829,
+  "sentiment_shift": 0.012841408552628927,
+  "question_difficulty_mean": 0.15539217637864267,
+  "baseline_mean": 0.0250379532882498,
+  "baseline_std": 0.008252790299504213,
+  "z_score": -0.7071067811865476,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5776960881893214,
+    "call_mean_answer_length": 87.56521739130434,
+    "call_hedge_density": 0.02039012714276415,
+    "call_pos_sentiment_mean": 0.06949994672575723,
+    "call_neu_sentiment_mean": 0.841044941674108,
+    "call_neg_sentiment_mean": 0.0894551158113324,
+    "call_qa_similarity_mean": 0.36443629593046056,
+    "baseline_neg_sentiment_mean": 0.07661370725870348
+  },
+  "generated_at": "2026-05-20T07:22:50+00:00"
+}

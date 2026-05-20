@@ -1,0 +1,292 @@
+{
+  "ticker": "SIMO",
+  "company_name": "Silicon Motion",
+  "call_date": "2026-04-28",
+  "quarter": 3,
+  "year": 2025,
+  "prepared_remarks": "Earnings Call Transcript\nSilicon Motion (SIMO) Q3 2025 Earnings Transcript\nBy\n\nMotley Fool Transcribing\n\n–\n\nApr 28, 2026 at 1:29PM EST\n\n\n\n\nImage source: The Motley Fool.\n\n\nDATE\nFriday, October 31, 2025 at 8 a.m. ET\nCALL PARTICIPANTS\nChief Executive Officer — Chia-Chang Kou\nChief Financial Officer — Jason Tsai\nSenior Director, Investor Relations — Thomas Andrew Sepenzis\nTAKEAWAYS\nRevenue\n-- $242 million, up 22% sequentially, and surpassed the high end of prior guidance.\nGross Margin\n-- 48.7%, at the high end of guidance and reflecting continuing improvement due to favorable product mix and new product launches.\nOperating Expenses\n-- $79.5 million, increased sequentially as investment in new projects and expanded customer engagements continued.\nOperating Margin\n-- 15.8% on a non-GAAP basis, improved sequentially and exceeded guidance.\nEarnings per ADS\n-- $1.00 on a non-GAAP basis.\nCash and Equivalents\n-- $272.4 million at quarter end, declining from $282.3 million last quarter, primarily due to a $16.7 million dividend and increased inventory to support forecasted business ramp.\neMMC/UFS Revenue\n-- Grew over 20% sequentially, driven by smartphone, automotive, industrial, and IoT demand, and share gains from module makers as NAND suppliers exited eMMC and UFS 2.\nClient SSD Revenue\n-- Increased over 20% sequentially, with notable strength from the 8-channel PCIe 5 controller, which grew 45% sequentially and represented more than 15% of client SSD sales.\nCustomer Mix\n-- Direct business with NAND makers accounted for over 50% of total revenue.\nMarket Diversification\n-- Automotive segment growth highlighted by new design wins at a major Japanese OEM and sustained expansion in China, with the company expecting automotive to constitute at least 10% of revenue by 2026 or 2027.\nEnterprise MonTitan Platform\n-- Customer qualifications underway for both TLC compute and QLC high-capacity SSD, with targeted revenue contribution of 5%-10% by late 2026 or 2027, excluding boot drive solutions.\nInventory\n-- Inventory value increased by approximately 62% during the quarter, supporting backlog across all product categories and anticipating ongoing demand.\nQ4 2025 Revenue Guidance\n-- Forecasted at $254 million to $266 million, representing a 5%-10% sequential increase and exceeding the initial $250 million target set earlier in the year.\nQ4 2025 Gross Margin Guidance\n-- Projected at 48.5%-49.5%.\nQ4 2025 Operating Margin Guidance\n-- Estimated at 19%-20%, approaching historical levels.\nNeed a quote from a Motley Fool analyst? Email\n[email protected]\nRISKS\nNone explicitly indicated as negative or material risks by management or in the reported numbers.\nSUMMARY\nManagement directly affirmed that AI-driven demand across memory markets has produced sustained price increases and persistent supply shortages for NAND, DRAM, and HDD, with expectations that these trends will persist through at least 2026. The company stated that module maker customers have proactively built inventories, positioning Silicon Motion Technology Corporation\n(\nSIMO\n\n1.27%\n)\nto maintain sales momentum despite industry tightness. The direct business with NAND makers now drives the majority of revenue, with management signaling further market share gains as flash makers increasingly outsource controller development. Strategic expansion continues across eMMC/UFS, client SSD, and automotive controllers, with flagship products such as the PCIe 5 and MonTitan platforms progressing through customer qualification and production ramps. For the coming quarter, management guided for continued sequential revenue and margin improvement, anchored by the ongoing adoption of next-generation controller products and broader customer engagements.\nChia-Chang Kou said, \"I'm very confident in our ability to exceed our target annual revenue run rate of more than $1 billion this quarter,\" indicating imminent achievement of a key company milestone.\nJason Tsai highlighted that stock-based compensation and dispute-related expenses are expected to total $18.1 million to $19.1 million in the next quarter.\nThe company confirmed that cost increases from foundry and OSAT partners are not expected to materially impact near-term profitability due to current process geometries and preliminary supplier agreements.\nMonTitan and automotive products are expected to collectively constitute new engines of diversified growth as traditional consumer exposure moderates.\nArbitration proceedings have begun, with oral closing arguments set for March 2026 and a tribunal decision anticipated thereafter.\nINDUSTRY GLOSSARY\nADS (American Depositary Share)\n: A negotiable instrument issued by a U.S. bank to represent shares in a foreign company, facilitating investment by U.S. investors.\nPCIe (Peripheral Component Interconnect Express)\n: A high-speed interface standard for connecting SSDs and other peripherals to computers.\nUFS (Universal Flash Storage)\n: An advanced storage specification for digital devices, offering higher speeds compared to eMMC.\neMMC (embedded MultiMediaCard)\n: An older standard for embedded NAND storage used in smartphones, automotive, and IoT devices.\nOSAT (Outsourced Semiconductor Assembly and Test)\n: Third-party suppliers specializing in packaging and testing of semiconductor products.\nQLC (Quad-Level Cell)\n: NAND flash technology storing four bits per memory cell, increasing capacity and lowering cost per bit.\nTLC (Triple-Level Cell)\n: NAND flash type storing three bits per cell, balancing performance and density.\nMonTitan\n: Silicon Motion's branded line of enterprise-grade SSD controllers targeting AI and data center applications.\nFerri SSD\n: Silicon Motion's single-chip SSD solutions targeting industrial, commercial, and embedded applications.\nASPICE (Automotive SPICE)\n: Process assessment framework used for evaluating software development processes in the automotive sector.\nDPU (Data Processing Unit)\n: Specialized processor designed for data-centric functions in advanced computing platforms.\nFull Conference Call Transcript\nThomas Andrew Sepenzis:\nThank you, operator. Good morning, everyone, and welcome to Silicon Motion's Third Quarter 2025 financial results conference call and webcast. Joining me today is Wallace Kou, our President and CEO; and Jason Tsai, our CFO. Wallace will provide a review of our key business developments, and then Jason will discuss our third quarter results and outlook. Following our prepared remarks, we will conclude with a Q&A session. Before we begin, I would like to remind you of our safe harbor policy, which was read at the start of this call. For a comprehensive overview of the risks involved in investing in our securities, please refer to our filings with the U.S. Securities and Exchange Commission.\nFor more details on our financial results, please refer to our press release which was filed on Form 6-K after the close of market yesterday. This webcast will be available for replay in the Investor Relations section of our website for a limited time. To enhance investors' understanding of our ongoing economic performance, we will discuss non-GAAP information during this call. We use non-GAAP financial measures internally to evaluate and manage our operations. We have, therefore, chosen to provide this information to enable you to perform comparisons of our operating results in a manner consistent with how we analyze our own operating results.\nThe reconciliation of the GAAP to non-GAAP financial data can be found in our earnings release issued yesterday. We ask that you review it in conjunction with this call. With that, I will turn the call over to Wallace.\nChia-Chang Kou:\nThank you, Tom. Hello, everyone, and thank you for joining us today. I'm pleased to report that we delivered another strong performance in the third quarter, exceeding our revenue and operational margin guidance, we continue to benefit from the introduction of new controller existing and new markets and drive increased market share across our portfolio. We remain focused on delivering both top and bottom line growth and improving profitability while investing heavily in the next-generation controllers, increasing our engineering resources to support new products and markets and further positioning Silicon Motion for long-term market share expansion.\nWe expect strong revenue growth to continue as we introduced compelling new PCIe client SSD controller, next-generation eMMC and UFS controllers that drive higher share, benefit from strong growth in our automotive business and as our MonTitan enterprise business begins to scale. I'm excited about the foundation for growth that we are building across each of our major markets and believe we are well positioned to see sustained revenue and profitability growth in both the near and long term. Let me start by discussion and broader market environment and then each of our major business in greater detail.\nAI remains a significant growth vector across memory and storage industry, driving strong demand for NAND and other technology, including DRAM and HDD. The growing AI demand has, for the first time, greater supply shortages in HDD, NAND and DRAM, leading to price increases for the past 3 quarters, a trend we expect will continue at least through 2026. In the early stage of AI development, AI training drove strong demand for high-performance memory and storage using DRAM, HBM and NAND for lower capacity TLC-based compute SSD. As AI evolves, the focus is changing to inference, which relies more on high-performance, high-capacity storage rather than raw computing power.\nThe increasing demand from inference is putting a large strength in HDD supply chain that traditionally serve this market, and is expected to continue well into next year as HDD makers struggle to quickly meet the growing demand. Inference is also increasing NAND demand for high-capacity, high-performance QLC-based SSD and creating a significant trend for the NAND market supply and availability. As AI is still in its infancy, we expect that these demand drivers will continue to impact supply availability across all memory technologies for quite some time as CapEx spend increases to catch up with market demand over the next few years.\nGrowing AI demand is also forcing a more disciplined CapEx spending approach and is driving difficult resource allocation decisions by the memory and storage makers to prioritize engineering resources across multiple technologies, products and markets. Increasingly, we are seeing a greater willingness by the NAND flash makers to rely on Silicon Motion to complete their product portfolio as they shift their internal resources to focus on DRAM, HBM and future customized memory technology for high-performance AI [ in promise ]. We are in active discussion with all NAND makers about expanding our partnership and taking on broader range of project long term to offset growing internal resource shortages.\nLooking ahead, we see continued NAND flash price increases and shortages given the impact of AI on overall demand, which has been amplified by reduced new capacity investment at the flash maker over the past years. Despite the challenges inherent with the NAND price increases, we believe our business will remain robust. Our module maker customers have been building NAND inventory ahead of anticipated price increases and are well positioned for next year to meet expected market demand. Our direct business with NAND makers continue to be strong, accounting for more than 50% of our revenue, and we expect to gain significant share over the next few years.\nAdditionally, more than 70% of our business with NAND flash maker and module maker customers goes directly to PC, smartphones, servers and other device OEMs that are not significantly impacted by high NAND markets. We are a robust design pipeline in eMMC and UFS, client SSD and enterprise SSD controllers and our Ferri product line should benefit from the increased NAND price trend. Additionally, given increased NAND prices, we expect OEMs to more rapidly adopt QLC technology where we have a significant advantage over our competition. And finally, we are starting to scale our new enterprise products, including, MonTitan, which are less price sensitive than the consumer markets.\nWe expect AI demand to continue to put greater demand on inference than it has. A more large learning model reach maturity, putting more focus on the high-performance, high-capacity storage capability that QLC-based SSD are ideally suited to address. I will now discuss each of our business units in greater detail, starting with eMMC and UFS. We experienced another exceptional quarter of growth in our eMMC/UFS business with strength across the board in smartphone, automotive, industrial and IoT. eMMC and UFS revenue was up over 20% sequentially as we continue to increase our market share and capitalize on new product introduction.\nModule makers are benefiting as NAND makers have walked away from eMMC and UFS 2 due to lower ASP margin, which have helped module makers gain market share rapidly using our eMMC and UFS controllers. Overall, end market demand in the third quarter was higher than expected and helped us deliver strong sequential growth with our NAND flash partner as well. Smartphone OEM continued to shift to our new UFS controller in mainstream and now value line devices, driving better ASP and margin for our business. Additionally, we continue to have success with our direct OEM engagement with QLC controller. Our first customer is introducing a second smartphone with our chip in the current quarter.\nWe plan to introduce additional model next year. Given the current NAND environment, we expect that other smartphone manufacturers will increasingly look to QLC to deliver high-capacity storage at lower cost, which could lead to further customer engagement. UFS will continue to grow rapidly in the smartphone market as low-end smartphone continue migrating from eMMC to UFS to deliver better performance cost effectively. While smartphones are rapidly shifting away from eMMC to UFS, eMMC remains an important revenue driver for Silicon Motion. As we mentioned, the market for eMMC extended well beyond mobile phones and account for more than 900 million units annually.\nThe market for eMMC include automotive, commercial, industrial, IoT, smart devices, set-top box and streaming devices, robotics and many more, including the rapid growing market for smart glasses championed by Meta, Apple, Google, Amazon, Xiaomi and others. These solutions will likely continue to use eMMC, providing a strong foundation for market growth for years to come. As the NAND flash maker increasingly concentrate on the enterprise market, the opportunity for Silicon Motion eMMC UFS continue to grow. We expect to see further market share expansion as the flash maker outsource more and believe that our share gain in eMMC UFS will remain strong, a strong contributor for our future growth, leading to expanding market opportunity and end market growth.\nI will now discuss our client SSD business. Our client SSD revenue was up more than 20% sequentially in the September quarter after a slower start in the first half of the year. We are beginning to see greater PC demand driven by sunsetting of Windows 10 this month and the adoption of AI at the edge in commercial and consumer PC, which require higher performance SSD solutions. We are also benefiting from the positive impact of our 8-channel PCIe 5 controller that launched at the end of last year, which with revenue growing 45% sequentially in the third quarter and which now represents more than 15% of our client SSD revenue.\nThis new controller has significantly higher ASP than our PCIe 4 offering and will help drive revenue growth as they scale. As we have discussed, we have 4 of the 6 NAND flash makers and nearly all the module makers using this performance leading controller for their high-end offerings. And we expect to capture significant market share in the top tier for the PC market first time, which represent approximately 10% to 15% of the overall market. We have win with all the top PC OEMs in many of their upcoming high-end models that are expected to ship later this year and scale throughout next year.\nWe are introducing our second 6-nanometer PCIe 5 controller even with 4-channel version by targeting the mass PC market and that we will begin initial shipments this quarter. We have already secured design wins with also 4 NAND flash makers and nearly all the module makers for this controller as well. This new controller targets the largest segment of PC and retail SSD market, and we expect that it will help drive our client SSD market share from approximately 30% today to 40% over the next few years.\nWe expect the, PCIe 5 will become the dominant technology in consumer application over the next few years, and we are in the best position to benefit given our strong customer partnership with both NAND flash makers and module makers. I will now provide an update of our automotive business. We continue to experience significant design win activity in our automotive segment across each of our product units, including eMMC, UFS, PCIe and our Ferri embedded solutions. While the overall market has experienced challenges in 2025, given the broader geopolitical and tariff issues, we continue to grow our product portfolio and market share.\nWe are also benefiting from the super trend of increased vehicle complexity, which is driving the need for additional high-speed, high-performance storage. We recently won significant design wins with a Tier 1 Japanese auto manufacturer in their global model that could contribute to top line growth moving forward. As I mentioned during our last call, we also recently won with a large South Korea customer that has started to sample our eMMC controller-based solution to multiple automotive OEMs, which we expect to drive further growth in our automotive business in 2026 and beyond.\nWe are also on track to extend our lead in ASPICE certification, which we achieved this year with the Level 3 certification for our PCIe 4 controller with plan to take out our next-generation automotive PCIe 5 controller next year. Increased demand for advanced storage solutions in automotive is being driven by AI multiple screen integration, ADAS sensors, cameras, navigation and other applications. We are shipping to many of the leading automotive manufacturers in the world, including Tesla, BYD, Xiaomi, Mercedes, Toyota, Honda and many others. Entering the second half 2025, we experienced greater-than-expected demand from our partner in China as our strong design pipeline has led to market share gains with Beijing car makers like BYD and Geely.\nChinese automotive brands are rapidly taking market share worldwide given their leadership in electric low-cost vehicles. As we continue to introduce compelling new automotive controllers and as we expand our customer relationships, we remain confident that automotive will represent at least 10% of our revenue by 2026 and 2027. Finally, I will now provide an update to our enterprise business. The requirement of AI computation, training and inference are rapidly evolving and driving new requirements from storage and memory solutions that deliver performance, capacity, power and affordability. These growing opportunity are expanding the prospect, the prospect for Silicon Motion MonTitan family of enterprise-grade controllers.\nThe need for increased speed and lower latency is driving greater adoption of [indiscernible] in the data center and the industry is increasingly looking to adopt NAND solution in 1 storage, 2 storage and eventually near DPU storage as well. Our MonTitan solution ideally suited to address the increasing requirements of AI workload for both compute SSD using TLC and high-capacity warm storage SSD using QLC. The opportunity for compute SSD represent most of the enterprise SSD market today, while high-capacity SSD are just beginning to ramp, but are expected to be much larger market opportunity [indiscernible] Interest in MonTitan for compute storage TLC SSD application is increasing.\nThis quarter, our customers are beginning qualification with end customer TLC, enterprise and data center with TLC-based high-performance USB using our MonTitan controller, targeting the high-performance requirements of AI in the data center. We expect this qualification to progress into first half of next year and begin to ramp commercially in the second half of next year. For high-performance, high-capacity QLC SSD, our MonTitan-based solution helped deliver significant advantage over HDD for the AI inference for CSP, hyperscaler and enterprise by elevating the speed and power bottleneck inherent in HDD technology for warm storage.\nThe switch to NAND technology for warm storage is being accelerated by the current supply shortage in the major HD manufacturers, making HDD more expensive and high-capacity QLC SSD is cost effective, better performance option. Longer term, warm storage requirement offer a much bigger market opportunity when compared to the opportunity for compute SSD, and we see increasing interest in our industry-leading MonTitan QLC solution. We are on track to begin end customer qualification for QLC-based high-capacity SSD late this year or early next year. We are increasingly confident in MonTitan, a significant new growth opportunity given our successes and win to date in both the compute and high-capacity warm storage market.\nWe remain confident that MonTitan will deliver 5% to 10% of revenue by the late 2026 or '27 time frame as this new opportunity and customer scale in the near and the midterm. And finally, we continue to collaborate with customers to deliver [ compounding ] enterprise boot drive solution that can work across multiple platforms, engaging directly with the world's leading AI GPU makers as well as hyperscaler and CSP. We began volume shipments of the boot drive to the leading AI GPU makers this quarter for their current DPU product and starting qualification of their next-generation DPU for follow-on products.\nWorking on expanding our relationship with the customer, we are also in the qualification process of our Boot Drive Solutions for a variety of switch products also as well, including [indiscernible] based design as well as Ethernet switch design, both of which are expected to ramp later next year. We expect the Boot Drive Solutions will add an additional long-term sustainable growth driver for Silicon Motion as we expand our storage technology and business partnership with this leading GPU-DPU maker. In conclusion, the third quarter of 2025 delivered significant growth of our business as we execute on our diversification strategy with new products and into new markets.\nWe continue to see the reward of investments that we have made over the past few years. These investments include our market-leading 6-nanometer product, our new UFS and PCIe 5 controller, our new MonTitan and Boot Storage Enterprise cloud solution, our growing automotive portfolio and our new microSD product for multiple locations, including Nintendo Switch 2. We have never been in a better position to expand our market share given our leading product portfolio and the growing need for flash makers to shift their focus from consumer to enterprise applications. Given the growing demand in our legacy business and our new automotive and enterprise products, I'm increasingly confident that we will deliver strong, sustainable top and bottom line growth.\nAnd given our current backlog, I'm very confident in our ability to exceed our target annual revenue run rate of more than $1 billion this quarter. Now let me turn the call to Jason to go over our financial performance and outlook.\nJason Tsai:\nThank you, Wallace, and good morning to everyone joining us today. I will discuss additional details of our third quarter results and then provide our outlook. Please note and my comments today will focus primarily on our non-GAAP results, unless otherwise specifically noted. A reconciliation of our GAAP to non-GAAP data is included in the earnings release issued today. The September quarter sales increased 22% to $242 million, coming in well above the high end of our guided ranges. We experienced a strong rebound to mobile demand, strong growth in our PCIe 5 climate.\nGross margins was at the higher end of our guidance range and increased again in the quarter to 48.7% as we continue to capitalize on new product introductions and improving mix. Operating expenses increased sequentially to $79.5 million as we continue to invest in new projects and expand our customer engagements to further grow and support our significant pipeline of new opportunities. Operating margin increased sequentially to 15.8%, well above our guided range, resulting from improved gross margins and higher-than-expected revenues during the quarter. Our earnings per ADS was $1.\nTotal stock compensation, which we exclude from non-GAAP results, was $5.5 million in the third quarter, and we had $272.4 million cash, cash equivalents and restricted cash at the end of the third quarter compared to $282.3 million at the end of the second quarter 2025. Cash declined in the third quarter primarily from a combination of dividend payment of $16.7 million and an increase in inventory to support our expected strong business ramp. Our team executed well, and our operational discipline delivered significant outperformance despite continuing investments in new advanced geometry products and our emerging MonTitan platform for their enterprise and AI market. Now I'll discuss our fourth quarter outlook.\nRevenue is expected to increase 5% to 10% to $254 million to $266 million, above our initial target of $250 million we had set at the start of this year. We expect fourth quarter strength to be driven primarily from our client SSD controllers and SSD solutions. Gross margins are expected to be in the range of 48.5% to 49.5%, and operating margin is expected to be in the range of 15% -- excuse me, 19% to 20%, approaching our historical operating profitability levels as we plan to benefit from higher revenue, higher gross margins and lower operating expenses sequentially. Our effective tax rate is expected to be approximately 18%.\nStock-based compensation and dispute-related expenses is expected to be in the range of $18.1 million to $19.1 million. Despite the uncertainty this year given rapid geopolitical changes and tariff impacts, our team has remained focused on execution and building an incredibly strong pipeline for long-term growth. We have successfully scaled new products, engaged with new customers and expanded into new markets that will lead to higher market share and greenfield growth opportunities in enterprise storage, and we're just getting started. We expect to continue to invest to further expand our position as the leading merchant controller maker in the world for eMMC and UFS, client SSDs, automotive applications, high-performance and high-capacity enterprise and data storage -- data center storage.\nAs we look ahead, our pipeline for growth in 2026 and beyond has never been stronger, and we look forward to discussing it in greater detail when we report again in 3 months. This concludes our prepared comments. I'd like to open up for questions now. Operator?\nOperator:\n\n[Operator Instructions]\nWe will take our first question from the line of Neil Young from Needham & Company.\nNeil Young:\nCould you dive a little deeper in your comment in the press release about white box AI server makers continuing to leverage mainstream hardware components. I believe your SSD controller sales are typically a PC/other consumer applications. So can you just give us a sense of how much of the SSD controller revenue in this quarter came from the white box AI server makers you referenced? And where you expect that to trend going forward? And then I have a follow-up.\nChia-Chang Kou:\nThe mention with the white box is an AI all-in-one server and primarily that come from China and Taiwan from the DeepSeek Volume-1 surveyor [ flybox ] and some in others, bundled with other training model. I think there are 2508 8-channel PCIe 5 controller is well positioned in the market. We cannot comment. We don't know exactly the volume, but there is a growing momentum for all the AI all-in-one server. it is similar like NVIDIA announced MGX, DGX GPU for this kind of a market.\nNeil Young:\nOkay. And then looking at the gross margin guide, midpoint coming in at 49%. I was wondering if you could maybe walk through the moving pieces of the gross margin in 4Q. And then if possible, could you share sort of where you expect gross margin to trend next year? If not, at least what the main drivers of the gross margin improvement should be in 2026?\nJason Tsai:\nSo certainly, as we continue into the fourth quarter, scaling new products like PCIe 5 new generation products tend to have better gross margins that offset the declining gross margins of older products. We do expect to see, as MonTitan continues to scale to have some incremental benefits, but certainly, that remains a relatively small portion of our business today. We're not guiding for 2026 at this point. We'll talk more about that in 3 months' time. So stay tuned for that. But certainly, we are excited that we're back to kind of the normalized range that we historically have been, historical range has been 48% to 50%, and we're guiding smack in the middle of that.\nSo we're pretty happy that we've been able to recover off of obviously some tough times a couple of years ago, but we're back to where we historically have been.",
+  "qa_turns": [
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "We will now take the next question from the line of Craig Ellis from B. Riley Securities.",
+      "turn_index": 0
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Craig Ellis",
+      "text": "Team, congratulations on real good execution. I wanted to start with a question that takes off from Jason's comments that the company is just getting started in enterprise storage and ask a question that's fairly broad and has a couple of parts to it. So if we look at what our ambition is over the next year plus with MonTitan and enterprise storage classically defined and think about what's going on currently with boot drive controllers and full solutions already starting to ship and picking up and maybe diversifying our customer base next year. And then -- and this part would be for you, Wallace.\nAs we think about some of the news that's coming out of Korea and other countries about the development of high-bandwidth flash. And while some could be skeptical that, that may just be like storage class memory, which went nowhere for 15 years, but with some leading OEMs behind it, it very likely could. How do we think about the arc of those drivers as we go from '25 to '26 and '27? And what can enterprise broadly defined be for the company longer term?",
+      "turn_index": 1
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you for your question. Please remain on the line. Your conference will resume shortly. Thank you. Presenters, you may continue your conference. Craig, you may want to repeat your question?",
+      "turn_index": 2
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Craig Ellis",
+      "text": "Yes. The question is this, if we look at enterprise storage broadly, including MonTitan's traditional enterprise storage but also include the boot drive business with one customer shipping now, but maybe diversifying and think longer term about what's possible from high bandwidth flash, if that were to be an opportunity because certainly that's going to be QLC where you're particularly strong. Can you talk about...",
+      "turn_index": 3
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Just a moment, sir. The conference will resume shortly. Just a moment. Ladies and gentlemen, please remain on the line your conference will resume shortly. [Technical Difficulty] We have the speakers back.",
+      "turn_index": 4
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Thomas Andrew Sepenzis",
+      "text": "Hi, there. Sorry about that. We're back.",
+      "turn_index": 5
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Craig Ellis",
+      "text": "Should I give the question a third shot.",
+      "turn_index": 6
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Thomas Andrew Sepenzis",
+      "text": "Yes, one more time Craig. Sorry about that.",
+      "turn_index": 7
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Craig Ellis",
+      "text": "So looking at enterprise storage broadly from MonTitan classic enterprise storage that's starting to ramp with qualifications and then shipments next year, but boot drive controllers and storage getting going now and with the potential for high bandwidth flash to come in as a much-needed AI-based solution a few years down the road, how do we think about the longer-term market storage as we just get started with boot drives this year, pick up MonTitan and then ramp those over the ensuing years. And what could high-bandwidth flash do to the business as a third driver longer term?",
+      "turn_index": 8
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chia",
+      "text": "So first of all, I want to clarify the 5% to 10% of total revenue, '26 to '27 does not include our Blue Drive for the current DPU design and also for the additional switch Blue Drive solution. But we do see -- moving to 2026 is the best and challenging year for storage industry. There's so many new opportunity coming, not the conventional compute storage, but also one storage, the high-capacity QLC SSD. And then moving forward, it will be near GPU storage. So there's so many new opportunities for MonTitan controller to fit in. And we're also preparing to work on growing market. We just need more R&D resources to meet the demand.\nAnd in parallel, I think this is a great opportunity. We see MonTitan to scale up. our Blue Drive solution also could scale up quickly in 2026 and moving to some CSV design too.",
+      "turn_index": 9
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Craig Ellis",
+      "text": "And Wallace, what's your view on the potential for high bandwidth flash to be a third driver of enterprise broadly defined longer term?",
+      "turn_index": 10
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chia",
+      "text": "So high HBF, I think this is a very interesting product. And this is -- as you know, this is all designed for AI inference near GPU. We see there's 3D SoC technology moving to meet certain new GPU leaders requirement. But HBS also very interesting in packing technology is the conventional standard 3D NAND. But this require new controller and packing technology. We will monitor it carefully because we believe initially this belong to all the NAND makers development, and we are also invited to join the business. But I think we are out of a resource. We want to monitor when the market become more mature, more stable and where we'll participate.",
+      "turn_index": 11
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Craig Ellis",
+      "text": "And then the second question is a question regarding the comments from you and Jason around NAND sufficiency and the implications for shipments next year. So you have an advantage, you're levered with all NAND suppliers. What messaging are they giving you with regard to how they're going to prioritize their output and capacity allocations across enterprise versus PC versus smartphone and then consumer applications? And what does that mean for the various growth drivers of the business in 2026?",
+      "turn_index": 12
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chia",
+      "text": "I think you asked a very good question. We are facing a never happened before the HDD, DRAM, HBM, NAND, all in severe shortage in 2026. Most of our capacity are sold out. And I think I did talk to many of the major makers but I really cannot comment what kind of allocation policy is going to do. However the leading maker, they will keep a discipline and then we can see the balancing for the industry. They are not just favoring AI and server of AI data center. They will consider certain percent for smart phone, certain percentage for PC and certain percent for automotive, of course, the majority would go to the AI and the AI server.\nSo but balancing is very important so we can keep the whole industry moving forward.",
+      "turn_index": 13
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "We will now take our next question from the line of Suji Desilva from ROTH Capital.",
+      "turn_index": 14
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Sujeeva De Silva",
+      "text": "Wallace, Jason, congratulations on the progress here. For MonTitan, I know you're going to talk about 2 lead customers initially, now more. I know one of them was an OEM who was, I think, in turn, trying to themselves secure hyperscaler customers. Has that happened with that lead customer? And if so, what's the start of ramp timing for that customer?",
+      "turn_index": 15
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chia",
+      "text": "I cannot comment their ramping. I think they're very close to the -- as you know, Tier 1 customers, some will develop their firmware themselves, some with joint development with us together. We cannot comment their ramping but getting very close. But because MonTitan getting tremendous demand from multiple customers from Tier 2, so we are busy to provide solutions for both TLC and QLC. Hopefully, we can start a small ramp in the Q4, and we see the more meaningful ramp in 2026.",
+      "turn_index": 16
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Sujeeva De Silva",
+      "text": "Okay. Well, it's very helpful. And my other question is on the arbitration. I'm wondering if there's any update there.",
+      "turn_index": 17
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Jason Tsai",
+      "text": "Yes. Thanks, Suji. Yes, the arbitration, we had -- the arbitration has begun. The hearing was held as scheduled earlier this month. The tribunal scheduled oral closing arguments to be in March of 2026 and is expected that a decision by the tribunal will be available sometime after that.",
+      "turn_index": 18
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "We will now take our next question from the line of Tiffany Ye from Morgan Stanley.",
+      "turn_index": 19
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Hsin Yeh",
+      "text": "Congrats on the great results and guidance. So my first question is that it seems your inventory value rose around 62% in the third quarter. May we know the reason behind? Is it due to the inventory preparation for the BT substrate shortage? And I have a follow-up.",
+      "turn_index": 20
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Jason Tsai",
+      "text": "Yes. So inventory did come up. Inventory increase is to support the growing backlog and new business and orders that we have already received. And that's expected to ship over the next few quarters. And the increase in inventories across really all of our product categories, including some low-cost NAND that we have procured earlier as well as controllers for SSD as well as eMMC and UFS. So it's a pretty broad-based demand that we're seeing, and we're preparing ahead of that.",
+      "turn_index": 21
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Hsin Yeh",
+      "text": "Okay. Got it. So it seems that the BT substrate shortage has kept some of our fabless peers upside in first half next year. So do we see any impact from that? Or because as what you just indicated, we're fully loaded now. So not worry about that impact.",
+      "turn_index": 22
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chia",
+      "text": "I think the substrate PCB shortage or long lead time in non-power business, we have prepared in advance. But we do need to prepare the production ramp for more controller as well as the Ferri product line. That's why we increased our inventory right now.",
+      "turn_index": 23
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Hsin Yeh",
+      "text": "Got it. Got it. I have one more question. So as we head into 2026, we see both our foundry partner and OSAT partners all initiating price hike to reflect the elevated material costs. So how should we think about the impact to our profitability? And do you think we can further pass through all these elevated costs to our customers? That's all.",
+      "turn_index": 24
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chia",
+      "text": "I think what I can say that TSMC will increase the wafer price from 5, 4, 3, 2-nanometer, start from 2025. Our PCIe Gen6 TSMC 4-nanometer won't be production until late '27 or '28. So there's no cost impact, foundry wafer impact for our cost in our controller in the next 2 to 3 years.",
+      "turn_index": 25
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Jason Tsai",
+      "text": "And Tiffany, most of our products are on more trailing edge process geometry. So availability is -- and pricing is certainly better at those trailing edges. The more advanced ones we have today is 6 nano, but a lot of our other products are at 12 and 20 or even higher process geometries.",
+      "turn_index": 26
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Hsin Yeh",
+      "text": "So maybe the impact from foundry is quite nearly limited in 2026, but how about OSATs?",
+      "turn_index": 27
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chia",
+      "text": "OSAT, I think because we have a preliminary agreement, so the OSAT cost impact will be very limited to us almost irrelevant.",
+      "turn_index": 28
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Next question comes from Gokul Hariharan from JPMorgan.",
+      "turn_index": 29
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Gokul Hariharan",
+      "text": "My first question, given this very rapid increase in NAND flash pricing, and it seems like you're going to be in a reasonably short supply situation all through 2026. What are the business dynamics that you're seeing from your customers? Historically, Silicon Motion used to be a little bit more affected when NAND flash is very tight, given OEMs try to allocate to certain customers. At the same time, QLC NAND is clearly rising.\nCould you talk a little bit about anything more that you see in terms of either engagement, any reason why you're not kind of getting more bullish about your 5% to 10% kind of enterprise SSD exposure given a lot of the activities happening in QLC NAND right now?",
+      "turn_index": 30
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chia",
+      "text": "I think, first of all, more than 50% of our business we engage with the NAND OEM business. So we are really well protected in the NAND maker. Second is most of our module maker, they have prepared the potential NAND price increase and shortage in advance. So they all have at least 8 to 12 months inventory. And I think they also -- although they do have a certain contract with the NAND supplier, but definitely, there will be some impact. But I think most of our customers, when we discussed in the last couple of weeks, they all have confidence they should walk through in 2026.\nSo we do not see impact of our business as the coming quarter or even the first half of 2026. We feel very strong for our backlog and we see we will benefit from the NAND supply shortage and become a stronger player in the industry.",
+      "turn_index": 31
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Gokul Hariharan",
+      "text": "Understood. Any updates on the QLC NAND pipeline -- design pipeline and revenue pipeline, I was thinking maybe you would be sounding a little bit more bullish about enterprise SSD given a lot of the activity on QLD NANDs recently.",
+      "turn_index": 32
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chia",
+      "text": "That's exactly true. We are very excited about the high demand for QLC, high-capacity enterprise SSD. We just need to deliver the result. I think the -- as you can see, even it's not just the AI inferences, really require high-capacity enterprise SSD because HDD shortage also trigger higher demand or an urgent demand for the high-capacity SSD. That's why we are very busy. I cannot comment about the potential outcome, but we have to deliver results ASAP.",
+      "turn_index": 33
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Jason Tsai",
+      "text": "Gokul, we're not changing our expectations at this point in spite of the strong demand. We're still targeting 5% to 10% of our revenue in that '26, '27 time frame.",
+      "turn_index": 34
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Gokul Hariharan",
+      "text": "Okay. Are your existing customers because new designs will obviously take time to kind of cascade in. But are your existing customers upsizing meaningfully compared to what you thought maybe 6 months back?",
+      "turn_index": 35
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Jason Tsai",
+      "text": "I mean I think across the board, we're certainly doing better, right? We're coming in ahead of where we were anticipating exiting the year at. So we're going to be above the $1 billion run rate. We are seeing strength in eMMC, UFS as we gain share there. We're seeing strength with our PCIe 5 as we gain share there. So across the board, we are. And so our business today is certainly stronger than what we had anticipated at the start of the year.",
+      "turn_index": 36
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Gokul Hariharan",
+      "text": "Yes, I think this is more to do with enterprise rather than -- I mean consumer is very clear, I think, but this is more to do with enterprise.",
+      "turn_index": 37
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Jason Tsai",
+      "text": "Yes. I mean, look, our target still remains at 5% to 10% in '26, '27. Obviously, if we can get -- do that faster, we certainly will, but we are resource constrained. We are working as fast as we can. Our products are beginning to sample with end customers. So as they get ready to ramp up, we're going to be ready to support them. So there are a number of processes in place that right now, we're working through it.",
+      "turn_index": 38
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Gokul Hariharan",
+      "text": "Got it. Just back to client SSDs. How are you thinking about the next couple of quarters? I think we have probably seen a lot of the benefits of the Windows 10 sunsetting and the demand pull in for PC as a result of that. As we kind of start to lap that in the next couple of quarters, how do you see this pan out? Do you see a little bit of moderation in growth there or the spec migration to PCIe 5 is enough to kind of offset any of that volume growth tail off?",
+      "turn_index": 39
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chia",
+      "text": "I think you are correct. We benefit from PCIe 5 market share gain. As we said, our PCIe 5, 8 channel have a 4 NAND maker and nearly all the module maker design win. So when PC OEMs start to ramp late this quarter, I think we benefit from revenue growth as well as market share gain. Our 4-channel mainstream DRAM PCIe 5 also is near production. I think we will start to see initial production by late this quarter and start to ramping up by middle of next year through another combination 4 NAND maker as well as the module maker.\nSo when PCIe 5 become mainstream in the PC market, Silicon Motion will benefit from the market trend because we will move towards 40% global market share.",
+      "turn_index": 40
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Jason Tsai",
+      "text": "And we -- as I said in the comments that we do anticipate our SSD controller business to grow again sequentially in the fourth quarter.",
+      "turn_index": 41
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Gokul Hariharan",
+      "text": "Okay. So just a clarification. So for PCIe Gen5, let's say, for next year, what percentage of the PC OEM market do you expect it to be? Is it like 15%, 20%? Or once you have your 4-channel controller also ready? Or is it even higher than that?",
+      "turn_index": 42
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chia",
+      "text": "We cannot comment for PC OEM what they plan to ramp. We just know when they ramp more model, we benefit from market share gain.",
+      "turn_index": 43
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "[Operator Instructions]\nour next question comes from Matt Bryson from Wedbush. All right. We are not getting a response from Matt. So I'm not showing any further questions. I'll now turn the conference back to Mr. Wallace Kou for closing comments.",
+      "turn_index": 44
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Chia",
+      "text": "Thank you, everyone, for joining us today and for your continued interest in Silicon Motion. We will be attending several investor conferences over the next few months. The schedule of these events will be posted on the Investor Relationship section of our corporate website, and we look forward to speaking with you at these events. Thank you, everyone, for joining us today.",
+      "turn_index": 45
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you for your participation in today's conference. This does conclude the program. You may now disconnect your lines.",
+      "turn_index": 46
+    }
+  ]
+}

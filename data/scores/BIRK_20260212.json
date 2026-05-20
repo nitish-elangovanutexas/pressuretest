@@ -1,0 +1,28 @@
+{
+  "ticker": "BIRK",
+  "call_date": "2026-02-12",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": -7.770319800933873e-17,
+  "cosine_distance": -2.220446049250313e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.16648031200117921,
+  "baseline_mean": -7.770319800933873e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5832401560005896,
+    "call_mean_answer_length": 157.16666666666666,
+    "call_hedge_density": 0.014155130193329589,
+    "call_pos_sentiment_mean": 0.2224267174800237,
+    "call_neu_sentiment_mean": 0.7569992691278458,
+    "call_neg_sentiment_mean": 0.020574006562431652,
+    "call_qa_similarity_mean": 0.45643414763793966,
+    "baseline_neg_sentiment_mean": 0.020574006562431652
+  },
+  "generated_at": "2026-05-20T04:46:51+00:00"
+}

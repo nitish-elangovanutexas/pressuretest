@@ -1,0 +1,28 @@
+{
+  "ticker": "DRI",
+  "call_date": "2026-03-19",
+  "quarter": 3,
+  "year": 2026,
+  "pressure_score": 0.025735100108850033,
+  "cosine_distance": 0.05261644098003626,
+  "sentiment_shift": 0.03027618734349992,
+  "question_difficulty_mean": 0.17833791533934143,
+  "baseline_mean": 0.019421188781556065,
+  "baseline_std": 0.0058053540452853054,
+  "z_score": 1.0876014241408198,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5891689576696707,
+    "call_mean_answer_length": 143.72,
+    "call_hedge_density": 0.02417294967816965,
+    "call_pos_sentiment_mean": 0.1688174921274185,
+    "call_neu_sentiment_mean": 0.7316826915740967,
+    "call_neg_sentiment_mean": 0.09949981115758419,
+    "call_qa_similarity_mean": 0.5032574699823141,
+    "baseline_neg_sentiment_mean": 0.06922362381408427
+  },
+  "generated_at": "2026-05-20T05:16:52+00:00"
+}

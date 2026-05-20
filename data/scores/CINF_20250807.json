@@ -1,0 +1,28 @@
+{
+  "ticker": "CINF",
+  "call_date": "2025-08-07",
+  "quarter": 2,
+  "year": 2025,
+  "pressure_score": 7.914424924008366e-17,
+  "cosine_distance": 2.220446049250313e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.18811337128719482,
+  "baseline_mean": 7.914424924008366e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5940566856435974,
+    "call_mean_answer_length": 124.75,
+    "call_hedge_density": 0.023223900160295467,
+    "call_pos_sentiment_mean": 0.23412193320691585,
+    "call_neu_sentiment_mean": 0.7075735077261924,
+    "call_neg_sentiment_mean": 0.05830455678515136,
+    "call_qa_similarity_mean": 0.44580096114415246,
+    "baseline_neg_sentiment_mean": 0.05830455678515136
+  },
+  "generated_at": "2026-05-20T04:58:36+00:00"
+}

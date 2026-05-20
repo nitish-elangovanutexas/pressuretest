@@ -1,0 +1,28 @@
+{
+  "ticker": "BJ",
+  "call_date": "2025-05-22",
+  "quarter": 1,
+  "year": 2025,
+  "pressure_score": 0.0,
+  "cosine_distance": 0.0,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.19095508218418838,
+  "baseline_mean": 0.0,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5954775410920942,
+    "call_mean_answer_length": 277.27272727272725,
+    "call_hedge_density": 0.020407619661724875,
+    "call_pos_sentiment_mean": 0.36019475758075714,
+    "call_neu_sentiment_mean": 0.6148630489002574,
+    "call_neg_sentiment_mean": 0.02494217904115265,
+    "call_qa_similarity_mean": 0.4679387624607188,
+    "baseline_neg_sentiment_mean": 0.02494217904115265
+  },
+  "generated_at": "2026-05-20T04:47:14+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "CCI",
+  "call_date": "2026-04-22",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.04722288001232387,
+  "cosine_distance": 0.12988399302149833,
+  "sentiment_shift": 0.006495029383582131,
+  "question_difficulty_mean": 0.17282537776314613,
+  "baseline_mean": 0.036849287012447766,
+  "baseline_std": 0.012113619597494399,
+  "z_score": 0.8563578306538367,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.586412688881573,
+    "call_mean_answer_length": 176.44444444444446,
+    "call_hedge_density": 0.017779965481559308,
+    "call_pos_sentiment_mean": 0.3136171143915918,
+    "call_neu_sentiment_mean": 0.6646511620945401,
+    "call_neg_sentiment_mean": 0.021731726307835843,
+    "call_qa_similarity_mean": 0.6514136239781575,
+    "baseline_neg_sentiment_mean": 0.028226755691417974
+  },
+  "generated_at": "2026-05-20T04:55:03+00:00"
+}

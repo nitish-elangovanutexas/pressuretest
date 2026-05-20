@@ -1,0 +1,28 @@
+{
+  "ticker": "LMT",
+  "call_date": "2026-04-23",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.01408789742268379,
+  "cosine_distance": 0.040122467263383865,
+  "sentiment_shift": 0.0001336681390447271,
+  "question_difficulty_mean": 0.16781431686074544,
+  "baseline_mean": 0.017808515752053798,
+  "baseline_std": 0.005261748901808994,
+  "z_score": -0.7071067811865475,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5839071584303728,
+    "call_mean_answer_length": 334.0,
+    "call_hedge_density": 0.009760026868633696,
+    "call_pos_sentiment_mean": 0.32627520710229874,
+    "call_neu_sentiment_mean": 0.6552467457950115,
+    "call_neg_sentiment_mean": 0.018478049896657467,
+    "call_qa_similarity_mean": 0.5063434707144283,
+    "baseline_neg_sentiment_mean": 0.01834438175761274
+  },
+  "generated_at": "2026-05-20T05:58:58+00:00"
+}

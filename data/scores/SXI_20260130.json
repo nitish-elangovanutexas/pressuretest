@@ -1,0 +1,28 @@
+{
+  "ticker": "SXI",
+  "call_date": "2026-01-30",
+  "quarter": 4,
+  "year": 2025,
+  "pressure_score": 0.0,
+  "cosine_distance": 0.0,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.1540675396511078,
+  "baseline_mean": 0.0,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5770337698255539,
+    "call_mean_answer_length": 91.0625,
+    "call_hedge_density": 0.01528258002737957,
+    "call_pos_sentiment_mean": 0.41401017596945167,
+    "call_neu_sentiment_mean": 0.5071081169880927,
+    "call_neg_sentiment_mean": 0.0788816989515908,
+    "call_qa_similarity_mean": 0.4422087806810259,
+    "baseline_neg_sentiment_mean": 0.0788816989515908
+  },
+  "generated_at": "2026-05-20T07:04:04+00:00"
+}

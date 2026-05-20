@@ -1,0 +1,28 @@
+{
+  "ticker": "TWLO",
+  "call_date": "2026-04-30",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.028511259388999698,
+  "cosine_distance": 0.07206337498964499,
+  "sentiment_shift": 0.012877483629078292,
+  "question_difficulty_mean": 0.17841858772811192,
+  "baseline_mean": 0.023724830474063242,
+  "baseline_std": 0.007221517876845721,
+  "z_score": 0.6628009507922334,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.589209293864056,
+    "call_mean_answer_length": 120.11111111111111,
+    "call_hedge_density": 0.01093217582229845,
+    "call_pos_sentiment_mean": 0.2433451203008493,
+    "call_neu_sentiment_mean": 0.7118361741304398,
+    "call_neg_sentiment_mean": 0.044818704947829247,
+    "call_qa_similarity_mean": 0.5232452822643304,
+    "baseline_neg_sentiment_mean": 0.031941221318750955
+  },
+  "generated_at": "2026-05-20T07:15:30+00:00"
+}

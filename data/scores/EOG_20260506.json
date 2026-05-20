@@ -1,0 +1,28 @@
+{
+  "ticker": "EOG",
+  "call_date": "2026-05-06",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.0283484316093006,
+  "cosine_distance": 0.08064815752862187,
+  "sentiment_shift": 0.0019285187731304804,
+  "question_difficulty_mean": 0.1533058358373131,
+  "baseline_mean": 0.021766795249028758,
+  "baseline_std": 0.005709392578122415,
+  "z_score": 1.1527734816295068,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5766529179186566,
+    "call_mean_answer_length": 281.57142857142856,
+    "call_hedge_density": 0.02123427617179085,
+    "call_pos_sentiment_mean": 0.3922778240271977,
+    "call_neu_sentiment_mean": 0.5834607652255467,
+    "call_neg_sentiment_mean": 0.02426141340817724,
+    "call_qa_similarity_mean": 0.5577747865065994,
+    "baseline_neg_sentiment_mean": 0.02618993218130772
+  },
+  "generated_at": "2026-05-20T05:22:36+00:00"
+}

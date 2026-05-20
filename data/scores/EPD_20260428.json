@@ -1,0 +1,28 @@
+{
+  "ticker": "EPD",
+  "call_date": "2026-04-28",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.03210134151841496,
+  "cosine_distance": 0.049176781507814016,
+  "sentiment_shift": 0.06438889044590972,
+  "question_difficulty_mean": 0.16179506014056183,
+  "baseline_mean": 0.058499579417624716,
+  "baseline_std": 0.03651622194300664,
+  "z_score": -0.7229181030943257,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5808975300702809,
+    "call_mean_answer_length": 25.764705882352942,
+    "call_hedge_density": 0.021964646167787576,
+    "call_pos_sentiment_mean": 0.24639077002511306,
+    "call_neu_sentiment_mean": 0.6238924299969393,
+    "call_neg_sentiment_mean": 0.12971680331975222,
+    "call_qa_similarity_mean": 0.34076485135018425,
+    "baseline_neg_sentiment_mean": 0.0653279128738425
+  },
+  "generated_at": "2026-05-20T05:23:20+00:00"
+}

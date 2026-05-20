@@ -1,0 +1,28 @@
+{
+  "ticker": "CRMD",
+  "call_date": "2026-03-05",
+  "quarter": 4,
+  "year": 2025,
+  "pressure_score": 7.884884322097512e-17,
+  "cosine_distance": 2.220446049250313e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.18367873649526073,
+  "baseline_mean": 7.884884322097512e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5918393682476304,
+    "call_mean_answer_length": 212.2,
+    "call_hedge_density": 0.042167215763267187,
+    "call_pos_sentiment_mean": 0.2606107547879219,
+    "call_neu_sentiment_mean": 0.7105593979358673,
+    "call_neg_sentiment_mean": 0.028829832933843134,
+    "call_qa_similarity_mean": 0.4431655852886138,
+    "baseline_neg_sentiment_mean": 0.028829832933843134
+  },
+  "generated_at": "2026-05-20T05:06:26+00:00"
+}

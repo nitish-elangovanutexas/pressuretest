@@ -1,0 +1,28 @@
+{
+  "ticker": "NVO",
+  "call_date": "2025-12-11",
+  "quarter": 3,
+  "year": 2025,
+  "pressure_score": 4.144079113859075e-17,
+  "cosine_distance": 1.1102230246251565e-16,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.2442182101979724,
+  "baseline_mean": 4.144079113859075e-17,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.6221091050989862,
+    "call_mean_answer_length": 182.0,
+    "call_hedge_density": 0.018260063559322033,
+    "call_pos_sentiment_mean": 0.3730009160935879,
+    "call_neu_sentiment_mean": 0.6002087071537971,
+    "call_neg_sentiment_mean": 0.026790371164679527,
+    "call_qa_similarity_mean": 0.5092006774508937,
+    "baseline_neg_sentiment_mean": 0.026790371164679527
+  },
+  "generated_at": "2026-05-20T06:24:40+00:00"
+}

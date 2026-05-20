@@ -1,0 +1,28 @@
+{
+  "ticker": "TMO",
+  "call_date": "2026-04-23",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.015708002297267706,
+  "cosine_distance": 0.021483301360295526,
+  "sentiment_shift": 0.0342887369199441,
+  "question_difficulty_mean": 0.18080973576903056,
+  "baseline_mean": 0.0212557402181834,
+  "baseline_std": 0.007845686208250493,
+  "z_score": -0.7071067811865476,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5904048678845153,
+    "call_mean_answer_length": 169.6153846153846,
+    "call_hedge_density": 0.02447167702162584,
+    "call_pos_sentiment_mean": 0.644016003379455,
+    "call_neu_sentiment_mean": 0.3267052761064126,
+    "call_neg_sentiment_mean": 0.02927872366630114,
+    "call_qa_similarity_mean": 0.5840260787909479,
+    "baseline_neg_sentiment_mean": 0.06356746058624524
+  },
+  "generated_at": "2026-05-20T07:10:00+00:00"
+}

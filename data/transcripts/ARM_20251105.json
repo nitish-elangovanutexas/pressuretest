@@ -1,0 +1,292 @@
+{
+  "ticker": "ARM",
+  "company_name": "Arm",
+  "call_date": "2025-11-05",
+  "quarter": 2,
+  "year": 2026,
+  "prepared_remarks": "Earnings Call Transcript\",\"datePublished\":\"2025-11-05T23:48:04.000Z\",\"dateModified\":\"2025-11-05T23:48:04.000Z\",\"author\":{\"@type\":\"Person\",\"name\":\"Motley Fool Transcribing\",\"url\":\"https://www.fool.com/author/20032/\",\"jobTitle\":\"Contributing Analyst\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://g.foolcdn.com/avatar/2041746765/large.ashx\",\"height\":\"80\",\"width\":\"80\"}},\"about\":[{\"@type\":\"Corporation\",\"tickerSymbol\":\"NASDAQ ARM\"}],\"publisher\":{\"@type\":\"Organization\",\"@id\":\"https://www.fool.com/\",\"name\":\"The Motley Fool\",\"url\":\"https://www.fool.com/\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://g.foolcdn.com/misc-assets/logo-tmf-primary-7-magenta-royalpurple.svg\",\"width\":\"157\",\"height\":\"43\"},\"brand\":\"The Motley Fool\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"Media Inquiries\",\"email\":\"pr@fool.com\"},\"publishingPrinciples\":\"https://www.fool.com/about/\",\"sameAs\":[\"https://www.fool.com/about/\",\"https://en.wikipedia.org/wiki/The_Motley_Fool\",\"https://www.wikidata.org/wiki/Q7752442\",\"https://www.linkedin.com/company/the-motley-fool\",\"https://www.facebook.com/themotleyfool/\",\"https://x.com/themotleyfool\",\"https://www.instagram.com/themotleyfoolofficial/\",\"https://www.youtube.com/channel/UCpRQuynBX9Qy9tPrcswpPag\",\"https://www.pinterest.com/themotleyfool/\",\"https://www.tiktok.com/@themotleyfoolofficial\",\"https://www.google.com/search?kgmid=/m/0578mk\"]},\"description\":null,\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.content.foolcdn.com/images/1umn9qeh/production/b4204f36ed605fc54d4ba32e2cb31d1dd892afd6-800x450.jpg?w=800&h=450\",\"height\":\"630\",\"width\":\"1200\"}}\nEarnings Call Transcript\nArm (ARM) Q2 2026 Earnings Call Transcript\nBy\n\nMotley Fool Transcribing\n\n–\n\nNov 5, 2025 at 6:48PM EST\n\n\n\n\nImage source: The Motley Fool.\n\n\nDATE\nNov. 5, 2025 at 5 p.m. ET\nCALL PARTICIPANTS\nChief Executive Officer — Rene Haas\nChief Financial Officer — Jason Child\nNeed a quote from a Motley Fool analyst? Email\n[email protected]\nTAKEAWAYS\nTotal revenue\n-- $1.14 billion for the fiscal second quarter ended Sept. 30, 2025, up 34% year over year, marking the third consecutive quarter above $1 billion and exceeding the midpoint of guidance by $75 million.\nRoyalty revenue\n-- $620 million for the fiscal second quarter, up 21% year over year, driven by increased smartphone royalty rates per chip and a doubling of data center royalties.\nLicensing revenue\n-- $550 million for the fiscal second quarter, a 56% increase year over year, as customers pursued next-generation AI products; includes $515 million from license and other revenue.\nNon-GAAP operating expenses\n-- $648 million for the fiscal second quarter, up 31% year over year, reflecting expanded R&D investment and finishing slightly below company guidance.\nNon-GAAP operating income\n-- $467 million for the fiscal second quarter, up 43% year over year, resulting in a non-GAAP operating margin of 41.1%, compared to 38.6% a year ago.\nNon-GAAP EPS\n-- $0.39 for the fiscal second quarter, $0.06 above the midpoint of guidance, benefiting from higher revenue and marginally lower operating expense.\nAnnualized contract value (ACV)\n-- Grew 28% year over year in the fiscal second quarter, above both historic averages and long-term targets, maintaining strong momentum after 28% growth in the prior quarter.\nStrategic partnership\n-- Announced new AI partnership with Meta to drive efficiency across cloud and edge compute platforms.\nNeoverse platform\n-- Surpassed 1 billion CPUs deployed, with business growth more than doubling year over year.\nCompute Subsystem (CSS) licensing\n-- Signed three new CSS licenses, totaling 19 licenses across 11 companies; top four Android phone vendors now shipping CSS-powered devices.\nLUMIX CSS launch\n-- Introduced the LUMIX CSS mobile platform with immediate royalty revenue from at least one early licensee.\nChina revenue\n-- Approximately 22% of total sales in the fiscal second quarter, with licensing providing a greater contribution to the quarter's outperformance than royalties.\nSoftBank-related revenue\n-- Increased to $178 million in the fiscal second quarter, up $52 million sequentially from last quarter, driven by licensing and design services.\nGuidance for next quarter\n-- Revenue forecasted at $1.225 billion (plus or minus $50 million) for the fiscal third quarter, representing approximately 25% growth; expected royalties up just over 20% year over year, and licensing up 25%-30% year over year; non-GAAP operating expense expected at $720 million; non-GAAP EPS expected at $0.41 plus or minus 4¢.\nDream Big Semiconductor acquisition\n-- Announced intent to acquire Dream Big Semiconductor to strengthen offerings in Ethernet and RDMA controller technology for data center networking.\nSUMMARY\nArm\n\n(\nARM\n\n2.22%\n)\nreported record fiscal second quarter revenue and royalty figures, citing robust demand for AI compute across edge devices and hyperscale data centers. Management highlighted that power constraints are accelerating adoption of Arm's efficient compute platform, with CEO Rene Haas stating, \"power has become the bottleneck\" and positioning Arm as \"about 50% more efficient than competitive solutions.\" The Neoverse business more than doubled year over year, and the company launched LUMIX CSS, enabling early royalty realization. The new partnership with Meta and the planned Dream Big Semiconductor acquisition expand Arm's product scope and addressable market. Management also noted that annualized contract value has grown \"well above our usual run rate\" due to strategic engagement and demand for next-generation architectures. The SoftBank-related revenue stream, combining license and funded design services, was described as \"a good run rate to assume going forward,\" but recognized as lower margin and subject to future product mix evolution. Demand for AI compute and related data center build-outs has grown since the $500 billion Stargate project announcement in January 2025, with infrastructure investment identified as the main gating factor for scaling revenue impact.\nManagement described immediate royalty revenue from LUMIX CSS as \"a little ahead of what we'd expected,\" enabled by pre-existing deep customer collaboration.\nArm indicated that the mix of royalty revenue from cloud and networking is trending toward 15%-20% of total royalties, up from 10% last year, with further updates expected at year-end.\nLicensing revenue in China was a larger driver of outperformance than royalties, and the licensing pipeline for the remainder of the year remains strong.\nArm is accelerating R&D investment to support customer demand for next-generation architectures, compute subsystems, and potential expansion into chiplets or complete SoCs.\nINDUSTRY GLOSSARY\nNeoverse\n: Arm's CPU platform targeted at data center, cloud, and infrastructure applications, prioritizing high efficiency and scalability.\nCSS (Compute Subsystem)\n: A pre-validated, integrated block of core IP and subsystems from Arm, enabling faster customer chip design and reduced time to market.\nLUMIX CSS\n: Arm's latest mobile compute platform, integrating advanced AI and performance capabilities for flagship smartphones.\nStargate\n: A multi-company AI data center initiative (announced by OpenAI, Oracle, and SoftBank) intended for massive-scale compute infrastructure projects, with Arm as a strategic technology provider.\nRDMA (Remote Direct Memory Access)\n: Networking hardware capability acquired via Dream Big Semiconductor, enabling high-speed, low-latency data transfer between servers in data centers.\nAnnualized contract value (ACV)\n: A metric representing the yearly value of active licensing contracts signed within a given period.\nFull Conference Call Transcript\nRene Haas, Arm's Chief Executive Officer, and Jason Child, Arm's Chief Financial Officer. During the call, Arm Holdings plc American Depositary Shares will discuss forecasts, targets, and other forward-looking information regarding the company and its financial results. While these statements represent our best current judgment about future results and performance, our actual results are subject to many risks and uncertainties that could cause results to differ materially. In addition to any risks that we highlight during this call, important risk factors that may affect our future results and performance are described in our registration statement on Form 20-F filed with the SEC. Arm Holdings plc American Depositary Shares assumes no obligation to update any forward-looking statements.\nWe will refer to non-GAAP financial measures during this discussion. Reconciliations of certain of these non-GAAP financial measures to their most directly comparable GAAP financial measures can be found in our shareholder letter, as can a discussion of projected non-GAAP financial measures that we are not able to reconcile without unreasonable efforts and supplemental financial information. Our earnings-related materials are on our website at investors.arm.com. And with that, I'll turn the call to Rene. Rene?\nRene Haas:\nThank you, Jeff, and welcome, everyone. We continue its fiscal year 2026 with strong momentum, fueled by accelerating demand for AI compute from milliwatts in the smallest of edge devices to megawatts in the world's largest hyperscale data centers. Artificial intelligence is reshaping every layer of technology, and Arm Holdings plc American Depositary Shares is the only compute platform delivering AI everywhere. Q2 was our best second quarter ever.\nRene Haas:\nWith revenue of $1.14 billion, up 34% year on year, marking our third consecutive $1 billion quarter. Royalty revenue reached a record $620 million, up 21% year on year. Licensing revenue rose 56% to $550 million as companies continue choosing Arm Holdings plc American Depositary Shares to build our next-generation AI products. Our strong results lifted non-GAAP EPS above the high end of guidance. During the quarter, we announced a strategic partnership with Meta to scale AI efficiency across every layer of compute, from AI-enabled wearables to AI data centers on a consistent compute platform.\nThis partnership combines Arm Holdings plc American Depositary Shares' leadership in energy-efficient compute with Meta's innovation in AI infrastructure and open technologies to deliver richer, more efficient AI experiences to billions of people worldwide. In the data center, access to power has now become the bottleneck, and this has accelerated adoption of Arm Holdings plc American Depositary Shares' Neoverse compute platform, which has now surpassed 1 billion CPUs deployed. Our compute forms the foundation of custom silicon from leading partners, including NVIDIA Grace, AWS Graviton, Google Axion, and Microsoft Cobalt. For example, Google's Arm-based Axion chip delivers up to 65% better price performance while using 60% less energy.\nAs a result, Google is migrating the majority of their internal workloads to run on Arm Holdings plc American Depositary Shares. Customers are increasingly deploying Arm VMware CPUs alongside their AI accelerators to orchestrate massive clusters, highlighting the versatility and scalability of our platform. The addition of five new Stargate sites this quarter further expands visibility into future AI capacity and reinforces Arm Holdings plc American Depositary Shares' central role in the hyperscale build-out. As AI chip design becomes more complex, compute subsystems or CSS are helping customers accelerate their development cycles and reduce execution risk. Demand for CSS continues to exceed expectations.\nDuring the quarter, we signed three new CSS licenses, one each in smartphones, tablets, and data centers, bringing our total to 19 CSS licenses across 11 companies. We also expanded our collaboration with Samsung, which is leveraging CSS for its Exynos family of chipsets, driving up to 40% AI performance over previous non-CSS generations. As a result, the top four Android phone vendors are now shipping CSS-powered devices. CSS has quickly become the starting point for customers building next-generation silicon, offering faster time to market and delivering higher T world trades for Arm Holdings plc American Depositary Shares. In the quarter, we also launched LUMIX CSS, our most advanced mobile compute platform to date.\nLUMIX enables rich on-device AI experiences such as real-time translation, image enhancement, and personal assistance. Flagship devices from partners like Oppo and Vivo are expected to ramp later this year, bringing console-quality performance and new AI capabilities directly to mobile devices. At the edge, AI is transforming how people interact with their devices in their hands, homes, and vehicles. Google launched the Pixel 10 smartphone featuring the new Arm-based Tensor G5 chip, which runs Gemini models up to 2.6 times faster and twice as efficiently as prior generations. NVIDIA began shipping its Arm-based DGX Spark system for AI developers, a compact desktop supercomputer for local model training, fine-tuning, and inference.\nIn automotive, a flagship electric vehicle built on Arm Holdings plc American Depositary Shares platform introduced advanced park assist, voice control, and safety features featuring Arm Holdings plc American Depositary Shares' automotive-enhanced technologies. Tesla's next-generation Arm-based AI5 chip delivers up to 40 times faster AI performance, enabling the next wave of intelligent vehicles and autonomous machines. Our leadership in AI is amplified by our unmatched software developer ecosystem, now more than 22 million strong, representing over 80% of the world's developer base. This ecosystem is a powerful growth engine for Arm Holdings plc American Depositary Shares.\nEvery new Arm-based device brings more developers, which drives more software innovation, which in turn fuels greater demand for our compute platform across every market we serve. As mentioned in our last call, we are continuing to explore the possibility of moving beyond our current platform into additional compute subsystems, chiplets, or complex SoCs. As a result, we continue to accelerate the investment in our R&D as we are seeing increased demand from our customers far more from our. AI is shaping how the world computes, and Arm Holdings plc American Depositary Shares is the foundation making it. From milliwatts to megawatts, we deliver the performance, efficiency, and scalability to meet this moment and the years ahead.\nAnd with that, I'll hand it over to Jason.\nJason Child:\nThank you, Rene. We have delivered another strong quarter.\nJason Child:\nTotal revenue grew 34% year on year to $1.14 billion, a record for Q2. It exceeded the midpoint of our guidance range by $75 million and marked our third consecutive quarter above $1 billion. Royalty revenue exceeded our expectations, growing 21% year on year to a record of $620 million versus our guidance of mid-teens. The biggest growth contributors were smartphones with higher royalty rates per chip and in data centers where we continue to see share gains from custom hyperscaler chips. Royalty revenue from smartphones grew an order of magnitude faster than the market as multiple OEMs ramped smartphone space on Arm Holdings plc American Depositary Shares' V9 and CSS chips.\nData center royalties doubled year on year, given the continued deployment of Arm Holdings plc American Depositary Shares-based chips by hyperscaler companies. Automotive and IoT both continued to grow year on year and contributed to our strong royalty performance. Overall, royalty growth rates continue to reflect Arm Holdings plc American Depositary Shares' increasing royalty rates and rising market share. Turning now to license. License and other revenue was $515 million, up 56% year on year. Growth was driven by strong demand for next-generation architectures and deeper strategic engagements with key customers. We further expanded our license and services agreement with SoftBank. We also signed four ATA and three CSS deals.\nThese agreements reflect the continued investment by our customers in next-generation Arm Holdings plc American Depositary Shares technology. As always, licensing revenue varies quarter to quarter due to the timing and size of high-value deals. So we continue to focus on annualized contract value or ACV as a key indicator of the underlying licensing trend. ACV grew 28% year on year, maintaining strong momentum following the 28% year on year growth we reported in Q1. This is well above our usual run rate of low teens growth rates and is also above our long-term expectation of mid to high single-digit growth for license revenue. Turning to operating expenses and profits.\nNon-GAAP operating expenses were $648 million, up 31% year on year, on strong R&D investment, and slightly below guidance. These investments in R&D reflect ongoing engineering headcount expansion to support customer demand for more Arm Holdings plc American Depositary Shares technology, including continued innovation in next-generation architectures, compute subsystems, and possibly chiplets or complete SoCs. For example, over the past four years, we've invested heavily in developing the technology that makes up the Lumex compute subsystems for smartphones, which we announced in September. This project took around a thousand man-years with a team size peaking over 450 engineers and required around hundreds of millions of dollars in investment.\nLumex CSS has attracted strong market interest and we're already seeing royalty revenue from an early licensee. Non-GAAP operating income was $467 million, up 43% year on year. This resulted in a non-GAAP operating margin of 41.1% and an improvement from 38.6% a year ago. Non-GAAP EPS was $0.39, $0.06 above the midpoint of our guidance range, driven by both higher revenue and slightly lower OpEx. Turning now to guidance. Our guidance reflects our current view of our end markets and our licensing pipeline. For Q3, expect revenue of $1.225 billion plus or minus $50 million. At the midpoint, this represents revenue growth of about 25% year on year.\nWe expect royalties to be up just over 20% year on year, and licensing to be up 25 to 30% year on year. We expect our non-GAAP operating expense to be approximately $720 million and our non-GAAP EPS to be $0.41 plus or minus 4¢. Our higher revenue allows us to both accelerate R&D investment and pass through upside to EPS. We are seeing strong demand from our customers for Arm Holdings plc American Depositary Shares technology, which gives us confidence in our long-term growth trajectory and our strategy to enable AI everywhere. In the cloud, at the edge, and in physical devices.\nAnd we will continue investing aggressively in R&D to capture these opportunities and ensure that AI runs on Arm Holdings plc American Depositary Shares. With that, I'll turn the call back to the operator for the Q&A portion of the call.",
+  "qa_turns": [
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you. To ask a question, you will need to press 11 on your telephone and wait for your name to be announced. In the interest of time, please limit yourself to one question only and rejoin the queue for any follow-up. To withdraw your question, please press 11 again. We will now go to the first question. And your first question today comes from the line of Sebastien Naji from William Blair. Please go ahead.",
+      "turn_index": 0
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Sebastien Naji",
+      "text": "Yeah. Good afternoon. And congrats on the nice results. Rene, I wanted to ask about the AI. There's been a seemingly nonstop stream of new data center deals announced over the last quarter calling for tens of gigawatts of additional computing capacity to be stood up. How do you feel about Arm Holdings plc American Depositary Shares' strategic positioning with respect to these AI deals? And what do you view as the opportunity across the build-out?",
+      "turn_index": 1
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Rene Haas",
+      "text": "Thank you for the question, Sebastien. As a board member of SoftBank and also given our heavy involvement there with Stargate and regular dialogue with OpenAI, I believe I have a unique perspective in terms of visibility in terms of this market. One thing that's become quite evident is that power has become the bottleneck. For everyone, and power not only means access to energy, but everything underneath it in terms of infrastructure build-out, turbines, transformers, everything associated with generating power. So in that environment, everyone wants to move the most efficient compute platform as possible. Arm Holdings plc American Depositary Shares is about 50% more efficient than competitive solutions.\nWe've seen that across the board in benchmarks, but also more importantly in real-life performance. And that's why we see NVIDIA, Amazon, Google, Microsoft, Tesla, all using our best technology. We've seen unprecedented demand for compute and all the incremental compute that we've seen announced literally has all been based on Arm Holdings plc American Depositary Shares. So that's driving a huge growth opportunity for us. It's one of the indicators as to why we've seen such growth in our Neoverse business. More than doubling year over year.",
+      "turn_index": 2
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Sebastien Naji",
+      "text": "Great. Thank you.",
+      "turn_index": 3
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you. Your next question comes from the line of Joseph Michael Quatrochi from Wells Fargo. Please go ahead.",
+      "turn_index": 4
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Joseph Michael Quatrochi",
+      "text": "Yeah. Thanks for taking the question. I noticed in the filing, you announced your intention to acquire Dream Big Semiconductor. Curious just kinda what's behind that and how does that kinda fold into your plans, you know, to potentially expand beyond your current kinda offering platform?",
+      "turn_index": 5
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Rene Haas",
+      "text": "Yeah. Thank you for the question. So Dream Big is a great company. They've got a lot of interesting intellectual property, particularly around the Ethernet area and RDMA controllers, which are very key for scale-up and scale-out networking. So when we look at the demand for what's going on inside the data center and particularly in the area of high-speed communications, that type of technology will be very helpful for us to broaden our offering to end customers. So we're very excited about the company, and Dream Big's got some fantastic engineers.",
+      "turn_index": 6
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Jason Child",
+      "text": "Thank you.",
+      "turn_index": 7
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question comes from the line of Jim Schneider from Goldman Sachs. Please go ahead.",
+      "turn_index": 8
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Jim Schneider",
+      "text": "Good afternoon. Thanks for taking my question. I noticed in your disclosures that you saw a material step up in related party revenue. I was wondering if you could maybe talk a little bit about, and there's also been many announcements related to Stargate and SoftBank since the last earnings. So also can you maybe give us any kind of color you can on the nature of that relationship and how things are changing in terms of design activities. Thank you.",
+      "turn_index": 9
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Rene Haas",
+      "text": "So one of the ways to think about Stargate and particularly given the relationship between Arm Holdings plc American Depositary Shares and SoftBank is a huge opportunity for Arm Holdings plc American Depositary Shares to partner with SoftBank and SoftBank's partners to provide technology into all those solutions. Without giving you too many of the specifics, but at a high level, if you think about what's associated with building out these data centers, you have the compute, obviously. You have the networking. You have everything associated with power distribution. You have potential technology that gets into the power mechanism of the data center and then everything associated with even potential assembly of the data center.\nSo as a result of all the work that SoftBank and the SoftBank family of companies are doing, it provides a huge opportunity for Arm Holdings plc American Depositary Shares to provide solutions into that space. So that at a high level is the way to think about how the SoftBank family works together on these design activities.",
+      "turn_index": 10
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Jason Child",
+      "text": "Thank you.",
+      "turn_index": 11
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question comes from the line of Srini Pajjuri from Deutsche Bank. Please go ahead.",
+      "turn_index": 12
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Srini Pajjuri",
+      "text": "Thanks for letting me ask a question. I wanted to go back to the OpEx side of things. I know it's a little bit below your guide in the second quarter, but the fourth or third quarter looks like it's gonna step up again. Kind of a bigger picture one. You mentioned about exploring different sorts of go-to-market methodologies, chiplets, etcetera. When do you expect to give us more color on when that's going to go from exploration to return on investment or the actual strategy? How should we monitor that and expect to get more information from you?",
+      "turn_index": 13
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Rene Haas",
+      "text": "Yeah. Thank you for asking. The best detail I can give you is that there's nothing I can talk to you about today in terms of timeline about products or technologies. When the time comes for us to announce it, you'll be the first to know in terms of what we're doing. Right now, the best commentary I can give is that everything associated with those solutions does require a significant level of R&D. Now as you've seen on the guidance going forward, our revenue go forward is higher than our OpEx increase, which is something we've been very careful to manage. So we feel comfortable about that.\nBut at the same time, what we're looking at in terms of the opportunity for compute and more importantly, compute using Arm Holdings plc American Depositary Shares, has never been greater. So as a result, we want to make sure we're in the best position possible to capture it. We're looking at all possibilities in terms of how to do that. And when we're ready to talk about what that is, we will certainly, you know, advise.",
+      "turn_index": 14
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Jason Child",
+      "text": "Yeah. The only thing I would add is I think last quarter we said as soon as the way we think about when we announce something, if it were to be, you know, something related to full SoCs, it would be once there's tape out, once there's samples back, and once there's actually non-cancel customer orders, and we achieve all three of those milestones, that's when we would probably talk about something because this would be a new business and something we haven't done before. So whenever those milestones are achieved, that's when you should expect to hear from us.",
+      "turn_index": 15
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Jason Child",
+      "text": "Thank you.",
+      "turn_index": 16
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you. Your next question comes from the line of Vivek Arya from Bank of America. Please go ahead.",
+      "turn_index": 17
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Vivek Arya",
+      "text": "Thanks for taking my question. I just wanted to clarify how much was the SoftBank contribution in Q2 versus what you thought? And then what is baked in for Q3? And hopefully, if you have the number for Q4. And the real question is how long can this quarterly rate persist? And if you do move into physical chips or chiplets or any other products, as far as Target, does it start to cannibalize this licensing stream?",
+      "turn_index": 18
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Jason Child",
+      "text": "Yeah. So thanks for the question. In terms of the impact, it was about a $50 million increase from last quarter. So last quarter, I think we were about $126 million, actually went up $52 million, so now about $178 million. And that's, you know, that's a good run rate to assume going forward. You know, the only way it would change is if we have any additional deals. And again, these are licensed plus design services. So think of it as being licenses to our IP to work with SoftBank on exploring solutions. But then think of the design services being effectively a kind of a funded R&D model. And so that's a lower margin revenue, of course.\nSo in terms of how long these revenue streams will occur, we're not at liberty to say yet, but I would say, you know, as Rene said, at some point, probably in the next year or so, you'll hear us talk about what products those might be, but obviously that's not just up to us. It's when SoftBank's ready to talk about what these products could look like and what the revenue profile, etcetera is. And so when that would occur, you know, it's likely to assume, you know, that there would be, you know, some different revenue source, whether it's royalties or, you know, gross revenue from selling a chip if in fact it's a full SoC.\nThose are all things that are still to be worked out. And, yeah, I would think of that as being, you know, to some extent cannibalistic of whatever the current license and design services. But then, of course, you know, if there is a product, you could also assume there could be successive, you know, generations of products after that. In which case, you could stack royalty between license and design services, but then of course there could also be royalties or whatever the revenue relates to whatever the product that ships in market is.\nSo I would think of it as very much durable revenue in that, you know, I think, you know, if SoftBank wasn't a related party, we would just be booking license and design services. And it wouldn't be related party, but then the numbers would be, you know, pretty similar. And so the fact that they're related party, you know, I think is probably what makes it look somewhat unique. But the reality is we also, as Rene already mentioned, this is not really just between, you know, us and SoftBank. They also have contracts with many others, OpenAI, other Stargate partners as well. So I would think of this as all being part of a larger effort.",
+      "turn_index": 19
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Jason Child",
+      "text": "Thanks.",
+      "turn_index": 20
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you. Your next question comes from the line of Timm Schulze-Melander from Rothschild and Co. Redburn. Go ahead.",
+      "turn_index": 21
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Timm Schulze",
+      "text": "Yes, great. Thank you for taking my questions. I had two, please. Just following on the Stargate theme and the sites, can you maybe just talk about the shape of what that revenue opportunity looks like on a sort of one, three, and five-year view? Just kind of when it's gonna start having an influence on the revenue, the annual revenue or quarterly revenue of the business. And then my second question was, just to make sure I wasn't sure I caught it right, you talked about the Lumex CSS. I think that's, you know, a product that you launched in September, but I think you also said that you already have royalty revenues associated with that.\nIf you could just maybe expand on that a little bit, that would be really helpful. Thank you.",
+      "turn_index": 22
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Rene Haas",
+      "text": "Sure. I'll take the first part of that question. I'll let Jason take the second half. Without giving you a kind of a go-forward forecast of one, five years, maybe a way to think about it is back in January, OpenAI with Oracle and SoftBank announced Stargate, which was a $500 billion project to build out data centers over the next number of years. When we go back to where we are now eleven months later, I would say the demand picture for compute is greater than it was at that time. So this is a bit of why you're seeing all kinds of different accelerated announcements around spend, etcetera, etcetera.\nSo if nothing else, I think the opportunity for compute has only grown since we made that Stargate announcement. And to be clear, that announcement is around a joint partnership with OpenAI and SoftBank being equity partners in this investment for compute. So we are quite bullish in terms of this overall demand for compute. Right now, what's in the way of realizing that potential is all of the infrastructure required around the power.\nBut from everything that we can tell from people we talk to inside the ecosystem, the demand for compute to train these new models, reinforcement learning to make them great, and then inference to serve them, the demand opportunity is stronger than we announced eleven months ago. So this is why we're accelerating all the investments that we talked about to take advantage of that opportunity. On the Lumex CSS royalty question, I'll let Jason answer that one.",
+      "turn_index": 23
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Jason Child",
+      "text": "Yeah. So I would say the licensee that we're already receiving royalties from, that is, I'd say, earlier than expected. And the way it's happened so quickly is this actually, you know, we're not able to say which partner it is, but it is a partner where this is not their first CSS. This is their second CSS. So as a result, there was already kind of close partnership on the first generation. And so then when we launched the next generation, because the teams had already been working pretty close to each other, it allowed that second generation to be adopted very quickly.\nAnd for royalties to come really just, you know, within a couple of months after the technology was delivered. So kind of unusual, a little ahead of what we'd expected, but it very much speaks to exactly why CSS has been more successful even than we thought when we launched it two years ago. It's really about speeding up time to market. And this is an excellent example of that occurring.",
+      "turn_index": 24
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Jason Child",
+      "text": "Great. Thank you.",
+      "turn_index": 25
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Timm Schulze",
+      "text": "Thank you.",
+      "turn_index": 26
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Your next question comes from the line of Harlan Sur from JPMorgan. Please go ahead.",
+      "turn_index": 27
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Harlan Sur",
+      "text": "Hey. Good afternoon. Thanks for taking my question. Rene, you talked about Neoverse royalties growing 2x year over year. With all these cloud-based CPUs ramping. And then on top of that, with these high-performance AI clusters, right, they're using more GPUs or SmartNICs that are also using Arm cores. On the networking side, data center switching and routing chips have multiple Arm cores embedded in them for things like telemetry, load balancing, overall system management. The bottom line is that there's significant Arm cores compute going into all aspects of the data center. Right? We're also even seeing Arm taking over x86 in the service provider network. Networking markets as well.\nSo last fiscal year, cloud and networking accounted for about 10% of royalty revenues. We're midway through this fiscal year. Maybe you guys could just true us up, I assume. This mix has increased. Is it approaching 15, 20% of total royalty revenues for the team? Any color here would be great.",
+      "turn_index": 28
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Rene Haas",
+      "text": "Yeah. I'll let Jason address numbers, but thank you for being a great salesman and describing our penetration across domains. You're 100% right. There's Arm technology in virtually every set of the networking stack. The BlueField technology at Mellanox, GPU-based, that's Arm. Significant technology goes into the switches around Tomahawk and Arista. All using Arm technology. So we are definitely seeing an acceleration of all that. And at the same time, I think the power efficiency piece is probably the biggest accelerant I think we're going to see just in terms of being able to offload as much as everything you can onto the more power-efficient domain of the compute platform. So I'll let Jason comment on royalties.\nSo scheme in terms of where that is going directionally.",
+      "turn_index": 29
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Jason Child",
+      "text": "Hey, Harlan. So on the royalties, yeah, I mean, it ended the year at around 10% ish. And so, you know, we're certainly with the growth rate in infrastructure being, you know, double, I'd say, all the other categories in overall average, you should expect it to continue to increase. We'll provide a full update at the end of the year. But, you know, your trajectory is somewhere in the 15% to 20% range is not a bad assumption and probably a reasonable expectation for where we expect to trend throughout the year.",
+      "turn_index": 30
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Rene Haas",
+      "text": "So I would say it's probably going faster than we expected a year ago.",
+      "turn_index": 31
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Jason Child",
+      "text": "That's right.",
+      "turn_index": 32
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Harlan Sur",
+      "text": "Great. Great. Thank you.",
+      "turn_index": 33
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you. Your next question comes from the line of Krish Sankar from TD Cowen. Please go ahead.",
+      "turn_index": 34
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Krish Sankar",
+      "text": "Yeah. Hi. Thanks for taking my question. I have a question for Rene. You know, clearly, you kinda highlighted how you have strengthened smartphones and also increasing market share. In data center, I'm kinda curious, when you look over the next few years, how do you see chip demand and token generation playing out and its implication for Arm Holdings plc American Depositary Shares, especially as we move into more of an inference world where edge devices may play a bigger role.",
+      "turn_index": 35
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Rene Haas",
+      "text": "Oh, I think, you know, from some accounts of people who I talk to will say that today, on some of these data centers, these build-outs of multi 100 megawatts that still, and again, depending on how you define training inference and reinforcement learning, the majority of compute is being used for training still. That clearly will flip. Well, at some point, it has to. We think. And then that demand starts to move to inference. What we're seeing is all kinds of demand for different architectures and compute. Type of solutions to run inference not in the cloud. Obviously, you're going to not rely 100% on something on the edge. But today, it's the reverse.\nIt's about 100% on the cloud. We think that is going to change. We are seeing already lots of demand for the CPUs and LUMI that have these scalable matrix extensions. And these are the extensions that allow you to run AI workloads at higher performance. That's only gonna continue. And I think for Arm Holdings plc American Depositary Shares, that is an enormous trend for us on two levels. Number one, huge trend for us because the further you move away from the cloud onto battery-level devices, that's a domain that Arm Holdings plc American Depositary Shares can play in the sense of the software workload running exclusively there.\nBut at the same time, customers would love a scalable software solution between the cloud and the edge. And that's a lot of what's behind the announcement that we made with Meta in October. This is around working in such a way with Meta where whether they're running something in the cloud or running in the edge for developers, they're able to port models in such a way that it's as efficient as possible no matter where you're running. So this is all, I think, a good thing for us because more tokens mean more compute. More compute means more compute needed at the edge.\nAnd more compute at the edge is really good for us because that's a think we're in a very, very unique position to address that.",
+      "turn_index": 36
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Krish Sankar",
+      "text": "Thank you, Aldrin. I appreciate it.",
+      "turn_index": 37
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Jason Child",
+      "text": "Thank you.",
+      "turn_index": 38
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "We will now take our final question for today. And the final question comes from the line of Lee Simpson, Morgan Stanley. Please go ahead.",
+      "turn_index": 39
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Lee Simpson",
+      "text": "Great. Thanks for fitting me in, and well done, everyone, on a great quarter. I see China is maybe 22% of sales this queue. And I was just wondering what is driving that? Is it more licensing or royalties? For strength in the quarter? And maybe just as you look out to the licensing pipeline for the rest of the year, have you seen more reason to be confident in the growth this year for licensing? Especially as you look to Q4, which, as I believe, we said before, there's potential for good renewal deals this year. Thanks.",
+      "turn_index": 40
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Jason Child",
+      "text": "Thanks for the question, Lee. In terms of the performance, yeah, it definitely has done well. And I would just, you know, overall say, the demand in China looks to be as strong as we've ever seen. We did have one of our largest license deals actually come out of China. And so I would say license was slightly more of a, I'd say, more of the overperformance came from license. Royalties are also growing strong in China as well, but license was a little bit of a bigger driver this quarter. And, you know, our pipeline indicates that we have a pretty strong license pipeline for the remainder of the year.\nIn terms of overall license revenue, hard to say as we get into Q4, there are some large deals as we always have in terms of timing. You know, right now, we're just guiding on Q3. But next quarter we'll, you know, definitely have much more clarity around, you know, what deals are gonna be able to land in Q4 and whether there's any pull forward push outs or whatnot. But, you know, as a reminder, we, you know, the deal cycles on large license deals are usually six to nine months. And we don't really lose deals. It's really just about what exactly are the market needs for a and when do they need it.\nAnd given, you know, the current CapEx, you know, kind of forecast and all the AI cycles that continue to be as strong as they've been for the last couple of years. You know, have a lot of confidence, but we'll give you a little more detail next quarter on what's gonna land in Q4.",
+      "turn_index": 41
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Lee Simpson",
+      "text": "That's great. Thanks, Jason.",
+      "turn_index": 42
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Jason Child",
+      "text": "Thank you, Lee.",
+      "turn_index": 43
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you. That was our final question for today. I will now hand the call back to Rene for closing remarks.",
+      "turn_index": 44
+    },
+    {
+      "speaker_role": "CEO",
+      "speaker_name": "Rene Haas",
+      "text": "Thank you, and thank everyone for the questions. You know, as we stated, we could not be more happy with the results last quarter. Royalties at a record. 34% growth year on year. Just terrific results. But more importantly, when we think about the opportunity for Arm Holdings plc American Depositary Shares going forward, the future has never been brighter. Brighter because if we look at what's going on with artificial intelligence, artificial intelligence is driving unprecedented demand for compute. And given the unprecedented demand for compute, we are seeing all kinds of constraints on power and infrastructure to deliver that compute. Which means that the compute that's being delivered for AI needs to be as efficient as possible.\nThat's also a great place for Arm Holdings plc American Depositary Shares. And then as more and more of this AI compute moves from the cloud to edge devices and requires the most efficient compute on the planet, that's a great place for Arm Holdings plc American Depositary Shares to be. So we are extremely excited about the future going forward. We continue to invest to ensure that we can take advantage of that opportunity. And on behalf of everyone inside Arm Holdings plc American Depositary Shares who made this quarter happen, and to our partners and customers, thank you so much. And thank you for all the questions.",
+      "turn_index": 45
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Thank you. This concludes today's conference call. Thank you for participating. You may now disconnect.",
+      "turn_index": 46
+    }
+  ]
+}

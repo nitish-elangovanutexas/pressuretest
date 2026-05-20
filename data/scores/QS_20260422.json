@@ -1,0 +1,28 @@
+{
+  "ticker": "QS",
+  "call_date": "2026-04-22",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.055762962565796576,
+  "cosine_distance": 0.15082043163449477,
+  "sentiment_shift": 0.018195105256745593,
+  "question_difficulty_mean": 0.1406932769539588,
+  "baseline_mean": 0.045202802082193655,
+  "baseline_std": 0.008686142080838927,
+  "z_score": 1.2157480715055258,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5703466384769794,
+    "call_mean_answer_length": 124.625,
+    "call_hedge_density": 0.006564031302567103,
+    "call_pos_sentiment_mean": 0.3393573649227619,
+    "call_neu_sentiment_mean": 0.6496340855956078,
+    "call_neg_sentiment_mean": 0.011008556466549635,
+    "call_qa_similarity_mean": 0.5458340606489968,
+    "baseline_neg_sentiment_mean": 0.029203661723295228
+  },
+  "generated_at": "2026-05-20T06:42:38+00:00"
+}

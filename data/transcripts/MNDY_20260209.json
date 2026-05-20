@@ -1,0 +1,472 @@
+{
+  "ticker": "MNDY",
+  "company_name": "Mondaycom",
+  "call_date": "2026-02-09",
+  "quarter": 4,
+  "year": 2025,
+  "prepared_remarks": "Earnings Call Transcript\nMonday.com (MNDY) Q4 2025 Earnings Transcript\nBy\n\nMotley Fool Transcribing\n\n–\n\nUpdated Feb 9, 2026 at 9:36AM EST\n\n\n\n\nImage source: The Motley Fool.\n\n\nDATE\nFeb. 9, 2026 at 8:30 a.m. ET\nCALL PARTICIPANTS\nCo-Chief Executive Officer and Co-Founder — Roy Mann\nCo-Chief Executive Officer and Co-Founder — Eran Zinman\nChief Financial Officer — Eliran Glazer\nChief Revenue Officer — Casey George\nTAKEAWAYS\nTotal Revenue\n--\nmonday.com\n\n(\nMNDY\n\n6.33%\n)\nreported $334 million for Q4 of fiscal year 2025 (ended Dec. 31, 2025), representing 25% growth compared to the year-ago quarter.\nFull-Year Revenue\n-- $1.23 billion, up 27% year over year.\nEnterprise ARR Penetration\n-- Customers with more than $50 million in ARR comprise 41% of total ARR.\nLarge Customer Expansion\n-- Number of customers with over $500,000 in ARR increased by 74% deployments.\nNet Dollar Retention (NDR)\n-- 110% in Q4; management expects 110% for full year 2026.\nGross Margin\n-- 89% in Q4 and 90% for the fiscal year, with full-year 2026 guidance at mid- to high 80s.\nOperating Income\n-- $41.9 million in Q4 and $175 million for the fiscal year.\nOperating Margin\n-- 13% in Q4, and 14% for the year; both include negative FX impacts (180 basis points in Q4, 110 basis points for the year).\nNon-GAAP Operating Margin Guidance\n-- 11%-12% for Q1 and full-year 2026, assuming 100-200 basis points negative FX impact.\nSales and Marketing Expense\n-- $160 million (48% of Q4 revenue); $587 million (48% of full-year revenue), down from 51% of revenue in the prior year.\nResearch and Development Expense\n-- $68 million in Q4 (20% of revenue), up from 18%; $239 million for the year (19% of revenue), up from 17%.\nGeneral and Administrative Expense\n-- $29 million in Q4 (9% of revenue); $107 million for the year (9% of revenue), up from 8%.\nNet Income\n-- $55 million in Q4, $234 million for the year; diluted EPS of $1.04 and $4.40, respectively.\nAdjusted Free Cash Flow\n-- $57 million in Q4 (17% margin), $323 million for the year (26% margin).\nAdjusted Free Cash Flow Guidance\n-- $275 million to $290 million in 2026 (19%-20% margin), factoring in negative FX impact of 100-200 basis points.\nCash and Share Repurchase\n-- $1.5 billion in cash at quarter-end, down from $1.53 billion in Q3 due to $135 million of share repurchases; $735 million remains in the buyback program.\nHeadcount\n-- 3,155 employees at quarter-end, with guidance for mid-teens percentage headcount growth primarily in sales and R&D for 2026.\nAI Product Metrics\n-- monday [ blocks ] powered over 77 million actions; Sidekick processed more than 0.5 million user messages; Vibe is the fastest product to $1 million ARR.\n2026 Revenue Guidance\n-- Expected range of $1.45 billion to $1.46 billion, signifying 18%-19% year-over-year growth.\n2026 Q1 Revenue Guidance\n-- $338 million to $340 million, approximately 20% year-over-year growth.\nChange in Long-Term Targets Communication\n-- Management will not discuss prior 2027 targets and will revisit them with more visibility.\nNeed a quote from a Motley Fool analyst? Email\n[email protected]\nRISKS\nManagement cited a \"choppy demand environment\" impacting no-touch (self-serve, SMB) channels, contributing to increased cost and lower returns on customer acquisition in this segment.\nEliran Glazer stated, \"the biggest change in recent appreciation of the Israeli shekel happened in the last few months. We have 55% of our headcount in Israel, and this,\" which negatively affects margins and free cash flow forecasts.\nOutlook for the no-touch business assumes no improvement in performance marketing or top-of-funnel activity, with Roy Mann noting, \"we see headwind in our ability to buy [ media ] and the ROI is the same as we saw before and remains choppy.\"\n2027 revenue targets have been withdrawn due to macroeconomic noise, persistent SMB volatility, and \"shifting the business takes time,\" as described by Eliran Glazer.\nSUMMARY\nManagement reported a marked shift toward upmarket growth, with enterprise customers and larger accounts now contributing a higher proportion of total ARR. Customer expansion in cohorts above $50,000 and $500,000 ARR was highlighted as a key driver of 2025 performance. The company reported rapid adoption for new AI products, including Sidekick and Vibe, which has reached $1 million in ARR faster than any prior product. Share repurchases of $135 million were executed in the quarter, leaving $735 million authorized. Guidance for 2026 centers on focused headcount growth in sales and R&D and capitalizes on AI-driven offerings, while maintaining NDR at 110%.\nManagement indicated, \"we will no longer be discussing our previously provided 2027 targets, but we'll be centering our discussion on our 2026 outlook,\" reflecting a move to near-term guidance only.\nThe anticipated operating margin decrease to 11%-12% for 2026 is attributed to FX headwinds, front-loaded AI investment, and increased headcount costs.\nMonetization strategies for AI products include a mix of bundled and consumption-based models, as stated by Casey George: \"So our AI capabilities are foundational in our platform. They're embedded in our workflows. And based on the feedback we've gotten from customers, they really enjoy the predictability of PPU pricing, and they like to consume those capabilities that way. With that said, some of the more compute-intensive workloads that drive outputs with these workloads, we are charging and monetizing that through credits. and our customers like the mix of both of those.\"\nPerformance marketing inefficiency and ongoing SMB churn are embedded in projections, with management expecting limited new customer acquisition and focusing growth efforts on ACV expansion within the current base.\nINDUSTRY GLOSSARY\nNet Dollar Retention (NDR)\n: The year-over-year percentage of recurring revenue retained from existing customers, including expansions, contractions, and churn.\nNo-touch (Self-serve) Channel\n: Customer acquisition and engagement channel requiring minimal or no enterprise sales involvement, commonly targeting SMB clients.\nmonday Vibe\n: The platform’s AI-powered application builder allowing customers to create custom work apps and consolidate workflows.\nSidekick\n: monday.com’s AI-enabled, context-aware intelligence assistant, integrated as a value-added product feature and available as both an add-on and bundled element depending on plan type.\nSLG Motion\n: Refers to Sales-Led Growth initiatives, emphasizing sales team-driven customer acquisition and expansion, especially upmarket.\nFull Conference Call Transcript\nRoy Mann:\nThank you, Byron, and thank you, everyone, for joining us today. As we reflect on the past year, we are proud of the progress monday.com has made across every dimension of the business. We delivered another year of strong disciplined execution with revenue growing 27% year-over-year and operating margin reaching 14%. These results underscore the durability of our model, the strength of our go-to-market engine and our ability to scale profitably while continuing to invest in the long term. In 2025, we continue to make meaningful progress winning further upmarket. Larger customers are increasingly standardizing on monday.com to support more complex critical workflows across their organizations.\nCustomers with more than $50,000 in ARR now represent 41% of total ARR, reflecting strong expansion within existing accounts and success in landing larger, more strategic customers. At the high end, we delivered a record net adds of customers with over $100,000 plus in ARR and customers with over $500,000 in ARR grew 74% deployments. At the same time, no touch channels continue to operate in a choppy demand environment, particularly among the smaller customers, which we expect to persist in 2026. What this means in practical terms is that the cost to acquire and expand self-serve customers have increased over the past year, and the returns on those investments have been below historical levels.\nWe do not see the same dynamic in our touch business, which have continued to accelerate in this past year. In response, we continue to shift investment to higher ROI opportunities that drive demand and success for larger customers. In addition, we continue to meaningfully improve the entire customer buying process, leveraging AI agents to improve conversion, adoption and engagement of all our customers. Now let me turn it over to Eran to walk you through some of the significant progress we've made in our AI-driven products during the quarter.\nEran Zinman:\nThank you, Roy. During our Investor Day in September 2025, we shared the fundamental shift in monday.com vision from helping customers manage work to actually doing the work for them. Over the last 5 months, we've executed relentlessly against that vision. This was not an incremental change. We've meaningfully rearchitected the core of our platform and redefine what our products do for customers. Today, monday.com is evolving into an AI-powered work execution platform built around 3 distinct layers of AI value. First, AI agent, which is now in beta and AI workflows.\nThese allow customers to create an on-demand workforce of AI agents that can reason, act and execute across their workflows, effectively enabling businesses to scale output without scaling headcount. Second is Monday Vibe. Over the past few months, Vibe has taken a major leap forward. Customers can now build full applications directly on top of their monday data and workflows and consolidate additional business processes into a single intelligent platform. And third, AI sidekick. Sidekick has evolved into the central intelligence layer of every account, the gateway and the brain of the system, enabling customers to ask questions, surface insights and take action across all the data and workflows.\nWe're seeing very strong demand and accelerating adoption of monday AI across our customer base. Monday [ blocks ] has already powered more than 77 million actions. Sidekick has processed over 0.5 million user messages and early beta users of AI agents are blown away from its capabilities. Teams are increasingly relying on monday.com, not just to organize work, but to make decisions, automate outcomes and execute faster with confidence. Monday Vibe is also off to an exceptional start. It is the fastest product in monday's history to surpass $1 million of ARR, highlighting customer willingness to pay for its value and signaling meaningful revenue potential ahead.\nThe pace of adoption reinforced our confidence that Vibe can become a significant growth driver as we scale. We are proud of the progress we made in 2025 and encouraged with the momentum we're seeing across the business. Looking ahead to 2026, we believe we are still early in this transition. As AI becomes a core driver of customer value and differentiation, monday.com is uniquely positioned to lead. With the powerful platform, a clear upmarket strategy and a global team focused on embedding intelligence deeply across workflows, we believe monday.com is well positioned to deliver durable profitable growth in the years ahead. With that, I'll turn it over to Eliran to cover our financial and guidance.\nEliran Glazer:\nThank you, Eran, and thank you to everyone for joining our call. Today, I'll review our fourth quarter and fiscal year 2025 results in detail and provide initial fiscal year 2026 guidance. As Roy mentioned, we are very pleased with our results in 2025. Total revenue in Q4 came in at $334 million, up 25% from the year ago quarter and $1.232 billion in fiscal year 2025, up 27% from the prior year. Our overall NDR was 110% in Q4. We expect overall NDR to be stable at 110% in fiscal year 2026. As a reminder, our NDR is trailing 4-quarter weighted average calculation.\nFor the reminder of the financial metrics disclosed, unless otherwise noted, I will be referencing non-GAAP financial measures. We have provided a reconciliation of GAAP to non-GAAP financials in our earnings release. Fourth quarter gross margin was 89% and 90% for the fiscal year 2025. Research and development expense was $67.7 million in Q4 or 20% of revenue, up from 18% in the year ago quarter and $238.5 million in fiscal year 2025 or 19% of revenue, up from 17% in the prior year.\nSales and marketing expense was $159.9 million in Q4 or 48% of revenue compared to 48% of revenue in the year ago quarter and $586.8 million in fiscal year 2025 or 48% of revenue, down from 51% in the prior year. General and administrative expense was $29.2 million in Q4 or 9% of revenue compared to 9% in the year ago quarter and $106.9 million in fiscal year 2025 or 9% of revenue, up from 8% in the prior year. Operating income was $41.9 million in Q4, up from $40.3 million from the year ago quarter, and operating margin was 13%.\nOperating margin in Q4 had an approximately 180 basis points negative FX impact, mainly from the depreciation of the Israeli shekel compared to the U.S. dollar. For fiscal year 2025, operating income was $175.3 million or 14% of revenue compared to 14% of revenue in the prior year, reflecting an approximately 110 basis points impact from FX. Net income was $55 million in Q4 '25 compared to $57.3 million in Q4 '24. For fiscal year 2025, net income was $233.6 million, up from $183.3 million in fiscal year '24. Diluted net income per share was $1.04 in Q4 and $4.40 in fiscal year 2025 based on 52.9 million and 53.1 million fully diluted shares outstanding, respectively.\nIn the fourth quarter of 2025, we recognized a $61.2 million noncash income tax benefit related to deferred tax assets, reflecting our sustained profitability. Because this is a discrete nonoperational item, it is excluded from non-GAAP net income. Looking ahead, we may begin paying cash taxes in the near future. Total employee headcount was 3,155, an increase of 137 employees since Q3. Looking ahead to fiscal year 2026, we expect headcount growth in the mid-teens percentage range with incremental investment primarily directed towards sales and R&D. Moving on to the balance sheet and cash flow.\nWe ended the quarter with $1.5 billion in cash and cash equivalents compared to $1.53 billion at the end of Q3, reflecting [ $135 million ] of share repurchase executed during the quarter. As of the end of Q4, approximately $735 million remained available under our existing share purchase authorization program. Adjusted free cash flow for Q4 was $56.7 million and adjusted free cash flow margin was 17%. In fiscal year 2025, adjusted free cash flow was $322.7 million and adjusted free cash flow margin was 26%.\nAdjusted free cash flow is defined as net cash from operating activities, less cash used for property and equipment and capitalized software costs, plus costs associated with the build-out and expansion of our corporate headquarters. Before I discuss guidance for fiscal year 2026, I did want to touch on our approach to guidance moving forward. Our confidence in the underlying fundamentals of the business and our long-term financial trajectory remains unchanged since our Investor Day in September. Given the evolving nature of the AI landscape and the choppiness in the no-touch demand environment, we believe it is responsible to keep our near-term communication focused on what we can execute and deliver with high confidence.\nAs a result, we will no longer be discussing our previously provided 2027 targets, but we'll be centering our discussion on our 2026 outlook, which reflects the continued momentum we see across our AI work platform, new product introductions and upmarket sales motion. We remain committed to disciplined execution, which is consistent with our track record, and we will revisit long-term targets when there is a greater visibility and it's appropriate to do so. Let's now turn to our outlook for fiscal year 2026. For the first quarter of fiscal year 2026, we expect our revenue to be in the range of $338 million to $340 million, representing growth of approximately 20% year-over-year.\nWe expect non-GAAP operating income of $37 million to $39 million with an operating margin of 11% to 12%, which assumes a negative FX impact of 100 to 200 basis points. For the full year of 2026, we expect revenue to be in the range of $1.452 billion to $1.462 billion, representing growth of 18% to 19% year-over-year. We expect full year non-GAAP operating income of $165 million to $175 million with an operating margin of 11% to 12%, which assumes a negative FX impact of 100 to 200 basis points.\nWe expect full year adjusted free cash flow of $275 million to $290 million with adjusted free cash flow margin of 19% to 20%, which assumes a negative FX impact of 100 to 200 basis points. Let me now turn it over to the operator for your questions.\nOperator:\n\n[Operator Instructions]\nAnd our first question comes from the line of Arjun Bhatia with William Blair.\nArjun Bhatia:\nPerfect. I appreciate it. Can you maybe just touch on the growth outlook a little bit for 2026? I think I heard that NRR might be stable in a year, but the guidance is calling for a decel kind of overall top line growth from 27% to 18%. So it's remarkable that the guide kind of that you can still grow at that high teens range even when NRR is 110%. So maybe just touch on the different pieces of what you're expecting from customers expanding, especially in the enterprise, how much of a headwind the no touch is and maybe when we can start to see that turn around? Is that late '26? Or is that a 2027 dynamic?\nEliran Glazer:\nArjun, it's Eliran. So thank you for the questions. Guidance for now reflects what we believe we can execute against with high confidence. It doesn't assume any rebound in performance marketing or top-of-funnel activity. And it's based on current condition with growth driven primarily by the following: upmarket and enterprise customer expansion, multiproduct adoption and disciplined investment and improving efficiency across the go-to-market model that we have. As you rightfully stated, NDR to remain flat at 110%, sorry, by the end of the year. With regards to maybe the margins, we assume that we are going to go in terms of headcount growth of mid-teens.\nAnd there is also a significant impact of the Israeli appreciation of the -- sorry, appreciation of the Israeli shekel versus the U.S. dollar that is contributing to 100 to 200 basis points negative on our margins. So these are the things that we took into account when we built the budget -- the guidance, sorry.\nArjun Bhatia:\nOkay. Perfect. And then just one on Sidekick. It looks like you started the monetization strategy. You have a price in place and you're going to turn that on in 2026. I'm just curious how you think about customers' propensity to pay for that solution? What incremental capabilities you've included in the paid additions of Sidekick and how you think that monetization might scale throughout the year?\nEran Zinman:\nYes. Arjun, this is Eran. So we're very excited from the latest release of Sidekick. Basically, Sidekick offer our customers not just to use AI capabilities [ within ] their account, but also it kind of access the brain of the account. He knows everything about the work, about who you are, your placement organization. It's also context aware of every data and content that exists within your monday account. And we're also planning to integrate with third-party tools. So essentially, it becomes like a business brain of the company. We're seeing great momentum. Sidekick is now available to all customers. It's basically offered as the paid add-on for Pro and below packages and it's part of the enterprise package.\nGoing forward, we might have additional monetization for Sidekick, but it's a very interesting product that gives a lot of value to our customers because of its capabilities.",
+  "qa_turns": [
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Next question comes from the line of Scott Berg with Needham.",
+      "turn_index": 0
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Scott Berg",
+      "text": "Hi, everyone. I guess I wanted to start probably with a question for Roy because I think he mentioned high level some impact, obviously, on the cost of customer acquisition and AI in the space. I just wanted to see if you can clarify that comment. I guess, what is the impact like? My guess is it's just in the -- through the sales process as customers evaluate different technologies and functionalities. But are you seeing that impact more on those self-serve, low-touch smaller customers? Or are you also seeing some impact negatively from maybe your larger customer opportunities as well?",
+      "turn_index": 1
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Roy Mann",
+      "text": "Thank you. So what we see right now in performance marketing is the same things we called out before. It just continues, meaning we see headwind in our ability to buy [ media ] and the ROI is the same as we saw before and remains choppy. So what we're doing is moving -- shifting budgets to higher ROI channels and media, which means we're focusing more on the higher customers, the better customers with better ROI. So essentially, we're driving -- we're leaving the smaller ones and focusing on the better ones with higher ROI, bigger retention. So -- and that is successful.",
+      "turn_index": 2
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Eliran Glazer",
+      "text": "Scott, maybe this is Eliran, Just to add to what Roy said to your question about the bigger customers, we don't see this impact on the bigger customer. We have strong momentum with the upmarket motion, and we only see it in the SMB segment, namely the S of the SMB.",
+      "turn_index": 3
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Scott Berg",
+      "text": "Very helpful. And then my follow-up would be for Eliran. If I look at your guidance for the year, your operating margin -- non-GAAP operating margins implies about 11.6% for the full year. And I understand there's a 100 to 200 basis point headwind due to FX. But that operating margin is actually lower than what you reported in fiscal '25. And the growth is, as Arjun mentioned, 8, 9, 10 points lower. Why shouldn't we see margins kind of inflect a little bit more over the next year if this kind of high teens, 20% growth rate is likely the -- probably what the right growth rate for the company is over the next year or 2?",
+      "turn_index": 4
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Eliran Glazer",
+      "text": "Scott, thanks. So just to reiterate maybe that given the current macro and demand environment, we believe that we are putting numbers that are achievable and doable. And the biggest change in recent appreciation of the Israeli shekel happened in the last few months. We have 55% of our headcount in Israel, and this is very concentrated, primarily contributing to the impact of FX. We also prioritize investment in the SLG motion and AI, as you heard in the prepared remarks. And this is front-loaded cost that basically takes a bit longer for the payoff time. And this is the impact on margins.",
+      "turn_index": 5
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Next question comes from the line of Ryan MacWilliams with Wells Fargo.",
+      "turn_index": 6
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Ryan MacWilliams",
+      "text": "So investors are clearly worried about the threat of AI to software here, but I think there's a fair case to be made that not every workflow needs to be generative and that it can make more sense to build agents off your already established workflows that work 100% of the time. So with that in mind, I would love to hear some of the attributes about why it might make the most sense for a monday customer to build agents within monday itself instead of outside the platform.",
+      "turn_index": 7
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Eran Zinman",
+      "text": "Yes. Ryan, this is Eran. So this is exactly how we think about things. I think people underestimate how important it is when you have all your data and processes and workflows inside the platform. And then the ability to create agents on top of it and get significant value because of that is exactly what we're aiming for. We've done the same with Sidekick. The fact Sidekick knows everything about your organization really helps our customers kind of figure out everything about their account. And the same goes for our agents offering. With the agent offering, not only you can scale your business based on agents, but also it knows everything about your workflows, your data, your history.\nIt's also secure enterprise grade. So given all of that, we see a lot of potential in our new agent offering, and we see a lot of excitement for our products. I think we all agree that the future of software will change over time with agents. But I think the way the transition will go is very different than how we manage it. And I think we have a significant advantage once we introduce these capabilities to capture significant value of those agents.",
+      "turn_index": 8
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Ryan MacWilliams",
+      "text": "I appreciate the color there. And then for Eliran, just on the free cash flow guidance for this year. Is there any extra conservatism baked into that number? And then anything to call out in the differences between the initial starting point between the op margin and the free cash flow margin. They just look a little tighter than the years past.",
+      "turn_index": 9
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Eliran Glazer",
+      "text": "Thanks, Ryan, Eliran. So a few things impacted our free cash flow forecast for 2026. One is the FX impact. The Israeli shekel, as I mentioned, is very strong versus the U.S. dollar, and it happened really fast in Q4 of last year going into this year. Obviously, we said that we are increasing investment in AI and SLG motion. There is also the lower interest rate environment. And as we move to profitability, we might be paying taxes.\nAnd the last thing is the share buyback as we continue to prioritize opportunistic share buyback, obviously, taking into account the current level of the share price, the reasons that I mentioned, all of the above is impacting our free cash flow guidance for 2026.",
+      "turn_index": 10
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Our next question comes from the line of Josh Baer with Morgan Stanley.",
+      "turn_index": 11
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Josh Baer",
+      "text": "Just wondering with all the rapid pace of innovation, new technologies across the workforce, how are your customers or potential customers evaluating monday among all the alternatives out there? Are you seeing any shifts in sales cycles as you're moving upmarket or any changes to customer behaviors?",
+      "turn_index": 12
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Casey George",
+      "text": "Josh, this is Casey. So a couple of things. One, obviously, by the numbers, we're very encouraged at the progress we're making upmarket. So we're showing up in different ways with these customers, especially with AI. And as I speak to customers, they're not necessarily looking for a science project. And Eran touched on this a little bit. They're interested in having a trusted partner and a trusted platform so that they can deploy this technology in a trusted way. So for that, we are -- it's showing up in our retention numbers. It's showing up in our customer acquisition and obviously, the cohort of customers that are $50,000 or greater.\nSo with that, this is truly a differentiator for us. We're not running away from AI. We're embracing this and leading the market with it. So that's what I see. That's what we see when we engage with customers, and it's being validated in the numbers as well as we move upmarket.",
+      "turn_index": 13
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Josh Baer",
+      "text": "Okay. That's helpful, Casey. And just a quick follow-up on the margin topic. Any sense for gross margins in 2026?",
+      "turn_index": 14
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Eliran Glazer",
+      "text": "Yes. So it's Eliran. What we said is in our recent Investor Day that we are expecting gross margin to be mid- to high 80s, and we believe this is going to be the case for 2026.",
+      "turn_index": 15
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Next question comes from the line of Jackson Ader with KeyBanc Capital Markets.",
+      "turn_index": 16
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Unknown Analyst",
+      "text": "This is Nate [indiscernible] on for Jackson Ader. So I was wondering how much core versus new product growth is baked in for fiscal year 2026?",
+      "turn_index": 17
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Eliran Glazer",
+      "text": "This is Eliran. So maybe just to expect when we took -- what we took into account is the continuous of the business that we currently see, meaning the 4 product lines that we have in monday, monday Work Management, monday CRM, monday service and monday dev continue also to see some revenue coming from the AI products that we have. So we believe this is going to be the trajectory for fiscal year 2026, mostly focusing on the existing products. And the new product will continue to become a larger part of our business as we move forward to 2027.",
+      "turn_index": 18
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Next question comes from the line of Mark Murphy with JPMorgan.",
+      "turn_index": 19
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Mark Murphy",
+      "text": "Can you please quantify the headwind from the no-touch business in 2026 or the SMB segment in general? In other words, is it a 5-point headwind? Is it a 10-point headwind, et cetera? And then I have a quick follow-up.",
+      "turn_index": 20
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Roy Mann",
+      "text": "It's Roy. So the situation is that it's a bit choppy, okay, like we mentioned. So we don't -- I can't predict the future on what performance marketing will do. I'll tell you that like we looked into the year in the way that it will continue to be choppy, and that's like how we built the guidance.",
+      "turn_index": 21
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Mark Murphy",
+      "text": "Okay. But it could be -- you're baking in something like a 5-point headwind there maybe.",
+      "turn_index": 22
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Roy Mann",
+      "text": "Again, we don't know how to predict what it will do.",
+      "turn_index": 23
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Mark Murphy",
+      "text": "Yes. Okay. And then, Eliran, just thinking back to the last earnings cycle, you did blast the $1.5 billion revenue consensus for 2026. I don't think anyone really put any faith in that comment. But just irrespective, could you explain what changed fundamentally that leads to the lower outlook today? And I'm just trying to understand the -- I think you said you're no longer discussing the FY '27 revenue target, but you said somehow the fundamentals are unchanged. I think we could just use a little bit of straight talk. I'm just trying to understand what has changed here.",
+      "turn_index": 24
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Eliran Glazer",
+      "text": "Mark, it's Eliran. So it's a fair question. But as we said at the last time we gave guidance, we felt and we believed based on the visibility that we had at the time that the 1.5 number is a number that we are going to achieve. It looks reasonable to us. Since then, there is a lot of noise in the market in terms of macro economy. As we said, our no-touch business continued to be choppy and volatile. We didn't see the improvement that we expected to see. And we see shift in the business and shifting the business takes time.\nSo this is why we thought based on what we know today, that it would be prudent to reset the guidance that we are giving. And we -- given the current macro, as I mentioned, and the demand environment, we believe that it's appropriate to put numbers that reflect what we can execute against, sorry, with high confidence. And this is the reason why we did this adjustment.",
+      "turn_index": 25
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Mark Murphy",
+      "text": "Okay. So it's noise in the market, low touch being volatile. There's a shift in the business, but we don't know what you're embedding for the low-touch piece of it. Is that -- we're going to kind of leave it at that?",
+      "turn_index": 26
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Eliran Glazer",
+      "text": "Yes. We are expecting it not to get any better from what we have seen in fiscal year 2025. We didn't see the improvement that we hoped for or we believe that we're going to see. So we believe it might be choppy. It might be -- it will be choppy throughout 2023.",
+      "turn_index": 27
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Next question comes from the line of Brent Thill with Jefferies.",
+      "turn_index": 28
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Brent Thill",
+      "text": "When you think about the enterprise go-to-market motion, I think there's been a lot of pent-up concern about what's happening there and the strategy. Can you just maybe walk through what you're seeing at the higher end of the market?",
+      "turn_index": 29
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Casey George",
+      "text": "Yes. So we're seeing a couple of things. One, we continue to accelerate upmarket on the back of a couple of things. One, obviously, our clients like our products. They really do. One, that's the first one. Second one is they look to vendor consolidation, right? They're looking to rationalize their vendor suite, and we have a very healthy portfolio that we can offer to our clients so they continue to consume more of our products. And then the expansion piece since it's early days of us moving upmarket, the ground is very fertile. And so when they're looking to consolidate, we're well positioned to take advantage of that. So those are 3 of the key factors for us.\nAnd then I would say it's early days again, but the acceleration of AI, we're engaging in different conversations than we were before because of the technology we have embedded in our platform. So we're pretty bullish on the move up market and looking forward to another good year.",
+      "turn_index": 30
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Eran Zinman",
+      "text": "Maybe one thing I would add, Brent, this is Eran. Yes. Just wanted to add one more thing on top of what Casey said is that we actually see highest levels of gross retention across our $50,000 cohort now at 91%. This number has been growing quarter after quarter for the past 2 years. And also, we see renewal rates in the high 90s. So overall, I would say that this segment of the business has been performing really well. We have a high degree of confidence, not just for the execution so far, but also forward-looking.",
+      "turn_index": 31
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Brent Thill",
+      "text": "And just a quick follow-up, Casey, are you still hiring pretty aggressively on enterprise reps? Or has that slowed down?",
+      "turn_index": 32
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Casey George",
+      "text": "We're growing our headcount in the organization by in the mid-teens, especially around our AI specialists.",
+      "turn_index": 33
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Next question comes from the line of Howard Ma with Guggenheim Securities.",
+      "turn_index": 34
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Howard Ma",
+      "text": "Great. I have 2. I'll just ask them together. The first for Eliran, a lot of effort was put into building the FY '27 target. So I just want to be sure, is it off the table altogether? Or is that still a possible scenario, but maybe it's more of a high-end scenario? And then for either Roy or for Eran, what indications have your customers given you that they want to standardize on monday.com as both a provider of agents, the sales and service agents and also an agentic workflow orchestration platform?\nBecause as they evaluate other agentic tools that are offered by the [ Frontier Labs ] and the hyperscalers, I imagine there's a lot of choice out there. So what gives you the confidence that you will retain and expand this usage on monday.com?",
+      "turn_index": 35
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Eliran Glazer",
+      "text": "Howard, this is Eliran. To your first question, and then I will defer to Roy and Eran. As I said, due to the macro economy and the choppiness that we have seen, this is the 2027 number is currently off the table, and we are focusing on fiscal year 2026 execution.",
+      "turn_index": 36
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Eran Zinman",
+      "text": "Yes. And maybe, Howard, on the second part of the question about AI. I think most -- look, I feel the whole industry is living and breathing AI and aware of all the changes and improvement. But -- most of our customers, and I don't think we're in a unique position, are still trying to figure out what's the best way to leverage that technology. And for them, the best way to leverage that technology is use already systems they're using before where they have most of the data in the context and the workflows. And with that, they're trying and a vendor that they trust and love to use. And on that, they're trying to leverage their capabilities.\nThey're more coming from a place of curiosity and trying to understand what's the best way to [ leverage ] that technology. And because of the relationship that we built and the way they use the product, they look to us as the vendor of choice. So we see the interest, we see the engagement with the customers. We see the excitement on any new AI feature that we introduce -- that gives a lot of confidence that monday can offer significant value with our AI offering.",
+      "turn_index": 37
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Roy Mann",
+      "text": "Yes. And this is Roy. I can add that we also have monday Vibe, which is basically the only Vibe tool out there that is like enterprise grade and like to the level that companies would adopt internally, and we've built it that way. So there is a lot of interest in that, and it just blows their mind what they can build with it. And joining to what Casey said about consolidation, that's like one of the main drivers. If you can take all those small ones, small application and merge them, it's very interesting for all our customers.",
+      "turn_index": 38
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Next question comes from the line of Steve Enders with Citibank.",
+      "turn_index": 39
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Steven Enders",
+      "text": "Maybe just starting on monday Vibe. I guess what are maybe like the main use cases that you're seeing customers build with that? And then how do you kind of view the learnings that you've had so far to potentially drive those kind of incremental use cases or kind of broaden them out across the rest of the customer base and drive incremental ARR from here?",
+      "turn_index": 40
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Roy Mann",
+      "text": "Thank you. So it's Roy. So we see a really wide variance in what customers do with Vibe because essentially, they can do anything they want, and it's connected to their existing data platform users. So we see things from very small stuff like creating dashboards and presentation of data and reports to the higher end of building complete, really meaningful large applications on top of it that they couldn't do before.\nAnd a lot of the great stuff we see is that in some areas where we were -- maybe it was a vertical or those type areas that we were not going to develop specific features for, Vibe completes the gap and creates like an amazing solution together with the whole of the other offering we have on the platform. And regarding monetization, this is like a super -- we shared the numbers. And for us, it's like the beginning, and we're going to see where it evolves.",
+      "turn_index": 41
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Steven Enders",
+      "text": "Okay. Great to hear. And then maybe just on the performance marketing dynamics. I just want to clarify, it seems like you're assuming that's not getting better this -- for '26 that's kind of like baked into the guide. I guess I just want to clarify that point. And then I guess, secondly, just in terms of those dollars shifting to other channels, just what kind of like ROI are you seeing? And just how are you kind of viewing the, I guess, improvement or time line in terms of those other channels beginning to drive, I guess, incremental performance from here?",
+      "turn_index": 42
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Roy Mann",
+      "text": "Yes. Thank you. So yes, we expect '26 to not be different than what we've seen so far with the choppiness in the performance marketing. And it mainly affects the small businesses, like Eliran said in the smaller area. And we run a lot of campaigns, and we're shifting the budget to the ones who bring us larger customers. They have larger landing and they have like more expansion opportunity and higher retention. So essentially, we're making that shift and driving more and more into those areas because they have a much higher ROI for us, okay?",
+      "turn_index": 43
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Next question comes from the line of DJ Hynes with Canaccord.",
+      "turn_index": 44
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "David Hynes",
+      "text": "So maybe just going back to the Vibe coding. Can you talk a bit about what you're seeing -- what you're seeing in terms of the decisioning process around choosing a Vibe coding platform? I realize it's early. But as best as you can tell, like are customers piloting multiple Vibe coding tools and then settling on one? Is there going to be coexistence of all these different platforms inside the same organization? I'm just trying to get a better sense for competitive dynamics here and kind of how those decisions are being made.",
+      "turn_index": 45
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Eran Zinman",
+      "text": "Yes. DJ, this is Eran. So I think we need to distinguish between 2 different things. One is that we added the ability to Vibe code on top of a platform. So an existing monday customer -- and by the way, we're one of the only a few enterprise companies that offer currently Vibe coding within their platform. So our customers basically can leverage their existing data, workflows and processes and basically Vibe code on top of that almost anything they want in our platform. And our customers are built an unbelievable things. This is part of the momentum that we see, the excitement that we see from our customers.\nAnd for me, I think Vibe code is an ability that maybe going forward, a lot of the software vendors will, at some point, embrace. In addition to that, in addition to the ability to Vibe code within the platform, we also created a new go-to-market that allow customers looking for a new Vibe coding solution to find monday as one of the alternatives. The thing is that we're very focused around work an enterprise-grade solution. So unlike the tools that exist today, which are more kind of consumer SMB oriented, the way we built it is that we built it on top of the monday platform. So basically, all the databases, all the data structured are based within monday.\nSo you enjoy all the security. You can afterwards integrate it with third-party platforms. And it's a different kind of tool with a different kind of offering compared to what exists in the market today.",
+      "turn_index": 46
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "David Hynes",
+      "text": "Yes. Yes. Okay. That's helpful context. And then, Eliran, a follow-up for you. So 91% gross retention in that $50,000-plus cohort, is that the right level? Are you happy with that? Or do you see potential to drive gross retention gains over time? And I guess the second part of that question, like those that are churning off the platform, are they consolidating to other packaged work management vendors? Or are you seeing firms trying to build -- bring some of that functionality in-house and kind of build it themselves?",
+      "turn_index": 47
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Eliran Glazer",
+      "text": "It's Eliran. So in terms of gross retention, not only that this is historical highs in Q4 of 2025, but this is the cadence that we have seen over the past few quarters. So we have reasons to believe that once we continue to offer the additional product and we continue to extract more revenue from existing customer base with AI products that are providing a stickiness and retention, this number will continue to go up. With regards to the -- and by the way, I mean, I don't know to what level, but we saw an improvement. So we believe this is something that we will continue.\nWith regards to the churn, I don't want to tell you that any one of the customers who churn is going to consolidate products on other platform. On the contrary, I think that what we offer on monday on the platform, the multiproduct, the AI products that are layered within our platform allows customers to actually consolidate on us. While it's still early days, and we see mostly AI adoption and engagement that is significant, the churn is probably the lower end customers on the S mostly that potentially either churning due to price or other reasons. But we don't see a churn of customers who want to consolidate on the platform.",
+      "turn_index": 48
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Next question comes from the line of Raimo Lenschow with Barclays.",
+      "turn_index": 49
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Damon Kogan",
+      "text": "This is Damon Kogan on for Raimo. It looks like net retention may have fell slightly short of your expectation in the fourth quarter. Was this primarily driven by pressure down market? Or was there anything else that drove this?",
+      "turn_index": 50
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Eliran Glazer",
+      "text": "This is Eliran. The reduction in net retention, the 100 basis points is mostly due to pricing that we are starting to lap. As a reminder, we introduced the pricing increase or price adjustment 2 years ago. And after the round of all of our customers, 250,000 customers completed this. So this is what we assume to be the main reason going from 111 to 110. And I just want to mention that overall trailing 12 months NDR was trailing -- sorry, NDR was stable from Q3 to Q4. And just as a reminder, our NDR is a weighted average of the last 4 quarters. So this is important that we have seen stabilization within the quarters and linearity.",
+      "turn_index": 51
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Next question comes from the line of Derrick Wood with TD Cowen.",
+      "turn_index": 52
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Unknown Analyst",
+      "text": "Great. This is Cole on for Derek. Can you just walk through what's embedded in the guide for next year across customer growth, seat growth and cross-sell versus upsell? I think there was a comment earlier that the Agentic offerings could increase productivity while headcount stays flat. So just thinking about that and squaring it with [indiscernible] growth assumptions for next year.",
+      "turn_index": 53
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Eliran Glazer",
+      "text": "Yes. It's Eliran. So what we baked into guidance for next year is upmarket and enterprise customer expansion, continued multiproduct adoption. We also said that we're going to be disciplined of the level of investment, and we are going to improve efficiency as we continue to reshape our go-to-market model. We mentioned that NDR is going to remain at 110% flat. We're not expecting to see a significant increase in number of customers. We said it in the past, we have more than 250,000 customers, and we would like to extract our revenue within these customers. And we see this by our ACV actually growing, and we see bigger and more significant customers replacing the smaller customers.\nAnd the last thing is we also took into account a negative FX impact on margins between 100 and 200 basis points due -- mostly due to the appreciation of the Israeli shekel.",
+      "turn_index": 54
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Next question comes from the line of Alex Zukin with Wolfe Research.",
+      "turn_index": 55
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Aleksandr Zukin",
+      "text": "Maybe just one a quick follow-up for me. Can you maybe give us a bit of an update on monday CRM and monday service? Kind of how did they perform versus expectations in the quarter in terms of their contribution to net new ARR today and how we should think about those, particularly as you're moving upmarket for next year?",
+      "turn_index": 56
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Eran Zinman",
+      "text": "Yes. This is Eran. So overall, we're very happy with the progress of both CRM and service in Q4. Q4 was a little bit -- tend to benefit work management. Q4 was more enterprise deals oriented. So work management is kind of our more mature enterprise products. So it's not that the products underperform. It's just work management overperformed in Q4. It's more of a seasonal thing. And overall, we're very happy with the progress so far with CRM, the new Monday campaign product, monday service performs very well. And as we've mentioned throughout the call, we expect the products to continue to be a larger and larger part of our revenue going forward.\nMomentum is strong, and this is how we see it going to 2026.",
+      "turn_index": 57
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Next question comes from the line of Billy Fitzsimmons with Piper Sandler.",
+      "turn_index": 58
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "William Fitzsimmons",
+      "text": "Can we maybe dig a little deeper in terms of some of the dynamics impacting the self-serve channel? And I know this is tough to do, but help separate a little bit what you'd attribute to macro and what, if anything, you'd attribute to maybe potential AI experimentation headwinds, if you're seeing anything there? Because one of the debates that came up last week generally across all software is that maybe SMB customers are more willing to experiment with plug-ins or Vibe coding or [ SMB ] customers are maybe being some more sensitive right now around pricing or price increases.\nSo I know it's tough to comment on in terms of direct anecdotes because they're some of your smallest customers and [indiscernible] the self-serve channel. But any color in terms of what you're seeing and hearing in real time would be helpful.",
+      "turn_index": 59
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Eran Zinman",
+      "text": "Yes. Bill, this is Eran. So hopefully, I got your question right. You broke up a little bit. But overall, in terms of the top of funnel activity, we don't see any change in terms of the competition dynamics. We see that Roy talked about the choppiness that we see. And we see that, that choppiness contributed to the impact we've seen in the top of funnel. We didn't see anything else. We didn't see anything new in sales calls or when customers compare us to other vendors. So we don't see any material impact from anything.\nAnd on the contrary, we offer a lot of new AI capabilities within the platform, not just for existing users, but also to new users. We changed our messaging around our ads. We changed our messaging around our homepage to be more AI-oriented. So again, to summarize, we don't see any impact currently from any AI company, and we're shifting our product regardless to be more AI native.",
+      "turn_index": 60
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Next question comes from the line of Allan Verkhovski with BTIG.",
+      "turn_index": 61
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Allan M. Verkhovski",
+      "text": "I wanted to just ask on pricing here. What drove the decision to raise price on service? And how are you thinking about potentially raising price on other products within the portfolio?",
+      "turn_index": 62
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Eran Zinman",
+      "text": "Yes. I'm not sure which price raise you referred to. So we didn't increase pricing recently on any of our products. We introduced a price increase about 1.5 years ago, and it's been that onetime price increase that we introduced. We didn't change pricing to our existing products.",
+      "turn_index": 63
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Eliran Glazer",
+      "text": "Maybe other than the pricing list that we have, then we move more customers.",
+      "turn_index": 64
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Next question comes from the line of Matt Bullock with Bank of America.",
+      "turn_index": 65
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Matthew Bullock",
+      "text": "I wanted to ask a follow-up on the free cash flow margin guidance. I understand there's some FX in there. You're growing headcount, investing in sales-led growth. But maybe if you could clarify what's baked in, in terms of incremental cash taxes, lower interest income. And then I wanted to ask a follow-up because I think you mentioned something about the buyback program relative to free cash flow. So I just wanted to clarify there.",
+      "turn_index": 66
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Eliran Glazer",
+      "text": "Yes, sure. It's Eliran. So I will repeat what I said earlier. So the biggest impact is the appreciation of the Israeli shekel on the free cash flow. 55% of the headcount is based in Israel. We have seen over the past year, a reduction of more than 20% in the U.S. dollar versus the Israeli shekel because we have an hedging strategy. So we were able to defend some of it. We are doing a rolling forecast of 12 months. But still, the decline was so sharp. Israel recovered really significantly. So it's obviously impacted our cost and our free cash flow numbers.\nIn addition to that, we are looking at a reduction of around 1% in the interest rate environment, and we have significant amount of cash. Obviously, this impacts our return in terms of the interest that we are getting. Share buyback, we said that we are going to be opportunistic. At the end of last year, we already acquired -- in 2025, $135 million. In 2026, we will continue with the same program, but we're going to be opportunistic having in mind the current level of the share price. So we obviously also took it into account because if we buy shares, then the cash is not used to get interest.\nAnd as I mentioned, as we become more profitable, there is a potential or we may be paying taxes throughout the year depending on our progress. So these are the reasons for the adjustment of the free cash flow.",
+      "turn_index": 67
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Next question comes from the line of Taylor McGinnis with UBS.",
+      "turn_index": 68
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Taylor McGinnis",
+      "text": "The first one is, so even if we adjust for the FX headwind, it still looks like operating income and free cash flow margins are down a bit on a year-over-year basis. So could you just unpack the drivers of that more specifically? So when you talk about investment with AI, does that mean we could see gross margin pressure as we head into this year? Does that mean you need to make bigger platform or architecture changes for an AI world? Is it really just a function of this continued shift up market? Like I guess, where in the line items could we see it? And then what are these investments actually going towards?",
+      "turn_index": 69
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Eliran Glazer",
+      "text": "Taylor, it's Eliran. So to your point, first of all, you're accurate with regards to gross margin. If we're going to invest as we -- with AI, we said that we're going to see gross margin mid-80s to high 80s, and we used to have 90%. So this is something that we took into account. In addition to that, last year or 2025, we increased our headcount significantly, mostly around SLG motion and R&D and product people. This is also going to be the area of investment this year, much less than last year, but still this is the place where we're going to invest.\nAnd because we had significant hiring at Q4 of last year, we are seeing now the impact in terms of cost. We're going to prioritize investment in AI where we see the opportunity based on the returns as well. So it's mostly -- to summarize, it's mostly headcount around SLG and AI. We might see investment that is taking into account some adjustment to the gross margin in the -- where we said we're going to be mid-80s to high 80s and the FX impact, which is significant, unfortunately, but this is it.",
+      "turn_index": 70
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Eran Zinman",
+      "text": "Just to add to what Eliran said -- sorry, Taylor. Just wanted to comment on a previously asked question, not yours, Taylor, but I think it was Allan who asked about it, the price increase for service. So just asked the team to double check. And it seems like there's an 18% increase to a subset of cohort of customers that joined [indiscernible] service. So it's not a significant amount, a small amount of customers, but just wanted to point it out and give some more color on that.",
+      "turn_index": 71
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "And our last question comes from the line of Mark Schappel with Loop Capital Markets.",
+      "turn_index": 72
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Mark Schappel",
+      "text": "Eliran, could you just discuss to what extent customers are expecting your new AI capabilities to be bundled into, say, existing subscriptions versus paying for them as a premium add-on? And maybe also talk about how that's either shaping or not shaping your packaging and monetization strategy in the coming year.",
+      "turn_index": 73
+    },
+    {
+      "speaker_role": "CFO",
+      "speaker_name": "Eliran Glazer",
+      "text": "It's Eliran. I think, Casey, probably better for you to take it.",
+      "turn_index": 74
+    },
+    {
+      "speaker_role": "Unknown",
+      "speaker_name": "Casey George",
+      "text": "Yes, happy to. So thank you for the question. So our AI capabilities are foundational in our platform. They're embedded in our workflows. And based on the feedback we've gotten from customers, they really enjoy the predictability of PPU pricing, and they like to consume those capabilities that way. With that said, some of the more compute-intensive workloads that drive outputs with these workloads, we are charging and monetizing that through credits. and our customers like the mix of both of those. So it's -- again, it's early, and we're very encouraged that this model is [indiscernible].",
+      "turn_index": 75
+    },
+    {
+      "speaker_role": "Operator",
+      "speaker_name": "Operator",
+      "text": "Ladies and gentlemen, that concludes the question-and-answer session. Thank you all for joining. You may now disconnect. Everyone, have a great day.",
+      "turn_index": 76
+    }
+  ]
+}

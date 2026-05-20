@@ -1,0 +1,28 @@
+{
+  "ticker": "APPN",
+  "call_date": "2026-02-19",
+  "quarter": 4,
+  "year": 2025,
+  "pressure_score": 0.0,
+  "cosine_distance": 0.0,
+  "sentiment_shift": 0.0,
+  "question_difficulty_mean": 0.10769879482647038,
+  "baseline_mean": 0.0,
+  "baseline_std": 0.0,
+  "z_score": 0.0,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5538493974132352,
+    "call_mean_answer_length": 227.2,
+    "call_hedge_density": 0.016883756093398795,
+    "call_pos_sentiment_mean": 0.21597389429807662,
+    "call_neu_sentiment_mean": 0.7591028213500977,
+    "call_neg_sentiment_mean": 0.024923307076096534,
+    "call_qa_similarity_mean": 0.4865042994387143,
+    "baseline_neg_sentiment_mean": 0.024923307076096534
+  },
+  "generated_at": "2026-05-20T04:38:05+00:00"
+}

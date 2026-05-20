@@ -1,0 +1,28 @@
+{
+  "ticker": "BBY",
+  "call_date": "2026-03-03",
+  "quarter": 4,
+  "year": 2026,
+  "pressure_score": 0.023301434186035606,
+  "cosine_distance": 0.0650011228198758,
+  "sentiment_shift": 0.0010786240558243454,
+  "question_difficulty_mean": 0.18185034066435052,
+  "baseline_mean": 0.017766395324995198,
+  "baseline_std": 0.007827727025545475,
+  "z_score": 0.7071067811865475,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5909251703321753,
+    "call_mean_answer_length": 187.44444444444446,
+    "call_hedge_density": 0.01637363422482631,
+    "call_pos_sentiment_mean": 0.20982701745298174,
+    "call_neu_sentiment_mean": 0.7679328918457031,
+    "call_neg_sentiment_mean": 0.02224009784145488,
+    "call_qa_similarity_mean": 0.46918807983318683,
+    "baseline_neg_sentiment_mean": 0.021161473785630533
+  },
+  "generated_at": "2026-05-20T04:45:27+00:00"
+}

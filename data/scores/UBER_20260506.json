@@ -1,0 +1,28 @@
+{
+  "ticker": "UBER",
+  "call_date": "2026-05-06",
+  "quarter": 1,
+  "year": 2026,
+  "pressure_score": 0.016994006103113857,
+  "cosine_distance": 0.047514579962009695,
+  "sentiment_shift": 0.001396602158257293,
+  "question_difficulty_mean": 0.1692832951978654,
+  "baseline_mean": 0.01648211199765679,
+  "baseline_std": 0.0006612318674733347,
+  "z_score": 0.7741522008204007,
+  "flagged": false,
+  "flag_threshold_sigma": 2.0,
+  "components": {
+    "w_cosine": 0.6,
+    "w_sentiment": 0.4,
+    "difficulty_weight": 0.5846416475989327,
+    "call_mean_answer_length": 448.375,
+    "call_hedge_density": 0.02248031044325317,
+    "call_pos_sentiment_mean": 0.24909461475908756,
+    "call_neu_sentiment_mean": 0.7358965575695038,
+    "call_neg_sentiment_mean": 0.015008828602731228,
+    "call_qa_similarity_mean": 0.5836771506982185,
+    "baseline_neg_sentiment_mean": 0.01640543076098852
+  },
+  "generated_at": "2026-05-20T07:16:59+00:00"
+}
