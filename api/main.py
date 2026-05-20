@@ -16,7 +16,7 @@ except ImportError:
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
-from api.routers import calls, ceo, chat, flags, tickers
+from api.routers import calls, ceo, chat, flags, stats, tickers
 
 app = FastAPI(title="PressureTest API", version="3.0.0")
 
@@ -32,6 +32,7 @@ app.include_router(tickers.router)
 app.include_router(ceo.router)
 app.include_router(calls.router)
 app.include_router(flags.router)
+app.include_router(stats.router)
 app.include_router(chat.router)
 
 

@@ -9,6 +9,7 @@ export const getLatestCall = (ticker) => http.get(`/calls/${ticker}/latest`).the
 export const getFlags  = () => http.get('/flags').then(r => r.data)
 export const scoreCall = (ticker, call_date) =>
   http.post(`/calls/${ticker}/score`, { call_date }).then(r => r.data)
+export const getStats  = () => http.get('/stats').then(r => r.data)
 export const getHealth = () => http.get('/health').then(r => r.data)
 
 export const CEO_NAMES = {
