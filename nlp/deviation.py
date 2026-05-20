@@ -169,16 +169,74 @@ def save_report(
 # ------------------------------------------------------------------
 
 
+def _score_all_tickers(
+    baseline_dir: Path,
+    transcripts_dir: Path,
+    out_dir: Path,
+    scorer: QuestionScorer,
+) -> None:
+    """Score the latest transcript for every ticker that has a baseline."""
+    baselines = sorted(baseline_dir.glob("*.json"))
+    if not baselines:
+        raise SystemExit(f"No baseline files found in {baseline_dir}")
+
+    ok = skipped = 0
+    for bf in baselines:
+        ticker = bf.stem.upper()
+        # Filenames are TICKER_YYYYMMDD.json — lexicographic sort gives chronological order.
+        transcript_files = sorted(transcripts_dir.glob(f"{ticker}_*.json"))
+        if not transcript_files:
+            log.warning("SKIP %s — no transcripts in %s", ticker, transcripts_dir)
+            skipped += 1
+            continue
+
+        call_path = transcript_files[-1]
+        try:
+            call = load_call(call_path)
+            baseline = load_baseline(bf)
+            report = compute_pressure(call, baseline, scorer)
+        except Exception as exc:
+            log.warning("SKIP %s — %s", ticker, exc)
+            skipped += 1
+            continue
+
+        save_report(report, out_dir)
+        flag = "FLAGGED" if report.flagged else "ok"
+        print(
+            f"[deviation] {ticker:<6}  {call_path.name:<32}  "
+            f"P={report.pressure_score:.4f}  z={report.z_score:+.2f}  {flag}"
+        )
+        ok += 1
+
+    print(f"\n[deviation] Done: {ok} scored, {skipped} skipped.")
+
+
 def _build_arg_parser() -> argparse.ArgumentParser:
     p = argparse.ArgumentParser(
         prog="nlp.deviation",
-        description="Score a single earnings call against the CEO baseline.",
+        description="Score earnings calls against CEO baselines.",
     )
-    p.add_argument("--ticker", required=True)
+    mode = p.add_mutually_exclusive_group(required=True)
+    mode.add_argument(
+        "--all",
+        action="store_true",
+        help=(
+            "Score the latest call for every ticker that has a baseline in "
+            "--baseline-dir. Uses --transcripts-dir to find transcripts."
+        ),
+    )
+    mode.add_argument(
+        "--ticker",
+        help="Single stock ticker symbol (requires --call).",
+    )
     p.add_argument(
         "--call",
-        required=True,
-        help="Path to the parsed call JSON to score.",
+        help="Path to the parsed call JSON to score (required with --ticker).",
+    )
+    p.add_argument(
+        "--transcripts-dir",
+        default="data/transcripts",
+        help="Directory of {TICKER}_*.json transcripts (used with --all; default: data/transcripts).",
     )
     p.add_argument(
         "--baseline-dir",
@@ -201,6 +259,18 @@ def main() -> None:
         format="%(asctime)s [%(levelname)s] %(name)s: %(message)s",
         datefmt="%H:%M:%S",
     )
+
+    if args.all:
+        _score_all_tickers(
+            baseline_dir=Path(args.baseline_dir),
+            transcripts_dir=Path(args.transcripts_dir),
+            out_dir=Path(args.out_dir),
+            scorer=QuestionScorer(),
+        )
+        return
+
+    if not args.call:
+        _build_arg_parser().error("--call is required when using --ticker")
 
     call_path = Path(args.call)
     baseline_path = Path(args.baseline_dir) / f"{args.ticker.upper()}.json"

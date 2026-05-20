@@ -18,7 +18,9 @@
       "PowerShell(Stop-Process *)",
       "PowerShell($key = \"b2IIBxCKmzojASWJlHnGPRCtL1wdUNEx\"; $r = Invoke-RestMethod \"https://financialmodelingprep.com/api/v3/earning_call_transcript/AAPL?apikey=$key&limit=1\"; $r | ConvertTo-Json -Depth 4)",
       "PowerShell($key = \"b2IIBxCKmzojASWJlHnGPRCtL1wdUNEx\"; $r = Invoke-RestMethod \"https://financialmodelingprep.com/stable/earning-call-transcript?symbol=AAPL&apikey=$key\" -ErrorAction Stop 2>&1; $r | Select-Object -First 1 | ConvertTo-Json -Depth 4)",
-      "PowerShell($key = \"b2IIBxCKmzojASWJlHnGPRCtL1wdUNEx\"; python -c \"import httpx,asyncio; r=asyncio.run\\(httpx.AsyncClient\\(\\).get\\('https://financialmodelingprep.com/stable/profile?symbol=AAPL&apikey=$key'\\)\\); print\\(r.status_code, r.text[:300]\\)\")"
+      "PowerShell($key = \"b2IIBxCKmzojASWJlHnGPRCtL1wdUNEx\"; python -c \"import httpx,asyncio; r=asyncio.run\\(httpx.AsyncClient\\(\\).get\\('https://financialmodelingprep.com/stable/profile?symbol=AAPL&apikey=$key'\\)\\); print\\(r.status_code, r.text[:300]\\)\")",
+      "Bash(npm install *)",
+      "Bash(npm run *)"
     ]
   }
 }

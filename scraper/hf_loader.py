@@ -179,3 +179,44 @@ def load_ticker(
         log.info("HF transcript loaded: %s %s", ticker_upper, date_str)
 
     return company_name, records
+
+
+def list_tickers(*, min_transcripts: int = 5) -> list[str]:
+    """
+    Return a sorted list of ticker symbols from the HF dataset that have at
+    least *min_transcripts* rows.  Downloads and caches the dataset on first call.
+    """
+    try:
+        from datasets import load_dataset  # type: ignore[import]
+    except ImportError as exc:
+        raise ImportError(
+            "The 'datasets' library is required. Install with: pip install datasets"
+        ) from exc
+
+    from collections import Counter
+
+    log.info("Scanning %s for ticker counts…", _HF_DATASET)
+    ds = load_dataset(_HF_DATASET, trust_remote_code=True)
+
+    all_rows: list[dict] = []
+    for split in ds.values():
+        all_rows.extend(split)
+
+    if not all_rows:
+        return []
+
+    cols = list(ds[next(iter(ds))].column_names)
+    ticker_col = _find_col(cols, _TICKER_COLS)
+    if ticker_col is None:
+        log.warning("No ticker column found in %s; returning empty list", _HF_DATASET)
+        return []
+
+    counts: Counter[str] = Counter()
+    for row in all_rows:
+        t = str(row.get(ticker_col, "")).strip().upper()
+        if t:
+            counts[t] += 1
+
+    eligible = sorted(t for t, n in counts.items() if n >= min_transcripts)
+    log.info("Found %d tickers with >= %d transcripts", len(eligible), min_transcripts)
+    return eligible

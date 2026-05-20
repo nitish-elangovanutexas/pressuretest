@@ -31,6 +31,7 @@ except ImportError:
 
 from scraper.edgar_scraper import EdgarScraper
 from scraper.fmp_scraper import FMPScraper
+from scraper.hf_loader import list_tickers as hf_list_tickers
 from scraper.hf_loader import load_ticker as hf_load_ticker
 from scraper.motley_fool_scraper import MotleyFoolScraper
 from scraper.transcript_parser import EarningsCallTranscript, TranscriptParser
@@ -191,6 +192,91 @@ async def run(args: argparse.Namespace) -> int:
     return 0
 
 
+async def run_all_tickers(args: argparse.Namespace) -> int:
+    """Ingest → baseline → score for every HF ticker with >= 5 transcripts."""
+    from nlp.baseline import build_baseline, load_transcripts_from_dir, save_baseline
+    from nlp.deviation import compute_pressure, save_report
+    from nlp.question_scorer import QuestionScorer
+
+    log = logging.getLogger(__name__)
+    transcript_dir = Path(args.out_dir)
+    baseline_dir   = Path("data/baselines")
+    scores_dir     = Path("data/scores")
+    for d in (transcript_dir, baseline_dir, scores_dir):
+        d.mkdir(parents=True, exist_ok=True)
+
+    print("[PressureTest] Discovering eligible tickers in the HuggingFace dataset…")
+    try:
+        eligible = hf_list_tickers(min_transcripts=5)
+    except ImportError as exc:
+        print(f"[ERROR] {exc}", file=sys.stderr)
+        return 1
+    if not eligible:
+        print("[ERROR] No tickers with >= 5 transcripts found.", file=sys.stderr)
+        return 1
+
+    total = len(eligible)
+    print(f"[PressureTest] {total} tickers eligible — starting pipeline.\n")
+
+    transcript_parser = TranscriptParser()
+    scorer = QuestionScorer()
+    ok = skipped = flagged_total = 0
+
+    for i, ticker in enumerate(eligible, 1):
+        print(f"[PressureTest] Processing {i} of {total}: {ticker}")
+        try:
+            # --- Ingest (HuggingFace) ---
+            company_name, filings = hf_load_ticker(
+                ticker, max_transcripts=args.max_transcripts
+            )
+            if not filings:
+                log.warning("  %s: no transcripts found; skipping", ticker)
+                skipped += 1
+                continue
+
+            for filing in filings:
+                filing_date_obj = date.fromisoformat(filing.filing_date)
+                transcript = transcript_parser.parse(
+                    filing.raw_text,
+                    ticker=ticker,
+                    company_name=company_name,
+                    filing_date=filing_date_obj,
+                )
+                out_path = _output_path(transcript_dir, ticker, filing.filing_date)
+                _save_transcript(transcript, out_path)
+
+            # --- Baseline ---
+            transcripts = load_transcripts_from_dir(transcript_dir, ticker)
+            baseline = build_baseline(transcripts, ticker)
+            baseline_path = save_baseline(baseline, baseline_dir)
+
+            # --- Score (latest ingested call) ---
+            latest_files = sorted(transcript_dir.glob(f"{ticker.upper()}_*.json"))
+            latest_call  = json.loads(latest_files[-1].read_text(encoding="utf-8"))
+            baseline_dict = json.loads(baseline_path.read_text(encoding="utf-8"))
+            report = compute_pressure(latest_call, baseline_dict, scorer)
+            save_report(report, scores_dir)
+
+            flag = "FLAGGED" if report.flagged else "ok"
+            if report.flagged:
+                flagged_total += 1
+            log.info(
+                "  %s  P=%.4f  z=%+.2f  %s",
+                ticker, report.pressure_score, report.z_score, flag,
+            )
+            ok += 1
+
+        except Exception as exc:
+            log.warning("  SKIP %s: %s", ticker, exc)
+            skipped += 1
+
+    print(
+        f"\n[PressureTest] Completed: {ok} succeeded, {skipped} skipped, "
+        f"{flagged_total} flagged."
+    )
+    return 0
+
+
 def _build_arg_parser() -> argparse.ArgumentParser:
     p = argparse.ArgumentParser(
         prog="pressuretest",
@@ -202,9 +288,16 @@ def _build_arg_parser() -> argparse.ArgumentParser:
     )
     p.add_argument(
         "--ticker",
-        required=True,
         metavar="SYMBOL",
-        help="Stock ticker symbol (e.g. AAPL, MSFT, NVDA)",
+        help="Stock ticker symbol (e.g. AAPL, MSFT, NVDA). Required unless --all-tickers.",
+    )
+    p.add_argument(
+        "--all-tickers",
+        action="store_true",
+        help=(
+            "Ingest, baseline, and score every ticker in the HuggingFace dataset "
+            "that has >= 5 transcripts. --ticker and --source are ignored."
+        ),
     )
     p.add_argument(
         "--max-filings",
@@ -251,6 +344,12 @@ def _build_arg_parser() -> argparse.ArgumentParser:
 def main() -> None:
     args = _build_arg_parser().parse_args()
     _configure_logging(args.verbose)
+    if args.all_tickers:
+        sys.exit(asyncio.run(run_all_tickers(args)))
+    if not args.ticker:
+        _build_arg_parser().error(
+            "--ticker is required unless --all-tickers is specified"
+        )
     sys.exit(asyncio.run(run(args)))
 
 
